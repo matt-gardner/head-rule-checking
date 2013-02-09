@@ -1,0 +1,18 @@
+.penn {
+    float: left;
+    position: relative;
+    margin-left: 100px;
+}
+.supa {
+    float: left;
+    position: relative;
+}
+.examples {
+    clear: both;
+}
+.notes {
+    clear: both;
+}
+hr {
+    clear: both;
+}

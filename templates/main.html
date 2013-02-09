@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div id="categories">
+  {% for category in categories %}
+  <div class="category">
+    <b>{{ category.symbol }}</b>:
+    <ul>
+    {% for version in category.versions %}
+    <li>
+      <a href="/suite-{{ version.id }}">Version {{ version.version }}</a>
+      <ul>
+        {% for stat in version.statistics %}
+        <li>
+          {% if stat.url %}
+          <a href="{{stat.url}}">
+            {% endif %}
+            {{ stat.name }}: {{ stat.value }}
+            {% if stat.url %}
+          </a>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% endfor %}
+    <ul>
+  </div>
+  {% endfor %}
+</div>
+
+{% endblock %}

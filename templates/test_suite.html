@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+<a href="/">Home</a>
+<br><hr><br>
+<div id="expansions">
+  {% for expansion in expansions %}
+  <div class="expansion">
+    Patten #{{ expansion.index }}: <b>{{ expansion.rule }}</b>
+    <br>
+    Count: {{ expansion.count }}
+    <div class="head-correct">
+      Root correctly identified: {{ expansion.head_correct_box }}
+    </div>
+    <div class="comp-head-correct">
+      Correct dependency between root and sisters: {{ expansion.comp_head_correct_box }}
+    </div>
+    <div class="notes">
+      <textarea rows="4" cols="60" name="expansion-{{ expansion.id }}-notes">{{ expansion.notes }}</textarea>
+    </div>
+    <div class="examples">
+      <div class="supa">
+        {{ expansion.supa_example_as_table|safe }}
+      </div>
+      <div class="penn">
+        <code>
+          {{ expansion.penn_example_rendered|safe|linebreaks }}
+        </code>
+      </div>
+    </div>
+  </div>
+  <br><br><hr>
+  {% endfor %}
+</div>
+
+{% if disable %}
+<script type="text/javascript">
+$('.expansion select').attr('disabled', 'disabled');
+$('.expansion textarea').attr('disabled', 'disabled');
+</script>
+{% endif %}
+{% endblock %}
