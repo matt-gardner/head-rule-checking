@@ -1,3 +1,4 @@
+from django.db.models import Sum
 from django.db import models
 
 from collections import defaultdict
@@ -10,7 +11,11 @@ class Category(models.Model):
         return self.symbol
 
     def versions(self):
-        return self.testsuite_set.order_by('version')
+        return self.testsuite_set.order_by('version').prefetch_related(
+                'expansion_set')
+
+    class Meta:
+        ordering = ['symbol']
 
 
 class TestSuite(models.Model):
@@ -27,22 +32,27 @@ class TestSuite(models.Model):
         users = User.objects.all()
         annotated_tokens = 0
         annotated_types = 0
-        total_tokens = 0
-        total_types = 0
+        total_tokens = self.expansion_set.aggregate(Sum('count'))['count__sum']
+        total_types = self.expansion_set.count()
         user_types = defaultdict(int)
         user_errors = defaultdict(int)
-        for expansion in self.expansion_set.all():
-            annotated = False
-            for a in expansion.annotation_set.all():
-                user_types[a.user] += 1
-                if a.head_correct is False or a.comp_head_correct is False:
-                    user_errors[a.user] += 1
-                annotated = True
-            total_tokens += expansion.count
-            total_types += 1
-            if annotated:
-                annotated_tokens += expansion.count
+        user_comments = defaultdict(int)
+        user_unknown = defaultdict(int)
+        annotations_dict = defaultdict(list)
+        annotated = set()
+        for a in Annotation.objects.select_related().filter(
+                expansion__test_suite=self):
+            user_types[a.user] += 1
+            if a.head_correct is False or a.comp_head_correct is False:
+                user_errors[a.user] += 1
+            if a.notes:
+                user_comments[a.user] += 1
+            if a.head_correct is None or a.comp_head_correct is None:
+                user_unknown[a.user] += 1
+            if a.expansion_id not in annotated:
+                annotated_tokens += a.expansion.count
                 annotated_types += 1
+            annotated.add(a.expansion_id)
         token_coverage = float(annotated_tokens) / total_tokens
         type_coverage = float(annotated_types) / total_types
         item = Item('Type coverage', '%.3f (%d/%d)' % (type_coverage,
@@ -52,13 +62,24 @@ class TestSuite(models.Model):
             annotated_tokens, total_tokens), '')
         stats.append(item)
         for user in user_types:
+            url = 'annotations/suite-' + str(self.id) + '/user-' + user.username
             item = Item('Annotations by ' + user.username,
-                    '%d' % (user_types[user]), '')
+                    '%d' % (user_types[user]), url)
             stats.append(item)
         for user in user_errors:
             url = 'errors/suite-' + str(self.id) + '/user-' + user.username
             item = Item('Errors seen by ' + user.username,
                     '%d' % (user_errors[user]), url)
+            stats.append(item)
+        for user in user_comments:
+            url = 'comments/suite-' + str(self.id) + '/user-' + user.username
+            item = Item('Comments made by ' + user.username,
+                    '%d' % (user_comments[user]), url)
+            stats.append(item)
+        for user in user_unknown:
+            url = 'unknown/suite-' + str(self.id) + '/user-' + user.username
+            item = Item('Unknown by ' + user.username,
+                    '%d' % (user_unknown[user]), url)
             stats.append(item)
         return stats
 

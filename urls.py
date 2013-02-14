@@ -13,6 +13,12 @@ urlpatterns = patterns('',
         'test_suite.views.test_suite'),
     url(r'^errors/suite-'+suite_id+'/user-'+username+'$',
         'test_suite.views.errors'),
+    url(r'^comments/suite-'+suite_id+'/user-'+username+'$',
+        'test_suite.views.comments'),
+    url(r'^annotations/suite-'+suite_id+'/user-'+username+'$',
+        'test_suite.views.annotations'),
+    url(r'^unknown/suite-'+suite_id+'/user-'+username+'$',
+        'test_suite.views.unknown'),
     url(r'^ajax/update/'+name+'/'+val+'$', 'test_suite.views.update'),
 
     # Site media

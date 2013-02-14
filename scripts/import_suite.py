@@ -81,12 +81,15 @@ class ExpansionData(object):
 
 
 if __name__ == '__main__':
-    categories = ['PP', 'WHADJP', 'WHADVP', 'WHPP']
+    categories = ['ADJP', 'ADVP', 'CONJP', 'FRAG', 'INTJ', 'LST', 'NAC', 'NP',
+            'NX', 'PP', 'PRN', 'PRT', 'QP', 'RRC', 'S', 'SBAR', 'SBARQ',
+            'SINV', 'SQ', 'UCP', 'VP', 'WHADJP', 'WHADVP', 'WHNP', 'WHPP', 'X']
     base = 'input_files/'
     for category in categories:
-        grouped_file = base + category + '_rules_grouped.txt'
-        supa_file = base + category + '.supa'
-        penn_file = base + category + '_examples_trees.mrg'
+        cat_base = base + category + '/' + category
+        grouped_file = cat_base + '_tagAsParent_rules_grouped.txt'
+        supa_file = cat_base + '.supa'
+        penn_file = cat_base + '_PTBtrees.mrg'
         print 'Importing test suite for category', category
         main(category, grouped_file, supa_file, penn_file)
 

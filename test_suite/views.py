@@ -38,7 +38,7 @@ def errors(request, suite_id, username):
     user = get_object_or_404(User, username=username)
     suite = get_object_or_404(TestSuite, pk=suite_id)
     context['expansions'] = []
-    context['disable'] = True
+    context['disable'] = user != request.user
     errors = user.annotation_set.filter(
             Q(expansion__test_suite=suite, head_correct=False) |
             Q(expansion__test_suite=suite, comp_head_correct=False))
@@ -47,6 +47,57 @@ def errors(request, suite_id, username):
         expansion.head_correct = error.head_correct
         expansion.comp_head_correct = error.comp_head_correct
         expansion.notes = error.notes
+        context['expansions'].append(expansion)
+    return render_to_response('test_suite.html', context)
+
+
+def comments(request, suite_id, username):
+    context = RequestContext(request)
+    user = get_object_or_404(User, username=username)
+    suite = get_object_or_404(TestSuite, pk=suite_id)
+    context['expansions'] = []
+    context['disable'] = user != request.user
+    comments = user.annotation_set.filter(
+            expansion__test_suite=suite).exclude(notes="")
+    for comment in comments:
+        expansion = comment.expansion
+        expansion.head_correct = comment.head_correct
+        expansion.comp_head_correct = comment.comp_head_correct
+        expansion.notes = comment.notes
+        context['expansions'].append(expansion)
+    return render_to_response('test_suite.html', context)
+
+
+def annotations(request, suite_id, username):
+    context = RequestContext(request)
+    user = get_object_or_404(User, username=username)
+    suite = get_object_or_404(TestSuite, pk=suite_id)
+    context['expansions'] = []
+    context['disable'] = user != request.user
+    annotations = user.annotation_set.filter(expansion__test_suite=suite)
+    for annotation in annotations:
+        expansion = annotation.expansion
+        expansion.head_correct = annotation.head_correct
+        expansion.comp_head_correct = annotation.comp_head_correct
+        expansion.notes = annotation.notes
+        context['expansions'].append(expansion)
+    return render_to_response('test_suite.html', context)
+
+
+def unknown(request, suite_id, username):
+    context = RequestContext(request)
+    user = get_object_or_404(User, username=username)
+    suite = get_object_or_404(TestSuite, pk=suite_id)
+    context['expansions'] = []
+    context['disable'] = user != request.user
+    annotations = user.annotation_set.filter(
+            Q(expansion__test_suite=suite, head_correct__isnull=True) |
+            Q(expansion__test_suite=suite, comp_head_correct__isnull=True))
+    for annotation in annotations:
+        expansion = annotation.expansion
+        expansion.head_correct = annotation.head_correct
+        expansion.comp_head_correct = annotation.comp_head_correct
+        expansion.notes = annotation.notes
         context['expansions'].append(expansion)
     return render_to_response('test_suite.html', context)
 
