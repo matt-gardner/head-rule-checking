@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block content %}
+<a href="/">Home</a>
+<br><hr><br>
+<div id="expansions">
+  {% for expansion in expansions %}
+  <div class="expansion">
+    Pattern #{{ expansion.index }}: <b>{{ expansion.rule }}</b>
+    <br>
+    Count: {{ expansion.count }}
+    <div class="examples">
+      <div class="supa">
+        {{ expansion.supa_example_as_table|safe }}
+      </div>
+      <div class="penn">
+        <code>
+          {{ expansion.penn_example_rendered|safe|linebreaks }}
+        </code>
+      </div>
+    </div>
+    {% for annotation in expansion.annotations %}
+      <div class="user">
+        Annotation by {{ annotation.user.username }}
+      </div>
+      <div class="head-correct">
+        Root correctly identified: {{ annotation.head_correct_box }}
+      </div>
+      <div class="comp-head-correct">
+        Correct dependency between root and sisters: {{ annotation.comp_head_correct_box }}
+      </div>
+      <div class="notes">
+        <textarea rows="4" cols="60" disabled="disabled">{{ annotation.notes }}</textarea>
+      </div>
+      {% for comment in annotation.comments %}
+      <div class="comment">
+        Comment by {{ comment.user.username }}:
+        <textarea rows="4" cols="60" disabled="disabled" >{{ comment.comment }}</textarea>
+      </div>
+      {% endfor %}
+      <div class="new-comment">
+        New comment:
+        <textarea rows="4" cols="60" name="expansion-{{ expansion.id }}-user-{{ annotation.user.username }}-comment"></textarea>
+      </div>
+    {% endfor %}
+  </div>
+  <br><br><hr>
+  {% endfor %}
+</div>
+
+{% if disable %}
+<script type="text/javascript">
+$('.expansion select').attr('disabled', 'disabled');
+$('.notes textarea').attr('disabled', 'disabled');
+</script>
+{% endif %}
+{% endblock %}

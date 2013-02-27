@@ -2,6 +2,7 @@ from django.conf.urls.defaults import patterns, include, url
 from django.conf import settings
 
 name = '(?P<name>[^/]+)'
+subset = '(?P<subset>[^/]+)'
 suite_id = '(?P<suite_id>\d+)'
 username = '(?P<username>[^/]+)'
 val = '(?P<val>[^/]+)'
@@ -9,8 +10,14 @@ val = '(?P<val>[^/]+)'
 urlpatterns = patterns('',
     url(r'^$',
         'test_suite.views.main'),
-    url(r'^suite-'+suite_id+'$',
+    url(r'^suite-'+suite_id+'/$',
         'test_suite.views.test_suite'),
+    url(r'^suite-'+suite_id+'/'+subset+'$',
+        'test_suite.views.test_suite'),
+    url(r'^all-annotations/suite-'+suite_id+'$',
+        'test_suite.views.all_annotations'),
+    url(r'^all-annotations/suite-'+suite_id+'/'+subset+'$',
+        'test_suite.views.all_annotations'),
     url(r'^errors/suite-'+suite_id+'/user-'+username+'$',
         'test_suite.views.errors'),
     url(r'^comments/suite-'+suite_id+'/user-'+username+'$',

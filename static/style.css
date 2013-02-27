@@ -7,12 +7,25 @@
     float: left;
     position: relative;
 }
+.user {
+    clear: both;
+    font-weight: bold;
+}
 .examples {
     clear: both;
 }
 .notes {
     clear: both;
 }
+.comment {
+    clear: both;
+}
+.new-comment {
+    clear: both;
+}
 hr {
     clear: both;
+}
+tr.lastrow td {
+    border-top: thin solid black;
 }

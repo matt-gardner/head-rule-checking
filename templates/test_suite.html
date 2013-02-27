@@ -6,7 +6,7 @@
 <div id="expansions">
   {% for expansion in expansions %}
   <div class="expansion">
-    Patten #{{ expansion.index }}: <b>{{ expansion.rule }}</b>
+    Pattern #{{ expansion.index }}: <b>{{ expansion.rule }}</b>
     <br>
     Count: {{ expansion.count }}
     <div class="head-correct">
@@ -28,15 +28,45 @@
         </code>
       </div>
     </div>
+    {% for comment in expansion.annotation.comments %}
+    <div class="comment">
+      Comment by {{ comment.user.username }}:
+      <textarea rows="4" cols="60"
+        {% ifnotequal comment.user.username viewer_username %}
+        disabled="disabled"
+        {% endifnotequal %}
+        name="comment-{{ comment.id }}-user-{{ username }}-comment">{{ comment.comment }}</textarea>
+    </div>
+    {% endfor %}
+    {% if disable %}
+    <div class="new-comment">
+      New comment:
+      <textarea rows="4" cols="60" name="expansion-{{ expansion.id }}-user-{{ username }}-comment"></textarea>
+    </div>
+    {% endif %}
   </div>
   <br><br><hr>
   {% endfor %}
+  {% if truncated %}
+  Not all patterns shown, because the list is very long.
+  <br>
+  {% for page_num in num_pages %}
+  {% ifnotequal page_num current_page %}
+  <a href="page-{{ page_num }}">
+  {% endifnotequal %}
+    Page {{ page_num }}
+  {% ifnotequal page_num current_page %}
+  </a>
+  {% endifnotequal %}
+  &nbsp;&nbsp;&nbsp;
+  {% endfor %}
+  {% endif %}
 </div>
 
 {% if disable %}
 <script type="text/javascript">
 $('.expansion select').attr('disabled', 'disabled');
-$('.expansion textarea').attr('disabled', 'disabled');
+$('.notes textarea').attr('disabled', 'disabled');
 </script>
 {% endif %}
 {% endblock %}

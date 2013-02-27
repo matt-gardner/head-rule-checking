@@ -10,22 +10,58 @@
     {% for version in category.versions %}
     <li>
       <a href="/suite-{{ version.id }}">Version {{ version.version }}</a>
+      (<a href="/suite-{{ version.id }}/unannotated">Unannotated</a>)
+      (<a href="/suite-{{ version.id }}/unannotated-by-me">Unannotated by me</a>)
       <ul>
         {% for stat in version.statistics %}
+        {% for item in stat.items %}
         <li>
-          {% if stat.url %}
-          <a href="{{stat.url}}">
+          {% if item.url %}
+          <a href="{{item.url}}">
             {% endif %}
-            {{ stat.name }}: {{ stat.value }}
-            {% if stat.url %}
+            {{ item.name }}: {{ item.value }}
+            {% if item.url %}
           </a>
           {% endif %}
+        </li>
+        {% endfor %}
+        <li>
+          <table>
+            <thead>
+              <tr>
+                {% for header in stat.headers %}
+                <th>{{ header }}</th>
+                {% endfor %}
+              </tr>
+            </thead>
+            <tbody>
+              {% for row in stat.rows %}
+              {% if forloop.last %}
+              <tr class="lastrow">
+              {% else %}
+              <tr>
+              {% endif %}
+                {% for item in row.items %}
+                <td>
+                {% if item.url %}
+                <a href="{{item.url}}">
+                  {% endif %}
+                  {{ item.value }}
+                  {% if item.url %}
+                </a>
+                {% endif %}
+                </td>
+                {% endfor %}
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
         </li>
         {% endfor %}
       </ul>
     </li>
     {% endfor %}
-    <ul>
+    </ul>
   </div>
   {% endfor %}
 </div>
