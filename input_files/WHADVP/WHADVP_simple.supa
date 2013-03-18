@@ -1,0 +1,70 @@
+1	where	_	_	WRB	_	0	ROOT	_	_	ROOT
+
+1	0_NULL	_	_	-NONE-	_	0	ROOT	_	_	ROOT
+
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	badly	_	_	RB	_	1	???	_	_	how
+
+1	that	_	_	IN	_	0	ROOT	_	_	ROOT
+
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	much	_	_	JJ	_	1	???	_	_	how
+
+1	even	_	_	RB	_	2	???	_	_	when
+2	when	_	_	WRB	_	0	ROOT	_	_	ROOT
+
+1	even	_	_	RB	_	2	???	_	_	when
+2	when	_	_	WRB	_	0	ROOT	_	_	ROOT
+
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	and	_	_	CC	_	1	???	_	_	how
+3	when	_	_	WRB	_	2	???	_	_	and
+
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	students	_	_	NNS	_	1	???	_	_	how
+
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	much	_	_	JJ	_	1	???	_	_	how
+3	produce	_	_	NN	_	1	???	_	_	how
+
+1	however	_	_	RB	_	0	ROOT	_	_	ROOT
+
+1	precisely	_	_	RB	_	3	???	_	_	and
+2	when	_	_	WRB	_	3	???	_	_	and
+3	and	_	_	CC	_	0	ROOT	_	_	ROOT
+4	where	_	_	WRB	_	3	???	_	_	and
+
+1	``	_	_	``	_	2	???	_	_	How
+2	How	_	_	WRB	_	0	ROOT	_	_	ROOT
+3	interesting	_	_	JJ	_	2	???	_	_	How
+4	.	_	_	.	_	2	???	_	_	How
+5	''	_	_	''	_	2	???	_	_	How
+
+1	just	_	_	RB	_	2	???	_	_	how
+2	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+3	bizarre	_	_	JJ	_	2	???	_	_	how
+
+1	how	_	_	WRB	_	3	???	_	_	or
+2	haltingly	_	_	RB	_	3	???	_	_	or
+3	or	_	_	CC	_	0	ROOT	_	_	ROOT
+4	predictably	_	_	RB	_	3	???	_	_	or
+
+1	whatever	_	_	WDT	_	0	ROOT	_	_	ROOT
+
+1	just	_	_	RB	_	2	???	_	_	how
+2	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+3	much	_	_	RB	_	2	???	_	_	how
+
+1	which	_	_	WDT	_	0	ROOT	_	_	ROOT
+2	way	_	_	NN	_	1	???	_	_	which
+
+1	when	_	_	WRB	_	2	???	_	_	when
+2	when	_	_	WRB	_	0	ROOT	_	_	ROOT
+
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	useful	_	_	JJ	_	1	???	_	_	how
+
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	far	_	_	RB	_	1	???	_	_	how
+3	down	_	_	RB	_	1	???	_	_	how
+

@@ -34,4 +34,10 @@ $('.expansion textarea').change(function() {
   }
 });
 
+$('.examples').hide();
+
+$('.show-examples span').click(function() {
+  $(this).parent().parent().children('.examples').toggle();
+});
+
 });

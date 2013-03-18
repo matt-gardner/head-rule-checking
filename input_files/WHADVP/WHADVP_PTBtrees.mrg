@@ -1,0 +1,55 @@
+(WHADVP-1 (WRB where))
+
+(WHADVP-1 (-NONE- 0))
+
+(WHADVP-3 (WRB how) (RB badly))
+
+(WHADVP-2 (IN that))
+
+(WHADVP-1 (WRB how) (JJ much))
+
+(WHADVP-1 (RB even) (WRB when))
+
+(WHADVP-1
+  (ADVP (RB even))
+  (WRB when))
+
+(WHADVP-2 (WRB how)
+  (CC and)
+  (WRB when))
+
+(WHADVP-2 (WRB how)
+  (NP
+    (NP (JJ much))
+    (PP (IN of)
+      (NP (PRP$ their) (NN anger)))))
+
+(WHADVP-1 (WRB how) (JJ much) (NN produce))
+
+(WHADVP-4 (RB however))
+
+(WHADVP-1 (RB precisely) (WRB when)
+  (CC and)
+  (WRB where))
+
+(WHADVP (`` ``) (WRB How) (JJ interesting) (. .) ('' ''))
+
+(WHADVP-4 (RB just) (WRB how) (JJ bizarre))
+
+(WHADVP-4 (WRB how) (RB haltingly)
+  (CC or)
+  (RB predictably))
+
+(WHADVP-2 (WDT whatever))
+
+(WHADVP-4 (RB just) (WRB how) (RB much))
+
+(WHADVP-1 (WDT which) (NN way))
+
+(WHADVP-2 (WRB when) (WRB when))
+
+(WHADVP-2 (WRB how)
+  (ADJP (JJ useful)))
+
+(WHADVP-1 (WRB how) (RB far) (RB down))
+

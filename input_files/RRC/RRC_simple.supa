@@ -1,0 +1,115 @@
+1	now	_	_	RB	_	2	???	_	_	students
+2	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	now	_	_	RB	_	0	ROOT	_	_	ROOT
+2	at	_	_	IN	_	1	???	_	_	now
+3	Multimedia	_	_	NNP	_	4	???	_	_	Inc
+4	Inc	_	_	NNP	_	2	???	_	_	at
+
+1	for	_	_	IN	_	3	???	_	_	students
+2	years	_	_	NNS	_	1	???	_	_	for
+3	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	exposed	_	_	VBN	_	0	ROOT	_	_	ROOT
+2	to	_	_	TO	_	1	???	_	_	exposed
+3	it	_	_	PRP	_	2	???	_	_	to
+4	more	_	_	RBR	_	5	???	_	_	than
+5	than	_	_	IN	_	7	???	_	_	years
+6	30	_	_	CD	_	5	???	_	_	than
+7	years	_	_	NNS	_	8	???	_	_	ago
+8	ago	_	_	IN	_	1	???	_	_	exposed
+
+1	once	_	_	RB	_	2	???	_	_	used
+2	used	_	_	VBN	_	0	ROOT	_	_	ROOT
+3	to	_	_	TO	_	2	???	_	_	used
+4	make	_	_	VB	_	3	???	_	_	to
+5	Kent	_	_	NNP	_	7	???	_	_	filters
+6	cigarette	_	_	NN	_	7	???	_	_	filters
+7	filters	_	_	NNS	_	4	OBJ-DO	_	_	make
+
+1	open	_	_	JJ	_	2	???	_	_	students
+2	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	often	_	_	RB	_	0	ROOT	_	_	ROOT
+2	civic	_	_	JJ	_	1	???	_	_	often
+
+1	in	_	_	IN	_	3	???	_	_	by
+2	therapy	_	_	NN	_	1	???	_	_	in
+3	by	_	_	IN	_	0	ROOT	_	_	ROOT
+4	age	_	_	NN	_	3	???	_	_	by
+5	five	_	_	CD	_	4	???	_	_	age
+
+1	payable	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	to	_	_	TO	_	1	???	_	_	payable
+3	holders	_	_	NNS	_	2	???	_	_	to
+4	of	_	_	IN	_	3	???	_	_	holders
+5	record	_	_	NN	_	4	???	_	_	of
+6	on	_	_	IN	_	3	???	_	_	holders
+7	Nov.	_	_	NNP	_	6	???	_	_	on
+8	10	_	_	CD	_	7	???	_	_	Nov.
+9	if	_	_	IN	_	1	???	_	_	payable
+10	the	_	_	DT	_	14	???	_	_	Commission
+11	Securities	_	_	NNPS	_	14	???	_	_	Commission
+12	and	_	_	CC	_	14	???	_	_	Commission
+13	Exchange	_	_	NNP	_	14	???	_	_	Commission
+14	Commission	_	_	NNP	_	15	SUBJ	_	_	approves
+15	approves	_	_	VBZ	_	9	???	_	_	if
+16	this	_	_	DT	_	15	OBJ-DO	_	_	approves
+17	as	_	_	IN	_	15	???	_	_	approves
+18	the	_	_	DT	_	20	???	_	_	date
+19	effective	_	_	JJ	_	20	???	_	_	date
+20	date	_	_	NN	_	17	???	_	_	as
+21	of	_	_	IN	_	20	???	_	_	date
+22	the	_	_	DT	_	24	???	_	_	statement
+23	registration	_	_	NN	_	24	???	_	_	statement
+24	statement	_	_	NN	_	21	???	_	_	of
+
+1	vacant	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	since	_	_	IN	_	1	???	_	_	vacant
+3	the	_	_	DT	_	4	???	_	_	summer
+4	summer	_	_	NN	_	2	???	_	_	since
+
+1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+2	for	_	_	IN	_	1	???	_	_	students
+3	more	_	_	RBR	_	4	???	_	_	than
+4	than	_	_	IN	_	6	???	_	_	years
+5	seven	_	_	CD	_	4	???	_	_	than
+6	years	_	_	NNS	_	2	???	_	_	for
+
+1	unheard	_	_	JJ	_	7	???	_	_	ago
+2	of	_	_	RP	_	1	???	_	_	unheard
+3	only	_	_	RB	_	6	???	_	_	years
+4	a	_	_	DT	_	6	???	_	_	years
+5	few	_	_	JJ	_	6	???	_	_	years
+6	years	_	_	NNS	_	7	???	_	_	ago
+7	ago	_	_	RB	_	0	ROOT	_	_	ROOT
+
+1	common	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	in	_	_	IN	_	1	???	_	_	common
+3	Japan	_	_	NNP	_	2	???	_	_	in
+4	for	_	_	IN	_	1	???	_	_	common
+5	companies	_	_	NNS	_	4	???	_	_	for
+6	caught	_	_	VBN	_	5	???	_	_	companies
+7	in	_	_	IN	_	6	???	_	_	caught
+8	embarrassing	_	_	JJ	_	9	???	_	_	situations
+9	situations	_	_	NNS	_	7	???	_	_	in
+
+1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	students
+3	apparently	_	_	RB	_	1	???	_	_	students
+
+1	by	_	_	IN	_	3	???	_	_	students
+2	then	_	_	RB	_	1	???	_	_	by
+3	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+4	in	_	_	IN	_	3	???	_	_	students
+5	his	_	_	PRP$	_	7	???	_	_	right
+6	own	_	_	JJ	_	7	???	_	_	right
+7	right	_	_	NN	_	4	???	_	_	in
+8	,	_	_	,	_	3	???	_	_	students
+9	after	_	_	IN	_	3	???	_	_	students
+10	the	_	_	DT	_	11	???	_	_	death
+11	death	_	_	NN	_	9	???	_	_	after
+12	of	_	_	IN	_	11	???	_	_	death
+13	Mr.	_	_	NNP	_	14	???	_	_	Bogart
+14	Bogart	_	_	NNP	_	12	???	_	_	of
+

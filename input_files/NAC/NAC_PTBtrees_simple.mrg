@@ -1,0 +1,398 @@
+(NAC-LOC
+  (NNP Albuquerque)
+  (, ,)
+  (NNP N.M.)
+  (, ,))
+
+(NAC
+  (NNP University)
+  (PP
+    (IN of)
+    (NP
+      (NNP Vermont))))
+
+(NAC-LOC
+  (NNP West)
+  (NNP Groton)
+  (, ,)
+  (NNP Mass.)
+  (, ,))
+
+(NAC
+  (NNP National)
+  (NNP Union)
+  (PP
+    (IN of)
+    (NP
+      (NNPS Mineworkers))))
+
+(NAC
+  (NN quality)
+  (PP
+    (IN of)
+    (NP
+      (NN life))))
+
+(NAC-TMP
+  (NNP Friday)
+  (CD 13))
+
+(NAC-TMP
+  (NNP Monday)
+  (, ,)
+  (NNP October)
+  (CD 23)
+  (, ,)
+  (CD 1989)
+  (, ,))
+
+(NAC-LOC
+  (NNP Albuquerque)
+  (, ,)
+  (NNP N.M.))
+
+(NAC
+  (NNP First)
+  (NNP National)
+  (NNP Bank)
+  (PP
+    (IN of)
+    (NP
+      (NNP Toms)
+      (NNP River))))
+
+(NAC-TMP
+  (NNP Friday)
+  (DT the)
+  (JJ 13th))
+
+(NAC
+  (NAC
+    (NNS Dirks))
+  (PP
+    (CC v.)
+    (NP
+      (NNP SEC))))
+
+(NAC-LOC
+  (NNP Colorado)
+  (NNPS Springs)
+  (, ,)
+  (NNP Colo.)
+  (, ,))
+
+(NAC
+  (NP
+    (NNS students))
+  (NP-ADV
+    (NNS students)))
+
+(NAC
+  (NP
+    (NNS students))
+  (PP
+    (IN of)
+    (NP
+      (NN state))))
+
+(NAC
+  (JJ British)
+  (NNP Chancellor)
+  (PP
+    (IN of)
+    (NP
+      (DT the)
+      (NNP Exchequer))))
+
+(NAC-LOC
+  (NNP White)
+  (NNP Plains)
+  (, ,)
+  (NNP N.Y.))
+
+(NAC-TMP
+  (NNP Sept.)
+  (CD 1)
+  (, ,)
+  (CD 1991)
+  (, ,))
+
+(NAC
+  (NNPS Americans)
+  (PP
+    (IN With)
+    (NP
+      (NNPS Disabilities))))
+
+(NAC
+  (NNP National)
+  (NNPS Institutes)
+  (PP
+    (IN of)
+    (NP
+      (NNP Health))))
+
+(NAC-TTL
+  (JJ American)
+  (NN Way)
+  (PP
+    (IN of)
+    (NP
+      (VBG Buying))))
+
+(NAC
+  (NNP Group))
+
+(NAC
+  (DT the)
+  (JJ federal))
+
+(NAC
+  (NP
+    (NNS students))
+  (ADVP
+    (DT a)
+    (NN month)))
+
+(NAC
+  (NAC
+    (NAC
+      (NNP Group))
+    (PP
+      (IN of)
+      (NP
+        (NNP Seven))))
+  (PRN
+    (-LRB- -LRB-)
+    (NAC
+      (NNP G-7))
+    (-RRB- -RRB-)))
+
+(NAC
+  (DT the)
+  (NNP University)
+  (PP
+    (IN of)
+    (NP
+      (NNP Southern)
+      (NNP California))))
+
+(NAC-TTL
+  (`` ``)
+  (PRP$ My)
+  (JJ Favorite)
+  (NN Bureaucrat)
+  ('' ''))
+
+(NAC-LOC
+  (JJ Nearby)
+  (NNP Pasadena)
+  (, ,)
+  (NNP Texas)
+  (, ,))
+
+(NAC-LOC
+  (NP
+    (NNS students))
+  (, ,)
+  (NP
+    (NNS students))
+  (, ,))
+
+(NAC
+  (JJ six-cent)
+  (PP
+    (IN per)
+    (NP
+      (NN dollar))))
+
+(NAC
+  (DT the)
+  (NNP Bill))
+
+(NAC
+  (NNS Dirks))
+
+(NAC
+  ($ $)
+  (CD 10,000)
+  (-NONE- *U*)
+  (PP
+    (IN per)
+    (NP
+      (NN capita))))
+
+(NAC
+  (NNP University)
+  (PP
+    (IN of)
+    (NP
+      (NNP California)))
+  (NP-LOC
+    (NNS students)))
+
+(NAC
+  (NP
+    (NNS students))
+  (PP
+    (IN of)
+    (NP
+      (NNP State)))
+  (PP
+    (IN for)
+    (NP
+      (NNP Trade)
+      (CC and)
+      (NNP Industry))))
+
+(NAC-LOC
+  (NNP Upper)
+  (NNP Saddle)
+  (NNP River)
+  (, ,)
+  (NNP N.J.)
+  (, ,))
+
+(NAC-LOC
+  (NNP Ponce)
+  (, ,)
+  (NNP Puerto)
+  (NNP Rico))
+
+(NAC-LOC
+  (NNP U.S.A)
+  (. .))
+
+(NAC
+  (NNP British)
+  (NNP Chancellor))
+
+(NAC
+  (NAC
+    (NN change)
+    (PP
+      (IN in)
+      (NP
+        (NN strategy))))
+  (CC or)
+  (NAC
+    (NN change)
+    (PP
+      (IN in)
+      (NP
+        (NN profit)
+        (NNS expectations)))))
+
+(NAC
+  (DT the)
+  (NNP Lord)
+  (NNP Mayor)
+  (PP
+    (IN of)
+    (NP
+      (NNP London))))
+
+(NAC-LOC
+  (NAC
+    (NNP Hannibal)
+    (, ,)
+    (NNP Ohio))
+  (, ,)
+  (CC and)
+  (NAC
+    (NNP Jackson)
+    (, ,)
+    (NNP Tenn.)
+    (, ,)))
+
+(NAC
+  (CD 6)
+  (NN a.m.)
+  (PP
+    (TO to)
+    (NP
+      (CD 8)
+      (NN p.m.))))
+
+(NAC
+  (CD TWO)
+  (NNS BIRDS)
+  (PP
+    (IN with)
+    (NP
+      (CD one)
+      (NN stone))))
+
+(NAC
+  (JJ former)
+  (NNP U.S.)
+  (NN attorney)
+  (PP-LOC
+    (IN in)
+    (NP
+      (NNP Washington))))
+
+(NAC
+  (VBN Retired)
+  (NN army)
+  (NNP Chief)
+  (PP
+    (IN of)
+    (NP
+      (NNP Staff))))
+
+(NAC-LOC
+  (NNP Vancouver)
+  (, ,)
+  (NNP British)
+  (NNP Columbia)
+  (, ,))
+
+(NAC-LOC
+  (DT the)
+  (NNP Washington)
+  (, ,)
+  (NNP D.C.)
+  (, ,))
+
+(NAC-TTL
+  (S-TTL
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (VB Leave)
+      (NP
+        (PRP It))
+      (PP
+        (TO to)
+        (NP
+          (NNP Beaver)))))
+  (NN Show))
+
+(NAC-TTL
+  (NNS Cars)
+  (SBAR
+    (WHNP-1
+      (WDT That))
+    (S
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (VP
+        (VBP Make)
+        (NP
+          (NN Sense))))))
+
+(NAC
+  (JJ FORMER)
+  (JJ CANADIAN)
+  (NN AMBASSADOR)
+  (PP
+    (TO to)
+    (NP
+      (DT the)
+      (NNP U.S.))))
+
+(NAC-LOC
+  (NNP San)
+  (JJ Francisco-based))
+

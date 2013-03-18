@@ -1,0 +1,35 @@
+# Replaces natural language descriptions of node relations with their corresponding Tregex symbols.
+# Pattern and replacement string are separated by a tab
+# NB: make sure you don't use strings matching these patterns in your Tregex expressions,
+# or they may be incorrectly replaced
+
+\bimmediately dominating\b	<
+\bdominating\b	<<
+\bimmediately dominated by\b	>
+\bdominated by\b	>>
+\bwith only child\b	<:
+\bas the only child of\b	>:
+\bas (a )?left sister of\b	\$++
+\bas (a )?right sister of\b	\$--
+\bas (the )?immediate left sister of\b	\$+
+\bas (the )?immediate right sister of\b	\$-
+\bwith (a )?left sister\b	\$--
+\bwith (a )?right sister\b	\$++
+\bwith (an )?immediate left sister\b	\$-
+\bwith (an )?immediate right sister\b	\$+
+\bwithout (a )?left sister\b	!\$--
+\bwithout (a )?right sister\b	!\$++
+\bwithout (an )?immediate left sister\b	!\$-
+\bwithout (an )?immediate right sister\b	!\$+
+\bas the first child of\b	>1
+\bas the last child of\b	>-1
+\bwith first child\b	<1
+\bwith last child\b	<-1
+\bwithout first child\b	!<1
+\bwithout last child\b	!<-1
+\bwith immediate right sister\b	\$+
+\band\b	&
+\bor\b	|
+\bnot\b	!
+\bmaybe\b	?
+\b(a|an|the)\s	

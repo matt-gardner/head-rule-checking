@@ -10,8 +10,8 @@
     {% for version in category.versions %}
     <li>
       <a href="/suite-{{ version.id }}">Version {{ version.version }}</a>
-      (<a href="/suite-{{ version.id }}/unannotated">Unannotated</a>)
-      (<a href="/suite-{{ version.id }}/unannotated-by-me">Unannotated by me</a>)
+      (<a href="/suite-{{ version.id }}/unannotated">Not annotated</a>)
+      (<a href="/suite-{{ version.id }}/unannotated-by-me">Not annotated by me</a>)
       <ul>
         {% for stat in version.statistics %}
         {% for item in stat.items %}

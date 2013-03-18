@@ -18,6 +18,17 @@
     <div class="notes">
       <textarea rows="4" cols="60" name="expansion-{{ expansion.id }}-notes">{{ expansion.notes }}</textarea>
     </div>
+    <div class="simple-examples">
+      <div class="supa">
+        {{ expansion.simple_supa_example_as_table|safe }}
+      </div>
+      <div class="penn">
+        <code>
+          {{ expansion.simple_penn_example_rendered|safe|linebreaks }}
+        </code>
+      </div>
+    </div>
+    <div class="show-examples"><span>Show full examples</span></div>
     <div class="examples">
       <div class="supa">
         {{ expansion.supa_example_as_table|safe }}

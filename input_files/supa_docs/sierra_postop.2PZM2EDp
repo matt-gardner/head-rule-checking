@@ -1,0 +1,81 @@
+(ROOT
+  (DEPS
+    (2__that__WDT
+      1__under__IN
+      ???)
+    (1__under__IN
+      0__ROOT__
+      ROOT))
+  (WHPP__1__under__IN (IN__1__under__IN 1__under__IN)
+    (WHNP__2__that__WDT (WDT__2__that__WDT 2__that__WDT))))
+
+(ROOT
+  (DEPS
+    (2__that__WDT
+      1__to__TO
+      ???)
+    (1__to__TO
+      0__ROOT__
+      ROOT))
+  (WHPP__1__to__TO (TO__1__to__TO 1__to__TO)
+    (WHNP__2__that__WDT (WDT__2__that__WDT 2__that__WDT))))
+
+(ROOT
+  (DEPS
+    (1__0_NULL__-NONE-
+      0__ROOT__
+      ROOT))
+  (WHPP__1__0_NULL__-NONE- (-NONE-__1__0_NULL__-NONE- 1__0_NULL__-NONE-)))
+
+(ROOT
+  (DEPS
+    (2__what__WP
+      3__looks__VBZ
+      SUBJ)
+    (__*__-NONE-
+      4__to__TO
+      SUBJ)
+    (8__market__NN
+      5__be__VB
+      OBJ-DO)
+    (3__looks__VBZ
+      1__for__IN
+      ???)
+    (4__to__TO
+      3__looks__VBZ
+      ???)
+    (5__be__VB
+      4__to__TO
+      ???)
+    (6__an__DT
+      8__market__NN
+      ???)
+    (7__uncertain__JJ
+      8__market__NN
+      ???)
+    (1__for__IN
+      0__ROOT__
+      ROOT))
+  (WHPP__1__for__IN (IN__1__for__IN 1__for__IN)
+    (SBAR__3__looks__VBZ
+      (S__3__looks__VBZ
+        (NP-SBJ__2__what__WP
+          (WHNP__2__what__WP (WP__2__what__WP 2__what__WP)))
+        (VP__3__looks__VBZ (VBZ__3__looks__VBZ 3__looks__VBZ)
+          (S__4__to__TO
+            (NP-SBJ____*__-NONE- (-NONE-____*__-NONE- __*__-NONE-))
+            (VP__4__to__TO (TO__4__to__TO 4__to__TO)
+              (VP__5__be__VB (VB__5__be__VB 5__be__VB)
+                (NP-PRD__8__market__NN (DT__6__an__DT 6__an__DT) (JJ__7__uncertain__JJ 7__uncertain__JJ) (NN__8__market__NN 8__market__NN))))))))))
+
+(ROOT
+  (DEPS
+    (2__students__NNS
+      1__of__IN
+      ???)
+    (1__of__IN
+      0__ROOT__
+      ROOT))
+  (WHPP__1__of__IN (IN__1__of__IN 1__of__IN)
+    (NP__2__students__NNS (NNS__2__students__NNS 2__students__NNS))))
+

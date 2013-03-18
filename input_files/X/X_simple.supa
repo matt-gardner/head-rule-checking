@@ -1,0 +1,416 @@
+1	\*	_	_	SYM	_	0	ROOT	_	_	ROOT
+
+1	the	_	_	DT	_	2	???	_	_	more
+2	more	_	_	JJR	_	0	ROOT	_	_	ROOT
+
+1	@	_	_	IN	_	0	ROOT	_	_	ROOT
+
+1	in	_	_	IN	_	0	ROOT	_	_	ROOT
+
+1	The	_	_	DT	_	2	???	_	_	more
+2	more	_	_	RBR	_	0	ROOT	_	_	ROOT
+
+1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	to	_	_	TO	_	0	ROOT	_	_	ROOT
+
+1	the	_	_	DT	_	0	ROOT	_	_	ROOT
+
+1	The	_	_	DT	_	3	???	_	_	extensive
+2	more	_	_	RBR	_	3	???	_	_	extensive
+3	extensive	_	_	JJ	_	4	???	_	_	students
+4	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	The	_	_	DT	_	3	???	_	_	extensive
+2	more	_	_	RBR	_	3	???	_	_	extensive
+3	extensive	_	_	JJ	_	0	ROOT	_	_	ROOT
+
+1	b	_	_	SYM	_	8	???	_	_	.
+2	-	_	_	:	_	8	???	_	_	.
+3	As	_	_	IN	_	8	???	_	_	.
+4	of	_	_	IN	_	3	???	_	_	As
+5	Thursday	_	_	NNP	_	6	???	_	_	's
+6	's	_	_	POS	_	7	???	_	_	close
+7	close	_	_	NN	_	4	???	_	_	of
+8	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	\*	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	First	_	_	RB	_	4	???	_	_	.
+2	,	_	_	,	_	4	???	_	_	.
+3	students	_	_	NNS	_	4	???	_	_	.
+4	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	\*\*	_	_	SYM	_	2	???	_	_	With
+2	With	_	_	IN	_	0	ROOT	_	_	ROOT
+3	dividends	_	_	NNS	_	4	SUBJ	_	_	reinvested
+4	reinvested	_	_	VBN	_	2	???	_	_	With
+
+
+
+1	was	_	_	VBD	_	0	ROOT	_	_	ROOT
+
+1	the	_	_	DT	_	2	???	_	_	more
+2	more	_	_	JJR	_	10	???	_	_	students
+3	an	_	_	DT	_	4	???	_	_	issue
+4	issue	_	_	NN	_	5	SUBJ	_	_	gained
+5	gained	_	_	VBD	_	2	???	_	_	more
+6	recently	_	_	RB	_	5	???	_	_	gained
+7	,	_	_	,	_	10	???	_	_	students
+8	the	_	_	DT	_	9	???	_	_	sharper
+9	sharper	_	_	JJR	_	10	???	_	_	students
+10	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	The	_	_	DT	_	3	???	_	_	turnover
+2	more	_	_	JJR	_	3	???	_	_	turnover
+3	turnover	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	not	_	_	RB	_	0	ROOT	_	_	ROOT
+
+1	can	_	_	MD	_	0	ROOT	_	_	ROOT
+
+1	what	_	_	WP	_	0	ROOT	_	_	ROOT
+
+1	students	_	_	NNS	_	3	???	_	_	.
+2	students	_	_	NNS	_	3	???	_	_	.
+3	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	students	_	_	NNS	_	4	???	_	_	are
+2	who	_	_	WP	_	4	OBJ-DO	_	_	are
+3	we	_	_	PRP	_	4	SUBJ	_	_	are
+4	are	_	_	VBP	_	0	ROOT	_	_	ROOT
+
+1	had	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	been	_	_	VBN	_	1	???	_	_	had
+
+1	a\/k\/a	_	_	IN	_	2	???	_	_	students
+2	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	the	_	_	DT	_	3	???	_	_	valuable
+2	more	_	_	RBR	_	3	???	_	_	valuable
+3	valuable	_	_	JJ	_	0	ROOT	_	_	ROOT
+
+1	c	_	_	SYM	_	9	???	_	_	.
+2	-	_	_	:	_	9	???	_	_	.
+3	Translated	_	_	VBN	_	9	???	_	_	.
+4	at	_	_	IN	_	3	???	_	_	Translated
+5	Commercial	_	_	NNP	_	8	???	_	_	rate
+6	Rand	_	_	NNP	_	8	???	_	_	rate
+7	exchange	_	_	NN	_	8	???	_	_	rate
+8	rate	_	_	NN	_	4	???	_	_	at
+9	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	What	_	_	WP	_	2	???	_	_	do
+2	do	_	_	VBP	_	0	ROOT	_	_	ROOT
+3	you	_	_	PRP	_	2	SUBJ	_	_	do
+4	say	_	_	VB	_	2	???	_	_	do
+5	we	_	_	PRP	_	7	SUBJ	_	_	close
+6	all	_	_	DT	_	5	???	_	_	we
+7	close	_	_	VBP	_	2	???	_	_	do
+8	down	_	_	RP	_	7	???	_	_	close
+9	the	_	_	DT	_	11	???	_	_	game
+10	poker	_	_	NN	_	11	???	_	_	game
+11	game	_	_	NN	_	7	OBJ-DO	_	_	close
+12	,	_	_	,	_	7	???	_	_	close
+13	go	_	_	VBP	_	12	???	_	_	,
+14	home	_	_	NN	_	13	OBJ-DO	_	_	go
+15	and	_	_	CC	_	12	???	_	_	,
+16	bank	_	_	VBP	_	15	???	_	_	and
+17	the	_	_	DT	_	18	???	_	_	$
+18	$	_	_	$	_	16	OBJ-DO	_	_	bank
+19	16	_	_	CD	_	18	???	_	_	$
+20	billion	_	_	CD	_	18	???	_	_	$
+21	?	_	_	.	_	2	???	_	_	do
+
+1	The	_	_	DT	_	5	???	_	_	robots
+2	more	_	_	JJR	_	5	???	_	_	robots
+3	factories	_	_	NNS	_	5	???	_	_	robots
+4	and	_	_	CC	_	5	???	_	_	robots
+5	robots	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	to	_	_	TO	_	0	ROOT	_	_	ROOT
+2	begin	_	_	VB	_	1	???	_	_	to
+3	with	_	_	RP	_	1	???	_	_	to
+
+1	\*	_	_	SYM	_	3	???	_	_	counting
+2	Not	_	_	RB	_	3	???	_	_	counting
+3	counting	_	_	VBG	_	0	ROOT	_	_	ROOT
+4	dividends	_	_	NNS	_	3	OBJ-DO	_	_	counting
+
+1	students	_	_	NNS	_	3	???	_	_	In
+2	:	_	_	:	_	3	???	_	_	In
+3	In	_	_	IN	_	0	ROOT	_	_	ROOT
+4	the	_	_	DT	_	5	???	_	_	Year
+5	Year	_	_	NN	_	3	???	_	_	In
+6	2000	_	_	CD	_	5	???	_	_	Year
+
+1	However	_	_	RB	_	24	???	_	_	.
+2	,	_	_	,	_	24	???	_	_	.
+3	when	_	_	WRB	_	6	???	_	_	start
+4	powerful	_	_	JJ	_	5	???	_	_	forces
+5	forces	_	_	NNS	_	6	SUBJ	_	_	start
+6	start	_	_	VBP	_	24	???	_	_	.
+7	shaking	_	_	VBG	_	6	???	_	_	start
+8	the	_	_	DT	_	10	???	_	_	's
+9	market	_	_	NN	_	10	???	_	_	's
+10	's	_	_	POS	_	11	???	_	_	structure
+11	structure	_	_	NN	_	7	OBJ-DO	_	_	shaking
+12	,	_	_	,	_	24	???	_	_	.
+13	the	_	_	DT	_	16	???	_	_	earthquake-resistant
+14	more	_	_	RBR	_	16	???	_	_	earthquake-resistant
+15	``	_	_	``	_	16	???	_	_	earthquake-resistant
+16	earthquake-resistant	_	_	JJ	_	24	???	_	_	.
+17	''	_	_	''	_	16	???	_	_	earthquake-resistant
+18	it	_	_	PRP	_	19	SUBJ	_	_	is
+19	is	_	_	VBZ	_	16	???	_	_	earthquake-resistant
+20	,	_	_	,	_	24	???	_	_	.
+21	the	_	_	DT	_	22	???	_	_	better
+22	better	_	_	JJR	_	24	???	_	_	.
+23	students	_	_	NNS	_	24	???	_	_	.
+24	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	students	_	_	NNS	_	11	???	_	_	.
+2	-	_	_	:	_	11	???	_	_	.
+3	Year-to-date	_	_	JJ	_	5	???	_	_	figure
+4	1988	_	_	CD	_	5	???	_	_	figure
+5	figure	_	_	NN	_	6	SUBJ	_	_	includes
+6	includes	_	_	VBZ	_	11	???	_	_	.
+7	Volkswagen	_	_	NNP	_	8	???	_	_	domestic-production
+8	domestic-production	_	_	NN	_	6	OBJ-DO	_	_	includes
+9	through	_	_	IN	_	8	???	_	_	domestic-production
+10	July	_	_	NNP	_	9	???	_	_	through
+11	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	The	_	_	DT	_	2	???	_	_	less
+2	less	_	_	JJS	_	0	ROOT	_	_	ROOT
+
+1	students	_	_	NNS	_	20	???	_	_	:
+2	,	_	_	,	_	20	???	_	_	:
+3	in	_	_	IN	_	20	???	_	_	:
+4	one	_	_	CD	_	3	???	_	_	in
+5	of	_	_	IN	_	4	???	_	_	one
+6	his	_	_	PRP$	_	8	???	_	_	's
+7	institute	_	_	NN	_	8	???	_	_	's
+8	's	_	_	POS	_	10	???	_	_	publications
+9	recent	_	_	JJ	_	10	???	_	_	publications
+10	publications	_	_	NNS	_	5	???	_	_	of
+11	on	_	_	IN	_	10	???	_	_	publications
+12	``	_	_	``	_	11	???	_	_	on
+13	Journalism	_	_	NN	_	15	???	_	_	In
+14	:	_	_	:	_	15	???	_	_	In
+15	In	_	_	IN	_	11	???	_	_	on
+16	the	_	_	DT	_	17	???	_	_	Year
+17	Year	_	_	NN	_	15	???	_	_	In
+18	2000	_	_	CD	_	17	???	_	_	Year
+19	''	_	_	''	_	11	???	_	_	on
+20	:	_	_	:	_	0	ROOT	_	_	ROOT
+
+1	Heading	_	_	VBG	_	6	???	_	_	.
+2	the	_	_	DT	_	3	???	_	_	list
+3	list	_	_	NN	_	1	OBJ-DO	_	_	Heading
+4	:	_	_	:	_	6	???	_	_	.
+5	students	_	_	NNS	_	6	???	_	_	.
+6	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	The	_	_	DT	_	2	???	_	_	higher
+2	higher	_	_	JJR	_	4	???	_	_	ratio
+3	the	_	_	DT	_	4	???	_	_	ratio
+4	ratio	_	_	NN	_	19	???	_	_	.
+5	of	_	_	IN	_	4	???	_	_	ratio
+6	hits	_	_	NNS	_	5	???	_	_	of
+7	to	_	_	TO	_	4	???	_	_	ratio
+8	total	_	_	JJ	_	9	???	_	_	words
+9	words	_	_	NNS	_	7	???	_	_	to
+10	,	_	_	,	_	19	???	_	_	.
+11	the	_	_	DT	_	12	???	_	_	higher
+12	higher	_	_	JJR	_	15	???	_	_	value
+13	the	_	_	DT	_	15	???	_	_	value
+14	presumed	_	_	VBN	_	15	???	_	_	value
+15	value	_	_	NN	_	19	???	_	_	.
+16	to	_	_	TO	_	15	???	_	_	value
+17	the	_	_	DT	_	18	???	_	_	reader
+18	reader	_	_	NN	_	16	???	_	_	to
+19	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	a.k.a	_	_	JJ	_	3	???	_	_	Palm
+2	.	_	_	.	_	3	???	_	_	Palm
+3	Palm	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	until	_	_	IN	_	2	???	_	_	mid-November
+2	mid-November	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	students	_	_	NNS	_	3	???	_	_	students
+2	students	_	_	NNS	_	3	???	_	_	students
+3	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	but	_	_	CC	_	5	???	_	_	.
+2	worries	_	_	NNS	_	5	???	_	_	.
+3	about	_	_	IN	_	2	???	_	_	worries
+4	1990	_	_	CD	_	3	???	_	_	about
+5	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	Money	_	_	NNP	_	5	???	_	_	%
+2	Market	_	_	NNP	_	5	???	_	_	%
+3	Deposits-a	_	_	NNP	_	5	???	_	_	%
+4	6.21	_	_	CD	_	5	???	_	_	%
+5	%	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	Bull	_	_	NNP	_	5	???	_	_	Inc
+2	NH	_	_	NNP	_	5	???	_	_	Inc
+3	Information	_	_	NNP	_	5	???	_	_	Inc
+4	Systems	_	_	NNPS	_	5	???	_	_	Inc
+5	Inc	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	You	_	_	PRP	_	2	???	_	_	bet
+2	bet	_	_	RB	_	3	???	_	_	students
+3	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	Ing	_	_	NNP	_	2	???	_	_	.
+2	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	Viva	_	_	FW	_	4	???	_	_	viva
+2	peace	_	_	NN	_	4	???	_	_	viva
+3	,	_	_	,	_	4	???	_	_	viva
+4	viva	_	_	FW	_	0	ROOT	_	_	ROOT
+
+1	Not	_	_	RB	_	4	???	_	_	.
+2	so	_	_	IN	_	1	???	_	_	Not
+3	students	_	_	NNS	_	4	???	_	_	.
+4	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	But	_	_	CC	_	26	???	_	_	.
+2	students	_	_	NNS	_	26	SUBJ	_	_	.
+3	students	_	_	NNS	_	26	???	_	_	.
+4	that	_	_	WDT	_	5	SUBJ	_	_	enabled
+5	enabled	_	_	VBD	_	26	???	_	_	.
+6	him	_	_	PRP	_	7	SUBJ	_	_	to
+7	to	_	_	TO	_	5	???	_	_	enabled
+8	gain	_	_	VB	_	7	???	_	_	to
+9	the	_	_	DT	_	11	???	_	_	support
+10	political	_	_	JJ	_	11	???	_	_	support
+11	support	_	_	NN	_	8	OBJ-DO	_	_	gain
+12	--	_	_	:	_	11	???	_	_	support
+13	particularly	_	_	RB	_	14	???	_	_	from
+14	from	_	_	IN	_	11	???	_	_	support
+15	the	_	_	DT	_	18	???	_	_	force
+16	retail	_	_	JJ	_	18	???	_	_	force
+17	sales	_	_	NNS	_	18	???	_	_	force
+18	force	_	_	NN	_	14	???	_	_	from
+19	--	_	_	:	_	11	???	_	_	support
+20	0_NULL	_	_	-NONE-	_	22	???	_	_	accede
+21	to	_	_	TO	_	11	???	_	_	support
+22	accede	_	_	VB	_	21	???	_	_	to
+23	to	_	_	TO	_	22	???	_	_	accede
+24	the	_	_	DT	_	25	???	_	_	presidency
+25	presidency	_	_	NN	_	23	???	_	_	to
+26	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	What	_	_	WP	_	3	???	_	_	?
+2	now	_	_	RB	_	1	???	_	_	What
+3	?	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	the	_	_	DT	_	3	???	_	_	for
+2	better	_	_	JJR	_	3	???	_	_	for
+3	for	_	_	IN	_	0	ROOT	_	_	ROOT
+4	our	_	_	PRP$	_	5	???	_	_	clients
+5	clients	_	_	NNS	_	3	???	_	_	for
+
+1	a	_	_	SYM	_	4	???	_	_	.
+2	-	_	_	:	_	4	???	_	_	.
+3	students	_	_	NNS	_	4	???	_	_	.
+4	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	Tray	_	_	NNP	_	3	???	_	_	?
+2	Bon	_	_	NNP	_	3	???	_	_	?
+3	?	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	students	_	_	NNS	_	9	???	_	_	.
+2	-	_	_	:	_	9	???	_	_	.
+3	Includes	_	_	VBZ	_	9	???	_	_	.
+4	Chevrolet	_	_	NNP	_	5	???	_	_	Prizm
+5	Prizm	_	_	NNP	_	3	OBJ-DO	_	_	Includes
+6	and	_	_	CC	_	5	???	_	_	Prizm
+7	Toyota	_	_	NNP	_	8	???	_	_	Corolla
+8	Corolla	_	_	NNP	_	6	???	_	_	and
+9	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	``	_	_	``	_	12	???	_	_	''
+2	The	_	_	DT	_	4	???	_	_	turnover
+3	more	_	_	JJR	_	4	???	_	_	turnover
+4	turnover	_	_	NN	_	12	???	_	_	''
+5	,	_	_	,	_	12	???	_	_	''
+6	the	_	_	DT	_	8	???	_	_	for
+7	better	_	_	JJR	_	8	???	_	_	for
+8	for	_	_	IN	_	12	???	_	_	''
+9	our	_	_	PRP$	_	10	???	_	_	clients
+10	clients	_	_	NNS	_	8	???	_	_	for
+11	.	_	_	.	_	12	???	_	_	''
+12	''	_	_	''	_	0	ROOT	_	_	ROOT
+
+1	z	_	_	SYM	_	5	???	_	_	.
+2	-	_	_	:	_	5	???	_	_	.
+3	Not	_	_	RB	_	4	???	_	_	available
+4	available	_	_	JJ	_	5	???	_	_	.
+5	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	students	_	_	NNS	_	22	???	_	_	:
+2	in	_	_	IN	_	22	???	_	_	:
+3	the	_	_	DT	_	7	???	_	_	Guide
+4	Oct.	_	_	NNP	_	7	???	_	_	Guide
+5	21	_	_	CD	_	4	???	_	_	Oct.
+6	TV	_	_	NNP	_	7	???	_	_	Guide
+7	Guide	_	_	NNP	_	2	???	_	_	in
+8	on	_	_	IN	_	7	???	_	_	Guide
+9	``	_	_	``	_	8	???	_	_	on
+10	What	_	_	WP	_	15	OBJ-DO	_	_	Report
+11	TV	_	_	NN	_	12	???	_	_	News
+12	News	_	_	NN	_	13	SUBJ	_	_	Does
+13	Does	_	_	VBZ	_	8	???	_	_	on
+14	n't	_	_	RB	_	13	???	_	_	Does
+15	Report	_	_	VB	_	13	???	_	_	Does
+16	About	_	_	IN	_	15	???	_	_	Report
+17	Congress	_	_	NNP	_	16	???	_	_	About
+18	--	_	_	:	_	19	???	_	_	and
+19	and	_	_	CC	_	13	???	_	_	Does
+20	Should	_	_	MD	_	19	???	_	_	and
+21	''	_	_	''	_	8	???	_	_	on
+22	:	_	_	:	_	0	ROOT	_	_	ROOT
+
+1	getting	_	_	VBG	_	6	???	_	_	and
+2	bursts	_	_	NNS	_	1	OBJ-DO	_	_	getting
+3	of	_	_	IN	_	2	???	_	_	bursts
+4	excess	_	_	JJ	_	5	???	_	_	heat
+5	heat	_	_	NN	_	3	???	_	_	of
+6	and	_	_	CC	_	0	ROOT	_	_	ROOT
+7	of	_	_	IN	_	6	???	_	_	and
+8	detecting	_	_	VBG	_	7	???	_	_	of
+9	increasing	_	_	VBG	_	10	???	_	_	amounts
+10	amounts	_	_	NNS	_	8	OBJ-DO	_	_	detecting
+11	of	_	_	IN	_	10	???	_	_	amounts
+12	tritium	_	_	NN	_	11	???	_	_	of
+13	forming	_	_	VBG	_	10	???	_	_	amounts
+14	in	_	_	IN	_	13	???	_	_	forming
+15	the	_	_	DT	_	17	???	_	_	water
+16	heavy	_	_	JJ	_	17	???	_	_	water
+17	water	_	_	NN	_	14	???	_	_	in
+
+1	legal	_	_	JJ	_	6	???	_	_	periods
+2	expenses	_	_	NNS	_	6	???	_	_	periods
+3	from	_	_	IN	_	6	???	_	_	periods
+4	to	_	_	TO	_	6	???	_	_	periods
+5	prior	_	_	JJ	_	6	???	_	_	periods
+6	periods	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	The	_	_	DT	_	2	???	_	_	sooner
+2	sooner	_	_	RB	_	0	ROOT	_	_	ROOT
+
+1	students	_	_	NNS	_	4	???	_	_	.
+2	-	_	_	:	_	4	???	_	_	.
+3	Revised	_	_	VBN	_	4	???	_	_	.
+4	.	_	_	.	_	0	ROOT	_	_	ROOT
+
+1	vis	_	_	FW	_	4	???	_	_	students
+2	a	_	_	FW	_	4	???	_	_	students
+3	vis	_	_	FW	_	4	???	_	_	students
+4	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+

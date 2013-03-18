@@ -1,0 +1,32 @@
+(WHADJP (WRB how) (JJ many))
+
+(WHADJP-1 (RB just) (WRB how) (JJ powerful))
+
+(WHADJP-1 (WRB how) (JJ wide)
+  (CC and)
+  (JJ deep))
+
+(WHADJP (WRB how) (JJ incompetent)
+  (PP (IN to)
+    (NP (NNS students))))
+
+(WHADJP (WRB How) (RB interestingly) (JJ clever)
+  (PP (IN to)
+    (NP (NNS students))))
+
+(WHADJP-2
+  (WHADVP (WRB how))
+  (JJ serious))
+
+(WHADJP-2 (WRB how) (`` ``)
+  (ADJP (JJ smart))
+  ('' ''))
+
+(WHADJP-3 (RB However) (JJ flawed)
+  (CC and)
+  (JJ short-lived))
+
+(WHADJP-1 (WRB how) (RB deep))
+
+(WHADJP (RB exactly) (WP what))
+

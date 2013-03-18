@@ -1,0 +1,389 @@
+(X (SYM \*))
+
+(X (DT the) (JJR more))
+
+(X (IN @))
+
+(X
+  (PP (IN to)
+    (NP (NNS students))))
+
+(X (DT The) (RBR more))
+
+(X
+  (NP (NNS students)))
+
+(X (TO to))
+
+(X (DT the))
+
+(X-ADV
+  (X (DT The)
+    (ADJP (RBR more) (JJ extensive)))
+  (NP (NNS students)))
+
+(X (DT The)
+  (ADJP (JJ smart)))
+
+(X
+  (X (SYM b))
+  (: -)
+  (PP-TMP (IN As)
+    (PP (IN of)
+      (NP
+        (NP (NNP Thursday) (POS 's))
+        (NN close))))
+  (. .))
+
+(X (NN \*))
+
+(X
+  (ADVP-TMP (RB First))
+  (, ,)
+  (NP (NNS students))
+  (. .))
+
+(X
+  (X (SYM \*\*))
+  (PP (IN to)
+    (NP (NNS students))))
+
+(X (-NONE- *?*_SKIP))
+
+(X (VBD was))
+
+(X
+  (SBAR-ADV
+    (X (DT the) (JJR more))
+    (S
+      (NP-SBJ (DT an) (NN issue))
+      (VP (VBD gained)
+        (NP (-NONE- *?*_SKIP))
+        (ADVP-TMP (RB recently)))))
+  (, ,)
+  (X (DT the) (JJR sharper))
+  (NP (NNS students)))
+
+(X (DT The) (JJR more) (NN turnover))
+
+(X (RB not))
+
+(X (MD can))
+
+(X (WP what))
+
+(X
+  (NP (NNS students))
+  (NP (NNS students))
+  (. .))
+
+(X
+  (NP (NNS students))
+  (SBAR
+    (WHNP-62 (WP who))
+    (S
+      (NP-SBJ (PRP we))
+      (VP (VBP are)
+        (NP-PRD (-NONE- *T*-62_SKIP))))))
+
+(X
+  (VP (VB break)))
+
+(X (IN a\/k\/a)
+  (NP (NNS students)))
+
+(X (DT the) (RBR more) (JJ valuable))
+
+(X
+  (X (SYM c))
+  (: -)
+  (VP (VB break))
+  (. .))
+
+(X
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP do)
+      (NP-SBJ (PRP you))
+      (VP (VB say))
+      (S
+        (NP-SBJ
+          (NP (PRP we))
+          (NP (DT all)))
+        (VP
+          (VP (VBP close)
+            (PRT (RP down))
+            (NP (DT the) (NN poker) (NN game)))
+          (, ,)
+          (VP (VBP go)
+            (NP (NN home)))
+          (CC and)
+          (VP (VBP bank)
+            (NP (DT the)
+              (QP ($ $) (CD 16) (CD billion))
+              (-NONE- *U*_SKIP))))))
+    (. ?)))
+
+(X (DT The) (JJR more) (NNS factories)
+  (CC and)
+  (NNS robots))
+
+(X
+  (ADVP-TMP (TO to) (VB begin) (RP with)))
+
+(X
+  (X (SYM \*))
+  (S
+    (NP (NNS students))
+    (VP (VB break))))
+
+(X-TTL
+  (NP (NNS students))
+  (: :)
+  (PP-TMP (IN In)
+    (NP (DT the) (NN Year) (CD 2000))))
+
+(X
+  (ADVP (RB once))
+  (, ,)
+  (SBAR-TMP
+    (WHADVP-1 (WRB when))
+    (S
+      (NP-SBJ-2 (JJ powerful) (NNS forces))
+      (VP (VBP start)
+        (S
+          (NP-SBJ (-NONE- *-2_SKIP))
+          (VP (VBG shaking)
+            (NP
+              (NP (DT the) (NN market) (POS 's))
+              (NN structure))))
+        (ADVP-TMP (-NONE- *T*-1_SKIP)))))
+  (, ,)
+  (SBAR-ADV
+    (X (DT the)
+      (ADJP (RBR more) (`` ``) (JJ earthquake-resistant) ('' '')))
+    (S
+      (NP-SBJ (PRP it))
+      (VP (VBZ is)
+        (ADJP-PRD (-NONE- *?*_SKIP)))))
+  (, ,)
+  (X (DT the) (JJR better))
+  (NP (NNS students))
+  (. .))
+
+(X
+  (NP (NNS students))
+  (: -)
+  (S
+    (NP (NNS students))
+    (VP (VB break)))
+  (. .))
+
+(X (DT The) (JJS less))
+
+(X-HLN
+  (NP (NNS students))
+  (, ,)
+  (PP-LOC (IN in)
+    (NP
+      (NP (CD one))
+      (PP (IN of)
+        (NP
+          (NP
+            (NP (PRP$ his) (NN institute) (POS 's))
+            (JJ recent) (NNS publications))
+          (PP (IN on) (`` ``)
+            (X-TTL
+              (NP (NN Journalism))
+              (: :)
+              (PP-TMP (IN In)
+                (NP (DT the) (NN Year) (CD 2000))))
+            ('' ''))))))
+  (: :))
+
+(X
+  (S-ADV
+    (NP-SBJ (-NONE- *_SKIP))
+    (VP (VBG Heading)
+      (NP (DT the) (NN list))))
+  (: :)
+  (NP (NNS students))
+  (. .))
+
+(X
+  (X
+    (X (DT The) (JJR higher))
+    (NP
+      (NP (DT the) (NN ratio))
+      (PP (IN of)
+        (NP (NNS hits)))
+      (PP (TO to)
+        (NP (JJ total) (NNS words)))))
+  (, ,)
+  (X
+    (X (DT the) (JJR higher))
+    (NP
+      (NP (DT the) (VBN presumed) (NN value))
+      (PP (TO to)
+        (NP (DT the) (NN reader)))))
+  (. .))
+
+(X (JJ a.k.a) (. .) (NNP Palm))
+
+(X (IN until) (NNP mid-November))
+
+(X
+  (NP (NNS students))
+  (NP (NNS students))
+  (NP (NNS students)))
+
+(X (CC but)
+  (VP (VB break))
+  (. .))
+
+(X (NNP Money) (NNP Market) (NNP Deposits-a) (CD 6.21) (NN %))
+
+(X (NNP Bull) (NNP NH) (NNP Information) (NNPS Systems) (NNP Inc))
+
+(X
+  (ADVP (RB once))
+  (NP (NNS students)))
+
+(X (NNP Ing) (. .))
+
+(X (FW Viva) (NN peace) (, ,) (FW viva))
+
+(X
+  (ADVP (RB once))
+  (NP (NNS students))
+  (. .))
+
+(X-CLF (CC But)
+  (NP-SBJ (PRP it))
+  (NP-PRD
+    (NP
+      (NP (NNP Mr.) (NNP Dozen) (POS 's))
+      (NN experience))
+    (PP (IN as)
+      (NP (DT a) (NN salesman))))
+  (SBAR
+    (WHNP-2 (WDT that))
+    (S
+      (NP-SBJ (-NONE- *T*-2_SKIP))
+      (VP (VBD enabled)
+        (S
+          (NP-SBJ (PRP him))
+          (VP (TO to)
+            (VP (VB gain)
+              (NP
+                (NP (DT the) (JJ political) (NN support))
+                (: --)
+                (PP
+                  (ADVP (RB particularly))
+                  (IN from)
+                  (NP (DT the) (JJ retail) (NNS sales) (NN force)))
+                (: --)
+                (SBAR
+                  (WHADVP-1 (-NONE- 0_NULL))
+                  (S
+                    (NP-SBJ (-NONE- *_SKIP))
+                    (VP (TO to)
+                      (VP (VB accede)
+                        (PP-CLR (TO to)
+                          (NP (DT the) (NN presidency)))
+                        (ADVP (-NONE- *T*-1_SKIP)))))))))))))
+  (. .))
+
+(X
+  (SBARQ
+    (WHNP (WP What))
+    (ADVP-TMP (RB now)))
+  (. ?))
+
+(X (DT the) (JJR better)
+  (PP (IN to)
+    (NP (NNS students))))
+
+(X
+  (X (SYM a))
+  (: -)
+  (NP (NNS students))
+  (. .))
+
+(X-HLN (NNP Tray) (NNP Bon) (. ?))
+
+(X
+  (NP (NNS students))
+  (: -)
+  (FRAG
+    (VP (VBZ Includes)
+      (NP
+        (NP (NNP Chevrolet) (NNP Prizm))
+        (CC and)
+        (NP (NNP Toyota) (NNP Corolla)))))
+  (. .))
+
+(X (`` ``)
+  (X (DT The) (JJR more) (NN turnover))
+  (, ,)
+  (X (DT the) (JJR better)
+    (PP (IN for)
+      (NP (PRP$ our) (NNS clients))))
+  (. .) ('' ''))
+
+(X
+  (X (SYM z))
+  (: -)
+  (ADJP (JJ smart))
+  (. .))
+
+(X-HLN
+  (NP (NNS students))
+  (PP-LOC (IN in)
+    (NP
+      (NP (DT the)
+        (NAC-TMP (NNP Oct.) (CD 21))
+        (NNP TV) (NNP Guide))
+      (PP (IN on) (`` ``)
+        (SBAR-TTL
+          (WHNP-1 (WP What))
+          (S
+            (NP-SBJ (NN TV) (NN News))
+            (VP
+              (VP (VBZ Does) (RB n't)
+                (VP (VB Report)
+                  (NP (-NONE- *T*-1_SKIP))
+                  (PP-CLR (IN About)
+                    (NP (NNP Congress)))))
+              (: --)
+              (CC and)
+              (VP (MD Should)
+                (VP (-NONE- *?*_SKIP))))))
+        ('' ''))))
+  (: :))
+
+(X
+  (S-NOM
+    (NP-SBJ (-NONE- *-1_SKIP))
+    (VP (VBG getting)
+      (NP
+        (NP (NNS bursts))
+        (PP (IN of)
+          (NP (JJ excess) (NN heat))))))
+  (CC and)
+  (PP (IN to)
+    (NP (NNS students))))
+
+(X (JJ legal) (NNS expenses) (IN from) (TO to) (JJ prior) (NNS periods))
+
+(X (DT The) (RB sooner))
+
+(X
+  (NP (NNS students))
+  (: -)
+  (VP (VB break))
+  (. .))
+
+(X (FW vis) (FW a) (FW vis)
+  (NP (NNS students)))
+

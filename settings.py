@@ -83,7 +83,7 @@ STATICFILES_FINDERS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = 'z^2^9(c^5k23&g8w%23og^=&9&=12)hzgqhtqj&h^7_3lbnh+-'
+SECRET_KEY = 'z^2renk23(J32n:AL3&g8w%23og^=&9&=12)hzgqhtqj&h^7_3lbnh+-'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
@@ -117,6 +117,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'test_suite',
+    'south',
     # Uncomment the next line to enable the admin:
     # 'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:

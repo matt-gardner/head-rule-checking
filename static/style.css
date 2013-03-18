@@ -11,6 +11,15 @@
     clear: both;
     font-weight: bold;
 }
+.simple-examples {
+    clear: both;
+}
+.show-examples {
+    clear: both;
+}
+.show-examples span:hover {
+    cursor: pointer;
+}
 .examples {
     clear: both;
 }

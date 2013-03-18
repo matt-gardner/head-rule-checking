@@ -139,15 +139,20 @@ class Expansion(models.Model):
     rule = models.CharField(max_length=1024)
     supa_example = models.TextField(blank=True)
     penn_example = models.TextField(blank=True)
+    simple_supa_example = models.TextField(blank=True)
+    simple_penn_example = models.TextField(blank=True)
     index = models.IntegerField()
     count = models.IntegerField()
 
     def __unicode__(self):
         return str(self.test_suite) + ' exp ' + self.rule
 
-    def supa_example_as_table(self):
+    def supa_example_as_table(self, simple=False):
+        example = self.supa_example
+        if simple:
+            example = self.simple_supa_example
         html = '<table>'
-        for line in self.supa_example.split('\n'):
+        for line in example.split('\n'):
             html += '<tr>'
             for field in line.split():
                 html += '<td>' + field + '</td>'
@@ -155,8 +160,17 @@ class Expansion(models.Model):
         html += '</table>'
         return html
 
-    def penn_example_rendered(self):
-        return self.penn_example.replace(' ', '&nbsp;')
+    def simple_supa_example_as_table(self):
+        return self.supa_example_as_table(simple=True)
+
+    def penn_example_rendered(self, simple=False):
+        example = self.penn_example
+        if simple:
+            example = self.simple_penn_example
+        return example.replace(' ', '&nbsp;')
+
+    def simple_penn_example_rendered(self):
+        return self.penn_example_rendered(simple=True)
 
     def head_correct_box(self):
         from django.forms.widgets import NullBooleanSelect

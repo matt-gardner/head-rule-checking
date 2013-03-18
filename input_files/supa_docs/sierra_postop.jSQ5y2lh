@@ -1,0 +1,1779 @@
+(ROOT
+  (DEPS
+    (1__that__WDT
+      0__ROOT__
+      ROOT))
+  (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT)))
+
+(ROOT
+  (DEPS
+    (1__who__WP
+      0__ROOT__
+      ROOT))
+  (WHNP__1__who__WP (WP__1__who__WP 1__who__WP)))
+
+(ROOT
+  (DEPS
+    (1__0_NULL__-NONE-
+      0__ROOT__
+      ROOT))
+  (WHNP__1__0_NULL__-NONE- (-NONE-__1__0_NULL__-NONE- 1__0_NULL__-NONE-)))
+
+(ROOT
+  (DEPS
+    (1__that__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__1__that__IN (IN__1__that__IN 1__that__IN)))
+
+(ROOT
+  (DEPS
+    (1__that__DT
+      0__ROOT__
+      ROOT))
+  (WHNP__1__that__DT (DT__1__that__DT 1__that__DT)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      2__spokesman__NN
+      ???)
+    (2__spokesman__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__spokesman__NN (WP$__1__whose__WP$ 1__whose__WP$) (NN__2__spokesman__NN 2__spokesman__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      2__addresses__NNS
+      ???)
+    (2__addresses__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__2__addresses__NNS (WP$__1__whose__WP$ 1__whose__WP$) (NNS__2__addresses__NNS 2__addresses__NNS)))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      2__to__IN
+      ???)
+    (3__students__NNS
+      2__to__IN
+      ???)
+    (2__to__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__to__IN
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (PP__2__to__IN (IN__2__to__IN 2__to__IN)
+      (NP__3__students__NNS (NNS__3__students__NNS 3__students__NNS)))))
+
+(ROOT
+  (DEPS
+    (1__what__WDT
+      2__kind__NN
+      ???)
+    (2__kind__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__kind__NN (WDT__1__what__WDT 1__what__WDT) (NN__2__kind__NN 2__kind__NN)))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      2__of__IN
+      ???)
+    (3__which__WDT
+      2__of__IN
+      ???)
+    (2__of__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__of__IN
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (WHPP__2__of__IN (IN__2__of__IN 2__of__IN)
+      (WHNP__3__which__WDT (WDT__3__which__WDT 3__which__WDT)))))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      2__much__JJ
+      ???)
+    (2__much__JJ
+      0__ROOT__
+      ROOT))
+  (WHNP__2__much__JJ (WRB__1__how__WRB 1__how__WRB) (JJ__2__much__JJ 2__much__JJ)))
+
+(ROOT
+  (DEPS
+    (1__students__NNS
+      2__of__IN
+      ???)
+    (3__which__WDT
+      2__of__IN
+      ???)
+    (2__of__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__of__IN
+    (NP__1__students__NNS (NNS__1__students__NNS 1__students__NNS))
+    (WHPP__2__of__IN (IN__2__of__IN 2__of__IN)
+      (WHNP__3__which__WDT (WDT__3__which__WDT 3__which__WDT)))))
+
+(ROOT
+  (DEPS
+    (1__whatever__WDT
+      2__losses__NNS
+      ???)
+    (2__losses__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__2__losses__NNS (WDT__1__whatever__WDT 1__whatever__WDT) (NNS__2__losses__NNS 2__losses__NNS)))
+
+(ROOT
+  (DEPS
+    (1__students__NNS
+      2__for__IN
+      ???)
+    (4__quarter__NN
+      2__for__IN
+      ???)
+    (3__the__DT
+      4__quarter__NN
+      ???)
+    (2__for__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__for__IN
+    (NP__1__students__NNS (NNS__1__students__NNS 1__students__NNS))
+    (PP-TMP__2__for__IN (IN__2__for__IN 2__for__IN)
+      (NP__4__quarter__NN (DT__3__the__DT 3__the__DT) (NN__4__quarter__NN 4__quarter__NN)))))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__career__NN
+      ???)
+    (2__reckless__JJ
+      3__career__NN
+      ???)
+    (3__career__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__career__NN (WP$__1__whose__WP$ 1__whose__WP$) (JJ__2__reckless__JJ 2__reckless__JJ) (NN__3__career__NN 3__career__NN)))
+
+(ROOT
+  (DEPS
+    (1__What__WP
+      2__sector__NN
+      ???)
+    (2__sector__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__sector__NN (WP__1__What__WP 1__What__WP) (NN__2__sector__NN 2__sector__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__retorts__NNS
+      ???)
+    (2__sassy__JJ
+      3__retorts__NNS
+      ???)
+    (3__retorts__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__retorts__NNS (WP$__1__whose__WP$ 1__whose__WP$) (JJ__2__sassy__JJ 2__sassy__JJ) (NNS__3__retorts__NNS 3__retorts__NNS)))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      3__investors__NNS
+      ???)
+    (2__many__JJ
+      1__how__WRB
+      ???)
+    (3__investors__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__investors__NNS
+    (WHADJP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (JJ__2__many__JJ 2__many__JJ))
+    (NNS__3__investors__NNS 3__investors__NNS)))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      2__much__RB
+      ???)
+    (2__much__RB
+      0__ROOT__
+      ROOT))
+  (WHNP__2__much__RB (WRB__1__how__WRB 1__how__WRB) (RB__2__much__RB 2__much__RB)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__dominance__NN
+      ???)
+    (2__world__NN
+      3__dominance__NN
+      ???)
+    (3__dominance__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__dominance__NN (WP$__1__whose__WP$ 1__whose__WP$) (NN__2__world__NN 2__world__NN) (NN__3__dominance__NN 3__dominance__NN)))
+
+(ROOT
+  (DEPS
+    (1__both__DT
+      2__of__IN
+      ???)
+    (3__which__WDT
+      2__of__IN
+      ???)
+    (2__of__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__of__IN (DT__1__both__DT 1__both__DT)
+    (WHPP__2__of__IN (IN__2__of__IN 2__of__IN)
+      (WHNP__3__which__WDT (WDT__3__which__WDT 3__which__WDT)))))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      3__money__NN
+      ???)
+    (2__much__JJ
+      1__how__WRB
+      ???)
+    (3__money__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__money__NN
+    (WHADJP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (JJ__2__much__JJ 2__much__JJ))
+    (NN__3__money__NN 3__money__NN)))
+
+(ROOT
+  (DEPS
+    (1__exactly__RB
+      2__what__WP
+      ???)
+    (2__what__WP
+      0__ROOT__
+      ROOT))
+  (WHNP__2__what__WP (RB__1__exactly__RB 1__exactly__RB) (WP__2__what__WP 2__what__WP)))
+
+(ROOT
+  (DEPS
+    (1__what__WP
+      2__changes__NNS
+      ???)
+    (2__changes__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__2__changes__NNS (WP__1__what__WP 1__what__WP) (NNS__2__changes__NNS 2__changes__NNS)))
+
+(ROOT
+  (DEPS
+    (1__two__CD
+      0__ROOT__
+      ROOT))
+  (WHNP__1__two__CD (CD__1__two__CD 1__two__CD)))
+
+(ROOT
+  (DEPS
+    (1__what__WP
+      2__exactly__RB
+      ???)
+    (2__exactly__RB
+      0__ROOT__
+      ROOT))
+  (WHNP__2__exactly__RB (WP__1__what__WP 1__what__WP) (RB__2__exactly__RB 2__exactly__RB)))
+
+(ROOT
+  (DEPS
+    (1__most__JJS
+      0__ROOT__
+      ROOT))
+  (WHNP__1__most__JJS (JJS__1__most__JJS 1__most__JJS)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      2__students__NNS
+      ???)
+    (2__students__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__2__students__NNS (WP$__1__whose__WP$ 1__whose__WP$)
+    (NP__2__students__NNS (NNS__2__students__NNS 2__students__NNS))))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      3__shares__NNS
+      ???)
+    (2__many__JJ
+      1__how__WRB
+      ???)
+    (3__shares__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__shares__NNS
+    (WHADVP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (JJ__2__many__JJ 2__many__JJ))
+    (NNS__3__shares__NNS 3__shares__NNS)))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      2__once__RB
+      ???)
+    (2__once__RB
+      0__ROOT__
+      ROOT))
+  (WHNP__2__once__RB
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (ADVP__2__once__RB (RB__2__once__RB 2__once__RB))))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      4__changes__NNS
+      ???)
+    (2__-LRB-__-LRB-
+      4__changes__NNS
+      ???)
+    (3__bond-price__JJ
+      4__changes__NNS
+      ???)
+    (5__plus__CC
+      4__changes__NNS
+      ???)
+    (6__interest__NN
+      5__plus__CC
+      ???)
+    (7__-RRB-__-RRB-
+      4__changes__NNS
+      ???)
+    (4__changes__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__4__changes__NNS
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (PRN__4__changes__NNS (-LRB-__2__-LRB-__-LRB- 2__-LRB-__-LRB-)
+      (NP__4__changes__NNS
+        (NP__4__changes__NNS (JJ__3__bond-price__JJ 3__bond-price__JJ) (NNS__4__changes__NNS 4__changes__NNS))
+        (CONJPP__5__plus__CC (CC__5__plus__CC 5__plus__CC)
+          (NP__6__interest__NN (NN__6__interest__NN 6__interest__NN))))
+      (-RRB-__7__-RRB-__-RRB- 7__-RRB-__-RRB-))))
+
+(ROOT
+  (DEPS
+    (1__whatever__WDT
+      3__notions__NNS
+      ???)
+    (2__nostalgic__JJ
+      3__notions__NNS
+      ???)
+    (3__notions__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__notions__NNS (WDT__1__whatever__WDT 1__whatever__WDT) (JJ__2__nostalgic__JJ 2__nostalgic__JJ) (NNS__3__notions__NNS 3__notions__NNS)))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      2__students__NNS
+      ???)
+    (2__students__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__2__students__NNS
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (NP__2__students__NNS (NNS__2__students__NNS 2__students__NNS))))
+
+(ROOT
+  (DEPS
+    (1__the__DT
+      2__interest__NN
+      ???)
+    (2__interest__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__interest__NN (DT__1__the__DT 1__the__DT) (NN__2__interest__NN 2__interest__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__ratio__NN
+      ???)
+    (2__price\/earnings__NNS
+      3__ratio__NN
+      ???)
+    (3__ratio__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__ratio__NN (WP$__1__whose__WP$ 1__whose__WP$) (NNS__2__price\/earnings__NNS 2__price\/earnings__NNS) (NN__3__ratio__NN 3__ratio__NN)))
+
+(ROOT
+  (DEPS
+    (1__what__WP
+      4__reaction__NN
+      ???)
+    (2__an__DT
+      4__reaction__NN
+      ???)
+    (3__efficient__JJ
+      4__reaction__NN
+      ???)
+    (4__reaction__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__4__reaction__NN (WP__1__what__WP 1__what__WP) (DT__2__an__DT 2__an__DT) (JJ__3__efficient__JJ 3__efficient__JJ) (NN__4__reaction__NN 4__reaction__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__licenses__NNS
+      ???)
+    (2__brokerage__NN
+      3__licenses__NNS
+      ???)
+    (3__licenses__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__licenses__NNS (WP$__1__whose__WP$ 1__whose__WP$) (NN__2__brokerage__NN 2__brokerage__NN) (NNS__3__licenses__NNS 3__licenses__NNS)))
+
+(ROOT
+  (DEPS
+    (1__just__RB
+      3__law__NN
+      ???)
+    (2__what__WDT
+      3__law__NN
+      ???)
+    (3__law__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__law__NN (RB__1__just__RB 1__just__RB) (WDT__2__what__WDT 2__what__WDT) (NN__3__law__NN 3__law__NN)))
+
+(ROOT
+  (DEPS
+    (1__the__DT
+      3__recent__JJ
+      ???)
+    (2__most__RBS
+      3__recent__JJ
+      ???)
+    (3__recent__JJ
+      0__ROOT__
+      ROOT))
+  (WHNP__3__recent__JJ (DT__1__the__DT 1__the__DT) (RBS__2__most__RBS 2__most__RBS) (JJ__3__recent__JJ 3__recent__JJ)))
+
+(ROOT
+  (DEPS
+    (1__one__CD
+      2__of__IN
+      ???)
+    (3__whom__WP
+      2__of__IN
+      ???)
+    (2__of__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__of__IN (CD__1__one__CD 1__one__CD)
+    (WHPP__2__of__IN (IN__2__of__IN 2__of__IN)
+      (WHNP__3__whom__WP (WP__3__whom__WP 3__whom__WP)))))
+
+(ROOT
+  (DEPS
+    (1__which__WDT
+      3__drug__NN
+      ???)
+    (2__identical__JJ
+      3__drug__NN
+      ???)
+    (3__drug__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__drug__NN (WDT__1__which__WDT 1__which__WDT) (JJ__2__identical__JJ 2__identical__JJ) (NN__3__drug__NN 3__drug__NN)))
+
+(ROOT
+  (DEPS
+    (1__the__DT
+      3__of__IN
+      ???)
+    (2__bulk__NN
+      3__of__IN
+      ???)
+    (4__which__WDT
+      3__of__IN
+      ???)
+    (3__of__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__of__IN (DT__1__the__DT 1__the__DT) (NN__2__bulk__NN 2__bulk__NN)
+    (WHPP__3__of__IN (IN__3__of__IN 3__of__IN)
+      (WHNP__4__which__WDT (WDT__4__which__WDT 4__which__WDT)))))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      4__loan__NN
+      ???)
+    (2__savings__NNS
+      4__loan__NN
+      ???)
+    (3__and__CC
+      4__loan__NN
+      ???)
+    (4__loan__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__4__loan__NN (WP$__1__whose__WP$ 1__whose__WP$) (NNS__2__savings__NNS 2__savings__NNS)
+    (CC__3__and__CC 3__and__CC)
+    (NN__4__loan__NN 4__loan__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      4__firm__NN
+      ???)
+    (2__New__NNP
+      4__firm__NN
+      ???)
+    (3__York__NNP
+      4__firm__NN
+      ???)
+    (4__firm__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__4__firm__NN (WP$__1__whose__WP$ 1__whose__WP$) (NNP__2__New__NNP 2__New__NNP) (NNP__3__York__NNP 3__York__NNP) (NN__4__firm__NN 4__firm__NN)))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      4__,__,
+      ???)
+    (2__,__,
+      4__,__,
+      ???)
+    (3__students__NNS
+      4__,__,
+      ???)
+    (4__,__,
+      0__ROOT__
+      ROOT))
+  (WHNP__4__,__,
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (,__2__,__, 2__,__,)
+    (NP__3__students__NNS (NNS__3__students__NNS 3__students__NNS))
+    (,__4__,__, 4__,__,)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      4__receipts__NNS
+      ???)
+    (2__American__JJ
+      4__receipts__NNS
+      ???)
+    (3__depositary__JJ
+      4__receipts__NNS
+      ???)
+    (4__receipts__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__4__receipts__NNS (WP$__1__whose__WP$ 1__whose__WP$) (JJ__2__American__JJ 2__American__JJ) (JJ__3__depositary__JJ 3__depositary__JJ) (NNS__4__receipts__NNS 4__receipts__NNS)))
+
+(ROOT
+  (DEPS
+    (1__whatever__WDT
+      3__effect__NN
+      ???)
+    (2__deterrent__NN
+      3__effect__NN
+      ???)
+    (3__effect__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__effect__NN (WDT__1__whatever__WDT 1__whatever__WDT) (NN__2__deterrent__NN 2__deterrent__NN) (NN__3__effect__NN 3__effect__NN)))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      3__time__NN
+      ???)
+    (2__much__JJ
+      1__how__WRB
+      ???)
+    (3__time__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__time__NN
+    (WHADVP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (JJ__2__much__JJ 2__much__JJ))
+    (NN__3__time__NN 3__time__NN)))
+
+(ROOT
+  (DEPS
+    (2__$__$
+      __*U*__-NONE-
+      ???)
+    (1__about__IN
+      2__$__$
+      ???)
+    (3__34__CD
+      2__$__$
+      ???)
+    (4__million__CD
+      2__$__$
+      ???)
+    (__*U*__-NONE-
+      0__ROOT__
+      ROOT))
+  (WHNP____*U*__-NONE-
+    (QP__2__$__$ (IN__1__about__IN 1__about__IN) ($__2__$__$ 2__$__$) (CD__3__34__CD 3__34__CD) (CD__4__million__CD 4__million__CD))
+    (-NONE-____*U*__-NONE- __*U*__-NONE-)))
+
+(ROOT
+  (DEPS
+    (1__which__WDT
+      3__forces__NNS
+      ???)
+    (2__anti-abortion__NN
+      3__forces__NNS
+      ???)
+    (3__forces__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__forces__NNS (WDT__1__which__WDT 1__which__WDT) (NN__2__anti-abortion__NN 2__anti-abortion__NN) (NNS__3__forces__NNS 3__forces__NNS)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__offer__NN
+      ???)
+    (2__smart__JJ
+      3__offer__NN
+      ???)
+    (3__offer__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__offer__NN (WP$__1__whose__WP$ 1__whose__WP$)
+    (ADJP__2__smart__JJ (JJ__2__smart__JJ 2__smart__JJ))
+    (NN__3__offer__NN 3__offer__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      4__campaign__NN
+      ???)
+    (2__last__JJ
+      4__campaign__NN
+      ???)
+    (3__big__JJ
+      4__campaign__NN
+      ???)
+    (4__campaign__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__4__campaign__NN (WP$__1__whose__WP$ 1__whose__WP$) (JJ__2__last__JJ 2__last__JJ) (JJ__3__big__JJ 3__big__JJ) (NN__4__campaign__NN 4__campaign__NN)))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      __*ICH*-4__-NONE-
+      ???)
+    (__*ICH*-4__-NONE-
+      0__ROOT__
+      ROOT))
+  (WHNP____*ICH*-4__-NONE-
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (SBAR____*ICH*-4__-NONE- (-NONE-____*ICH*-4__-NONE- __*ICH*-4__-NONE-))))
+
+(ROOT
+  (DEPS
+    (1__many__JJ
+      0__ROOT__
+      ROOT))
+  (WHNP__1__many__JJ (JJ__1__many__JJ 1__many__JJ)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      5__share__NN
+      ???)
+    (2__sales__NNS
+      5__share__NN
+      ???)
+    (3__and__CC
+      5__share__NN
+      ???)
+    (4__market__NN
+      5__share__NN
+      ???)
+    (5__share__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__5__share__NN (WP$__1__whose__WP$ 1__whose__WP$) (NNS__2__sales__NNS 2__sales__NNS)
+    (CC__3__and__CC 3__and__CC)
+    (NN__4__market__NN 4__market__NN) (NN__5__share__NN 5__share__NN)))
+
+(ROOT
+  (DEPS
+    (1__What__WP
+      3__comments__NNS
+      ???)
+    (2__few__JJ
+      3__comments__NNS
+      ???)
+    (3__comments__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__comments__NNS (WP__1__What__WP 1__What__WP) (JJ__2__few__JJ 2__few__JJ) (NNS__3__comments__NNS 3__comments__NNS)))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      4__smart__JJ
+      ???)
+    (2__to__IN
+      4__smart__JJ
+      ???)
+    (3__students__NNS
+      2__to__IN
+      ???)
+    (4__smart__JJ
+      0__ROOT__
+      ROOT))
+  (WHNP__4__smart__JJ
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (PP__2__to__IN (IN__2__to__IN 2__to__IN)
+      (NP__3__students__NNS (NNS__3__students__NNS 3__students__NNS)))
+    (ADJP__4__smart__JJ (JJ__4__smart__JJ 4__smart__JJ))))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      5__''__''
+      ???)
+    (2__,__,
+      5__''__''
+      ???)
+    (3__break__VB
+      5__''__''
+      ???)
+    (4__,__,
+      5__''__''
+      ???)
+    (5__''__''
+      0__ROOT__
+      ROOT))
+  (WHNP__5__''__''
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (,__2__,__, 2__,__,)
+    (VP__3__break__VB (VB__3__break__VB 3__break__VB))
+    (,__4__,__, 4__,__,) (''__5__''__'' 5__''__'')))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__Partners__NNP
+      ???)
+    (2__Brooke__NNP
+      3__Partners__NNP
+      ???)
+    (3__Partners__NNP
+      0__ROOT__
+      ROOT))
+  (WHNP__3__Partners__NNP (WP$__1__whose__WP$ 1__whose__WP$) (NNP__2__Brooke__NNP 2__Brooke__NNP) (NNP__3__Partners__NNP 3__Partners__NNP)))
+
+(ROOT
+  (DEPS
+    (1__what__WP
+      2__to__IN
+      ???)
+    (3__students__NNS
+      2__to__IN
+      ???)
+    (2__to__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__to__IN (WP__1__what__WP 1__what__WP)
+    (PP__2__to__IN (IN__2__to__IN 2__to__IN)
+      (NP__3__students__NNS (NNS__3__students__NNS 3__students__NNS)))))
+
+(ROOT
+  (DEPS
+    (1__which__WDT
+      4__genes__NNS
+      ???)
+    (2__gene__NN
+      4__genes__NNS
+      ???)
+    (3__or__CC
+      4__genes__NNS
+      ???)
+    (4__genes__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__4__genes__NNS (WDT__1__which__WDT 1__which__WDT) (NN__2__gene__NN 2__gene__NN)
+    (CC__3__or__CC 3__or__CC)
+    (NNS__4__genes__NNS 4__genes__NNS)))
+
+(ROOT
+  (DEPS
+    (1__what__WP
+      3__issue__NN
+      ???)
+    (2__an__DT
+      3__issue__NN
+      ???)
+    (3__issue__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__issue__NN (WP__1__what__WP 1__what__WP) (DT__2__an__DT 2__an__DT) (NN__3__issue__NN 3__issue__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      4__program__NN
+      ???)
+    (2__new__JJ
+      4__program__NN
+      ???)
+    (3__syndicated__VBN
+      4__program__NN
+      ???)
+    (4__program__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__4__program__NN (WP$__1__whose__WP$ 1__whose__WP$) (JJ__2__new__JJ 2__new__JJ) (VBN__3__syndicated__VBN 3__syndicated__VBN) (NN__4__program__NN 4__program__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__district__NN
+      ???)
+    (2__California__NNP
+      3__district__NN
+      ???)
+    (3__district__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__district__NN (WP$__1__whose__WP$ 1__whose__WP$) (NNP__2__California__NNP 2__California__NNP) (NN__3__district__NN 3__district__NN)))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      4__people__NNS
+      ???)
+    (2__many__JJ
+      1__how__WRB
+      ???)
+    (3__important__JJ
+      4__people__NNS
+      ???)
+    (4__people__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__4__people__NNS
+    (WHADJP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (JJ__2__many__JJ 2__many__JJ))
+    (JJ__3__important__JJ 3__important__JJ) (NNS__4__people__NNS 4__people__NNS)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      5__unit__NN
+      ???)
+    (2__Transol__NNP
+      5__unit__NN
+      ???)
+    (3__Investments__NNPS
+      5__unit__NN
+      ???)
+    (4__Ltd.__NNP
+      5__unit__NN
+      ???)
+    (5__unit__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__5__unit__NN (WP$__1__whose__WP$ 1__whose__WP$) (NNP__2__Transol__NNP 2__Transol__NNP) (NNPS__3__Investments__NNPS 3__Investments__NNPS) (NNP__4__Ltd.__NNP 4__Ltd.__NNP) (NN__5__unit__NN 5__unit__NN)))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      3__to__IN
+      ???)
+    (2__smart__JJ
+      3__to__IN
+      ???)
+    (4__students__NNS
+      3__to__IN
+      ???)
+    (3__to__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__to__IN
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (ADJP__2__smart__JJ (JJ__2__smart__JJ 2__smart__JJ))
+    (PP__3__to__IN (IN__3__to__IN 3__to__IN)
+      (NP__4__students__NNS (NNS__4__students__NNS 4__students__NNS)))))
+
+(ROOT
+  (DEPS
+    (1__exactly__RB
+      3__much__RB
+      ???)
+    (2__how__WRB
+      3__much__RB
+      ???)
+    (3__much__RB
+      0__ROOT__
+      ROOT))
+  (WHNP__3__much__RB (RB__1__exactly__RB 1__exactly__RB) (WRB__2__how__WRB 2__how__WRB) (RB__3__much__RB 3__much__RB)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      2__worth__JJ
+      ???)
+    (2__worth__JJ
+      0__ROOT__
+      ROOT))
+  (WHNP__2__worth__JJ (WP$__1__whose__WP$ 1__whose__WP$) (JJ__2__worth__JJ 2__worth__JJ)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__sales__NNS
+      ???)
+    (2__1988__CD
+      3__sales__NNS
+      ???)
+    (3__sales__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__sales__NNS (WP$__1__whose__WP$ 1__whose__WP$) (CD__2__1988__CD 2__1988__CD) (NNS__3__sales__NNS 3__sales__NNS)))
+
+(ROOT
+  (DEPS
+    (1__what__WP
+      2__students__NNS
+      ???)
+    (2__students__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__2__students__NNS (WP__1__what__WP 1__what__WP)
+    (NP__2__students__NNS (NNS__2__students__NNS 2__students__NNS))))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      4__girl__NN
+      ???)
+    (2__``__``
+      4__girl__NN
+      ???)
+    (3__little__JJ
+      4__girl__NN
+      ???)
+    (4__girl__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__4__girl__NN (WP$__1__whose__WP$ 1__whose__WP$) (``__2__``__`` 2__``__``) (JJ__3__little__JJ 3__little__JJ) (NN__4__girl__NN 4__girl__NN)))
+
+(ROOT
+  (DEPS
+    (1__what__WP
+      3__changes__NNS
+      ???)
+    (2__tax__NN
+      3__changes__NNS
+      ???)
+    (3__changes__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__changes__NNS (WP__1__what__WP 1__what__WP) (NN__2__tax__NN 2__tax__NN) (NNS__3__changes__NNS 3__changes__NNS)))
+
+(ROOT
+  (DEPS
+    (1__Benson__NNP
+      5__brand__NN
+      ???)
+    (2__&__CC
+      5__brand__NN
+      ???)
+    (3__Hedges__NNP
+      5__brand__NN
+      ???)
+    (4__cigarette__NN
+      5__brand__NN
+      ???)
+    (5__brand__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__5__brand__NN (NNP__1__Benson__NNP 1__Benson__NNP)
+    (CC__2__&__CC 2__&__CC)
+    (NNP__3__Hedges__NNP 3__Hedges__NNP) (NN__4__cigarette__NN 4__cigarette__NN) (NN__5__brand__NN 5__brand__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      4__records__NNS
+      ???)
+    (2__films__NNS
+      4__records__NNS
+      ???)
+    (3__and__CC
+      4__records__NNS
+      ???)
+    (4__records__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__4__records__NNS (WP$__1__whose__WP$ 1__whose__WP$) (NNS__2__films__NNS 2__films__NNS)
+    (CC__3__and__CC 3__and__CC)
+    (NNS__4__records__NNS 4__records__NNS)))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      4__shares__NNS
+      ???)
+    (2__many__JJ
+      4__shares__NNS
+      ???)
+    (3__Jaguar__NNP
+      4__shares__NNS
+      ???)
+    (4__shares__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__4__shares__NNS (WRB__1__how__WRB 1__how__WRB) (JJ__2__many__JJ 2__many__JJ) (NNP__3__Jaguar__NNP 3__Jaguar__NNP) (NNS__4__shares__NNS 4__shares__NNS)))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      4__in__IN
+      ???)
+    (2__to__IN
+      4__in__IN
+      ???)
+    (3__students__NNS
+      2__to__IN
+      ???)
+    (5__August__NNP
+      4__in__IN
+      ???)
+    (4__in__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__4__in__IN
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (PP__2__to__IN (IN__2__to__IN 2__to__IN)
+      (NP__3__students__NNS (NNS__3__students__NNS 3__students__NNS)))
+    (PP-TMP__4__in__IN (IN__4__in__IN 4__in__IN)
+      (NP__5__August__NNP (NNP__5__August__NNP 5__August__NNP)))))
+
+(ROOT
+  (DEPS
+    (1__Where__WRB
+      0__ROOT__
+      ROOT))
+  (WHNP__1__Where__WRB (WRB__1__Where__WRB 1__Where__WRB)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__membership__NN
+      ???)
+    (2__students__NNS
+      3__membership__NN
+      ???)
+    (3__membership__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__membership__NN (WP$__1__whose__WP$ 1__whose__WP$)
+    (NP__2__students__NNS (NNS__2__students__NNS 2__students__NNS))
+    (NN__3__membership__NN 3__membership__NN)))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      5__options__NNS
+      ???)
+    (2__many__JJ
+      1__how__WRB
+      ???)
+    (3__warrants__NNS
+      5__options__NNS
+      ???)
+    (4__and__CC
+      5__options__NNS
+      ???)
+    (5__options__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__5__options__NNS
+    (WHADJP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (JJ__2__many__JJ 2__many__JJ))
+    (NNS__3__warrants__NNS 3__warrants__NNS)
+    (CC__4__and__CC 4__and__CC)
+    (NNS__5__options__NNS 5__options__NNS)))
+
+(ROOT
+  (DEPS
+    (1__part__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__1__part__NN (NN__1__part__NN 1__part__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__experiments__NNS
+      ???)
+    (2__Utah__NNP
+      3__experiments__NNS
+      ???)
+    (3__experiments__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__experiments__NNS (WP$__1__whose__WP$ 1__whose__WP$) (NNP__2__Utah__NNP 2__Utah__NNP) (NNS__3__experiments__NNS 3__experiments__NNS)))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      3__break__VB
+      ???)
+    (2__students__NNS
+      3__break__VB
+      ???)
+    (3__break__VB
+      0__ROOT__
+      ROOT))
+  (WHNP__3__break__VB
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (S__3__break__VB
+      (NP__2__students__NNS (NNS__2__students__NNS 2__students__NNS))
+      (VP__3__break__VB (VB__3__break__VB 3__break__VB)))))
+
+(ROOT
+  (DEPS
+    (2__million__CD
+      1__6.5__CD
+      ???)
+    (1__6.5__CD
+      0__ROOT__
+      ROOT))
+  (WHNP__1__6.5__CD
+    (QP__1__6.5__CD (CD__1__6.5__CD 1__6.5__CD) (CD__2__million__CD 2__million__CD))))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      5__hitters__NNS
+      ???)
+    (2__pitchers__NNS
+      5__hitters__NNS
+      ???)
+    (3__and__CC
+      5__hitters__NNS
+      ???)
+    (4__home-run__NN
+      5__hitters__NNS
+      ???)
+    (5__hitters__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__5__hitters__NNS (WP$__1__whose__WP$ 1__whose__WP$) (NNS__2__pitchers__NNS 2__pitchers__NNS)
+    (CC__3__and__CC 3__and__CC)
+    (NN__4__home-run__NN 4__home-run__NN) (NNS__5__hitters__NNS 5__hitters__NNS)))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      3__students__NNS
+      ???)
+    (2__,__,
+      3__students__NNS
+      ???)
+    (3__students__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__students__NNS
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (,__2__,__, 2__,__,)
+    (NP__3__students__NNS (NNS__3__students__NNS 3__students__NNS))))
+
+(ROOT
+  (DEPS
+    (1__How__WRB
+      6__policies__NNS
+      ???)
+    (2__many__JJ
+      6__policies__NNS
+      ???)
+    (3__government__NN
+      6__policies__NNS
+      ???)
+    (4__programs__NNS
+      6__policies__NNS
+      ???)
+    (5__and__CC
+      6__policies__NNS
+      ???)
+    (6__policies__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__6__policies__NNS (WRB__1__How__WRB 1__How__WRB) (JJ__2__many__JJ 2__many__JJ) (NN__3__government__NN 3__government__NN) (NNS__4__programs__NNS 4__programs__NNS)
+    (CC__5__and__CC 5__and__CC)
+    (NNS__6__policies__NNS 6__policies__NNS)))
+
+(ROOT
+  (DEPS
+    (1__what__WP
+      3__tape__NN
+      ???)
+    (2__red__JJ
+      3__tape__NN
+      ???)
+    (3__tape__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__tape__NN (WP__1__what__WP 1__what__WP) (JJ__2__red__JJ 2__red__JJ) (NN__3__tape__NN 3__tape__NN)))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      5__rooms__NNS
+      ???)
+    (2__many__JJ
+      1__how__WRB
+      ???)
+    (3__company__NN
+      5__rooms__NNS
+      ???)
+    (4__mail__NN
+      5__rooms__NNS
+      ???)
+    (5__rooms__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__5__rooms__NNS
+    (WHADJP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (JJ__2__many__JJ 2__many__JJ))
+    (NN__3__company__NN 3__company__NN) (NN__4__mail__NN 4__mail__NN) (NNS__5__rooms__NNS 5__rooms__NNS)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      6__agency__NN
+      ???)
+    (2__Della__NNP
+      6__agency__NN
+      ???)
+    (3__Femina__NNP
+      6__agency__NN
+      ???)
+    (4__McNamee__NNP
+      6__agency__NN
+      ???)
+    (5__WCRS__NNP
+      6__agency__NN
+      ???)
+    (6__agency__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__6__agency__NN (WP$__1__whose__WP$ 1__whose__WP$) (NNP__2__Della__NNP 2__Della__NNP) (NNP__3__Femina__NNP 3__Femina__NNP) (NNP__4__McNamee__NNP 4__McNamee__NNP) (NNP__5__WCRS__NNP 5__WCRS__NNP) (NN__6__agency__NN 6__agency__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      5__ads__NNS
+      ???)
+    (2__four__CD
+      5__ads__NNS
+      ???)
+    (3__30-second__JJ
+      5__ads__NNS
+      ???)
+    (4__TV__NN
+      5__ads__NNS
+      ???)
+    (5__ads__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__5__ads__NNS (WP$__1__whose__WP$ 1__whose__WP$) (CD__2__four__CD 2__four__CD) (JJ__3__30-second__JJ 3__30-second__JJ) (NN__4__TV__NN 4__TV__NN) (NNS__5__ads__NNS 5__ads__NNS)))
+
+(ROOT
+  (DEPS
+    (1__that__VBP
+      0__ROOT__
+      ROOT))
+  (WHNP__1__that__VBP (VBP__1__that__VBP 1__that__VBP)))
+
+(ROOT
+  (DEPS
+    (1__once__RB
+      2__what__WP
+      ???)
+    (2__what__WP
+      0__ROOT__
+      ROOT))
+  (WHNP__2__what__WP
+    (ADVP__1__once__RB (RB__1__once__RB 1__once__RB))
+    (WP__2__what__WP 2__what__WP)))
+
+(ROOT
+  (DEPS
+    (1__What__WP
+      2__more__JJR
+      ???)
+    (2__more__JJR
+      0__ROOT__
+      ROOT))
+  (WHNP__2__more__JJR (WP__1__What__WP 1__What__WP) (JJR__2__more__JJR 2__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      3__supply__NN
+      ???)
+    (2__much__JJ
+      3__supply__NN
+      ???)
+    (3__supply__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__supply__NN
+    (WHADVP__1__how__WRB (WRB__1__how__WRB 1__how__WRB))
+    (JJ__2__much__JJ 2__much__JJ) (NN__3__supply__NN 3__supply__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__holdings__NNS
+      ???)
+    (2__combined__VBN
+      3__holdings__NNS
+      ???)
+    (3__holdings__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__holdings__NNS (WP$__1__whose__WP$ 1__whose__WP$) (VBN__2__combined__VBN 2__combined__VBN) (NNS__3__holdings__NNS 3__holdings__NNS)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      5__offer__NN
+      ???)
+    (2__recent__JJ
+      5__offer__NN
+      ???)
+    (3__hostile__JJ
+      5__offer__NN
+      ???)
+    (4__tender__NN
+      5__offer__NN
+      ???)
+    (5__offer__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__5__offer__NN (WP$__1__whose__WP$ 1__whose__WP$) (JJ__2__recent__JJ 2__recent__JJ) (JJ__3__hostile__JJ 3__hostile__JJ) (NN__4__tender__NN 4__tender__NN) (NN__5__offer__NN 5__offer__NN)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      2__students__NNS
+      ???)
+    (2__students__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__2__students__NNS (WP$__1__whose__WP$ 1__whose__WP$)
+    (NX__2__students__NNS (NNS__2__students__NNS 2__students__NNS))))
+
+(ROOT
+  (DEPS
+    (1__students__NNS
+      4__,__,
+      ???)
+    (2__,__,
+      4__,__,
+      ???)
+    (3__students__NNS
+      4__,__,
+      ???)
+    (4__,__,
+      0__ROOT__
+      ROOT))
+  (WHNP__4__,__,
+    (NP__1__students__NNS (NNS__1__students__NNS 1__students__NNS))
+    (,__2__,__, 2__,__,)
+    (NP__3__students__NNS (NNS__3__students__NNS 3__students__NNS))
+    (,__4__,__, 4__,__,)))
+
+(ROOT
+  (DEPS
+    (1__most__JJS
+      2__of__IN
+      ???)
+    (3__which__WDT
+      2__of__IN
+      ???)
+    (2__of__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__of__IN (JJS__1__most__JJS 1__most__JJS)
+    (WHPP__2__of__IN (IN__2__of__IN 2__of__IN)
+      (WHNP__3__which__WDT (WDT__3__which__WDT 3__which__WDT)))))
+
+(ROOT
+  (DEPS
+    (1__it__PRP
+      0__ROOT__
+      ROOT))
+  (WHNP__1__it__PRP (PRP__1__it__PRP 1__it__PRP)))
+
+(ROOT
+  (DEPS
+    (1__How__WRB
+      3__shares__NNS
+      ???)
+    (2__many__JJ
+      3__shares__NNS
+      ???)
+    (3__shares__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__shares__NNS (WRB__1__How__WRB 1__How__WRB) (JJ__2__many__JJ 2__many__JJ) (NNS__3__shares__NNS 3__shares__NNS)))
+
+(ROOT
+  (DEPS
+    (1__what__WP
+      3__to__IN
+      ???)
+    (2__kind__NN
+      3__to__IN
+      ???)
+    (4__students__NNS
+      3__to__IN
+      ???)
+    (3__to__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__to__IN (WP__1__what__WP 1__what__WP) (NN__2__kind__NN 2__kind__NN)
+    (PP__3__to__IN (IN__3__to__IN 3__to__IN)
+      (NP__4__students__NNS (NNS__4__students__NNS 4__students__NNS)))))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      5__Co.__NNP
+      ???)
+    (2__High__NNP
+      5__Co.__NNP
+      ???)
+    (3__Technology__NNP
+      5__Co.__NNP
+      ???)
+    (4__Holding__NNP
+      5__Co.__NNP
+      ???)
+    (5__Co.__NNP
+      0__ROOT__
+      ROOT))
+  (WHNP__5__Co.__NNP (WP$__1__whose__WP$ 1__whose__WP$) (NNP__2__High__NNP 2__High__NNP) (NNP__3__Technology__NNP 3__Technology__NNP) (NNP__4__Holding__NNP 4__Holding__NNP) (NNP__5__Co.__NNP 5__Co.__NNP)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__structures__NNS
+      ???)
+    (2__larger__JJR
+      3__structures__NNS
+      ???)
+    (3__structures__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__3__structures__NNS (WP$__1__whose__WP$ 1__whose__WP$) (JJR__2__larger__JJR 2__larger__JJR) (NNS__3__structures__NNS 3__structures__NNS)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      5__responsibility__NN
+      ???)
+    (2__sole__JJ
+      5__responsibility__NN
+      ???)
+    (3__interest__NN
+      5__responsibility__NN
+      ???)
+    (4__and__CC
+      5__responsibility__NN
+      ???)
+    (5__responsibility__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__5__responsibility__NN (WP$__1__whose__WP$ 1__whose__WP$) (JJ__2__sole__JJ 2__sole__JJ) (NN__3__interest__NN 3__interest__NN)
+    (CC__4__and__CC 4__and__CC)
+    (NN__5__responsibility__NN 5__responsibility__NN)))
+
+(ROOT
+  (DEPS
+    (1__details__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__1__details__NNS (NNS__1__details__NNS 1__details__NNS)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      6__philosophy__NN
+      ???)
+    (2__lenient__JJ
+      6__philosophy__NN
+      ???)
+    (3__``__``
+      6__philosophy__NN
+      ???)
+    (4__multiple-use__JJ
+      6__philosophy__NN
+      ???)
+    (5__''__''
+      6__philosophy__NN
+      ???)
+    (6__philosophy__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__6__philosophy__NN (WP$__1__whose__WP$ 1__whose__WP$) (JJ__2__lenient__JJ 2__lenient__JJ) (``__3__``__`` 3__``__``) (JJ__4__multiple-use__JJ 4__multiple-use__JJ) (''__5__''__'' 5__''__'') (NN__6__philosophy__NN 6__philosophy__NN)))
+
+(ROOT
+  (DEPS
+    (1__that__WDT
+      __*ICH*-6__-NONE-
+      ???)
+    (2__to__IN
+      __*ICH*-6__-NONE-
+      ???)
+    (3__students__NNS
+      2__to__IN
+      ???)
+    (__*ICH*-6__-NONE-
+      0__ROOT__
+      ROOT))
+  (WHNP____*ICH*-6__-NONE-
+    (WHNP__1__that__WDT (WDT__1__that__WDT 1__that__WDT))
+    (PP__2__to__IN (IN__2__to__IN 2__to__IN)
+      (NP__3__students__NNS (NNS__3__students__NNS 3__students__NNS)))
+    (SBAR____*ICH*-6__-NONE- (-NONE-____*ICH*-6__-NONE- __*ICH*-6__-NONE-))))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__profitability__NN
+      ???)
+    (2__declining__VBG
+      3__profitability__NN
+      ???)
+    (3__profitability__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__profitability__NN (WP$__1__whose__WP$ 1__whose__WP$) (VBG__2__declining__VBG 2__declining__VBG) (NN__3__profitability__NN 3__profitability__NN)))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      3__less__JJR
+      ???)
+    (2__much__JJ
+      1__how__WRB
+      ???)
+    (3__less__JJR
+      0__ROOT__
+      ROOT))
+  (WHNP__3__less__JJR
+    (WHADJP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (JJ__2__much__JJ 2__much__JJ))
+    (JJR__3__less__JJR 3__less__JJR)))
+
+(ROOT
+  (DEPS
+    (1__precisely__RB
+      3__much__JJ
+      ???)
+    (2__how__WRB
+      3__much__JJ
+      ???)
+    (3__much__JJ
+      0__ROOT__
+      ROOT))
+  (WHNP__3__much__JJ (RB__1__precisely__RB 1__precisely__RB) (WRB__2__how__WRB 2__how__WRB) (JJ__3__much__JJ 3__much__JJ)))
+
+(ROOT
+  (DEPS
+    (1__whatever__WDT
+      4__sum__NN
+      ???)
+    (2__regular__JJ
+      4__sum__NN
+      ???)
+    (3__investment__NN
+      4__sum__NN
+      ???)
+    (4__sum__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__4__sum__NN (WDT__1__whatever__WDT 1__whatever__WDT) (JJ__2__regular__JJ 2__regular__JJ) (NN__3__investment__NN 3__investment__NN) (NN__4__sum__NN 4__sum__NN)))
+
+(ROOT
+  (DEPS
+    (2__double__JJ
+      3__what__WP
+      ???)
+    (1__nearly__RB
+      2__double__JJ
+      ???)
+    (3__what__WP
+      0__ROOT__
+      ROOT))
+  (WHNP__3__what__WP
+    (QP__2__double__JJ (RB__1__nearly__RB 1__nearly__RB) (JJ__2__double__JJ 2__double__JJ))
+    (WP__3__what__WP 3__what__WP)))
+
+(ROOT
+  (DEPS
+    (1__students__NNS
+      3__with__IN
+      ???)
+    (2__-LCB-__-LRB-
+      3__with__IN
+      ???)
+    (4__magazines__NNS
+      3__with__IN
+      ???)
+    (5__-RCB-__-RRB-
+      3__with__IN
+      ???)
+    (3__with__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__with__IN
+    (NP__1__students__NNS (NNS__1__students__NNS 1__students__NNS))
+    (PRN__3__with__IN (-LRB-__2__-LCB-__-LRB- 2__-LCB-__-LRB-)
+      (PP__3__with__IN (IN__3__with__IN 3__with__IN)
+        (NP__4__magazines__NNS (NNS__4__magazines__NNS 4__magazines__NNS)))
+      (-RRB-__5__-RCB-__-RRB- 5__-RCB-__-RRB-))))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      2__which__WDT
+      ???)
+    (2__which__WDT
+      0__ROOT__
+      ROOT))
+  (WHNP__2__which__WDT (DT__1__a__DT 1__a__DT) (WDT__2__which__WDT 2__which__WDT)))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      3__client__NN
+      ???)
+    (2__largest__JJS
+      3__client__NN
+      ???)
+    (3__client__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__3__client__NN (WP$__1__whose__WP$ 1__whose__WP$) (JJS__2__largest__JJS 2__largest__JJS) (NN__3__client__NN 3__client__NN)))
+
+(ROOT
+  (DEPS
+    (1__which__WDT
+      6__version__NN
+      ???)
+    (3__if__IN
+      6__version__NN
+      ???)
+    (2__,__,
+      3__if__IN
+      ???)
+    (4__any__DT
+      3__if__IN
+      ???)
+    (5__,__,
+      3__if__IN
+      ???)
+    (6__version__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__6__version__NN (WDT__1__which__WDT 1__which__WDT)
+    (PRN__3__if__IN (,__2__,__, 2__,__,)
+      (PP__3__if__IN (IN__3__if__IN 3__if__IN)
+        (NP__4__any__DT (DT__4__any__DT 4__any__DT)))
+      (,__5__,__, 5__,__,))
+    (NN__6__version__NN 6__version__NN)))
+
+(ROOT
+  (DEPS
+    (1__neither__CC
+      2__of__IN
+      ???)
+    (3__whom__WP
+      2__of__IN
+      ???)
+    (2__of__IN
+      0__ROOT__
+      ROOT))
+  (WHNP__2__of__IN (CC__1__neither__CC 1__neither__CC)
+    (WHPP__2__of__IN (IN__2__of__IN 2__of__IN)
+      (WHNP__3__whom__WP (WP__3__whom__WP 3__whom__WP)))))
+
+(ROOT
+  (DEPS
+    (1__whose__WP$
+      4__development__NN
+      ???)
+    (2__research__NN
+      4__development__NN
+      ???)
+    (3__and__CC
+      4__development__NN
+      ???)
+    (4__development__NN
+      0__ROOT__
+      ROOT))
+  (WHNP__4__development__NN (WP$__1__whose__WP$ 1__whose__WP$) (NN__2__research__NN 2__research__NN)
+    (CC__3__and__CC 3__and__CC)
+    (NN__4__development__NN 4__development__NN)))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      4__times__NNS
+      ???)
+    (2__many__JJ
+      1__how__WRB
+      ???)
+    (3__more__JJR
+      4__times__NNS
+      ???)
+    (4__times__NNS
+      0__ROOT__
+      ROOT))
+  (WHNP__4__times__NNS
+    (WHADJP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (JJ__2__many__JJ 2__many__JJ))
+    (JJR__3__more__JJR 3__more__JJR) (NNS__4__times__NNS 4__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__what__WP
+      3__good__JJ
+      ???)
+    (2__possible__RB
+      3__good__JJ
+      ???)
+    (3__good__JJ
+      0__ROOT__
+      ROOT))
+  (WHNP__3__good__JJ (WP__1__what__WP 1__what__WP) (RB__2__possible__RB 2__possible__RB) (JJ__3__good__JJ 3__good__JJ)))
+

@@ -9,6 +9,10 @@ sys.path.append('../')
 from django.db import transaction
 from test_suite.models import *
 
+categories = ['ADJP', 'ADVP', 'CONJP', 'FRAG', 'INTJ', 'LST', 'NAC', 'NP',
+        'NX', 'PP', 'PRN', 'PRT', 'QP', 'RRC', 'S', 'SBAR', 'SBARQ',
+        'SINV', 'SQ', 'UCP', 'VP', 'WHADJP', 'WHADVP', 'WHNP', 'WHPP', 'X']
+
 
 @transaction.commit_manually
 def main(category_symbol, grouped_file, supa_file, penn_file):
@@ -81,9 +85,6 @@ class ExpansionData(object):
 
 
 if __name__ == '__main__':
-    categories = ['ADJP', 'ADVP', 'CONJP', 'FRAG', 'INTJ', 'LST', 'NAC', 'NP',
-            'NX', 'PP', 'PRN', 'PRT', 'QP', 'RRC', 'S', 'SBAR', 'SBARQ',
-            'SINV', 'SQ', 'UCP', 'VP', 'WHADJP', 'WHADVP', 'WHNP', 'WHPP', 'X']
     base = 'input_files/'
     for category in categories:
         cat_base = base + category + '/' + category
