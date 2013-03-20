@@ -81,8 +81,8 @@
 6	of	_	_	IN	_	5	???	_	_	lack
 7	them	_	_	PRP	_	6	???	_	_	of
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	of	_	_	IN	_	1	???	_	_	students
+1	Story	_	_	NNP	_	0	ROOT	_	_	ROOT
+2	of	_	_	IN	_	1	???	_	_	Story
 3	Women	_	_	NNP	_	2	???	_	_	of
 
 1	Learning	_	_	NNP	_	2	???	_	_	Materials
@@ -94,9 +94,8 @@
 1	13.9	_	_	CD	_	2	???	_	_	rating
 2	rating	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	relatively	_	_	RB	_	2	???	_	_	poor
-2	poor	_	_	JJ	_	3	???	_	_	performance
-3	performance	_	_	NN	_	0	ROOT	_	_	ROOT
+1	poor	_	_	JJ	_	2	???	_	_	performance
+2	performance	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	glass	_	_	NN	_	3	???	_	_	executive
 2	industry	_	_	NN	_	3	???	_	_	executive
@@ -123,10 +122,7 @@
 4	executive	_	_	JJ	_	5	???	_	_	officer
 5	officer	_	_	NN	_	1	???	_	_	chairman
 6	of	_	_	IN	_	1	???	_	_	chairman
-7	General	_	_	NNP	_	10	???	_	_	Corp.
-8	Public	_	_	NNP	_	10	???	_	_	Corp.
-9	Utilities	_	_	NNP	_	10	???	_	_	Corp.
-10	Corp.	_	_	NNP	_	6	???	_	_	of
+7	Corp.	_	_	NNP	_	6	???	_	_	of
 
 1	Foreign	_	_	NNP	_	4	???	_	_	Board
 2	Investment	_	_	NNP	_	4	???	_	_	Board
@@ -200,9 +196,6 @@
 4	''	_	_	''	_	2	???	_	_	machikin
 5	which	_	_	WDT	_	6	SUBJ	_	_	lend
 6	lend	_	_	VBP	_	2	???	_	_	machikin
-7	to	_	_	TO	_	6	???	_	_	lend
-8	small	_	_	JJ	_	9	???	_	_	companies
-9	companies	_	_	NNS	_	7	???	_	_	to
 
 1	investment	_	_	NN	_	3	???	_	_	activities
 2	banking	_	_	NN	_	3	???	_	_	activities
@@ -216,11 +209,10 @@
 3	of	_	_	IN	_	2	???	_	_	Kurland
 4	the	_	_	DT	_	5	???	_	_	University
 5	University	_	_	NNP	_	3	???	_	_	of
-6	of	_	_	IN	_	5	???	_	_	University
-7	Chicago	_	_	NNP	_	6	???	_	_	of
 
-1	students	_	_	NNS	_	2	???	_	_	offices
-2	offices	_	_	NNS	_	0	ROOT	_	_	ROOT
+1	doctors	_	_	NNS	_	2	???	_	_	'
+2	'	_	_	POS	_	3	???	_	_	offices
+3	offices	_	_	NNS	_	0	ROOT	_	_	ROOT
 
 1	respect	_	_	NN	_	0	ROOT	_	_	ROOT
 2	for	_	_	IN	_	1	???	_	_	respect
@@ -254,7 +246,8 @@
 
 1	$	_	_	$	_	2	???	_	_	1.50
 2	1.50	_	_	CD	_	0	ROOT	_	_	ROOT
-3	students	_	_	NNS	_	2	???	_	_	1.50
+3	a	_	_	DT	_	4	???	_	_	share
+4	share	_	_	NN	_	2	???	_	_	1.50
 
 1	$	_	_	$	_	2	???	_	_	1.50
 2	1.50	_	_	CD	_	0	ROOT	_	_	ROOT
@@ -263,41 +256,35 @@
 2	mutual	_	_	JJ	_	3	???	_	_	fund
 3	fund	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	thinly	_	_	RB	_	2	???	_	_	stretched
-2	stretched	_	_	VBN	_	3	???	_	_	resources
-3	resources	_	_	NNS	_	0	ROOT	_	_	ROOT
+1	stretched	_	_	VBN	_	2	???	_	_	resources
+2	resources	_	_	NNS	_	0	ROOT	_	_	ROOT
 
 1	transformation	_	_	NN	_	0	ROOT	_	_	ROOT
 2	of	_	_	IN	_	1	???	_	_	transformation
 3	their	_	_	PRP$	_	4	???	_	_	industry
 4	industry	_	_	NN	_	2	???	_	_	of
 5	over	_	_	IN	_	1	???	_	_	transformation
-6	the	_	_	DT	_	9	???	_	_	years
-7	past	_	_	JJ	_	9	???	_	_	years
-8	10	_	_	CD	_	9	???	_	_	years
-9	years	_	_	NNS	_	5	???	_	_	over
+6	the	_	_	DT	_	7	???	_	_	years
+7	years	_	_	NNS	_	5	???	_	_	over
 
 1	largest	_	_	JJS	_	2	???	_	_	lender
 2	lender	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	with	_	_	IN	_	5	???	_	_	fabricate
+1	wafers	_	_	NNS	_	0	ROOT	_	_	ROOT
+2	with	_	_	IN	_	1	???	_	_	wafers
 3	which	_	_	WDT	_	2	???	_	_	with
-4	to	_	_	TO	_	1	???	_	_	students
+4	to	_	_	TO	_	2	???	_	_	with
 5	fabricate	_	_	VB	_	4	???	_	_	to
 6	chips	_	_	NNS	_	5	OBJ-DO	_	_	fabricate
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	ended	_	_	VBN	_	1	???	_	_	students
-3	in	_	_	IN	_	2	???	_	_	ended
-4	June	_	_	NNP	_	3	???	_	_	in
+1	the	_	_	DT	_	2	???	_	_	months
+2	months	_	_	NNS	_	0	ROOT	_	_	ROOT
+3	ended	_	_	VBN	_	2	???	_	_	months
 
 1	Libera	_	_	FW	_	0	ROOT	_	_	ROOT
 2	me	_	_	FW	_	1	???	_	_	Libera
 
-1	$	_	_	$	_	0	ROOT	_	_	ROOT
-2	304	_	_	CD	_	1	???	_	_	$
-3	million	_	_	CD	_	1	???	_	_	$
+1	million	_	_	CD	_	0	ROOT	_	_	ROOT
 
 1	doctors	_	_	NNS	_	2	???	_	_	'
 2	'	_	_	POS	_	3	???	_	_	offices
@@ -311,27 +298,28 @@
 
 1	common	_	_	JJ	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	2	???	_	_	Japan
-2	Japan	_	_	NNP	_	0	ROOT	_	_	ROOT
+1	The	_	_	DT	_	3	???	_	_	's
+2	Insider	_	_	NNP	_	3	???	_	_	's
+3	's	_	_	POS	_	4	???	_	_	Japan
+4	Japan	_	_	NNP	_	0	ROOT	_	_	ROOT
 
-1	``	_	_	``	_	2	???	_	_	students
-2	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-3	:	_	_	:	_	2	???	_	_	students
-4	students	_	_	NNS	_	2	???	_	_	students
+1	``	_	_	``	_	2	???	_	_	Enterprise
+2	Enterprise	_	_	NN	_	0	ROOT	_	_	ROOT
+3	:	_	_	:	_	2	???	_	_	Enterprise
+4	Row	_	_	NNP	_	2	???	_	_	Enterprise
 
 1	western-style	_	_	JJ	_	4	???	_	_	boots
 2	hat	_	_	NN	_	4	???	_	_	boots
 3	and	_	_	CC	_	4	???	_	_	boots
 4	boots	_	_	NNS	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	:	_	_	:	_	1	???	_	_	students
-3	How	_	_	WRB	_	1	???	_	_	students
-4	the	_	_	DT	_	6	???	_	_	Nomination
-5	Bork	_	_	NNP	_	6	???	_	_	Nomination
-6	Nomination	_	_	NN	_	7	SUBJ	_	_	Shook
-7	Shook	_	_	VBD	_	3	???	_	_	How
-8	America	_	_	NNP	_	7	OBJ-DO	_	_	Shook
+1	Battle	_	_	NN	_	0	ROOT	_	_	ROOT
+2	:	_	_	:	_	1	???	_	_	Battle
+3	How	_	_	WRB	_	1	???	_	_	Battle
+4	the	_	_	DT	_	5	???	_	_	Nomination
+5	Nomination	_	_	NN	_	6	SUBJ	_	_	Shook
+6	Shook	_	_	VBD	_	3	???	_	_	How
+7	America	_	_	NNP	_	6	OBJ-DO	_	_	Shook
 
 1	same	_	_	JJ	_	2	???	_	_	pay
 2	pay	_	_	NN	_	0	ROOT	_	_	ROOT
@@ -344,7 +332,7 @@
 3	pay	_	_	NN	_	4	???	_	_	increase
 4	increase	_	_	NN	_	0	ROOT	_	_	ROOT
 5	and	_	_	CC	_	4	???	_	_	increase
-6	students	_	_	NNS	_	5	???	_	_	and
+6	bonus	_	_	NN	_	5	???	_	_	and
 
 1	early	_	_	RB	_	2	???	_	_	'80s
 2	'80s	_	_	CD	_	0	ROOT	_	_	ROOT
@@ -393,7 +381,7 @@
 1	Joachim	_	_	NNP	_	2	???	_	_	Hermann
 2	Hermann	_	_	NNP	_	0	ROOT	_	_	ROOT
 3	,	_	_	,	_	2	???	_	_	Hermann
-4	students	_	_	NNS	_	2	???	_	_	Hermann
+4	chief	_	_	NN	_	2	???	_	_	Hermann
 
 1	processing	_	_	NN	_	3	???	_	_	guaranteeing
 2	and	_	_	CC	_	3	???	_	_	guaranteeing
@@ -408,8 +396,9 @@
 1	older	_	_	JJR	_	2	???	_	_	son
 2	son	_	_	NN	_	0	ROOT	_	_	ROOT
 3	--	_	_	:	_	2	???	_	_	son
-4	students	_	_	NNS	_	2	???	_	_	son
-5	--	_	_	:	_	2	???	_	_	son
+4	a	_	_	DT	_	5	???	_	_	prodigy
+5	prodigy	_	_	NN	_	2	???	_	_	son
+6	--	_	_	:	_	2	???	_	_	son
 
 1	American	_	_	NNP	_	4	???	_	_	Buying
 2	Way	_	_	NNP	_	4	???	_	_	Buying
@@ -423,14 +412,14 @@
 
 1	meeting	_	_	VBG	_	0	ROOT	_	_	ROOT
 
-1	``	_	_	``	_	2	???	_	_	students
-2	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-3	of	_	_	IN	_	2	???	_	_	students
-4	the	_	_	DT	_	6	???	_	_	Reich
-5	Third	_	_	NNP	_	6	???	_	_	Reich
-6	Reich	_	_	NNP	_	3	???	_	_	of
-7	,	_	_	,	_	2	???	_	_	students
-8	''	_	_	''	_	2	???	_	_	students
+1	``	_	_	``	_	3	???	_	_	Fall
+2	The	_	_	DT	_	3	???	_	_	Fall
+3	Fall	_	_	NN	_	0	ROOT	_	_	ROOT
+4	of	_	_	IN	_	3	???	_	_	Fall
+5	the	_	_	DT	_	6	???	_	_	Reich
+6	Reich	_	_	NNP	_	4	???	_	_	of
+7	,	_	_	,	_	3	???	_	_	Fall
+8	''	_	_	''	_	3	???	_	_	Fall
 
 1	older	_	_	JJR	_	2	???	_	_	son
 2	son	_	_	NN	_	0	ROOT	_	_	ROOT
@@ -438,9 +427,6 @@
 1	readiness	_	_	NN	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	readiness
 3	embark	_	_	VB	_	2	???	_	_	to
-4	on	_	_	IN	_	3	???	_	_	embark
-5	foreign	_	_	JJ	_	6	???	_	_	visits
-6	visits	_	_	NNS	_	4	???	_	_	on
 
 1	The	_	_	DT	_	3	???	_	_	Goodbye
 2	Long	_	_	NNP	_	3	???	_	_	Goodbye
@@ -465,19 +451,13 @@
 1	steady	_	_	JJ	_	2	???	_	_	accumulation
 2	accumulation	_	_	NN	_	0	ROOT	_	_	ROOT
 3	of	_	_	IN	_	2	???	_	_	accumulation
-4	personal	_	_	JJ	_	5	???	_	_	power
-5	power	_	_	NN	_	3	???	_	_	of
-6	,	_	_	,	_	2	???	_	_	accumulation
-7	particularly	_	_	RB	_	8	???	_	_	since
-8	since	_	_	IN	_	2	???	_	_	accumulation
-9	the	_	_	DT	_	12	???	_	_	reshuffle
-10	last	_	_	JJ	_	12	???	_	_	reshuffle
-11	Politburo	_	_	NNP	_	12	???	_	_	reshuffle
-12	reshuffle	_	_	NN	_	8	???	_	_	since
-13	on	_	_	IN	_	12	???	_	_	reshuffle
-14	Sept.	_	_	NNP	_	13	???	_	_	on
-15	30	_	_	CD	_	14	???	_	_	Sept.
-16	,	_	_	,	_	2	???	_	_	accumulation
+4	power	_	_	NN	_	3	???	_	_	of
+5	,	_	_	,	_	2	???	_	_	accumulation
+6	particularly	_	_	RB	_	7	???	_	_	since
+7	since	_	_	IN	_	2	???	_	_	accumulation
+8	the	_	_	DT	_	9	???	_	_	reshuffle
+9	reshuffle	_	_	NN	_	7	???	_	_	since
+10	,	_	_	,	_	2	???	_	_	accumulation
 
 1	rising	_	_	VBG	_	2	???	_	_	cost
 2	cost	_	_	NN	_	0	ROOT	_	_	ROOT
@@ -490,11 +470,10 @@
 2	Vento	_	_	NNP	_	0	ROOT	_	_	ROOT
 3	-LRB-	_	_	-LRB-	_	4	???	_	_	D.
 4	D.	_	_	NNP	_	2	???	_	_	Vento
-5	,	_	_	,	_	4	???	_	_	D.
-6	Minn.	_	_	NNP	_	4	???	_	_	D.
-7	-RRB-	_	_	-RRB-	_	4	???	_	_	D.
-8	,	_	_	,	_	2	???	_	_	Vento
-9	students	_	_	NNS	_	2	???	_	_	Vento
+5	-RRB-	_	_	-RRB-	_	4	???	_	_	D.
+6	,	_	_	,	_	2	???	_	_	Vento
+7	the	_	_	DT	_	8	???	_	_	chairman
+8	chairman	_	_	NN	_	2	???	_	_	Vento
 
 1	Il	_	_	NNP	_	4	???	_	_	Ore
 2	Sole	_	_	NNP	_	4	???	_	_	Ore
@@ -507,12 +486,10 @@
 1	stock	_	_	NN	_	0	ROOT	_	_	ROOT
 2	offering	_	_	VBG	_	1	???	_	_	stock
 
-1	annual	_	_	JJ	_	6	???	_	_	audit
-2	$	_	_	$	_	6	???	_	_	audit
-3	18	_	_	CD	_	2	???	_	_	$
-4	million	_	_	CD	_	2	???	_	_	$
-5	world-wide	_	_	JJ	_	6	???	_	_	audit
-6	audit	_	_	NN	_	0	ROOT	_	_	ROOT
+1	annual	_	_	JJ	_	4	???	_	_	audit
+2	million	_	_	CD	_	4	???	_	_	audit
+3	world-wide	_	_	JJ	_	4	???	_	_	audit
+4	audit	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	judgment	_	_	NN	_	0	ROOT	_	_	ROOT
 2	-LCB-	_	_	-LRB-	_	1	???	_	_	judgment
@@ -535,11 +512,9 @@
 3	,	_	_	,	_	2	???	_	_	Mittag
 4	who	_	_	WP	_	5	SUBJ	_	_	has
 5	has	_	_	VBZ	_	2	???	_	_	Mittag
-6	long	_	_	RB	_	5	???	_	_	has
-7	headed	_	_	VBN	_	5	???	_	_	has
-8	economic	_	_	JJ	_	9	???	_	_	affairs
-9	affairs	_	_	NNS	_	7	OBJ-DO	_	_	headed
-10	,	_	_	,	_	2	???	_	_	Mittag
+6	headed	_	_	VBN	_	5	???	_	_	has
+7	affairs	_	_	NNS	_	6	OBJ-DO	_	_	headed
+8	,	_	_	,	_	2	???	_	_	Mittag
 
 1	35,000	_	_	CD	_	2	???	_	_	business
 2	business	_	_	NN	_	0	ROOT	_	_	ROOT
@@ -567,7 +542,8 @@
 5	underdressed	_	_	JJ	_	6	???	_	_	dancer
 6	dancer	_	_	NN	_	2	???	_	_	singer
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+1	A	_	_	DT	_	2	???	_	_	Chase
+2	Chase	_	_	NNP	_	0	ROOT	_	_	ROOT
 
 1	The	_	_	DT	_	2	???	_	_	Grapes
 2	Grapes	_	_	NNS	_	0	ROOT	_	_	ROOT
@@ -586,30 +562,7 @@
 8	do	_	_	VBP	_	3	???	_	_	allies
 9	n't	_	_	RB	_	8	???	_	_	do
 10	have	_	_	VB	_	8	???	_	_	do
-11	adequate	_	_	JJ	_	12	???	_	_	staffs
-12	staffs	_	_	NNS	_	10	OBJ-DO	_	_	have
-13	0_NULL	_	_	-NONE-	_	14	SUBJ	_	_	to
-14	to	_	_	TO	_	12	???	_	_	staffs
-15	provide	_	_	VB	_	14	???	_	_	to
-16	quick	_	_	JJ	_	17	???	_	_	answers
-17	answers	_	_	NNS	_	15	OBJ-DO	_	_	provide
-18	to	_	_	TO	_	17	???	_	_	answers
-19	the	_	_	DT	_	20	???	_	_	questions
-20	questions	_	_	NNS	_	18	???	_	_	to
-21	being	_	_	VBG	_	20	???	_	_	questions
-22	raised	_	_	VBN	_	21	???	_	_	being
-23	by	_	_	IN	_	22	???	_	_	raised
-24	what	_	_	WP	_	26	SUBJ	_	_	are
-25	generally	_	_	RB	_	26	???	_	_	are
-26	are	_	_	VBP	_	23	???	_	_	by
-27	considered	_	_	VBN	_	26	???	_	_	are
-28	the	_	_	DT	_	32	???	_	_	talks
-29	most	_	_	RBS	_	30	???	_	_	complex
-30	complex	_	_	JJ	_	32	???	_	_	talks
-31	arms-control	_	_	NN	_	32	???	_	_	talks
-32	talks	_	_	NNS	_	27	???	_	_	considered
-33	ever	_	_	RB	_	34	???	_	_	attempted
-34	attempted	_	_	VBN	_	32	???	_	_	talks
+11	staffs	_	_	NNS	_	10	OBJ-DO	_	_	have
 
 1	``	_	_	``	_	2	???	_	_	Boheme
 2	Boheme	_	_	NNP	_	0	ROOT	_	_	ROOT
@@ -641,9 +594,10 @@
 1	operating	_	_	VBG	_	2	???	_	_	profit
 2	profit	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	3	???	_	_	Bouquet
-2	Love	_	_	NNP	_	3	???	_	_	Bouquet
-3	Bouquet	_	_	NNP	_	0	ROOT	_	_	ROOT
+1	Snoopy	_	_	NNP	_	2	???	_	_	's
+2	's	_	_	POS	_	4	???	_	_	Bouquet
+3	Love	_	_	NNP	_	4	???	_	_	Bouquet
+4	Bouquet	_	_	NNP	_	0	ROOT	_	_	ROOT
 
 1	even	_	_	RB	_	3	???	_	_	industrialists
 2	some	_	_	DT	_	3	???	_	_	industrialists
@@ -667,9 +621,9 @@
 7	or	_	_	CC	_	4	???	_	_	or
 8	Michelangelos	_	_	NNPS	_	7	???	_	_	or
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	:	_	_	:	_	1	???	_	_	students
-3	students	_	_	NNS	_	1	???	_	_	students
+1	Messiah	_	_	NNP	_	0	ROOT	_	_	ROOT
+2	:	_	_	:	_	1	???	_	_	Messiah
+3	Story	_	_	NNP	_	1	???	_	_	Messiah
 
 
 
@@ -712,10 +666,9 @@
 5	Work	_	_	NNP	_	4	???	_	_	to
 6	Act	_	_	NNP	_	0	ROOT	_	_	ROOT
 
-1	allegedly	_	_	RB	_	2	???	_	_	pervasive
-2	pervasive	_	_	JJ	_	4	???	_	_	irregularities
-3	billing	_	_	NN	_	4	???	_	_	irregularities
-4	irregularities	_	_	NNS	_	0	ROOT	_	_	ROOT
+1	pervasive	_	_	JJ	_	3	???	_	_	irregularities
+2	billing	_	_	NN	_	3	???	_	_	irregularities
+3	irregularities	_	_	NNS	_	0	ROOT	_	_	ROOT
 
 1	Dun	_	_	NNP	_	4	???	_	_	director
 2	&	_	_	CC	_	4	???	_	_	director

@@ -7,9 +7,10 @@
 1	0_NULL	_	_	-NONE-	_	0	ROOT	_	_	ROOT
 
 1	for	_	_	IN	_	0	ROOT	_	_	ROOT
-2	what	_	_	WP	_	3	SUBJ	_	_	breaks
-3	breaks	_	_	VBZ	_	1	???	_	_	for
+2	what	_	_	WP	_	3	SUBJ	_	_	looks
+3	looks	_	_	VBZ	_	1	???	_	_	for
 
 1	of	_	_	IN	_	0	ROOT	_	_	ROOT
-2	students	_	_	NNS	_	1	???	_	_	of
+2	whose	_	_	WP$	_	3	???	_	_	programs
+3	programs	_	_	NNS	_	1	???	_	_	of
 

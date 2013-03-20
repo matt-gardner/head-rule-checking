@@ -45,7 +45,7 @@
 
 (WHNP-1
   (NP
-    (NNS students))
+    (DT some))
   (WHPP
     (IN of)
     (WHNP
@@ -57,11 +57,13 @@
 
 (WHNP-1
   (NP
-    (NNS students))
+    (WP$ whose)
+    (NN income))
   (PP-TMP
     (IN for)
     (NP
-      (NNS students))))
+      (DT the)
+      (NN quarter))))
 
 (WHNP-2
   (WP$ whose)
@@ -126,7 +128,7 @@
 (WHNP-1
   (WP$ whose)
   (NP
-    (NNS students)))
+    (NN father)))
 
 (WHNP
   (WHADVP
@@ -148,7 +150,8 @@
   (PRN
     (-LRB- -LRB-)
     (NP
-      (NNS students))
+      (NP
+        (NNS changes)))
     (-RRB- -RRB-)))
 
 (WHNP-1
@@ -160,7 +163,7 @@
   (WHNP
     (WDT which))
   (NP
-    (NNS students)))
+    (PRP itself)))
 
 (WHNP
   (DT the)
@@ -231,7 +234,7 @@
     (NN company))
   (, ,)
   (NP
-    (NNS students))
+    (NNP Inc.))
   (, ,))
 
 (WHNP-1
@@ -254,8 +257,6 @@
 (WHNP
   (QP
     (IN about)
-    ($ $)
-    (CD 34)
     (CD million))
   (-NONE- *U*))
 
@@ -305,7 +306,7 @@
   (PP
     (IN of)
     (NP
-      (NNS students)))
+      (NN escape)))
   (ADJP
     (-NONE- *ICH*-2)))
 
@@ -317,10 +318,10 @@
     (PP
       (IN on)
       (NP
-        (NNS students))))
+        (NNP Germany))))
   (, ,)
   (VP
-    (VBN broken))
+    (VBN entitled))
   (, ,)
   ('' ''))
 
@@ -398,7 +399,8 @@
 (WHNP
   (WP what)
   (NP
-    (NNS students)))
+    (DT a)
+    (NN coup)))
 
 (WHNP-1
   (WP$ whose)
@@ -440,11 +442,11 @@
   (PP
     (IN for)
     (NP
-      (NNS students)))
+      (NNP UAL)))
   (PP-TMP
     (IN in)
     (NP
-      (NNS students))))
+      (NNP August))))
 
 (WHNP-1
   (WRB Where))
@@ -452,7 +454,8 @@
 (WHNP-2
   (WP$ whose)
   (NP
-    (NNS students))
+    (NNP Lloyd)
+    (POS 's))
   (NN membership))
 
 (WHNP-2
@@ -479,7 +482,6 @@
 
 (WHNP
   (QP
-    (CD 6.5)
     (CD million)))
 
 (WHNP-1
@@ -496,7 +498,8 @@
     (NN novel))
   (, ,)
   (NP
-    (NNS students)))
+    (NP-TTL
+      (NNP Majestic))))
 
 (WHNP-1
   (WRB How)
@@ -576,10 +579,11 @@
 
 (WHNP-1
   (NP
-    (NNS students))
+    (WP$ whose)
+    (NN company))
   (, ,)
   (NP
-    (NNS students))
+    (NNP Group))
   (, ,))
 
 (WHNP-5
@@ -603,7 +607,7 @@
   (PP
     (IN of)
     (NP
-      (NNS students))))
+      (NN policy))))
 
 (WHNP
   (WP$ whose)
@@ -642,7 +646,7 @@
   (PP
     (IN of)
     (NP
-      (NNS students)))
+      (NN man)))
   (SBAR
     (-NONE- *ICH*-6)))
 
@@ -670,13 +674,13 @@
 
 (WHNP-1
   (QP
-    (RB nearly)
-    (JJ double))
+    (RB nearly))
   (WP what))
 
 (WHNP-1
   (NP
-    (NNS students))
+    (WDT which)
+    (NNS partnerships))
   (PRN
     (-LRB- -LCB-)
     (PP
@@ -701,7 +705,7 @@
     (PP
       (IN if)
       (NP
-        (NNS students)))
+        (DT any)))
     (, ,))
   (NN version))
 

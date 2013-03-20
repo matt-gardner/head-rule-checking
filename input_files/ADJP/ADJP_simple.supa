@@ -5,18 +5,18 @@
 
 1	aware	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	of	_	_	IN	_	1	???	_	_	aware
-3	students	_	_	NNS	_	2	???	_	_	of
+3	any	_	_	DT	_	4	???	_	_	research
+4	research	_	_	NN	_	2	???	_	_	of
 
 1	83.4	_	_	CD	_	2	???	_	_	%
 2	%	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	$	_	_	$	_	0	ROOT	_	_	ROOT
-2	2.29	_	_	CD	_	1	???	_	_	$
-3	billion	_	_	CD	_	1	???	_	_	$
+1	billion	_	_	CD	_	0	ROOT	_	_	ROOT
 
 1	likely	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	likely
-3	break	_	_	VB	_	2	???	_	_	to
+3	bring	_	_	VB	_	2	???	_	_	to
+4	attention	_	_	NN	_	3	OBJ-DO	_	_	bring
 
 1	substantial	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	substantial
@@ -25,11 +25,10 @@
 1	recently	_	_	RB	_	2	???	_	_	diagnosed
 2	diagnosed	_	_	VBN	_	0	ROOT	_	_	ROOT
 
-1	twice	_	_	RB	_	3	???	_	_	many
-2	as	_	_	RB	_	3	???	_	_	many
-3	many	_	_	JJ	_	0	ROOT	_	_	ROOT
-4	as	_	_	IN	_	3	???	_	_	many
-5	students	_	_	NNS	_	4	???	_	_	as
+1	many	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	as	_	_	IN	_	1	???	_	_	many
+3	the	_	_	DT	_	4	???	_	_	supercomputer
+4	supercomputer	_	_	NN	_	2	???	_	_	as
 
 1	stronger	_	_	JJR	_	0	ROOT	_	_	ROOT
 
@@ -37,7 +36,7 @@
 2	satisfactory	_	_	JJ	_	0	ROOT	_	_	ROOT
 
 1	worth	_	_	JJ	_	0	ROOT	_	_	ROOT
-2	students	_	_	NNS	_	1	???	_	_	worth
+2	it	_	_	PRP	_	1	???	_	_	worth
 
 1	far	_	_	RB	_	2	???	_	_	higher
 2	higher	_	_	JJR	_	0	ROOT	_	_	ROOT
@@ -51,57 +50,53 @@
 1	extremely	_	_	RB	_	2	???	_	_	attractive
 2	attractive	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	attractive
-4	students	_	_	NNS	_	3	???	_	_	to
+4	investors	_	_	NNS	_	3	???	_	_	to
 
 1	easy	_	_	JJ	_	0	ROOT	_	_	ROOT
-2	0_NULL	_	_	-NONE-	_	1	???	_	_	easy
-3	to	_	_	TO	_	2	???	_	_	0_NULL
-4	break	_	_	VB	_	3	???	_	_	to
+2	0_NULL	_	_	-NONE-	_	4	OBJ-DO	_	_	sell
+3	to	_	_	TO	_	1	???	_	_	easy
+4	sell	_	_	VB	_	3	???	_	_	to
 
 1	$	_	_	$	_	0	ROOT	_	_	ROOT
 2	250	_	_	CD	_	1	???	_	_	$
 
 
 
-1	far	_	_	RB	_	2	???	_	_	higher
-2	higher	_	_	JJR	_	0	ROOT	_	_	ROOT
-3	than	_	_	IN	_	2	???	_	_	higher
-4	broken	_	_	VBN	_	3	???	_	_	than
+1	higher	_	_	JJR	_	0	ROOT	_	_	ROOT
+2	than	_	_	IN	_	1	???	_	_	higher
+3	expected	_	_	VBN	_	2	???	_	_	than
 
 1	imaginative	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	imaginative
-3	often	_	_	RB	_	4	???	_	_	funny
-4	funny	_	_	JJ	_	2	???	_	_	and
+3	funny	_	_	JJ	_	2	???	_	_	and
 
-1	students	_	_	NNS	_	2	???	_	_	old
+1	years	_	_	NNS	_	2	???	_	_	old
 2	old	_	_	JJ	_	0	ROOT	_	_	ROOT
 
 1	related	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	related
-3	students	_	_	NNS	_	2	???	_	_	to
+3	the	_	_	DT	_	4	???	_	_	development
+4	development	_	_	NN	_	2	???	_	_	to
 
-1	a	_	_	DT	_	2	???	_	_	mere
-2	mere	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	0.7	_	_	CD	_	2	???	_	_	mere
-4	%	_	_	NN	_	2	???	_	_	mere
+1	0.7	_	_	CD	_	0	ROOT	_	_	ROOT
+2	%	_	_	NN	_	1	???	_	_	0.7
 
 1	involved	_	_	VBN	_	0	ROOT	_	_	ROOT
 
 1	high	_	_	RB	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	2	???	_	_	higher
+1	%	_	_	NN	_	2	???	_	_	higher
 2	higher	_	_	JJR	_	0	ROOT	_	_	ROOT
 
-1	almost	_	_	RB	_	2	???	_	_	entirely
-2	entirely	_	_	RB	_	0	ROOT	_	_	ROOT
-3	Western	_	_	JJ	_	2	???	_	_	entirely
+1	entirely	_	_	RB	_	0	ROOT	_	_	ROOT
+2	Western	_	_	JJ	_	1	???	_	_	entirely
 
 1	New	_	_	NNP	_	2	???	_	_	York-based
 2	York-based	_	_	JJ	_	0	ROOT	_	_	ROOT
 
 1	wrong	_	_	RB	_	0	ROOT	_	_	ROOT
 2	with	_	_	IN	_	1	???	_	_	wrong
-3	students	_	_	NNS	_	2	???	_	_	with
+3	making	_	_	NN	_	2	???	_	_	with
 
 1	twice	_	_	RB	_	3	???	_	_	many
 2	as	_	_	RB	_	3	???	_	_	many
@@ -113,20 +108,21 @@
 1	less	_	_	RBR	_	2	???	_	_	resistant
 2	resistant	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	resistant
-4	breaking	_	_	VBG	_	3	???	_	_	to
+4	paying	_	_	VBG	_	3	???	_	_	to
+5	prices	_	_	NNS	_	4	OBJ-DO	_	_	paying
 
 1	very	_	_	RB	_	2	???	_	_	expensive
 2	expensive	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	0_NULL	_	_	-NONE-	_	2	???	_	_	expensive
-4	to	_	_	TO	_	3	???	_	_	0_NULL
-5	break	_	_	VB	_	4	???	_	_	to
+3	0_NULL	_	_	-NONE-	_	5	OBJ-DO	_	_	maintain
+4	to	_	_	TO	_	2	???	_	_	expensive
+5	maintain	_	_	VB	_	4	???	_	_	to
 
 1	too	_	_	RB	_	2	???	_	_	high
 2	high	_	_	JJ	_	0	ROOT	_	_	ROOT
 
 1	better	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	than	_	_	IN	_	1	???	_	_	better
-3	students	_	_	NNS	_	2	???	_	_	than
+3	period	_	_	NN	_	2	???	_	_	than
 
 1	far	_	_	RB	_	3	???	_	_	conspicuous
 2	less	_	_	RBR	_	3	???	_	_	conspicuous
@@ -160,29 +156,26 @@
 1	better	_	_	RBR	_	2	???	_	_	able
 2	able	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	able
-4	break	_	_	VB	_	3	???	_	_	to
+4	get	_	_	VB	_	3	???	_	_	to
 
 1	too	_	_	RB	_	0	ROOT	_	_	ROOT
 2	early	_	_	RB	_	1	???	_	_	too
 
-1	four	_	_	CD	_	0	ROOT	_	_	ROOT
-2	billion	_	_	CD	_	1	???	_	_	four
-3	French	_	_	NNP	_	1	???	_	_	four
-4	franc	_	_	NN	_	1	???	_	_	four
-5	-LRB-	_	_	-LRB-	_	6	???	_	_	$
-6	$	_	_	$	_	1	???	_	_	four
-7	650	_	_	CD	_	6	???	_	_	$
-8	million	_	_	CD	_	6	???	_	_	$
-9	-RRB-	_	_	-RRB-	_	6	???	_	_	$
+1	billion	_	_	CD	_	0	ROOT	_	_	ROOT
+2	French	_	_	NNP	_	1	???	_	_	billion
+3	franc	_	_	NN	_	1	???	_	_	billion
+4	-LRB-	_	_	-LRB-	_	5	???	_	_	million
+5	million	_	_	CD	_	1	???	_	_	billion
+6	-RRB-	_	_	-RRB-	_	5	???	_	_	million
 
 1	previously	_	_	RB	_	0	ROOT	_	_	ROOT
 2	announced	_	_	VBN	_	1	???	_	_	previously
 
 1	convertible	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	into	_	_	IN	_	1	???	_	_	convertible
-3	students	_	_	NNS	_	2	???	_	_	into
+3	stock	_	_	NN	_	2	???	_	_	into
 4	at	_	_	IN	_	1	???	_	_	convertible
-5	students	_	_	NNS	_	4	???	_	_	at
+5	$	_	_	$	_	4	???	_	_	at
 
 1	More	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	More
@@ -194,19 +187,18 @@
 1	wicked	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	3	???	_	_	but
 3	but	_	_	CC	_	1	???	_	_	wicked
-4	not	_	_	RB	_	5	???	_	_	foolish
-5	foolish	_	_	JJ	_	3	???	_	_	but
+4	foolish	_	_	JJ	_	3	???	_	_	but
 
 1	worried	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	that	_	_	IN	_	1	???	_	_	worried
-3	students	_	_	NNS	_	4	SUBJ	_	_	will
+3	ratings	_	_	NNS	_	4	SUBJ	_	_	will
 4	will	_	_	MD	_	2	???	_	_	that
-5	break	_	_	VB	_	4	???	_	_	will
+5	continue	_	_	VB	_	4	???	_	_	will
 
 1	payable	_	_	JJ	_	0	ROOT	_	_	ROOT
-2	students	_	_	NNS	_	1	???	_	_	payable
+2	Jan.	_	_	NNP	_	1	???	_	_	payable
 3	to	_	_	TO	_	1	???	_	_	payable
-4	students	_	_	NNS	_	3	???	_	_	to
+4	stock	_	_	NN	_	3	???	_	_	to
 
 1	scientific	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	scientific
@@ -220,13 +212,13 @@
 1	bad	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	enough	_	_	RB	_	1	???	_	_	bad
 3	to	_	_	TO	_	1	???	_	_	bad
-4	break	_	_	VB	_	3	???	_	_	to
-5	under	_	_	IN	_	3	???	_	_	to
-6	students	_	_	NNS	_	5	???	_	_	under
+4	merit	_	_	VB	_	3	???	_	_	to
+5	an	_	_	DT	_	6	???	_	_	investigation
+6	investigation	_	_	NN	_	4	OBJ-DO	_	_	merit
 
 1	surprised	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	surprised
-3	break	_	_	VB	_	2	???	_	_	to
+3	see	_	_	VB	_	2	???	_	_	to
 
 1	more	_	_	JJR	_	2	???	_	_	economical
 2	economical	_	_	JJ	_	0	ROOT	_	_	ROOT
@@ -237,7 +229,7 @@
 1	partially	_	_	RB	_	2	???	_	_	closed
 2	closed	_	_	VBN	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	closed
-4	students	_	_	NNS	_	3	???	_	_	to
+4	investors	_	_	NNS	_	3	???	_	_	to
 
 1	so	_	_	RB	_	4	???	_	_	minute
 2	fragile	_	_	JJ	_	4	???	_	_	minute
@@ -254,11 +246,11 @@
 1	rate	_	_	NN	_	0	ROOT	_	_	ROOT
 2	capped	_	_	JJ	_	1	???	_	_	rate
 
-1	so	_	_	RB	_	2	???	_	_	much
-2	much	_	_	RB	_	0	ROOT	_	_	ROOT
-3	interested	_	_	JJ	_	2	???	_	_	much
-4	in	_	_	IN	_	2	???	_	_	much
-5	students	_	_	NNS	_	4	???	_	_	in
+1	much	_	_	RB	_	0	ROOT	_	_	ROOT
+2	interested	_	_	JJ	_	1	???	_	_	much
+3	in	_	_	IN	_	1	???	_	_	much
+4	a	_	_	DT	_	5	???	_	_	return
+5	return	_	_	NN	_	3	???	_	_	in
 
 1	retail	_	_	NN	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	retail
@@ -266,9 +258,11 @@
 
 1	better	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	for	_	_	IN	_	1	???	_	_	better
-3	students	_	_	NNS	_	2	???	_	_	for
-4	than	_	_	IN	_	1	???	_	_	better
-5	students	_	_	NNS	_	4	???	_	_	than
+3	the	_	_	DT	_	4	???	_	_	neighborhood
+4	neighborhood	_	_	NN	_	2	???	_	_	for
+5	than	_	_	IN	_	1	???	_	_	better
+6	a	_	_	DT	_	7	???	_	_	house
+7	house	_	_	NN	_	5	???	_	_	than
 
 1	up	_	_	IN	_	0	ROOT	_	_	ROOT
 
@@ -280,9 +274,7 @@
 2	,	_	_	,	_	1	???	_	_	clearer
 3	safer	_	_	JJR	_	2	???	_	_	,
 4	and	_	_	CC	_	2	???	_	_	,
-5	ultimately	_	_	RB	_	7	???	_	_	useful
-6	more	_	_	RBR	_	7	???	_	_	useful
-7	useful	_	_	JJ	_	4	???	_	_	and
+5	useful	_	_	JJ	_	4	???	_	_	and
 
 1	worth	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	much	_	_	RB	_	1	???	_	_	worth
@@ -291,7 +283,8 @@
 
 1	likely	_	_	RB	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	likely
-3	break	_	_	VB	_	2	???	_	_	to
+3	be	_	_	VB	_	2	???	_	_	to
+4	built	_	_	VBN	_	3	???	_	_	be
 
 1	second	_	_	JJ	_	2	???	_	_	largest
 2	largest	_	_	JJS	_	0	ROOT	_	_	ROOT
@@ -299,22 +292,22 @@
 1	much	_	_	RB	_	2	???	_	_	smaller
 2	smaller	_	_	JJR	_	0	ROOT	_	_	ROOT
 3	than	_	_	IN	_	2	???	_	_	smaller
-4	students	_	_	NNS	_	3	???	_	_	than
+4	Sun	_	_	NNP	_	3	???	_	_	than
 
-1	hard	_	_	RB	_	2	???	_	_	0_NULL
-2	0_NULL	_	_	-NONE-	_	0	ROOT	_	_	ROOT
-3	to	_	_	TO	_	2	???	_	_	0_NULL
-4	break	_	_	VB	_	3	???	_	_	to
+1	hard	_	_	RB	_	3	???	_	_	to
+2	0_NULL	_	_	-NONE-	_	4	OBJ-DO	_	_	take
+3	to	_	_	TO	_	0	ROOT	_	_	ROOT
+4	take	_	_	VB	_	3	???	_	_	to
 
 1	less	_	_	RBR	_	2	???	_	_	cluttered
 2	cluttered	_	_	VBN	_	0	ROOT	_	_	ROOT
 
 1	easier	_	_	JJR	_	0	ROOT	_	_	ROOT
-2	0_NULL	_	_	-NONE-	_	1	???	_	_	easier
-3	for	_	_	IN	_	2	???	_	_	0_NULL
-4	students	_	_	NNS	_	5	SUBJ	_	_	to
-5	to	_	_	TO	_	2	???	_	_	0_NULL
-6	break	_	_	VB	_	5	???	_	_	to
+2	0_NULL	_	_	-NONE-	_	6	OBJ-DO	_	_	take
+3	for	_	_	IN	_	1	???	_	_	easier
+4	youngsters	_	_	NNS	_	5	SUBJ	_	_	to
+5	to	_	_	TO	_	3	???	_	_	for
+6	take	_	_	VB	_	5	???	_	_	to
 
 1	rate	_	_	NN	_	0	ROOT	_	_	ROOT
 2	capped	_	_	VBN	_	1	???	_	_	rate
@@ -327,7 +320,7 @@
 
 1	green	_	_	NN	_	0	ROOT	_	_	ROOT
 2	with	_	_	IN	_	1	???	_	_	green
-3	students	_	_	NNS	_	2	???	_	_	with
+3	envy	_	_	NN	_	2	???	_	_	with
 
 1	electric	_	_	NN	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	electric
@@ -342,22 +335,22 @@
 2	disappointed	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	''	_	_	''	_	2	???	_	_	disappointed
 4	by	_	_	IN	_	2	???	_	_	disappointed
-5	students	_	_	NNS	_	4	???	_	_	by
+5	the	_	_	DT	_	6	???	_	_	effects
+6	effects	_	_	NNS	_	4	???	_	_	by
 
-1	off	_	_	RB	_	2	???	_	_	students
-2	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+1	off	_	_	RB	_	2	???	_	_	%
+2	%	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	very	_	_	RB	_	2	???	_	_	alarmed
 2	alarmed	_	_	VBN	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	alarmed
-4	break	_	_	VB	_	3	???	_	_	to
+4	see	_	_	VB	_	3	???	_	_	to
+5	these	_	_	DT	_	6	???	_	_	valuations
+6	valuations	_	_	NNS	_	4	OBJ-DO	_	_	see
 
-1	almost	_	_	RB	_	2	???	_	_	entirely
-2	entirely	_	_	RB	_	0	ROOT	_	_	ROOT
-3	Western	_	_	JJ	_	2	???	_	_	entirely
-4	,	_	_	,	_	2	???	_	_	entirely
-5	especially	_	_	RB	_	6	???	_	_	American
-6	American	_	_	JJ	_	2	???	_	_	entirely
+1	Western	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	Western
+3	American	_	_	JJ	_	1	???	_	_	Western
 
 1	most	_	_	RBS	_	2	???	_	_	dependent
 2	dependent	_	_	JJ	_	0	ROOT	_	_	ROOT
@@ -377,9 +370,8 @@
 1	disparate	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	disparate
 3	and	_	_	CC	_	1	???	_	_	disparate
-4	evenly	_	_	RB	_	5	???	_	_	split
-5	split	_	_	JJ	_	1	???	_	_	disparate
-6	,	_	_	,	_	1	???	_	_	disparate
+4	split	_	_	JJ	_	1	???	_	_	disparate
+5	,	_	_	,	_	1	???	_	_	disparate
 
 1	as	_	_	IN	_	2	???	_	_	many
 2	many	_	_	JJ	_	0	ROOT	_	_	ROOT
@@ -404,13 +396,11 @@
 
 1	up	_	_	IN	_	0	ROOT	_	_	ROOT
 2	for	_	_	IN	_	1	???	_	_	up
-3	students	_	_	NNS	_	2	???	_	_	for
+3	sale	_	_	NN	_	2	???	_	_	for
 
 1	puttable	_	_	JJ	_	2	???	_	_	back
 2	back	_	_	RB	_	0	ROOT	_	_	ROOT
-3	to	_	_	TO	_	2	???	_	_	back
-4	students	_	_	NNS	_	3	???	_	_	to
-5	students	_	_	NNS	_	2	???	_	_	back
+3	Nov.	_	_	NNP	_	2	???	_	_	back
 
 1	big	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	enough	_	_	RB	_	1	???	_	_	big
@@ -422,18 +412,21 @@
 2	significantly	_	_	RB	_	3	???	_	_	different
 3	different	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	from	_	_	IN	_	3	???	_	_	different
-5	students	_	_	NNS	_	4	???	_	_	from
 
-1	students	_	_	NNS	_	2	???	_	_	ambivalent
-2	ambivalent	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	about	_	_	IN	_	2	???	_	_	ambivalent
-4	students	_	_	NNS	_	3	???	_	_	about
+1	a	_	_	DT	_	2	???	_	_	bit
+2	bit	_	_	NN	_	3	???	_	_	ambivalent
+3	ambivalent	_	_	JJ	_	0	ROOT	_	_	ROOT
+4	about	_	_	IN	_	3	???	_	_	ambivalent
+5	the	_	_	DT	_	6	???	_	_	scandals
+6	scandals	_	_	NNS	_	4	???	_	_	about
 
 1	college-bowl	_	_	NN	_	0	ROOT	_	_	ROOT
 2	type	_	_	NN	_	1	???	_	_	college-bowl
 
 1	worth	_	_	IN	_	0	ROOT	_	_	ROOT
-2	breaking	_	_	VBG	_	1	???	_	_	worth
+2	paying	_	_	VBG	_	1	???	_	_	worth
+3	a	_	_	DT	_	4	???	_	_	premium
+4	premium	_	_	NN	_	2	OBJ-DO	_	_	paying
 
 1	fresh	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	fresh
@@ -443,38 +436,41 @@
 
 1	available	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	available
-3	students	_	_	NNS	_	2	???	_	_	to
-4	to	_	_	TO	_	1	???	_	_	available
-5	break	_	_	VB	_	4	???	_	_	to
+3	the	_	_	DT	_	4	???	_	_	president
+4	president	_	_	NN	_	2	???	_	_	to
+5	to	_	_	TO	_	1	???	_	_	available
+6	meet	_	_	VB	_	5	???	_	_	to
+7	costs	_	_	NNS	_	6	OBJ-DO	_	_	meet
 
 1	Per	_	_	IN	_	2	???	_	_	capita
 2	capita	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	2	???	_	_	less
+1	%	_	_	NN	_	2	???	_	_	less
 2	less	_	_	JJR	_	0	ROOT	_	_	ROOT
 3	than	_	_	IN	_	2	???	_	_	less
 4	in	_	_	IN	_	3	???	_	_	than
-5	students	_	_	NNS	_	4	???	_	_	in
+5	the	_	_	DT	_	6	???	_	_	buy-out
+6	buy-out	_	_	NN	_	4	???	_	_	in
 
-1	sort	_	_	RB	_	2	???	_	_	of
-2	of	_	_	RB	_	0	ROOT	_	_	ROOT
-3	nervous	_	_	JJ	_	2	???	_	_	of
-4	to	_	_	TO	_	2	???	_	_	of
-5	break	_	_	VB	_	4	???	_	_	to
+1	of	_	_	RB	_	0	ROOT	_	_	ROOT
+2	nervous	_	_	JJ	_	1	???	_	_	of
+3	to	_	_	TO	_	1	???	_	_	of
+4	do	_	_	VB	_	3	???	_	_	to
+5	anything	_	_	NN	_	4	OBJ-DO	_	_	do
 
 1	available	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	''	_	_	''	_	1	???	_	_	available
 3	to	_	_	TO	_	1	???	_	_	available
-4	students	_	_	NNS	_	3	???	_	_	to
+4	holders	_	_	NNS	_	3	???	_	_	to
 
 1	so	_	_	RB	_	3	???	_	_	dumb
 2	damn	_	_	RB	_	3	???	_	_	dumb
 3	dumb	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	that	_	_	IN	_	3	???	_	_	dumb
-5	students	_	_	NNS	_	6	SUBJ	_	_	do
+5	you	_	_	PRP	_	6	SUBJ	_	_	do
 6	do	_	_	VBP	_	4	???	_	_	that
 7	n't	_	_	RB	_	6	???	_	_	do
-8	break	_	_	VB	_	6	???	_	_	do
+8	belong	_	_	VB	_	6	???	_	_	do
 
 1	enlightened	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	enlightened
@@ -483,7 +479,7 @@
 1	more	_	_	RBR	_	2	???	_	_	engaged
 2	engaged	_	_	VBN	_	0	ROOT	_	_	ROOT
 3	in	_	_	IN	_	2	???	_	_	engaged
-4	students	_	_	NNS	_	3	???	_	_	in
+4	issues	_	_	NNS	_	3	???	_	_	in
 
 1	more	_	_	RBR	_	4	???	_	_	responsive
 2	focused	_	_	JJ	_	4	???	_	_	responsive
@@ -495,8 +491,8 @@
 3	and	_	_	CC	_	4	???	_	_	fractious
 4	fractious	_	_	JJ	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	more	_	_	RBR	_	1	???	_	_	students
+1	%	_	_	NN	_	0	ROOT	_	_	ROOT
+2	more	_	_	RBR	_	1	???	_	_	%
 
 1	small	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	but	_	_	CC	_	1	???	_	_	small
@@ -509,7 +505,8 @@
 1	most	_	_	RBS	_	2	???	_	_	anxious
 2	anxious	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	anxious
-4	break	_	_	VB	_	3	???	_	_	to
+4	speed	_	_	VB	_	3	???	_	_	to
+5	approval	_	_	NN	_	4	OBJ-DO	_	_	speed
 
 1	most	_	_	RBS	_	3	???	_	_	used
 2	widely	_	_	RB	_	3	???	_	_	used
@@ -539,9 +536,10 @@
 2	and	_	_	CC	_	1	???	_	_	Southwest
 3	Baltimore-Washington	_	_	NNP	_	2	???	_	_	and
 
-1	students	_	_	NNS	_	3	???	_	_	attractive
-2	less	_	_	RBR	_	3	???	_	_	attractive
-3	attractive	_	_	JJ	_	0	ROOT	_	_	ROOT
+1	a	_	_	DT	_	2	???	_	_	lot
+2	lot	_	_	NN	_	4	???	_	_	attractive
+3	less	_	_	RBR	_	4	???	_	_	attractive
+4	attractive	_	_	JJ	_	0	ROOT	_	_	ROOT
 
 1	dead	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	dead
@@ -575,21 +573,21 @@
 
 1	shocked	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	4	???	_	_	say
-3	students	_	_	NNS	_	4	SUBJ	_	_	say
+3	associates	_	_	NNS	_	4	SUBJ	_	_	say
 4	say	_	_	VBP	_	1	???	_	_	shocked
 5	0_NULL	_	_	-NONE-	_	4	???	_	_	say
 6	,	_	_	,	_	4	???	_	_	say
 7	to	_	_	TO	_	1	???	_	_	shocked
-8	break	_	_	VB	_	7	???	_	_	to
+8	learn	_	_	VB	_	7	???	_	_	to
 
 1	more	_	_	RBR	_	2	???	_	_	difficult
 2	difficult	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	0_NULL	_	_	-NONE-	_	2	???	_	_	difficult
-4	to	_	_	TO	_	3	???	_	_	0_NULL
-5	break	_	_	VB	_	4	???	_	_	to
+3	0_NULL	_	_	-NONE-	_	5	OBJ-DO	_	_	rescind
+4	to	_	_	TO	_	2	???	_	_	difficult
+5	rescind	_	_	VB	_	4	???	_	_	to
 
 1	worth	_	_	NN	_	0	ROOT	_	_	ROOT
-2	breaking	_	_	VBG	_	1	???	_	_	worth
+2	taking	_	_	VBG	_	1	???	_	_	worth
 
 1	``	_	_	``	_	6	???	_	_	bad
 2	good	_	_	JJ	_	6	???	_	_	bad
@@ -599,16 +597,15 @@
 6	bad	_	_	JJ	_	0	ROOT	_	_	ROOT
 7	''	_	_	''	_	6	???	_	_	bad
 
-1	$	_	_	$	_	0	ROOT	_	_	ROOT
-2	2	_	_	CD	_	1	???	_	_	$
-3	billion	_	_	CD	_	1	???	_	_	$
-4	students	_	_	NNS	_	1	???	_	_	$
+1	billion	_	_	CD	_	0	ROOT	_	_	ROOT
+2	a	_	_	DT	_	3	???	_	_	year
+3	year	_	_	NN	_	1	???	_	_	billion
 
-1	probably	_	_	RB	_	2	???	_	_	even
-2	even	_	_	RB	_	0	ROOT	_	_	ROOT
-3	greater	_	_	JJR	_	2	???	_	_	even
-4	than	_	_	IN	_	2	???	_	_	even
-5	students	_	_	NNS	_	4	???	_	_	than
+1	even	_	_	RB	_	0	ROOT	_	_	ROOT
+2	greater	_	_	JJR	_	1	???	_	_	even
+3	than	_	_	IN	_	1	???	_	_	even
+4	the	_	_	DT	_	5	???	_	_	%
+5	%	_	_	NN	_	3	???	_	_	than
 
 1	most	_	_	RBS	_	3	???	_	_	used
 2	widely	_	_	RB	_	3	???	_	_	used
@@ -626,29 +623,29 @@
 2	and	_	_	CC	_	3	???	_	_	able
 3	able	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	to	_	_	TO	_	3	???	_	_	able
-5	break	_	_	VB	_	4	???	_	_	to
+5	strike	_	_	VB	_	4	???	_	_	to
 
 1	2	_	_	CD	_	0	ROOT	_	_	ROOT
 2	1\/2-year	_	_	CD	_	1	???	_	_	2
 
-1	so	_	_	RB	_	2	???	_	_	close
-2	close	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	,	_	_	,	_	2	???	_	_	close
-4	that	_	_	IN	_	2	???	_	_	close
-5	students	_	_	NNS	_	6	SUBJ	_	_	may
-6	may	_	_	MD	_	4	???	_	_	that
-7	break	_	_	VB	_	6	???	_	_	may
+1	close	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	close
+3	that	_	_	IN	_	1	???	_	_	close
+4	issues	_	_	NNS	_	5	SUBJ	_	_	may
+5	may	_	_	MD	_	3	???	_	_	that
+6	play	_	_	VB	_	5	???	_	_	may
+7	a	_	_	DT	_	8	???	_	_	role
+8	role	_	_	NN	_	6	OBJ-DO	_	_	play
 
-1	so	_	_	RB	_	2	???	_	_	narrow
-2	narrow	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	-LRB-	_	_	-LRB-	_	4	???	_	_	students
-4	students	_	_	NNS	_	2	???	_	_	narrow
-5	-RRB-	_	_	-RRB-	_	4	???	_	_	students
+1	narrow	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	-LRB-	_	_	-LRB-	_	3	???	_	_	feet
+3	feet	_	_	NNS	_	1	???	_	_	narrow
+4	-RRB-	_	_	-RRB-	_	3	???	_	_	feet
 
-1	as	_	_	RB	_	2	???	_	_	likely
-2	likely	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	to	_	_	TO	_	2	???	_	_	likely
-4	break	_	_	VB	_	3	???	_	_	to
+1	likely	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	to	_	_	TO	_	1	???	_	_	likely
+3	bounce	_	_	VB	_	2	???	_	_	to
+4	bills	_	_	NNS	_	3	OBJ-DO	_	_	bounce
 
 1	both	_	_	DT	_	2	???	_	_	corporate
 2	corporate	_	_	JJ	_	0	ROOT	_	_	ROOT
@@ -656,43 +653,47 @@
 4	private	_	_	JJ	_	3	???	_	_	and
 
 1	payable	_	_	JJ	_	0	ROOT	_	_	ROOT
-2	students	_	_	NNS	_	1	???	_	_	payable
+2	Jan.	_	_	NNP	_	1	???	_	_	payable
 3	,	_	_	,	_	1	???	_	_	payable
 4	to	_	_	TO	_	1	???	_	_	payable
-5	students	_	_	NNS	_	4	???	_	_	to
+5	shares	_	_	NNS	_	4	???	_	_	to
 
 1	four	_	_	CD	_	2	???	_	_	times
 2	times	_	_	NNS	_	0	ROOT	_	_	ROOT
 3	as	_	_	RB	_	2	???	_	_	times
 4	large	_	_	JJ	_	2	???	_	_	times
 
-1	1.2	_	_	CD	_	3	???	_	_	kronor
-2	billion	_	_	CD	_	1	???	_	_	1.2
-3	kronor	_	_	NNS	_	0	ROOT	_	_	ROOT
+1	billion	_	_	CD	_	2	???	_	_	kronor
+2	kronor	_	_	NNS	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	long	_	_	RB	_	1	???	_	_	students
+1	miles	_	_	NNS	_	0	ROOT	_	_	ROOT
+2	long	_	_	RB	_	1	???	_	_	miles
 
 1	Not	_	_	RB	_	0	ROOT	_	_	ROOT
 2	Likely	_	_	RB	_	1	???	_	_	Not
 3	to	_	_	TO	_	1	???	_	_	Not
-4	break	_	_	VB	_	3	???	_	_	to
+4	Jolt	_	_	VB	_	3	???	_	_	to
+5	The	_	_	DT	_	6	???	_	_	Market
+6	Market	_	_	NN	_	4	OBJ-DO	_	_	Jolt
 
 1	no	_	_	RB	_	2	???	_	_	different
 2	different	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	in	_	_	IN	_	2	???	_	_	different
-4	students	_	_	NNS	_	3	???	_	_	in
+4	quality	_	_	NN	_	3	???	_	_	in
 5	from	_	_	IN	_	2	???	_	_	different
-6	what	_	_	WP	_	9	OBJ-DO	_	_	view
-7	students	_	_	NNS	_	9	SUBJ	_	_	view
-8	currently	_	_	RB	_	9	???	_	_	view
-9	view	_	_	VBP	_	5	???	_	_	from
-10	on	_	_	IN	_	9	???	_	_	view
-11	students	_	_	NNS	_	10	???	_	_	on
+6	what	_	_	WP	_	8	OBJ-DO	_	_	view
+7	they	_	_	PRP	_	8	SUBJ	_	_	view
+8	view	_	_	VBP	_	5	???	_	_	from
 
 1	less	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	less
-3	break	_	_	VB	_	2	???	_	_	to
+3	permit	_	_	VB	_	2	???	_	_	to
+4	-LRB-	_	_	-LRB-	_	5	???	_	_	though
+5	though	_	_	IN	_	3	???	_	_	permit
+6	that	_	_	DT	_	7	SUBJ	_	_	is
+7	is	_	_	VBZ	_	5	???	_	_	though
+8	desirable	_	_	JJ	_	7	???	_	_	is
+9	-RRB-	_	_	-RRB-	_	5	???	_	_	though
 
 1	these	_	_	DT	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	these
@@ -705,12 +706,13 @@
 2	aware	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	''	_	_	''	_	2	???	_	_	aware
 4	of	_	_	IN	_	2	???	_	_	aware
-5	students	_	_	NNS	_	4	???	_	_	of
+5	the	_	_	DT	_	6	???	_	_	risks
+6	risks	_	_	NNS	_	4	???	_	_	of
 
 1	enormously	_	_	RB	_	2	???	_	_	frustrating
 2	frustrating	_	_	VBG	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	frustrating
-4	students	_	_	NNS	_	3	???	_	_	to
+4	Katzenstein	_	_	NNP	_	3	???	_	_	to
 
 1	that	_	_	IN	_	2	???	_	_	much
 2	much	_	_	RB	_	0	ROOT	_	_	ROOT
@@ -722,22 +724,22 @@
 
 1	exercisable	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	from	_	_	IN	_	4	???	_	_	through
-3	students	_	_	NNS	_	2	???	_	_	from
+3	Nov.	_	_	NNP	_	2	???	_	_	from
 4	through	_	_	IN	_	1	???	_	_	exercisable
-5	students	_	_	NNS	_	4	???	_	_	through
+5	Oct.	_	_	NNP	_	4	???	_	_	through
 6	to	_	_	TO	_	1	???	_	_	exercisable
-7	break	_	_	VB	_	6	???	_	_	to
-8	when	_	_	WRB	_	1	???	_	_	exercisable
-9	students	_	_	NNS	_	10	SUBJ	_	_	are
-10	are	_	_	VBP	_	8	???	_	_	when
-11	broken	_	_	VBN	_	10	???	_	_	are
+7	buy	_	_	VB	_	6	???	_	_	to
+8	shares	_	_	NNS	_	7	OBJ-DO	_	_	buy
+9	when	_	_	WRB	_	1	???	_	_	exercisable
+10	terms	_	_	NNS	_	11	SUBJ	_	_	are
+11	are	_	_	VBP	_	9	???	_	_	when
+12	fixed	_	_	VBN	_	11	???	_	_	are
 
 1	surprised	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	surprised
-3	very	_	_	RB	_	4	???	_	_	disappointed
-4	disappointed	_	_	JJ	_	1	???	_	_	surprised
-5	by	_	_	IN	_	1	???	_	_	surprised
-6	students	_	_	NNS	_	5	???	_	_	by
+3	disappointed	_	_	JJ	_	1	???	_	_	surprised
+4	by	_	_	IN	_	1	???	_	_	surprised
+5	prepayment	_	_	NN	_	4	???	_	_	by
 
 1	more	_	_	RBR	_	2	???	_	_	bruising
 2	bruising	_	_	VBG	_	0	ROOT	_	_	ROOT
@@ -749,29 +751,21 @@
 1	largest	_	_	JJS	_	2	???	_	_	grossing
 2	grossing	_	_	VBG	_	0	ROOT	_	_	ROOT
 
-1	nearly	_	_	RB	_	3	???	_	_	costly
-2	as	_	_	RB	_	3	???	_	_	costly
-3	costly	_	_	JJ	_	0	ROOT	_	_	ROOT
-4	to	_	_	TO	_	3	???	_	_	costly
-5	students	_	_	NNS	_	4	???	_	_	to
-6	as	_	_	IN	_	3	???	_	_	costly
-7	broke	_	_	VBD	_	6	???	_	_	as
-8	students	_	_	NNS	_	7	SUBJ	_	_	broke
+1	costly	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	to	_	_	TO	_	1	???	_	_	costly
+3	Ford	_	_	NNP	_	2	???	_	_	to
+4	as	_	_	IN	_	1	???	_	_	costly
+5	was	_	_	VBD	_	4	???	_	_	as
+6	the	_	_	DT	_	7	???	_	_	debacle
+7	debacle	_	_	NN	_	5	SUBJ	_	_	was
 
-1	badly	_	_	RB	_	2	???	_	_	dressed
-2	dressed	_	_	VBN	_	0	ROOT	_	_	ROOT
-3	,	_	_	,	_	2	???	_	_	dressed
-4	decorated	_	_	VBN	_	3	???	_	_	,
-5	with	_	_	IN	_	4	???	_	_	decorated
-6	students	_	_	NNS	_	5	???	_	_	with
-7	,	_	_	,	_	3	???	_	_	,
-8	frequently	_	_	RB	_	9	???	_	_	unwashed
-9	unwashed	_	_	JJ	_	7	???	_	_	,
-10	and	_	_	CC	_	7	???	_	_	,
-11	unbearably	_	_	RB	_	12	???	_	_	flatulent
-12	flatulent	_	_	JJ	_	10	???	_	_	and
-13	in	_	_	IN	_	12	???	_	_	flatulent
-14	students	_	_	NNS	_	13	???	_	_	in
+1	dressed	_	_	VBN	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	dressed
+3	decorated	_	_	VBN	_	2	???	_	_	,
+4	,	_	_	,	_	2	???	_	_	,
+5	unwashed	_	_	JJ	_	4	???	_	_	,
+6	and	_	_	CC	_	4	???	_	_	,
+7	flatulent	_	_	JJ	_	6	???	_	_	and
 
 1	payable	_	_	JJ	_	2	???	_	_	semiannually
 2	semiannually	_	_	RB	_	0	ROOT	_	_	ROOT
@@ -785,22 +779,22 @@
 
 1	due	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	for	_	_	IN	_	1	???	_	_	due
-3	students	_	_	NNS	_	2	???	_	_	for
-4	students	_	_	NNS	_	1	???	_	_	due
+3	release	_	_	NN	_	2	???	_	_	for
+4	tomorrow	_	_	NN	_	1	???	_	_	due
 
 1	qualified	_	_	VBD	_	0	ROOT	_	_	ROOT
 
 1	so	_	_	RB	_	2	???	_	_	huge
 2	huge	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	,	_	_	,	_	5	???	_	_	breaks
-4	''	_	_	''	_	5	???	_	_	breaks
-5	breaks	_	_	VBZ	_	2	???	_	_	huge
-6	students	_	_	NNS	_	5	SUBJ	_	_	breaks
-7	,	_	_	,	_	5	???	_	_	breaks
-8	``	_	_	``	_	5	???	_	_	breaks
+3	,	_	_	,	_	5	???	_	_	says
+4	''	_	_	''	_	5	???	_	_	says
+5	says	_	_	VBZ	_	2	???	_	_	huge
+6	Saito	_	_	NNP	_	5	SUBJ	_	_	says
+7	,	_	_	,	_	5	???	_	_	says
+8	``	_	_	``	_	5	???	_	_	says
 9	0_NULL	_	_	-NONE-	_	2	???	_	_	huge
-10	students	_	_	NNS	_	11	SUBJ	_	_	breaks
-11	breaks	_	_	VBZ	_	9	???	_	_	0_NULL
+10	it	_	_	PRP	_	11	SUBJ	_	_	makes
+11	makes	_	_	VBZ	_	9	???	_	_	0_NULL
 
 1	little	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	or	_	_	CC	_	1	???	_	_	little
@@ -816,7 +810,8 @@
 3	close	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	''	_	_	''	_	3	???	_	_	close
 5	to	_	_	TO	_	3	???	_	_	close
-6	breaking	_	_	VBG	_	5	???	_	_	to
+6	arranging	_	_	VBG	_	5	???	_	_	to
+7	financing	_	_	NN	_	6	OBJ-DO	_	_	arranging
 
 1	now	_	_	RB	_	0	ROOT	_	_	ROOT
 2	nearly	_	_	RB	_	1	???	_	_	now
@@ -827,14 +822,17 @@
 3	confident	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	''	_	_	''	_	3	???	_	_	confident
 5	0_NULL	_	_	-NONE-	_	3	???	_	_	confident
-6	students	_	_	NNS	_	7	SUBJ	_	_	could
+6	it	_	_	PRP	_	7	SUBJ	_	_	could
 7	could	_	_	MD	_	5	???	_	_	0_NULL
-8	break	_	_	VB	_	7	???	_	_	could
+8	arrange	_	_	VB	_	7	???	_	_	could
+9	the	_	_	DT	_	10	???	_	_	balance
+10	balance	_	_	NN	_	8	OBJ-DO	_	_	arrange
 
 1	subject	_	_	JJ	_	2	???	_	_	only
 2	only	_	_	RB	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	only
-4	students	_	_	NNS	_	3	???	_	_	to
+4	some	_	_	DT	_	5	???	_	_	restraints
+5	restraints	_	_	NNS	_	3	???	_	_	to
 
 1	smart	_	_	JJ	_	4	???	_	_	lucky
 2	or	_	_	CC	_	4	???	_	_	lucky
@@ -852,9 +850,10 @@
 1	clear	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	enough	_	_	RB	_	1	???	_	_	clear
 3	for	_	_	IN	_	1	???	_	_	clear
-4	students	_	_	NNS	_	3	???	_	_	for
-5	to	_	_	TO	_	1	???	_	_	clear
-6	break	_	_	VB	_	5	???	_	_	to
+4	all	_	_	DT	_	5	???	_	_	Somalis
+5	Somalis	_	_	NNPS	_	3	???	_	_	for
+6	to	_	_	TO	_	1	???	_	_	clear
+7	understand	_	_	VB	_	6	???	_	_	to
 
 1	second	_	_	JJ	_	3	???	_	_	important
 2	most	_	_	RBS	_	3	???	_	_	important
@@ -865,9 +864,10 @@
 3	and	_	_	CC	_	4	???	_	_	catastrophic
 4	catastrophic	_	_	JJ	_	0	ROOT	_	_	ROOT
 5	for	_	_	IN	_	4	???	_	_	catastrophic
-6	students	_	_	NNS	_	7	SUBJ	_	_	to
-7	to	_	_	TO	_	5	???	_	_	for
-8	break	_	_	VB	_	7	???	_	_	to
+6	the	_	_	DT	_	7	???	_	_	rules
+7	rules	_	_	NNS	_	8	SUBJ	_	_	to
+8	to	_	_	TO	_	5	???	_	_	for
+9	operate	_	_	VB	_	8	???	_	_	to
 
 1	really	_	_	RB	_	2	???	_	_	worth
 2	worth	_	_	JJ	_	0	ROOT	_	_	ROOT
@@ -885,10 +885,9 @@
 3	or	_	_	CC	_	1	???	_	_	inverted
 4	mouth-up	_	_	JJ	_	3	???	_	_	or
 
-1	248	_	_	CD	_	0	ROOT	_	_	ROOT
-2	million	_	_	CD	_	1	???	_	_	248
-3	Canadian	_	_	JJ	_	1	???	_	_	248
-4	dollar	_	_	NN	_	1	???	_	_	248
+1	million	_	_	CD	_	0	ROOT	_	_	ROOT
+2	Canadian	_	_	JJ	_	1	???	_	_	million
+3	dollar	_	_	NN	_	1	???	_	_	million
 
 1	``	_	_	``	_	2	???	_	_	solvent
 2	solvent	_	_	JJ	_	0	ROOT	_	_	ROOT
@@ -898,23 +897,22 @@
 3	%	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	aged	_	_	VBN	_	0	ROOT	_	_	ROOT
-2	students	_	_	NNS	_	1	???	_	_	aged
+2	18	_	_	CD	_	1	???	_	_	aged
 
-1	partly	_	_	RB	_	0	ROOT	_	_	ROOT
-2	or	_	_	CC	_	1	???	_	_	partly
-3	fully	_	_	RB	_	2	???	_	_	or
-4	invested	_	_	VBN	_	1	???	_	_	partly
-5	in	_	_	IN	_	1	???	_	_	partly
-6	students	_	_	NNS	_	5	???	_	_	in
+1	or	_	_	CC	_	2	???	_	_	fully
+2	fully	_	_	RB	_	0	ROOT	_	_	ROOT
+3	invested	_	_	VBN	_	2	???	_	_	fully
+4	in	_	_	IN	_	2	???	_	_	fully
+5	stocks	_	_	NNS	_	4	???	_	_	in
 
 1	missing	_	_	VBG	_	0	ROOT	_	_	ROOT
 2	in	_	_	IN	_	1	???	_	_	missing
-3	students	_	_	NNS	_	2	???	_	_	in
+3	action	_	_	NN	_	2	???	_	_	in
 
-1	students	_	_	NNS	_	2	???	_	_	owned
+1	%	_	_	NN	_	2	???	_	_	owned
 2	owned	_	_	VBN	_	0	ROOT	_	_	ROOT
 3	by	_	_	IN	_	2	???	_	_	owned
-4	students	_	_	NNS	_	3	???	_	_	by
+4	Australia	_	_	NNP	_	3	???	_	_	by
 
 1	unfriendly	_	_	JJ	_	4	???	_	_	ungentlemanly
 2	,	_	_	,	_	4	???	_	_	ungentlemanly
@@ -927,10 +925,10 @@
 3	independent	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	''	_	_	''	_	3	???	_	_	independent
 
-1	due	_	_	RB	_	2	???	_	_	students
-2	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-3	at	_	_	IN	_	2	???	_	_	students
-4	students	_	_	NNS	_	3	???	_	_	at
+1	due	_	_	RB	_	2	???	_	_	1999
+2	1999	_	_	CD	_	0	ROOT	_	_	ROOT
+3	at	_	_	IN	_	2	???	_	_	1999
+4	%	_	_	NN	_	3	???	_	_	at
 
 1	$	_	_	$	_	0	ROOT	_	_	ROOT
 2	3	_	_	CD	_	1	???	_	_	$
@@ -940,8 +938,6 @@
 2	of	_	_	IN	_	1	???	_	_	most
 3	which	_	_	WDT	_	4	SUBJ	_	_	are
 4	are	_	_	VBP	_	2	???	_	_	of
-5	in	_	_	IN	_	4	???	_	_	are
-6	students	_	_	NNS	_	5	???	_	_	in
 
 1	secondary	_	_	JJ	_	4	???	_	_	resell
 2	,	_	_	,	_	4	???	_	_	resell
@@ -985,11 +981,11 @@
 2	and	_	_	CC	_	3	???	_	_	playful
 3	playful	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	to	_	_	TO	_	3	???	_	_	playful
-5	students	_	_	NNS	_	4	???	_	_	to
+5	her	_	_	PRP$	_	6	???	_	_	children
+6	children	_	_	NNS	_	4	???	_	_	to
 
-1	students	_	_	NNS	_	3	???	_	_	optimistic
-2	too	_	_	RB	_	3	???	_	_	optimistic
-3	optimistic	_	_	JJ	_	0	ROOT	_	_	ROOT
+1	too	_	_	RB	_	2	???	_	_	optimistic
+2	optimistic	_	_	JJ	_	0	ROOT	_	_	ROOT
 
 1	dolce	_	_	FW	_	0	ROOT	_	_	ROOT
 2	!	_	_	.	_	1	???	_	_	dolce
@@ -1007,9 +1003,10 @@
 2	more	_	_	RBR	_	3	???	_	_	interested
 3	interested	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	in	_	_	IN	_	3	???	_	_	interested
-5	breaking	_	_	VBG	_	4	???	_	_	in
+5	curbing	_	_	VBG	_	4	???	_	_	in
+6	inflation	_	_	NN	_	5	OBJ-DO	_	_	curbing
 
-1	students	_	_	NNS	_	2	???	_	_	occupied
+1	%	_	_	NN	_	2	???	_	_	occupied
 2	occupied	_	_	VBN	_	0	ROOT	_	_	ROOT
 
 1	newest	_	_	JJS	_	0	ROOT	_	_	ROOT
@@ -1018,29 +1015,25 @@
 
 1	provided	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	for	_	_	IN	_	1	???	_	_	provided
-3	students	_	_	NNS	_	2	???	_	_	for
+3	victims	_	_	NNS	_	2	???	_	_	for
 
 1	less	_	_	RBR	_	0	ROOT	_	_	ROOT
 2	so	_	_	RB	_	1	???	_	_	less
 
 1	now	_	_	RB	_	0	ROOT	_	_	ROOT
-2	students	_	_	NNS	_	1	???	_	_	now
+2	years	_	_	NNS	_	1	???	_	_	now
 3	old	_	_	JJ	_	1	???	_	_	now
 
 1	much	_	_	RB	_	3	???	_	_	natural
 2	more	_	_	JJR	_	1	???	_	_	much
 3	natural	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	``	_	_	``	_	3	???	_	_	consistent
-2	more	_	_	RBR	_	3	???	_	_	consistent
-3	consistent	_	_	JJ	_	0	ROOT	_	_	ROOT
-4	''	_	_	''	_	3	???	_	_	consistent
-5	and	_	_	CC	_	3	???	_	_	consistent
-6	``	_	_	``	_	3	???	_	_	consistent
-7	easier	_	_	JJR	_	3	???	_	_	consistent
-8	0_NULL	_	_	-NONE-	_	7	???	_	_	easier
-9	to	_	_	TO	_	8	???	_	_	0_NULL
-10	break	_	_	VB	_	9	???	_	_	to
+1	``	_	_	``	_	2	???	_	_	consistent
+2	consistent	_	_	JJ	_	0	ROOT	_	_	ROOT
+3	''	_	_	''	_	2	???	_	_	consistent
+4	and	_	_	CC	_	2	???	_	_	consistent
+5	``	_	_	``	_	2	???	_	_	consistent
+6	easier	_	_	JJR	_	2	???	_	_	consistent
 
 1	150.00	_	_	CD	_	2	???	_	_	yen
 2	yen	_	_	NNS	_	0	ROOT	_	_	ROOT
@@ -1049,27 +1042,29 @@
 2	worked	_	_	VBN	_	0	ROOT	_	_	ROOT
 3	up	_	_	RP	_	2	???	_	_	worked
 4	that	_	_	IN	_	2	???	_	_	worked
-5	breaking	_	_	VBG	_	6	???	_	_	broke
-6	broke	_	_	VBD	_	4	???	_	_	that
+5	framing	_	_	VBG	_	7	???	_	_	was
+6	Laff	_	_	NNP	_	5	OBJ-DO	_	_	framing
+7	was	_	_	VBD	_	4	???	_	_	that
+8	the	_	_	DT	_	7	OBJ-DO	_	_	was
 
 1	so	_	_	RB	_	2	???	_	_	pleased
 2	pleased	_	_	VBN	_	0	ROOT	_	_	ROOT
 3	that	_	_	IN	_	2	???	_	_	pleased
-4	students	_	_	NNS	_	5	SUBJ	_	_	breaks
-5	breaks	_	_	VBZ	_	3	???	_	_	that
+4	their	_	_	PRP$	_	5	???	_	_	philosophy
+5	philosophy	_	_	NN	_	6	SUBJ	_	_	is
+6	is	_	_	VBZ	_	3	???	_	_	that
+7	prevailing	_	_	VBG	_	6	???	_	_	is
 
-1	no	_	_	RB	_	2	???	_	_	longer
-2	longer	_	_	RB	_	0	ROOT	_	_	ROOT
-3	pending	_	_	VBG	_	2	???	_	_	longer
+1	longer	_	_	RB	_	0	ROOT	_	_	ROOT
+2	pending	_	_	VBG	_	1	???	_	_	longer
 
 1	unable	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	unable
-3	break	_	_	VB	_	2	???	_	_	to
-4	or	_	_	CC	_	3	???	_	_	break
-5	break	_	_	VB	_	4	???	_	_	or
-6	because	_	_	RB	_	7	???	_	_	of
-7	of	_	_	IN	_	1	???	_	_	unable
-8	students	_	_	NNS	_	7	???	_	_	of
+3	meet	_	_	VB	_	2	???	_	_	to
+4	deadlines	_	_	NNS	_	3	OBJ-DO	_	_	meet
+5	because	_	_	RB	_	6	???	_	_	of
+6	of	_	_	IN	_	1	???	_	_	unable
+7	devastation	_	_	NN	_	6	???	_	_	of
 
 1	positive	_	_	JJ	_	5	???	_	_	negative
 2	as	_	_	RB	_	3	???	_	_	well
@@ -1080,28 +1075,33 @@
 1	harder	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	harder
 3	harder	_	_	JJR	_	1	???	_	_	harder
-4	0_NULL	_	_	-NONE-	_	1	???	_	_	harder
-5	to	_	_	TO	_	4	???	_	_	0_NULL
-6	break	_	_	VB	_	5	???	_	_	to
+4	0_NULL	_	_	-NONE-	_	6	OBJ-DO	_	_	do
+5	to	_	_	TO	_	1	???	_	_	harder
+6	do	_	_	VB	_	5	???	_	_	to
 
 1	either	_	_	DT	_	4	???	_	_	petrified
 2	incapable	_	_	JJ	_	4	???	_	_	petrified
 3	or	_	_	CC	_	4	???	_	_	petrified
 4	petrified	_	_	JJ	_	0	ROOT	_	_	ROOT
 5	of	_	_	IN	_	4	???	_	_	petrified
-6	breaking	_	_	VBG	_	5	???	_	_	of
+6	making	_	_	VBG	_	5	???	_	_	of
+7	a	_	_	DT	_	8	???	_	_	movie
+8	movie	_	_	NN	_	6	OBJ-DO	_	_	making
+9	unless	_	_	IN	_	6	???	_	_	making
+10	it	_	_	PRP	_	11	SUBJ	_	_	carries
+11	carries	_	_	VBZ	_	9	???	_	_	unless
+12	a	_	_	DT	_	13	???	_	_	rating
+13	rating	_	_	NN	_	11	OBJ-DO	_	_	carries
 
 1	still	_	_	RB	_	2	???	_	_	more
 2	more	_	_	RBR	_	3	???	_	_	defensive
 3	defensive	_	_	JJ	_	0	ROOT	_	_	ROOT
 
 1	close	_	_	JJ	_	0	ROOT	_	_	ROOT
-2	to	_	_	TO	_	1	???	_	_	close
-3	or	_	_	CC	_	1	???	_	_	close
-4	slightly	_	_	RB	_	5	???	_	_	more
-5	more	_	_	JJR	_	1	???	_	_	close
-6	than	_	_	IN	_	5	???	_	_	more
-7	students	_	_	NNS	_	1	???	_	_	close
+2	or	_	_	CC	_	1	???	_	_	close
+3	more	_	_	JJR	_	1	???	_	_	close
+4	the	_	_	DT	_	5	???	_	_	rate
+5	rate	_	_	NN	_	1	???	_	_	close
 
 1	rid	_	_	VB	_	0	ROOT	_	_	ROOT
 2	of	_	_	IN	_	1	???	_	_	rid
@@ -1111,13 +1111,13 @@
 3	disappointed	_	_	VBN	_	0	ROOT	_	_	ROOT
 4	''	_	_	''	_	3	???	_	_	disappointed
 
-1	``	_	_	``	_	3	???	_	_	lower
-2	significantly	_	_	RB	_	3	???	_	_	lower
-3	lower	_	_	JJR	_	0	ROOT	_	_	ROOT
-4	''	_	_	''	_	3	???	_	_	lower
-5	than	_	_	IN	_	3	???	_	_	lower
-6	students	_	_	NNS	_	7	???	_	_	earlier
-7	earlier	_	_	RBR	_	5	???	_	_	than
+1	``	_	_	``	_	2	???	_	_	lower
+2	lower	_	_	JJR	_	0	ROOT	_	_	ROOT
+3	''	_	_	''	_	2	???	_	_	lower
+4	than	_	_	IN	_	2	???	_	_	lower
+5	a	_	_	DT	_	6	???	_	_	year
+6	year	_	_	NN	_	7	???	_	_	earlier
+7	earlier	_	_	RBR	_	4	???	_	_	than
 
 1	year	_	_	NN	_	0	ROOT	_	_	ROOT
 2	earlier	_	_	JJR	_	1	???	_	_	year
@@ -1136,12 +1136,13 @@
 1	all-employee	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	owned	_	_	VBN	_	1	???	_	_	all-employee
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	for	_	_	IN	_	1	???	_	_	students
-3	students	_	_	NNS	_	2	???	_	_	for
-4	as	_	_	IN	_	1	???	_	_	students
-5	students	_	_	NNS	_	6	SUBJ	_	_	breaks
-6	breaks	_	_	VBZ	_	4	???	_	_	as
+1	as	_	_	RB	_	0	ROOT	_	_	ROOT
+2	for	_	_	IN	_	1	???	_	_	as
+3	his	_	_	PRP$	_	4	???	_	_	tastes
+4	tastes	_	_	NNS	_	2	???	_	_	for
+5	as	_	_	IN	_	1	???	_	_	as
+6	he	_	_	PRP	_	7	SUBJ	_	_	is
+7	is	_	_	VBZ	_	5	???	_	_	as
 
 1	most	_	_	RBS	_	4	???	_	_	expressive
 2	radiant	_	_	JJ	_	4	???	_	_	expressive
@@ -1155,10 +1156,7 @@
 2	once	_	_	RB	_	0	ROOT	_	_	ROOT
 3	wiser	_	_	JJR	_	2	???	_	_	once
 4	and	_	_	CC	_	2	???	_	_	once
-5	less	_	_	RBR	_	6	???	_	_	boorish
-6	boorish	_	_	JJ	_	2	???	_	_	once
-7	than	_	_	IN	_	6	???	_	_	boorish
-8	students	_	_	NNS	_	7	???	_	_	than
+5	boorish	_	_	JJ	_	2	???	_	_	once
 
 1	``	_	_	``	_	3	???	_	_	slipshod
 2	intellectually	_	_	RB	_	3	???	_	_	slipshod
@@ -1185,18 +1183,18 @@
 3	''	_	_	''	_	2	???	_	_	sophisticated
 4	enough	_	_	RB	_	2	???	_	_	sophisticated
 5	to	_	_	TO	_	2	???	_	_	sophisticated
-6	break	_	_	VB	_	5	???	_	_	to
+6	know	_	_	VB	_	5	???	_	_	to
+7	that	_	_	DT	_	6	OBJ-DO	_	_	know
 
 1	much	_	_	RB	_	2	???	_	_	harder
 2	harder	_	_	JJR	_	0	ROOT	_	_	ROOT
-3	0_NULL	_	_	-NONE-	_	2	???	_	_	harder
-4	to	_	_	TO	_	3	???	_	_	0_NULL
-5	break	_	_	VB	_	4	???	_	_	to
+3	0_NULL	_	_	-NONE-	_	5	OBJ-DO	_	_	maintain
+4	to	_	_	TO	_	2	???	_	_	harder
+5	maintain	_	_	VB	_	4	???	_	_	to
 
 1	loyal	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	if	_	_	IN	_	1	???	_	_	loyal
-3	occasionally	_	_	RB	_	4	???	_	_	ambivalent
-4	ambivalent	_	_	JJ	_	1	???	_	_	loyal
+3	ambivalent	_	_	JJ	_	1	???	_	_	loyal
 
 1	Perhaps	_	_	RB	_	3	???	_	_	important
 2	most	_	_	RBS	_	3	???	_	_	important
@@ -1205,57 +1203,64 @@
 1	due	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	mainly	_	_	RB	_	1	???	_	_	due
 3	to	_	_	TO	_	1	???	_	_	due
-4	students	_	_	NNS	_	3	???	_	_	to
+4	a	_	_	DT	_	5	???	_	_	order
+5	order	_	_	NN	_	3	???	_	_	to
+6	0_NULL	_	_	-NONE-	_	7	SUBJ	_	_	to
+7	to	_	_	TO	_	5	???	_	_	order
+8	equip	_	_	VB	_	7	???	_	_	to
+9	its	_	_	PRP$	_	10	???	_	_	fleet
+10	fleet	_	_	NN	_	8	OBJ-DO	_	_	equip
 
 1	fit	_	_	VBP	_	0	ROOT	_	_	ROOT
 2	for	_	_	IN	_	1	???	_	_	fit
-3	students	_	_	NNS	_	2	???	_	_	for
+3	consumption	_	_	NN	_	2	???	_	_	for
 
 1	80%-owned	_	_	CD	_	0	ROOT	_	_	ROOT
 2	by	_	_	IN	_	1	???	_	_	80%-owned
-3	students	_	_	NNS	_	2	???	_	_	by
+3	Inc	_	_	NNP	_	2	???	_	_	by
 
-1	extremely	_	_	RB	_	2	???	_	_	difficult
-2	difficult	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	,	_	_	,	_	2	???	_	_	difficult
-4	if	_	_	IN	_	5	???	_	_	not
-5	not	_	_	RB	_	2	???	_	_	difficult
-6	impossible	_	_	JJ	_	2	???	_	_	difficult
-7	,	_	_	,	_	2	???	_	_	difficult
-8	0_NULL	_	_	-NONE-	_	2	???	_	_	difficult
-9	to	_	_	TO	_	8	???	_	_	0_NULL
-10	break	_	_	VB	_	9	???	_	_	to
+1	difficult	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	difficult
+3	if	_	_	IN	_	4	???	_	_	not
+4	not	_	_	RB	_	1	???	_	_	difficult
+5	impossible	_	_	JJ	_	1	???	_	_	difficult
+6	,	_	_	,	_	1	???	_	_	difficult
+7	0_NULL	_	_	-NONE-	_	9	OBJ-DO	_	_	regulate
+8	to	_	_	TO	_	1	???	_	_	difficult
+9	regulate	_	_	VB	_	8	???	_	_	to
 
 1	a	_	_	DT	_	3	???	_	_	disingenuous
 2	little	_	_	RB	_	3	???	_	_	disingenuous
 3	disingenuous	_	_	JJ	_	0	ROOT	_	_	ROOT
 
-1	most	_	_	RBS	_	2	???	_	_	hallowed
-2	hallowed	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	--	_	_	:	_	2	???	_	_	hallowed
-4	and	_	_	CC	_	2	???	_	_	hallowed
-5	slowest	_	_	JJS	_	2	???	_	_	hallowed
-6	--	_	_	:	_	2	???	_	_	hallowed
+1	hallowed	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	--	_	_	:	_	1	???	_	_	hallowed
+3	and	_	_	CC	_	1	???	_	_	hallowed
+4	slowest	_	_	JJS	_	1	???	_	_	hallowed
+5	--	_	_	:	_	1	???	_	_	hallowed
 
 1	convertible	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	from	_	_	IN	_	5	???	_	_	to
-3	students	_	_	NNS	_	2	???	_	_	from
+3	Dec.	_	_	NNP	_	2	???	_	_	from
 4	,	_	_	,	_	5	???	_	_	to
 5	to	_	_	TO	_	1	???	_	_	convertible
-6	students	_	_	NNS	_	5	???	_	_	to
+6	Dec.	_	_	NNP	_	5	???	_	_	to
 7	,	_	_	,	_	1	???	_	_	convertible
 8	at	_	_	IN	_	1	???	_	_	convertible
-9	students	_	_	NNS	_	8	???	_	_	at
+9	premium	_	_	NN	_	8	???	_	_	at
 
 1	too	_	_	RB	_	2	???	_	_	busy
 2	busy	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	breaking	_	_	VBG	_	2	???	_	_	busy
-4	0_NULL	_	_	-NONE-	_	5	SUBJ	_	_	to
-5	to	_	_	TO	_	2	???	_	_	busy
-6	break	_	_	VB	_	5	???	_	_	to
+3	taming	_	_	VBG	_	2	???	_	_	busy
+4	his	_	_	PRP$	_	5	???	_	_	set
+5	set	_	_	NN	_	3	OBJ-DO	_	_	taming
+6	0_NULL	_	_	-NONE-	_	7	SUBJ	_	_	to
+7	to	_	_	TO	_	2	???	_	_	busy
+8	work	_	_	VB	_	7	???	_	_	to
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	students	_	_	NNS	_	1	???	_	_	students
+1	$	_	_	$	_	0	ROOT	_	_	ROOT
+2	a	_	_	DT	_	3	???	_	_	share
+3	share	_	_	NN	_	1	???	_	_	$
 
 1	investor-relations	_	_	NNS	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	investor-relations
@@ -1265,12 +1270,10 @@
 2	,	_	_	,	_	1	???	_	_	short
 3	bald	_	_	JJ	_	2	???	_	_	,
 4	,	_	_	,	_	2	???	_	_	,
-5	intensely	_	_	RB	_	6	???	_	_	nerdy
-6	nerdy	_	_	JJ	_	4	???	_	_	,
-7	,	_	_	,	_	8	???	_	_	and
-8	and	_	_	CC	_	4	???	_	_	,
-9	unremittingly	_	_	RB	_	10	???	_	_	boring
-10	boring	_	_	JJ	_	8	???	_	_	and
+5	nerdy	_	_	JJ	_	4	???	_	_	,
+6	,	_	_	,	_	7	???	_	_	and
+7	and	_	_	CC	_	4	???	_	_	,
+8	boring	_	_	JJ	_	7	???	_	_	and
 
 1	the	_	_	DT	_	2	???	_	_	best
 2	best	_	_	JJS	_	0	ROOT	_	_	ROOT
@@ -1279,13 +1282,17 @@
 2	least	_	_	JJS	_	1	???	_	_	At
 3	some	_	_	DT	_	1	???	_	_	At
 
-1	more	_	_	RBR	_	2	???	_	_	likely
-2	likely	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	to	_	_	TO	_	2	???	_	_	likely
-4	break	_	_	VB	_	3	???	_	_	to
-5	than	_	_	IN	_	2	???	_	_	likely
-6	is	_	_	VBZ	_	5	???	_	_	than
-7	students	_	_	NNS	_	6	SUBJ	_	_	is
+1	likely	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	to	_	_	TO	_	1	???	_	_	likely
+3	improve	_	_	VB	_	2	???	_	_	to
+4	the	_	_	DT	_	5	???	_	_	availability
+5	availability	_	_	NN	_	3	OBJ-DO	_	_	improve
+6	than	_	_	IN	_	1	???	_	_	likely
+7	is	_	_	VBZ	_	6	???	_	_	than
+8	the	_	_	DT	_	11	???	_	_	plan
+9	pro	_	_	FW	_	11	???	_	_	plan
+10	bono	_	_	FW	_	11	???	_	_	plan
+11	plan	_	_	NN	_	7	SUBJ	_	_	is
 
 1	not	_	_	RB	_	3	???	_	_	adjusted
 2	seasonally	_	_	RB	_	3	???	_	_	adjusted
@@ -1293,57 +1300,54 @@
 
 1	convertible	_	_	NN	_	0	ROOT	_	_	ROOT
 2	from	_	_	IN	_	5	???	_	_	to
-3	students	_	_	NNS	_	2	???	_	_	from
+3	Nov.	_	_	NNP	_	2	???	_	_	from
 4	,	_	_	,	_	5	???	_	_	to
 5	to	_	_	TO	_	1	???	_	_	convertible
-6	students	_	_	NNS	_	5	???	_	_	to
+6	Dec.	_	_	NNP	_	5	???	_	_	to
 7	,	_	_	,	_	5	???	_	_	to
 8	at	_	_	IN	_	1	???	_	_	convertible
-9	students	_	_	NNS	_	8	???	_	_	at
+9	a	_	_	DT	_	10	???	_	_	premium
+10	premium	_	_	NN	_	8	???	_	_	at
 
 1	probably	_	_	RB	_	3	???	_	_	able
 2	best	_	_	RB	_	3	???	_	_	able
 3	able	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	to	_	_	TO	_	3	???	_	_	able
-5	break	_	_	VB	_	4	???	_	_	to
+5	handle	_	_	VB	_	4	???	_	_	to
+6	it	_	_	PRP	_	5	OBJ-DO	_	_	handle
 
-1	less	_	_	RBR	_	2	???	_	_	concerned
-2	concerned	_	_	VBN	_	5	???	_	_	than
-3	with	_	_	IN	_	2	???	_	_	concerned
-4	students	_	_	NNS	_	3	???	_	_	with
-5	than	_	_	IN	_	0	ROOT	_	_	ROOT
-6	with	_	_	IN	_	5	???	_	_	than
-7	students	_	_	NNS	_	6	???	_	_	with
+1	concerned	_	_	VBN	_	2	???	_	_	than
+2	than	_	_	IN	_	0	ROOT	_	_	ROOT
 
 1	hardest	_	_	JJS	_	2	???	_	_	hit
 2	hit	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	remarkable	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	--	_	_	:	_	1	???	_	_	remarkable
-3	well	_	_	RB	_	4	???	_	_	worth
-4	worth	_	_	JJ	_	1	???	_	_	remarkable
-5	students	_	_	NNS	_	4	???	_	_	worth
-6	and	_	_	CC	_	4	???	_	_	worth
-7	even	_	_	RB	_	8	???	_	_	better
-8	better	_	_	RBR	_	6	???	_	_	and
-9	broken	_	_	VBN	_	8	???	_	_	better
+3	worth	_	_	JJ	_	1	???	_	_	remarkable
+4	a	_	_	DT	_	3	???	_	_	worth
+5	and	_	_	CC	_	3	???	_	_	worth
+6	even	_	_	RB	_	7	???	_	_	better
+7	better	_	_	RBR	_	5	???	_	_	and
 
-1	as	_	_	RB	_	2	???	_	_	close
-2	close	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	as	_	_	IN	_	2	???	_	_	close
-4	students	_	_	NNS	_	5	SUBJ	_	_	breaks
-5	breaks	_	_	VBZ	_	3	???	_	_	as
-6	to	_	_	TO	_	2	???	_	_	close
-7	breaking	_	_	VBG	_	6	???	_	_	to
+1	close	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	as	_	_	IN	_	1	???	_	_	close
+3	Germany	_	_	NNP	_	4	SUBJ	_	_	gets
+4	gets	_	_	VBZ	_	2	???	_	_	as
+5	to	_	_	TO	_	1	???	_	_	close
+6	practicing	_	_	VBG	_	5	???	_	_	to
+7	glasnost	_	_	NN	_	6	OBJ-DO	_	_	practicing
 
 1	sufficiently	_	_	RB	_	2	???	_	_	flawed
 2	flawed	_	_	VBN	_	0	ROOT	_	_	ROOT
 3	in	_	_	IN	_	2	???	_	_	flawed
-4	students	_	_	NNS	_	3	???	_	_	in
-5	that	_	_	IN	_	2	???	_	_	flawed
-6	students	_	_	NNS	_	7	SUBJ	_	_	will
-7	will	_	_	MD	_	5	???	_	_	that
-8	break	_	_	VB	_	7	???	_	_	will
+4	a	_	_	DT	_	5	???	_	_	number
+5	number	_	_	NN	_	3	???	_	_	in
+6	that	_	_	IN	_	2	???	_	_	flawed
+7	revisions	_	_	NNS	_	8	SUBJ	_	_	will
+8	will	_	_	MD	_	6	???	_	_	that
+9	be	_	_	VB	_	8	???	_	_	will
+10	required	_	_	VBN	_	9	???	_	_	be
 
 1	grandmotherly	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	looking	_	_	VBG	_	1	???	_	_	grandmotherly
@@ -1353,12 +1357,10 @@
 3	5	_	_	CD	_	2	???	_	_	$
 4	million	_	_	CD	_	2	???	_	_	$
 
-1	tentative	_	_	JJ	_	6	???	_	_	even
-2	about	_	_	IN	_	1	???	_	_	tentative
-3	students	_	_	NNS	_	2	???	_	_	about
-4	,	_	_	,	_	6	???	_	_	even
-5	squeamish	_	_	JJ	_	6	???	_	_	even
-6	even	_	_	RB	_	0	ROOT	_	_	ROOT
+1	tentative	_	_	JJ	_	4	???	_	_	even
+2	,	_	_	,	_	4	???	_	_	even
+3	squeamish	_	_	JJ	_	4	???	_	_	even
+4	even	_	_	RB	_	0	ROOT	_	_	ROOT
 
 1	unconsolidated	_	_	JJ	_	4	???	_	_	parent-company
 2	,	_	_	,	_	4	???	_	_	parent-company
@@ -1378,12 +1380,10 @@
 3	world	_	_	NN	_	0	ROOT	_	_	ROOT
 4	''	_	_	''	_	3	???	_	_	world
 
-1	more	_	_	RBR	_	2	???	_	_	inclined
-2	inclined	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	to	_	_	TO	_	2	???	_	_	inclined
-4	breaking	_	_	VBG	_	3	???	_	_	to
-5	than	_	_	IN	_	2	???	_	_	inclined
-6	breaking	_	_	VBG	_	5	???	_	_	than
+1	inclined	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	than	_	_	IN	_	1	???	_	_	inclined
+3	understanding	_	_	VBG	_	2	???	_	_	than
+4	markets	_	_	NNS	_	3	OBJ-DO	_	_	understanding
 
 1	Wrong	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	.	_	_	.	_	1	???	_	_	Wrong
@@ -1391,7 +1391,7 @@
 1	greenish	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	greenish
 3	with	_	_	IN	_	1	???	_	_	greenish
-4	students	_	_	NNS	_	3	???	_	_	with
+4	tinges	_	_	NNS	_	3	???	_	_	with
 
 1	more	_	_	RBR	_	2	???	_	_	creditworthy
 2	creditworthy	_	_	NN	_	0	ROOT	_	_	ROOT
@@ -1400,21 +1400,20 @@
 2	enough	_	_	RB	_	1	???	_	_	liquid
 
 1	now	_	_	RB	_	3	???	_	_	old
-2	students	_	_	NNS	_	3	???	_	_	old
+2	years	_	_	NNS	_	3	???	_	_	old
 3	old	_	_	JJ	_	0	ROOT	_	_	ROOT
 
-1	annoyed	_	_	VBN	_	3	???	_	_	well
-2	as	_	_	RB	_	3	???	_	_	well
-3	well	_	_	RB	_	0	ROOT	_	_	ROOT
-4	that	_	_	IN	_	3	???	_	_	well
-5	students	_	_	NNS	_	6	SUBJ	_	_	broken
-6	broken	_	_	VBN	_	4	???	_	_	that
+1	annoyed	_	_	VBN	_	2	???	_	_	well
+2	well	_	_	RB	_	0	ROOT	_	_	ROOT
+3	that	_	_	IN	_	2	???	_	_	well
+4	the	_	_	DT	_	5	???	_	_	project
+5	project	_	_	NN	_	6	SUBJ	_	_	moved
+6	moved	_	_	VBN	_	3	???	_	_	that
 
-1	eight	_	_	CD	_	4	???	_	_	feet
-2	to	_	_	TO	_	1	???	_	_	eight
-3	10	_	_	CD	_	1	???	_	_	eight
-4	feet	_	_	NNS	_	0	ROOT	_	_	ROOT
-5	tall	_	_	JJ	_	4	???	_	_	feet
+1	to	_	_	TO	_	2	???	_	_	10
+2	10	_	_	CD	_	3	???	_	_	feet
+3	feet	_	_	NNS	_	0	ROOT	_	_	ROOT
+4	tall	_	_	JJ	_	3	???	_	_	feet
 
 1	monsieur	_	_	NN	_	0	ROOT	_	_	ROOT
 2	avec	_	_	FW	_	1	???	_	_	monsieur
@@ -1436,12 +1435,14 @@
 2	close	_	_	RB	_	1	???	_	_	relatively
 3	together	_	_	RB	_	1	???	_	_	relatively
 4	for	_	_	IN	_	1	???	_	_	relatively
-5	students	_	_	NNS	_	4	???	_	_	for
+5	such	_	_	PDT	_	7	???	_	_	settlement
+6	a	_	_	DT	_	7	???	_	_	settlement
+7	settlement	_	_	NN	_	4	???	_	_	for
 
 1	better	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	off	_	_	IN	_	1	???	_	_	better
-3	not	_	_	RB	_	4	???	_	_	breaking
-4	breaking	_	_	VBG	_	1	???	_	_	better
+3	not	_	_	RB	_	4	???	_	_	being
+4	being	_	_	VBG	_	1	???	_	_	better
 
 1	post-World	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	War	_	_	NNP	_	1	???	_	_	post-World
@@ -1467,7 +1468,7 @@
 2	same	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	as	_	_	IN	_	2	???	_	_	same
 4	in	_	_	IN	_	3	???	_	_	as
-5	students	_	_	NNS	_	4	???	_	_	in
+5	1986	_	_	CD	_	4	???	_	_	in
 
 1	eloquently	_	_	RB	_	3	???	_	_	concerned
 2	``	_	_	``	_	3	???	_	_	concerned
@@ -1483,75 +1484,78 @@
 
 1	Callable	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	from	_	_	IN	_	1	???	_	_	Callable
-3	students	_	_	NNS	_	2	???	_	_	from
+3	March	_	_	NNP	_	2	???	_	_	from
 4	at	_	_	IN	_	1	???	_	_	Callable
-5	students	_	_	NNS	_	4	???	_	_	at
+5	3\/4	_	_	CD	_	4	???	_	_	at
 6	.	_	_	.	_	1	???	_	_	Callable
 
 1	most	_	_	RBS	_	2	???	_	_	open
 2	open	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	open
-4	students	_	_	NNS	_	3	???	_	_	to
+4	abuse	_	_	VB	_	3	???	_	_	to
 5	,	_	_	,	_	2	???	_	_	open
 6	since	_	_	IN	_	2	???	_	_	open
-7	students	_	_	NNS	_	8	SUBJ	_	_	breaks
-8	breaks	_	_	VBZ	_	6	???	_	_	since
+7	it	_	_	PRP	_	8	SUBJ	_	_	imposes
+8	imposes	_	_	VBZ	_	6	???	_	_	since
+9	no	_	_	DT	_	10	???	_	_	restrictions
+10	restrictions	_	_	NNS	_	8	OBJ-DO	_	_	imposes
 
 1	Too	_	_	NNP	_	0	ROOT	_	_	ROOT
 2	Young	_	_	NNP	_	1	???	_	_	Too
 3	to	_	_	TO	_	1	???	_	_	Too
-4	break	_	_	VB	_	3	???	_	_	to
+4	Die	_	_	VB	_	3	???	_	_	to
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	closer	_	_	RBR	_	1	???	_	_	students
-3	in	_	_	IN	_	1	???	_	_	students
-4	students	_	_	NNS	_	3	???	_	_	in
+1	a	_	_	DT	_	2	???	_	_	bit
+2	bit	_	_	NN	_	0	ROOT	_	_	ROOT
+3	closer	_	_	RBR	_	2	???	_	_	bit
+4	in	_	_	IN	_	2	???	_	_	bit
+5	cars	_	_	NNS	_	4	???	_	_	in
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	and	_	_	CC	_	1	???	_	_	students
+1	age	_	_	NN	_	0	ROOT	_	_	ROOT
+2	and	_	_	CC	_	1	???	_	_	age
 3	older	_	_	JJR	_	2	???	_	_	and
 
-1	so	_	_	RB	_	2	???	_	_	fantastic
-2	fantastic	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	in	_	_	IN	_	2	???	_	_	fantastic
-4	students	_	_	NNS	_	3	???	_	_	in
-5	,	_	_	,	_	2	???	_	_	fantastic
-6	0_NULL	_	_	-NONE-	_	2	???	_	_	fantastic
-7	students	_	_	NNS	_	8	SUBJ	_	_	broke
-8	broke	_	_	VBD	_	6	???	_	_	0_NULL
+1	fantastic	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	in	_	_	IN	_	1	???	_	_	fantastic
+3	appearance	_	_	NN	_	2	???	_	_	in
+4	,	_	_	,	_	1	???	_	_	fantastic
+5	0_NULL	_	_	-NONE-	_	1	???	_	_	fantastic
+6	it	_	_	PRP	_	7	SUBJ	_	_	was
+7	was	_	_	VBD	_	5	???	_	_	0_NULL
+8	dubbed	_	_	VBN	_	7	???	_	_	was
 
 1	very	_	_	RB	_	2	???	_	_	careful
 2	careful	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	since	_	_	IN	_	2	???	_	_	careful
-4	students	_	_	NNS	_	3	???	_	_	since
+4	then	_	_	RB	_	3	???	_	_	since
 5	to	_	_	TO	_	2	???	_	_	careful
-6	break	_	_	VB	_	5	???	_	_	to
+6	make	_	_	VB	_	5	???	_	_	to
+7	sure	_	_	JJ	_	6	???	_	_	make
 
 1	straightforward	_	_	JJ	_	0	ROOT	_	_	ROOT
-2	--	_	_	:	_	4	???	_	_	breaks
-3	students	_	_	NNS	_	4	SUBJ	_	_	breaks
-4	breaks	_	_	VBZ	_	1	???	_	_	straightforward
-5	--	_	_	:	_	4	???	_	_	breaks
-6	or	_	_	CC	_	1	???	_	_	straightforward
-7	incredibly	_	_	RB	_	8	???	_	_	convoluted
+2	--	_	_	:	_	4	???	_	_	wants
+3	he	_	_	PRP	_	4	SUBJ	_	_	wants
+4	wants	_	_	VBZ	_	1	???	_	_	straightforward
+5	money	_	_	NN	_	4	OBJ-DO	_	_	wants
+6	--	_	_	:	_	4	???	_	_	wants
+7	or	_	_	CC	_	1	???	_	_	straightforward
 8	convoluted	_	_	VBN	_	1	???	_	_	straightforward
-9	;	_	_	:	_	11	???	_	_	breaks
-10	students	_	_	NNS	_	11	SUBJ	_	_	breaks
-11	breaks	_	_	VBZ	_	1	???	_	_	straightforward
-12	,	_	_	,	_	11	???	_	_	breaks
-13	students	_	_	NNS	_	14	SUBJ	_	_	breaks
-14	breaks	_	_	VBZ	_	12	???	_	_	,
-15	,	_	_	,	_	16	???	_	_	and
-16	and	_	_	CC	_	12	???	_	_	,
-17	wo	_	_	MD	_	16	???	_	_	and
-18	n't	_	_	RB	_	17	???	_	_	wo
-19	students	_	_	NNS	_	17	SUBJ	_	_	wo
-20	break	_	_	VB	_	17	???	_	_	wo
-21	?	_	_	.	_	17	???	_	_	wo
+9	;	_	_	:	_	12	???	_	_	is
+10	his	_	_	PRP$	_	11	???	_	_	sister
+11	sister	_	_	NN	_	12	SUBJ	_	_	is
+12	is	_	_	VBZ	_	1	???	_	_	straightforward
+13	wo	_	_	MD	_	12	???	_	_	is
+14	n't	_	_	RB	_	13	???	_	_	wo
+15	you	_	_	PRP	_	13	SUBJ	_	_	wo
+16	give	_	_	VB	_	13	???	_	_	wo
+17	him	_	_	PRP	_	16	???	_	_	give
+18	the	_	_	DT	_	19	???	_	_	difference
+19	difference	_	_	NN	_	16	OBJ-DO	_	_	give
+20	?	_	_	.	_	13	???	_	_	wo
 
 1	entitled	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	``	_	_	``	_	1	???	_	_	entitled
-3	students	_	_	NNS	_	1	???	_	_	entitled
+3	Winners	_	_	NNS	_	1	???	_	_	entitled
 
 1	worse	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	worse
@@ -1562,12 +1566,12 @@
 2	range	_	_	NN	_	0	ROOT	_	_	ROOT
 3	-LCB-	_	_	-LRB-	_	4	???	_	_	in
 4	in	_	_	IN	_	2	???	_	_	range
-5	students	_	_	NNS	_	4	???	_	_	in
+5	price	_	_	NN	_	4	???	_	_	in
 6	-RCB-	_	_	-RRB-	_	4	???	_	_	in
 7	from	_	_	IN	_	2	???	_	_	range
-8	where	_	_	WRB	_	10	???	_	_	are
-9	students	_	_	NNS	_	10	SUBJ	_	_	are
-10	are	_	_	VBP	_	7	???	_	_	from
+8	where	_	_	WRB	_	7	???	_	_	from
+9	we	_	_	PRP	_	10	SUBJ	_	_	are
+10	are	_	_	VBP	_	8	???	_	_	where
 
 1	warmed	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	over	_	_	RP	_	1	???	_	_	warmed
@@ -1576,59 +1580,47 @@
 2	pleased	_	_	VBN	_	0	ROOT	_	_	ROOT
 3	''	_	_	''	_	2	???	_	_	pleased
 4	with	_	_	IN	_	2	???	_	_	pleased
-5	students	_	_	NNS	_	4	???	_	_	with
+5	performance	_	_	NN	_	4	???	_	_	with
 
-1	decidedly	_	_	RB	_	3	???	_	_	dowdy
-2	more	_	_	RBR	_	3	???	_	_	dowdy
-3	dowdy	_	_	JJ	_	0	ROOT	_	_	ROOT
-4	--	_	_	:	_	3	???	_	_	dowdy
-5	generally	_	_	RB	_	6	???	_	_	smaller
-6	smaller	_	_	JJR	_	3	???	_	_	dowdy
-7	,	_	_	,	_	3	???	_	_	dowdy
-8	less-perfectly	_	_	RBR	_	9	???	_	_	shaped
-9	shaped	_	_	JJ	_	3	???	_	_	dowdy
-10	,	_	_	,	_	3	???	_	_	dowdy
-11	greenish	_	_	JJ	_	3	???	_	_	dowdy
-12	,	_	_	,	_	11	???	_	_	greenish
-13	with	_	_	IN	_	11	???	_	_	greenish
-14	students	_	_	NNS	_	13	???	_	_	with
+1	dowdy	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	--	_	_	:	_	1	???	_	_	dowdy
+3	smaller	_	_	JJR	_	1	???	_	_	dowdy
+4	,	_	_	,	_	1	???	_	_	dowdy
+5	shaped	_	_	JJ	_	1	???	_	_	dowdy
+6	,	_	_	,	_	1	???	_	_	dowdy
+7	greenish	_	_	JJ	_	1	???	_	_	dowdy
+8	,	_	_	,	_	7	???	_	_	greenish
 
 1	hopeful	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	3	???	_	_	however
 3	however	_	_	RB	_	1	???	_	_	hopeful
 4	,	_	_	,	_	3	???	_	_	however
 5	that	_	_	IN	_	1	???	_	_	hopeful
-6	students	_	_	NNS	_	7	SUBJ	_	_	will
+6	developments	_	_	NNS	_	7	SUBJ	_	_	will
 7	will	_	_	MD	_	5	???	_	_	that
-8	break	_	_	VB	_	7	???	_	_	will
+8	expand	_	_	VB	_	7	???	_	_	will
+9	markets	_	_	NNS	_	8	OBJ-DO	_	_	expand
 
 1	not	_	_	RB	_	6	???	_	_	now
 2	readily	_	_	RB	_	6	???	_	_	now
 3	accessible	_	_	JJ	_	6	???	_	_	now
 4	in	_	_	IN	_	6	???	_	_	now
-5	students	_	_	NNS	_	4	???	_	_	in
+5	Poland	_	_	NNP	_	4	???	_	_	in
 6	now	_	_	RB	_	0	ROOT	_	_	ROOT
 
-1	more	_	_	RBR	_	2	???	_	_	responsive
-2	responsive	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	,	_	_	,	_	2	???	_	_	responsive
-4	more	_	_	RBR	_	5	???	_	_	stable
-5	stable	_	_	JJ	_	2	???	_	_	responsive
-6	and	_	_	CC	_	2	???	_	_	responsive
-7	in	_	_	IN	_	2	???	_	_	responsive
-8	students	_	_	NNS	_	7	???	_	_	in
-9	easier	_	_	JJR	_	2	???	_	_	responsive
-10	0_NULL	_	_	-NONE-	_	9	???	_	_	easier
-11	to	_	_	TO	_	10	???	_	_	0_NULL
-12	break	_	_	VB	_	11	???	_	_	to
-13	than	_	_	IN	_	9	???	_	_	easier
-14	students	_	_	NNS	_	13	???	_	_	than
+1	responsive	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	responsive
+3	stable	_	_	JJ	_	1	???	_	_	responsive
+4	and	_	_	CC	_	1	???	_	_	responsive
+5	in	_	_	IN	_	1	???	_	_	responsive
+6	ways	_	_	NNS	_	5	???	_	_	in
+7	easier	_	_	JJR	_	1	???	_	_	responsive
 
 1	more	_	_	RBR	_	3	???	_	_	active
 2	politically	_	_	RB	_	3	???	_	_	active
 3	active	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	in	_	_	IN	_	3	???	_	_	active
-5	students	_	_	NNS	_	4	???	_	_	in
+5	America	_	_	NNP	_	4	???	_	_	in
 
 1	cotton	_	_	NN	_	0	ROOT	_	_	ROOT
 2	candy	_	_	NN	_	1	???	_	_	cotton
@@ -1637,12 +1629,13 @@
 1	least	_	_	JJS	_	2	???	_	_	able
 2	able	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	able
-4	break	_	_	VB	_	3	???	_	_	to
+4	cope	_	_	VB	_	3	???	_	_	to
 
 1	about	_	_	IN	_	2	???	_	_	flat
 2	flat	_	_	RB	_	0	ROOT	_	_	ROOT
 3	with	_	_	IN	_	2	???	_	_	flat
-4	students	_	_	NNS	_	3	???	_	_	with
+4	the	_	_	DT	_	5	???	_	_	period
+5	period	_	_	NN	_	3	???	_	_	with
 
 1	``	_	_	``	_	6	???	_	_	individual-investor
 2	retail	_	_	JJ	_	6	???	_	_	individual-investor
@@ -1655,7 +1648,7 @@
 1	fed	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	up	_	_	RP	_	1	???	_	_	fed
 3	with	_	_	IN	_	1	???	_	_	fed
-4	students	_	_	NNS	_	3	???	_	_	with
+4	mail	_	_	NN	_	3	???	_	_	with
 
 1	economic	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	economic
@@ -1663,17 +1656,15 @@
 4	or	_	_	CC	_	2	???	_	_	,
 5	stronger	_	_	JJR	_	4	???	_	_	or
 
-1	troubled	_	_	JJ	_	10	???	_	_	quite
-2	but	_	_	CC	_	10	???	_	_	quite
-3	still	_	_	RB	_	4	???	_	_	viable
-4	viable	_	_	JJ	_	10	???	_	_	quite
-5	and	_	_	CC	_	10	???	_	_	quite
-6	,	_	_	,	_	8	???	_	_	enough
-7	appropriately	_	_	RB	_	8	???	_	_	enough
-8	enough	_	_	RB	_	10	???	_	_	quite
-9	,	_	_	,	_	8	???	_	_	enough
-10	quite	_	_	RB	_	0	ROOT	_	_	ROOT
-11	quality-conscious	_	_	JJ	_	10	???	_	_	quite
+1	troubled	_	_	JJ	_	8	???	_	_	quite
+2	but	_	_	CC	_	8	???	_	_	quite
+3	viable	_	_	JJ	_	8	???	_	_	quite
+4	and	_	_	CC	_	8	???	_	_	quite
+5	,	_	_	,	_	6	???	_	_	enough
+6	enough	_	_	RB	_	8	???	_	_	quite
+7	,	_	_	,	_	6	???	_	_	enough
+8	quite	_	_	RB	_	0	ROOT	_	_	ROOT
+9	quality-conscious	_	_	JJ	_	8	???	_	_	quite
 
 1	about	_	_	IN	_	2	???	_	_	even
 2	even	_	_	RB	_	0	ROOT	_	_	ROOT
@@ -1681,14 +1672,16 @@
 1	How	_	_	WRB	_	2	???	_	_	easy
 2	easy	_	_	JJ	_	0	ROOT	_	_	ROOT
 
-3	students	_	_	NNS	_	4	SUBJ	_	_	breaks
-4	breaks	_	_	VBZ	_	2	???	_	_	0_NULL
+3	a	_	_	DT	_	4	???	_	_	recession
+4	recession	_	_	NN	_	5	SUBJ	_	_	is
+5	is	_	_	VBZ	_	2	???	_	_	0_NULL
+6	coming	_	_	VBG	_	5	???	_	_	is
 
 1	even	_	_	RB	_	2	???	_	_	harder
 2	harder	_	_	RBR	_	0	ROOT	_	_	ROOT
-3	0_NULL	_	_	-NONE-	_	2	???	_	_	harder
-4	to	_	_	TO	_	3	???	_	_	0_NULL
-5	break	_	_	VB	_	4	???	_	_	to
+3	0_NULL	_	_	-NONE-	_	5	OBJ-DO	_	_	shrink
+4	to	_	_	TO	_	2	???	_	_	harder
+5	shrink	_	_	VB	_	4	???	_	_	to
 
 1	more	_	_	RBR	_	3	???	_	_	educated
 2	highly	_	_	RB	_	3	???	_	_	educated
@@ -1700,22 +1693,20 @@
 1	``	_	_	``	_	2	???	_	_	ready
 2	ready	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	for	_	_	IN	_	2	???	_	_	ready
-4	students	_	_	NNS	_	3	???	_	_	for
+4	a	_	_	DT	_	5	???	_	_	bounce
+5	bounce	_	_	NN	_	3	???	_	_	for
 
 1	worth	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	more	_	_	RBR	_	2	???	_	_	restricted
-2	restricted	_	_	VBN	_	0	ROOT	_	_	ROOT
-3	,	_	_	,	_	2	???	_	_	restricted
-4	but	_	_	CC	_	2	???	_	_	restricted
-5	not	_	_	RB	_	2	???	_	_	restricted
-6	completely	_	_	RB	_	7	???	_	_	banned
-7	banned	_	_	VBN	_	2	???	_	_	restricted
+1	restricted	_	_	VBN	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	restricted
+3	but	_	_	CC	_	1	???	_	_	restricted
+4	not	_	_	RB	_	1	???	_	_	restricted
+5	banned	_	_	VBN	_	1	???	_	_	restricted
 
-1	four	_	_	CD	_	0	ROOT	_	_	ROOT
-2	billion	_	_	CD	_	1	???	_	_	four
-3	French	_	_	NNP	_	1	???	_	_	four
-4	franc	_	_	NN	_	1	???	_	_	four
+1	billion	_	_	CD	_	0	ROOT	_	_	ROOT
+2	French	_	_	NNP	_	1	???	_	_	billion
+3	franc	_	_	NN	_	1	???	_	_	billion
 
 1	more	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	''	_	_	''	_	1	???	_	_	more
@@ -1752,7 +1743,7 @@
 4	and	_	_	CC	_	2	???	_	_	more
 5	agreeable	_	_	JJ	_	2	???	_	_	more
 6	to	_	_	TO	_	2	???	_	_	more
-7	students	_	_	NNS	_	6	???	_	_	to
+7	teachers	_	_	NNS	_	6	???	_	_	to
 
 1	a	_	_	DT	_	3	???	_	_	closer
 2	lot	_	_	RB	_	3	???	_	_	closer
@@ -1764,19 +1755,18 @@
 
 1	available	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	available
-3	students	_	_	NNS	_	2	???	_	_	to
+3	certain	_	_	JJ	_	2	???	_	_	to
 4	``	_	_	``	_	1	???	_	_	available
 5	for	_	_	IN	_	1	???	_	_	available
-6	students	_	_	NNS	_	5	???	_	_	for
+6	examination	_	_	NN	_	5	???	_	_	for
 7	only	_	_	RB	_	5	???	_	_	for
 
-1	very	_	_	RB	_	2	???	_	_	much
-2	much	_	_	RB	_	0	ROOT	_	_	ROOT
-3	-LCB-	_	_	-LRB-	_	2	???	_	_	much
-4	similar	_	_	JJ	_	2	???	_	_	much
-5	to	_	_	TO	_	2	???	_	_	much
-6	-RCB-	_	_	-RRB-	_	5	???	_	_	to
-7	students	_	_	NNS	_	5	???	_	_	to
+1	much	_	_	RB	_	0	ROOT	_	_	ROOT
+2	-LCB-	_	_	-LRB-	_	1	???	_	_	much
+3	similar	_	_	JJ	_	1	???	_	_	much
+4	to	_	_	TO	_	1	???	_	_	much
+5	-RCB-	_	_	-RRB-	_	4	???	_	_	to
+6	outlook	_	_	NN	_	4	???	_	_	to
 
 1	less	_	_	RBR	_	3	???	_	_	stellar
 2	than	_	_	IN	_	3	???	_	_	stellar
@@ -1787,7 +1777,8 @@
 3	as	_	_	IN	_	1	???	_	_	nowhere
 4	successful	_	_	JJ	_	1	???	_	_	nowhere
 5	at	_	_	IN	_	1	???	_	_	nowhere
-6	breaking	_	_	VBG	_	5	???	_	_	at
+6	easing	_	_	VBG	_	5	???	_	_	at
+7	strains	_	_	NNS	_	6	OBJ-DO	_	_	easing
 
 1	more	_	_	JJR	_	3	???	_	_	expensive
 2	``	_	_	``	_	3	???	_	_	expensive
@@ -1798,11 +1789,11 @@
 2	fed	_	_	VBN	_	0	ROOT	_	_	ROOT
 3	up	_	_	RP	_	2	???	_	_	fed
 4	with	_	_	IN	_	2	???	_	_	fed
-5	students	_	_	NNS	_	4	???	_	_	with
+5	ringers	_	_	NNS	_	4	???	_	_	with
 
 1	Fluent	_	_	NNP	_	0	ROOT	_	_	ROOT
 2	in	_	_	IN	_	1	???	_	_	Fluent
-3	students	_	_	NNS	_	2	???	_	_	in
+3	Spanish	_	_	NNP	_	2	???	_	_	in
 
 1	somewhat	_	_	RB	_	0	ROOT	_	_	ROOT
 2	more	_	_	JJR	_	1	???	_	_	somewhat
@@ -1855,7 +1846,7 @@
 1	interested	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	-LCB-	_	_	-LRB-	_	3	???	_	_	in
 3	in	_	_	IN	_	1	???	_	_	interested
-4	students	_	_	NNS	_	3	???	_	_	in
+4	diversifying	_	_	VBG	_	3	???	_	_	in
 5	-RCB-	_	_	-RRB-	_	3	???	_	_	in
 
 1	``	_	_	``	_	2	???	_	_	cheaper
@@ -1871,23 +1862,27 @@
 1	better	_	_	RBR	_	0	ROOT	_	_	ROOT
 2	positioned	_	_	VBN	_	1	???	_	_	better
 3	than	_	_	IN	_	1	???	_	_	better
-4	students	_	_	NNS	_	3	???	_	_	than
+4	companies	_	_	NNS	_	3	???	_	_	than
 5	for	_	_	IN	_	1	???	_	_	better
-6	students	_	_	NNS	_	5	???	_	_	for
-7	because	_	_	IN	_	1	???	_	_	better
-8	students	_	_	NNS	_	9	SUBJ	_	_	can
-9	can	_	_	MD	_	7	???	_	_	because
-10	break	_	_	VB	_	9	???	_	_	can
+6	the	_	_	DT	_	7	???	_	_	overcapacity
+7	overcapacity	_	_	NN	_	5	???	_	_	for
+8	because	_	_	IN	_	1	???	_	_	better
+9	its	_	_	PRP$	_	10	???	_	_	mills
+10	mills	_	_	NNS	_	11	SUBJ	_	_	can
+11	can	_	_	MD	_	8	???	_	_	because
+12	make	_	_	VB	_	11	???	_	_	can
+13	grade	_	_	NN	_	12	OBJ-DO	_	_	make
 
 1	greater	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	still	_	_	RB	_	1	???	_	_	greater
 
 1	insufficient	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	insufficient
-3	break	_	_	VB	_	2	???	_	_	to
-4	''	_	_	''	_	1	???	_	_	insufficient
-5	by	_	_	IN	_	1	???	_	_	insufficient
-6	students	_	_	NNS	_	5	???	_	_	by
+3	cover	_	_	VB	_	2	???	_	_	to
+4	its	_	_	PRP$	_	5	???	_	_	charges
+5	charges	_	_	NNS	_	3	OBJ-DO	_	_	cover
+6	''	_	_	''	_	1	???	_	_	insufficient
+7	by	_	_	IN	_	1	???	_	_	insufficient
 
 1	better	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	off	_	_	IN	_	1	???	_	_	better
@@ -1898,7 +1893,7 @@
 4	encouraged	_	_	JJ	_	0	ROOT	_	_	ROOT
 5	''	_	_	''	_	4	???	_	_	encouraged
 6	by	_	_	IN	_	4	???	_	_	encouraged
-7	students	_	_	NNS	_	6	???	_	_	by
+7	praise	_	_	NN	_	6	???	_	_	by
 
 1	better	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	better
@@ -1906,13 +1901,13 @@
 4	or	_	_	CC	_	2	???	_	_	,
 5	cheaper	_	_	JJR	_	4	???	_	_	or
 
-1	``	_	_	``	_	3	???	_	_	much
-2	very	_	_	RB	_	3	???	_	_	much
-3	much	_	_	RB	_	0	ROOT	_	_	ROOT
-4	concerned	_	_	VBN	_	3	???	_	_	much
-5	''	_	_	''	_	3	???	_	_	much
-6	about	_	_	IN	_	3	???	_	_	much
-7	students	_	_	NNS	_	6	???	_	_	about
+1	``	_	_	``	_	2	???	_	_	much
+2	much	_	_	RB	_	0	ROOT	_	_	ROOT
+3	concerned	_	_	VBN	_	2	???	_	_	much
+4	''	_	_	''	_	2	???	_	_	much
+5	about	_	_	IN	_	2	???	_	_	much
+6	the	_	_	DT	_	7	???	_	_	deaths
+7	deaths	_	_	NNS	_	5	???	_	_	about
 
 1	100	_	_	CD	_	2	???	_	_	times
 2	times	_	_	NNS	_	0	ROOT	_	_	ROOT
@@ -1921,9 +1916,7 @@
 
 1	biggest	_	_	JJS	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	biggest
-3	most	_	_	RBS	_	5	???	_	_	powerful
-4	economically	_	_	RB	_	5	???	_	_	powerful
-5	powerful	_	_	JJ	_	2	???	_	_	and
+3	powerful	_	_	JJ	_	2	???	_	_	and
 
 1	steady	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	steady
@@ -1948,7 +1941,8 @@
 2	inextricably	_	_	RB	_	3	???	_	_	entwined
 3	entwined	_	_	VBN	_	0	ROOT	_	_	ROOT
 4	with	_	_	IN	_	3	???	_	_	entwined
-5	students	_	_	NNS	_	4	???	_	_	with
+5	our	_	_	PRP$	_	6	???	_	_	way
+6	way	_	_	NN	_	4	???	_	_	with
 
 1	East	_	_	NNP	_	0	ROOT	_	_	ROOT
 2	bloc	_	_	NN	_	1	???	_	_	East
@@ -1957,30 +1951,34 @@
 2	laissez-faire	_	_	FW	_	0	ROOT	_	_	ROOT
 
 1	time-consuming	_	_	JJ	_	0	ROOT	_	_	ROOT
-2	-LRB-	_	_	-LRB-	_	4	???	_	_	breaks
-3	students	_	_	NNS	_	4	SUBJ	_	_	breaks
-4	breaks	_	_	VBZ	_	1	???	_	_	time-consuming
-5	,	_	_	,	_	6	???	_	_	and
-6	and	_	_	CC	_	4	???	_	_	breaks
-7	students	_	_	NNS	_	8	SUBJ	_	_	breaks
-8	breaks	_	_	VBZ	_	6	???	_	_	and
-9	-RRB-	_	_	-RRB-	_	4	???	_	_	breaks
-10	,	_	_	,	_	1	???	_	_	time-consuming
-11	bloody	_	_	JJ	_	1	???	_	_	time-consuming
-12	-LRB-	_	_	-LRB-	_	14	???	_	_	broke
-13	students	_	_	NNS	_	14	SUBJ	_	_	broke
-14	broke	_	_	VBD	_	1	???	_	_	time-consuming
-15	-RRB-	_	_	-RRB-	_	14	???	_	_	broke
-16	,	_	_	,	_	1	???	_	_	time-consuming
-17	and	_	_	CC	_	1	???	_	_	time-consuming
-18	painful	_	_	JJ	_	1	???	_	_	time-consuming
-19	-LRB-	_	_	-LRB-	_	21	???	_	_	require
-20	students	_	_	NNS	_	21	SUBJ	_	_	require
-21	require	_	_	VBP	_	1	???	_	_	time-consuming
-22	students	_	_	NNS	_	21	OBJ-DO	_	_	require
-23	to	_	_	TO	_	21	???	_	_	require
-24	break	_	_	VB	_	23	???	_	_	to
-25	-RRB-	_	_	-RRB-	_	21	???	_	_	require
+2	-LRB-	_	_	-LRB-	_	6	???	_	_	lasts
+3	the	_	_	DT	_	4	???	_	_	part
+4	part	_	_	NN	_	6	SUBJ	_	_	lasts
+5	alone	_	_	RB	_	4	???	_	_	part
+6	lasts	_	_	VBZ	_	1	???	_	_	time-consuming
+7	days	_	_	NNS	_	6	OBJ-DO	_	_	lasts
+8	-RRB-	_	_	-RRB-	_	6	???	_	_	lasts
+9	,	_	_	,	_	1	???	_	_	time-consuming
+10	bloody	_	_	JJ	_	1	???	_	_	time-consuming
+11	-LRB-	_	_	-LRB-	_	13	???	_	_	required
+12	woman	_	_	NN	_	13	SUBJ	_	_	required
+13	required	_	_	VBD	_	1	???	_	_	time-consuming
+14	a	_	_	DT	_	15	???	_	_	transfusion
+15	transfusion	_	_	NN	_	13	OBJ-DO	_	_	required
+16	although	_	_	IN	_	13	???	_	_	required
+17	it	_	_	PRP	_	18	SUBJ	_	_	resembles
+18	resembles	_	_	VBZ	_	16	???	_	_	although
+19	a	_	_	DT	_	20	???	_	_	period
+20	period	_	_	NN	_	18	OBJ-DO	_	_	resembles
+21	-RRB-	_	_	-RRB-	_	13	???	_	_	required
+22	,	_	_	,	_	1	???	_	_	time-consuming
+23	and	_	_	CC	_	1	???	_	_	time-consuming
+24	painful	_	_	JJ	_	1	???	_	_	time-consuming
+25	-LRB-	_	_	-LRB-	_	27	???	_	_	require
+26	women	_	_	NNS	_	27	SUBJ	_	_	require
+27	require	_	_	VBP	_	1	???	_	_	time-consuming
+28	shots	_	_	NNS	_	27	OBJ-DO	_	_	require
+29	-RRB-	_	_	-RRB-	_	27	???	_	_	require
 
 1	just	_	_	RB	_	4	???	_	_	grim
 2	basically	_	_	RB	_	4	???	_	_	grim
@@ -1995,12 +1993,13 @@
 1	now	_	_	RB	_	0	ROOT	_	_	ROOT
 2	pending	_	_	VBG	_	1	???	_	_	now
 3	in	_	_	IN	_	1	???	_	_	now
-4	students	_	_	NNS	_	3	???	_	_	in
+4	the	_	_	DT	_	5	???	_	_	Senate
+5	Senate	_	_	NNP	_	3	???	_	_	in
 
 1	tidily	_	_	RB	_	0	ROOT	_	_	ROOT
 2	ahead	_	_	RB	_	1	???	_	_	tidily
 3	of	_	_	IN	_	1	???	_	_	tidily
-4	students	_	_	NNS	_	3	???	_	_	of
+4	stocks	_	_	NNS	_	3	???	_	_	of
 5	,	_	_	,	_	1	???	_	_	tidily
 6	847	_	_	CD	_	7	???	_	_	to
 7	to	_	_	TO	_	1	???	_	_	tidily
@@ -2020,10 +2019,8 @@
 2	than	_	_	IN	_	3	???	_	_	usual
 3	usual	_	_	JJ	_	0	ROOT	_	_	ROOT
 
-1	eye-popping	_	_	JJ	_	2	???	_	_	$
-2	$	_	_	$	_	0	ROOT	_	_	ROOT
-3	1.6	_	_	CD	_	2	???	_	_	$
-4	billion	_	_	CD	_	2	???	_	_	$
+1	eye-popping	_	_	JJ	_	2	???	_	_	billion
+2	billion	_	_	CD	_	0	ROOT	_	_	ROOT
 
 1	``	_	_	``	_	11	???	_	_	complementary
 2	interesting	_	_	JJ	_	11	???	_	_	complementary
@@ -2059,14 +2056,15 @@
 1	thinner	_	_	JJR	_	2	???	_	_	now
 2	now	_	_	RB	_	0	ROOT	_	_	ROOT
 3	than	_	_	IN	_	2	???	_	_	now
-4	students	_	_	NNS	_	5	SUBJ	_	_	broke
-5	broke	_	_	VBD	_	3	???	_	_	than
+4	they	_	_	PRP	_	5	SUBJ	_	_	were
+5	were	_	_	VBD	_	3	???	_	_	than
 
 1	READY	_	_	NNP	_	0	ROOT	_	_	ROOT
 2	TO	_	_	TO	_	1	???	_	_	READY
-3	REVIEW	_	_	NNP	_	4	???	_	_	students
-4	students	_	_	NNS	_	4	OBJ-DO	_	_	students
-4	students	_	_	NNS	_	2	???	_	_	TO
+3	REVIEW	_	_	NNP	_	5	???	_	_	riskiness
+4	the	_	_	DT	_	5	???	_	_	riskiness
+5	riskiness	_	_	NN	_	5	OBJ-DO	_	_	riskiness
+5	riskiness	_	_	NN	_	2	???	_	_	TO
 
 1	Year	_	_	NN	_	0	ROOT	_	_	ROOT
 2	ago	_	_	RB	_	1	???	_	_	Year
@@ -2076,16 +2074,15 @@
 3	Alpha	_	_	NNP	_	1	???	_	_	1988
 4	oil-rig	_	_	NN	_	1	???	_	_	1988
 
-1	$	_	_	$	_	2	???	_	_	10
-2	10	_	_	CD	_	0	ROOT	_	_	ROOT
-3	million	_	_	CD	_	2	???	_	_	10
+1	$	_	_	$	_	2	???	_	_	million
+2	million	_	_	CD	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	2	???	_	_	confident
+1	%	_	_	NN	_	2	???	_	_	confident
 2	confident	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	only	_	_	RB	_	4	???	_	_	that
 4	that	_	_	IN	_	2	???	_	_	confident
-5	students	_	_	NNS	_	6	SUBJ	_	_	broke
-6	broke	_	_	VBD	_	4	???	_	_	that
+5	sales	_	_	NNS	_	6	SUBJ	_	_	fell
+6	fell	_	_	VBD	_	4	???	_	_	that
 
 1	okay	_	_	JJ	_	4	???	_	_	even
 2	,	_	_	,	_	4	???	_	_	even
@@ -2096,32 +2093,29 @@
 1	carried	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	away	_	_	RB	_	1	???	_	_	carried
 3	with	_	_	IN	_	1	???	_	_	carried
-4	breaking	_	_	VBG	_	3	???	_	_	with
+4	interpreting	_	_	VBG	_	3	???	_	_	with
+5	what	_	_	WP	_	8	OBJ-DO	_	_	meant
+6	the	_	_	DT	_	7	???	_	_	order
+7	order	_	_	NN	_	8	SUBJ	_	_	meant
+8	meant	_	_	VBN	_	4	???	_	_	interpreting
 
-1	oddly	_	_	RB	_	2	???	_	_	irrelevant
-2	irrelevant	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	,	_	_	,	_	2	???	_	_	irrelevant
-4	if	_	_	IN	_	2	???	_	_	irrelevant
-5	not	_	_	RB	_	7	???	_	_	trivial
-6	downright	_	_	RB	_	7	???	_	_	trivial
-7	trivial	_	_	JJ	_	2	???	_	_	irrelevant
-8	,	_	_	,	_	2	???	_	_	irrelevant
+1	irrelevant	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	irrelevant
+3	if	_	_	IN	_	1	???	_	_	irrelevant
+4	trivial	_	_	JJ	_	1	???	_	_	irrelevant
+5	,	_	_	,	_	1	???	_	_	irrelevant
 
 1	worst	_	_	JJS	_	0	ROOT	_	_	ROOT
 2	off	_	_	IN	_	1	???	_	_	worst
 
 1	peculiar	_	_	JJ	_	0	ROOT	_	_	ROOT
-2	to	_	_	TO	_	1	???	_	_	peculiar
-3	students	_	_	NNS	_	2	???	_	_	to
+2	,	_	_	,	_	1	???	_	_	peculiar
+3	and	_	_	CC	_	1	???	_	_	peculiar
 4	,	_	_	,	_	1	???	_	_	peculiar
-5	and	_	_	CC	_	1	???	_	_	peculiar
-6	,	_	_	,	_	1	???	_	_	peculiar
-7	like	_	_	IN	_	1	???	_	_	peculiar
-8	students	_	_	NNS	_	7	???	_	_	like
-9	,	_	_	,	_	1	???	_	_	peculiar
-10	unintelligible	_	_	JJ	_	1	???	_	_	peculiar
-11	to	_	_	TO	_	10	???	_	_	unintelligible
-12	students	_	_	NNS	_	11	???	_	_	to
+5	like	_	_	IN	_	1	???	_	_	peculiar
+6	peculiarities	_	_	NNS	_	5	???	_	_	like
+7	,	_	_	,	_	1	???	_	_	peculiar
+8	unintelligible	_	_	JJ	_	1	???	_	_	peculiar
 
 1	third	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	-	_	_	:	_	3	???	_	_	and
@@ -2131,10 +2125,12 @@
 1	so	_	_	RB	_	2	???	_	_	impatient
 2	impatient	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	with	_	_	IN	_	2	???	_	_	impatient
-4	students	_	_	NNS	_	3	???	_	_	with
+4	behavior	_	_	NN	_	3	???	_	_	with
 5	that	_	_	IN	_	2	???	_	_	impatient
-6	students	_	_	NNS	_	7	SUBJ	_	_	broke
-7	broke	_	_	VBD	_	5	???	_	_	that
+6	he	_	_	PRP	_	7	SUBJ	_	_	withheld
+7	withheld	_	_	VBD	_	5	???	_	_	that
+8	his	_	_	PRP$	_	9	???	_	_	support
+9	support	_	_	NN	_	7	OBJ-DO	_	_	withheld
 
 1	franchisee	_	_	NN	_	0	ROOT	_	_	ROOT
 2	as	_	_	RB	_	3	???	_	_	well
@@ -2143,34 +2139,34 @@
 5	company-owned	_	_	JJ	_	1	???	_	_	franchisee
 
 1	big	_	_	JJ	_	0	ROOT	_	_	ROOT
-2	enough	_	_	RB	_	1	???	_	_	big
-3	and	_	_	CC	_	1	???	_	_	big
-4	liquid	_	_	NN	_	1	???	_	_	big
-5	enough	_	_	RB	_	4	???	_	_	liquid
-6	that	_	_	IN	_	1	???	_	_	big
-7	students	_	_	NNS	_	8	SUBJ	_	_	breaks
-8	breaks	_	_	VBZ	_	6	???	_	_	that
+2	and	_	_	CC	_	1	???	_	_	big
+3	liquid	_	_	NN	_	1	???	_	_	big
+4	that	_	_	IN	_	1	???	_	_	big
+5	the	_	_	DT	_	6	???	_	_	market
+6	market	_	_	NN	_	7	SUBJ	_	_	is
+7	is	_	_	VBZ	_	4	???	_	_	that
+8	n't	_	_	RB	_	7	???	_	_	is
+9	having	_	_	VBG	_	7	???	_	_	is
+10	the	_	_	DT	_	11	???	_	_	impact
+11	impact	_	_	NN	_	9	OBJ-DO	_	_	having
 
 1	centered	_	_	VBD	_	0	ROOT	_	_	ROOT
 2	on	_	_	IN	_	1	???	_	_	centered
-3	students	_	_	NNS	_	2	???	_	_	on
+3	a	_	_	DT	_	4	???	_	_	cafe
+4	cafe	_	_	NN	_	2	???	_	_	on
 
 1	in	_	_	IN	_	3	???	_	_	contradictory
-2	students	_	_	NNS	_	1	???	_	_	in
+2	the	_	_	DT	_	1	???	_	_	in
 3	contradictory	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	guilty	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	guilty
 3	then	_	_	RB	_	1	???	_	_	guilty
-4	not	_	_	RB	_	5	???	_	_	guilty
-5	guilty	_	_	JJ	_	1	???	_	_	guilty
-6	,	_	_	,	_	1	???	_	_	guilty
-7	then	_	_	RB	_	1	???	_	_	guilty
-8	guilty	_	_	JJ	_	1	???	_	_	guilty
-9	--	_	_	:	_	8	???	_	_	guilty
-10	but	_	_	CC	_	11	???	_	_	of
-11	of	_	_	IN	_	8	???	_	_	guilty
-12	students	_	_	NNS	_	11	???	_	_	of
+4	guilty	_	_	JJ	_	1	???	_	_	guilty
+5	,	_	_	,	_	1	???	_	_	guilty
+6	then	_	_	RB	_	1	???	_	_	guilty
+7	guilty	_	_	JJ	_	1	???	_	_	guilty
+8	--	_	_	:	_	7	???	_	_	guilty
 
 1	bananas	_	_	NNS	_	0	ROOT	_	_	ROOT
 
@@ -2195,10 +2191,11 @@
 3	War	_	_	NNP	_	1	???	_	_	post
 4	II	_	_	NNP	_	1	???	_	_	post
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	away	_	_	RB	_	1	???	_	_	students
-3	from	_	_	IN	_	1	???	_	_	students
-4	students	_	_	NNS	_	3	???	_	_	from
+1	year	_	_	NN	_	0	ROOT	_	_	ROOT
+2	away	_	_	RB	_	1	???	_	_	year
+3	from	_	_	IN	_	1	???	_	_	year
+4	a	_	_	DT	_	5	???	_	_	prototype
+5	prototype	_	_	NN	_	3	???	_	_	from
 
 1	So	_	_	IN	_	2	???	_	_	too
 2	too	_	_	RB	_	0	ROOT	_	_	ROOT
@@ -2212,14 +2209,10 @@
 7	No.	_	_	NN	_	1	???	_	_	No.
 8	3-type	_	_	JJ	_	1	???	_	_	No.
 
-1	$	_	_	$	_	0	ROOT	_	_	ROOT
-2	11.75-a-share	_	_	JJ	_	1	???	_	_	$
-3	,	_	_	,	_	1	???	_	_	$
-4	or	_	_	CC	_	1	???	_	_	$
-5	$	_	_	$	_	1	???	_	_	$
-6	190	_	_	CD	_	1	???	_	_	$
-7	million	_	_	CD	_	1	???	_	_	$
-8	,	_	_	,	_	1	???	_	_	$
+1	,	_	_	,	_	3	???	_	_	million
+2	or	_	_	CC	_	3	???	_	_	million
+3	million	_	_	CD	_	0	ROOT	_	_	ROOT
+4	,	_	_	,	_	3	???	_	_	million
 
 1	black	_	_	JJ	_	7	???	_	_	white
 2	,	_	_	,	_	7	???	_	_	white
@@ -2236,15 +2229,16 @@
 
 1	neither	_	_	CC	_	2	???	_	_	comfortable
 2	comfortable	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	with	_	_	IN	_	2	???	_	_	comfortable
-4	nor	_	_	CC	_	2	???	_	_	comfortable
-5	able	_	_	JJ	_	2	???	_	_	comfortable
-6	to	_	_	TO	_	5	???	_	_	able
-7	break	_	_	VB	_	6	???	_	_	to
+3	nor	_	_	CC	_	2	???	_	_	comfortable
+4	able	_	_	JJ	_	2	???	_	_	comfortable
 
 1	quicker	_	_	RBR	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	quicker
-3	break	_	_	VB	_	2	???	_	_	to
+3	lower	_	_	VB	_	2	???	_	_	to
+4	quotes	_	_	NNS	_	3	OBJ-DO	_	_	lower
+5	when	_	_	WRB	_	3	???	_	_	lower
+6	programs	_	_	NNS	_	7	SUBJ	_	_	are
+7	are	_	_	VBP	_	5	???	_	_	when
 
 1	sales	_	_	NNS	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	3	???	_	_	and
@@ -2254,44 +2248,38 @@
 6	,	_	_	,	_	3	???	_	_	and
 7	oriented	_	_	VBN	_	1	???	_	_	sales
 
-1	students	_	_	NNS	_	2	???	_	_	effective
+1	%	_	_	NN	_	2	???	_	_	effective
 2	effective	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	clearly	_	_	RB	_	0	ROOT	_	_	ROOT
-2	more	_	_	RBR	_	3	???	_	_	efficient
-3	efficient	_	_	JJ	_	1	???	_	_	clearly
-4	,	_	_	,	_	1	???	_	_	clearly
-5	more	_	_	RBR	_	7	???	_	_	advanced
-6	technologically	_	_	RB	_	7	???	_	_	advanced
-7	advanced	_	_	JJ	_	1	???	_	_	clearly
-8	and	_	_	CC	_	1	???	_	_	clearly
-9	more	_	_	RBR	_	10	???	_	_	competitive
-10	competitive	_	_	JJ	_	1	???	_	_	clearly
+2	efficient	_	_	JJ	_	1	???	_	_	clearly
+3	,	_	_	,	_	1	???	_	_	clearly
+4	advanced	_	_	JJ	_	1	???	_	_	clearly
+5	and	_	_	CC	_	1	???	_	_	clearly
+6	competitive	_	_	JJ	_	1	???	_	_	clearly
 
 1	first	_	_	JJ	_	2	???	_	_	rate
 2	rate	_	_	NN	_	0	ROOT	_	_	ROOT
 3	for	_	_	IN	_	2	???	_	_	rate
-4	students	_	_	NNS	_	3	???	_	_	for
+4	its	_	_	PRP$	_	5	???	_	_	class
+5	class	_	_	NN	_	3	???	_	_	for
 
-1	sometimes	_	_	RB	_	2	???	_	_	amusing
-2	amusing	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	,	_	_	,	_	2	???	_	_	amusing
-4	more	_	_	RBR	_	5	???	_	_	often
-5	often	_	_	RB	_	2	???	_	_	amusing
-6	supercilious	_	_	JJ	_	5	???	_	_	often
-7	,	_	_	,	_	2	???	_	_	amusing
-8	even	_	_	RB	_	9	???	_	_	vicious
-9	vicious	_	_	JJ	_	2	???	_	_	amusing
+1	amusing	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	amusing
+3	more	_	_	RBR	_	4	???	_	_	often
+4	often	_	_	RB	_	1	???	_	_	amusing
+5	supercilious	_	_	JJ	_	4	???	_	_	often
+6	,	_	_	,	_	1	???	_	_	amusing
+7	vicious	_	_	JJ	_	1	???	_	_	amusing
 
 1	about	_	_	IN	_	0	ROOT	_	_	ROOT
-2	4	_	_	CD	_	1	???	_	_	about
-3	1\/4	_	_	CD	_	1	???	_	_	about
-4	times	_	_	NNS	_	1	???	_	_	about
-5	as	_	_	RB	_	1	???	_	_	about
-6	high	_	_	RB	_	1	???	_	_	about
+2	1\/4	_	_	CD	_	1	???	_	_	about
+3	times	_	_	NNS	_	1	???	_	_	about
+4	as	_	_	RB	_	1	???	_	_	about
+5	high	_	_	RB	_	1	???	_	_	about
 
 1	due	_	_	JJ	_	0	ROOT	_	_	ROOT
-2	students	_	_	NNS	_	1	???	_	_	due
+2	Nov.	_	_	NNP	_	1	???	_	_	due
 3	,	_	_	,	_	1	???	_	_	due
 
 1	difficult	_	_	JJ	_	4	???	_	_	impossible
@@ -2299,18 +2287,18 @@
 3	not	_	_	RB	_	4	???	_	_	impossible
 4	impossible	_	_	JJ	_	0	ROOT	_	_	ROOT
 5	,	_	_	,	_	4	???	_	_	impossible
-6	0_NULL	_	_	-NONE-	_	4	???	_	_	impossible
-7	to	_	_	TO	_	6	???	_	_	0_NULL
-8	break	_	_	VB	_	7	???	_	_	to
+6	0_NULL	_	_	-NONE-	_	8	OBJ-DO	_	_	solve
+7	to	_	_	TO	_	4	???	_	_	impossible
+8	solve	_	_	VB	_	7	???	_	_	to
 
 1	about	_	_	IN	_	3	???	_	_	same
 2	the	_	_	DT	_	3	???	_	_	same
 3	same	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	in	_	_	IN	_	3	???	_	_	same
-5	students	_	_	NNS	_	4	???	_	_	in
+5	1988	_	_	CD	_	4	???	_	_	in
 6	as	_	_	IN	_	3	???	_	_	same
 7	in	_	_	IN	_	6	???	_	_	as
-8	students	_	_	NNS	_	7	???	_	_	in
+8	1986	_	_	CD	_	7	???	_	_	in
 
 1	really	_	_	RB	_	2	???	_	_	wiped
 2	wiped	_	_	VBN	_	0	ROOT	_	_	ROOT
@@ -2320,28 +2308,22 @@
 2	40	_	_	CD	_	3	???	_	_	%
 3	%	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	``	_	_	``	_	3	???	_	_	formal
-2	less	_	_	RBR	_	3	???	_	_	formal
-3	formal	_	_	JJ	_	0	ROOT	_	_	ROOT
-4	,	_	_	,	_	3	???	_	_	formal
-5	less	_	_	RBR	_	6	???	_	_	threatening
-6	threatening	_	_	JJ	_	4	???	_	_	,
-7	and	_	_	CC	_	4	???	_	_	,
-8	just	_	_	RB	_	11	???	_	_	grim
-9	basically	_	_	RB	_	11	???	_	_	grim
-10	less	_	_	RBR	_	11	???	_	_	grim
-11	grim	_	_	JJ	_	7	???	_	_	and
-12	than	_	_	IN	_	3	???	_	_	formal
-13	students	_	_	NNS	_	12	???	_	_	than
+1	``	_	_	``	_	2	???	_	_	formal
+2	formal	_	_	JJ	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	formal
+4	threatening	_	_	JJ	_	3	???	_	_	,
+5	and	_	_	CC	_	3	???	_	_	,
+6	grim	_	_	JJ	_	5	???	_	_	and
+7	than	_	_	IN	_	2	???	_	_	formal
+8	courthouses	_	_	NNS	_	7	???	_	_	than
 
 1	a	_	_	DT	_	3	???	_	_	richer
 2	little	_	_	JJ	_	3	???	_	_	richer
 3	richer	_	_	JJR	_	0	ROOT	_	_	ROOT
 
-1	often	_	_	RB	_	3	???	_	_	too
-2	all	_	_	RB	_	3	???	_	_	too
-3	too	_	_	RB	_	0	ROOT	_	_	ROOT
-4	real	_	_	JJ	_	3	???	_	_	too
+1	often	_	_	RB	_	2	???	_	_	too
+2	too	_	_	RB	_	0	ROOT	_	_	ROOT
+3	real	_	_	JJ	_	2	???	_	_	too
 
 1	about	_	_	IN	_	0	ROOT	_	_	ROOT
 2	twice	_	_	RB	_	1	???	_	_	about
@@ -2354,7 +2336,9 @@
 1	even	_	_	RB	_	2	???	_	_	nicer
 2	nicer	_	_	JJR	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	nicer
-4	break	_	_	VB	_	3	???	_	_	to
+4	minimize	_	_	VB	_	3	???	_	_	to
+5	those	_	_	DT	_	6	???	_	_	tests
+6	tests	_	_	NNS	_	4	OBJ-DO	_	_	minimize
 
 1	far	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	drearier	_	_	RBR	_	1	???	_	_	far
@@ -2363,15 +2347,16 @@
 2	confident	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	''	_	_	''	_	2	???	_	_	confident
 4	that	_	_	IN	_	2	???	_	_	confident
-5	students	_	_	NNS	_	6	SUBJ	_	_	will
+5	earnings	_	_	NNS	_	6	SUBJ	_	_	will
 6	will	_	_	MD	_	4	???	_	_	that
-7	break	_	_	VB	_	6	???	_	_	will
+7	exceed	_	_	VB	_	6	???	_	_	will
 
 1	likely	_	_	JJ	_	2	???	_	_	at
 2	at	_	_	IN	_	0	ROOT	_	_	ROOT
 3	best	_	_	JJS	_	2	???	_	_	at
 4	to	_	_	TO	_	2	???	_	_	at
-5	break	_	_	VB	_	4	???	_	_	to
+5	be	_	_	VB	_	4	???	_	_	to
+6	modest	_	_	JJ	_	5	???	_	_	be
 
 1	Exactly	_	_	RB	_	0	ROOT	_	_	ROOT
 2	right	_	_	RB	_	1	???	_	_	Exactly
@@ -2384,9 +2369,7 @@
 5	-	_	_	:	_	1	???	_	_	also
 6	dated	_	_	JJ	_	1	???	_	_	also
 
-1	-LRB-	_	_	-LRB-	_	2	???	_	_	students
-2	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-3	-RRB-	_	_	-RRB-	_	2	???	_	_	students
+
 
 1	unavailable	_	_	JJ	_	3	???	_	_	at
 2	or	_	_	CC	_	3	???	_	_	at
@@ -2417,12 +2400,8 @@
 1	pleased	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	pleased
 3	but	_	_	CC	_	1	???	_	_	pleased
-4	nowhere	_	_	RB	_	5	???	_	_	near
-5	near	_	_	RB	_	7	???	_	_	much
-6	as	_	_	RB	_	7	???	_	_	much
-7	much	_	_	RB	_	3	???	_	_	but
-8	as	_	_	IN	_	7	???	_	_	much
-9	students	_	_	NNS	_	8	???	_	_	as
+4	near	_	_	RB	_	5	???	_	_	much
+5	much	_	_	RB	_	3	???	_	_	but
 
 1	firm	_	_	JJ	_	3	???	_	_	higher
 2	to	_	_	TO	_	3	???	_	_	higher
@@ -2431,7 +2410,8 @@
 1	justified	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	``	_	_	``	_	1	???	_	_	justified
 3	as	_	_	IN	_	1	???	_	_	justified
-4	students	_	_	NNS	_	3	???	_	_	as
+4	an	_	_	DT	_	5	???	_	_	measure
+5	measure	_	_	NN	_	3	???	_	_	as
 
 1	certainly	_	_	RB	_	0	ROOT	_	_	ROOT
 2	far	_	_	RB	_	1	???	_	_	certainly
@@ -2443,12 +2423,13 @@
 4	and	_	_	CC	_	2	???	_	_	,
 5	public-works	_	_	NNS	_	4	???	_	_	and
 
-1	students	_	_	NNS	_	2	???	_	_	old
+1	years	_	_	NNS	_	2	???	_	_	old
 2	old	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	--	_	_	:	_	2	???	_	_	old
-4	which	_	_	WDT	_	5	SUBJ	_	_	breaks
-5	breaks	_	_	VBZ	_	2	???	_	_	old
-6	--	_	_	:	_	2	???	_	_	old
+4	which	_	_	WDT	_	5	SUBJ	_	_	is
+5	is	_	_	VBZ	_	2	???	_	_	old
+6	getting	_	_	VBG	_	5	???	_	_	is
+7	--	_	_	:	_	2	???	_	_	old
 
 1	more	_	_	JJR	_	3	???	_	_	political
 2	overtly	_	_	RB	_	3	???	_	_	political
@@ -2456,9 +2437,9 @@
 
 1	better	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	than	_	_	IN	_	1	???	_	_	better
-3	students	_	_	NNS	_	2	???	_	_	than
+3	bacteria	_	_	NNS	_	2	???	_	_	than
 4	at	_	_	IN	_	1	???	_	_	better
-5	students	_	_	NNS	_	4	???	_	_	at
+5	production	_	_	NN	_	4	???	_	_	at
 
 1	``	_	_	``	_	4	???	_	_	lower
 2	significantly	_	_	RB	_	4	???	_	_	lower
@@ -2472,8 +2453,9 @@
 1	perhaps	_	_	RB	_	2	???	_	_	anxious
 2	anxious	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	about	_	_	IN	_	2	???	_	_	anxious
-4	breaking	_	_	VBG	_	3	???	_	_	about
-5	--	_	_	:	_	2	???	_	_	anxious
+4	minimizing	_	_	VBG	_	3	???	_	_	about
+5	inventories	_	_	NNS	_	4	OBJ-DO	_	_	minimizing
+6	--	_	_	:	_	2	???	_	_	anxious
 
 1	either	_	_	CC	_	5	???	_	_	uneconomic
 2	too	_	_	RB	_	5	???	_	_	uneconomic
@@ -2504,7 +2486,9 @@
 1	duty	_	_	NN	_	0	ROOT	_	_	ROOT
 2	bound	_	_	VBN	_	1	???	_	_	duty
 3	to	_	_	TO	_	1	???	_	_	duty
-4	break	_	_	VB	_	3	???	_	_	to
+4	present	_	_	VB	_	3	???	_	_	to
+5	the	_	_	DT	_	6	???	_	_	case
+6	case	_	_	NN	_	4	OBJ-DO	_	_	present
 
 1	recently	_	_	RB	_	2	???	_	_	divorced
 2	divorced	_	_	VBN	_	0	ROOT	_	_	ROOT
@@ -2514,11 +2498,11 @@
 1	appalled	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	3	???	_	_	for
 3	for	_	_	IN	_	1	???	_	_	appalled
-4	students	_	_	NNS	_	3	???	_	_	for
+4	instance	_	_	NN	_	3	???	_	_	for
 5	,	_	_	,	_	3	???	_	_	for
 6	that	_	_	IN	_	1	???	_	_	appalled
-7	students	_	_	NNS	_	8	SUBJ	_	_	broke
-8	broke	_	_	VBD	_	6	???	_	_	that
+7	he	_	_	PRP	_	8	SUBJ	_	_	wanted
+8	wanted	_	_	VBD	_	6	???	_	_	that
 
 1	``	_	_	``	_	5	???	_	_	disappointing
 2	unhelpful	_	_	JJ	_	5	???	_	_	disappointing
@@ -2540,34 +2524,37 @@
 4	faster	_	_	JJR	_	1	???	_	_	easier
 5	--	_	_	:	_	1	???	_	_	easier
 6	to	_	_	TO	_	1	???	_	_	easier
-7	break	_	_	VB	_	6	???	_	_	to
+7	sell	_	_	VB	_	6	???	_	_	to
+8	franchises	_	_	NNS	_	7	OBJ-DO	_	_	sell
 
 1	``	_	_	``	_	2	???	_	_	devastating
 2	devastating	_	_	VBG	_	0	ROOT	_	_	ROOT
 3	''	_	_	''	_	2	???	_	_	devastating
 
-1	geologically	_	_	RB	_	2	???	_	_	correct
-2	correct	_	_	JJ	_	7	???	_	_	otherwise
-3	,	_	_	,	_	7	???	_	_	otherwise
-4	but	_	_	CC	_	7	???	_	_	otherwise
-5	students	_	_	NNS	_	6	???	_	_	unfair
-6	unfair	_	_	JJ	_	7	???	_	_	otherwise
-7	otherwise	_	_	RB	_	0	ROOT	_	_	ROOT
+1	correct	_	_	JJ	_	6	???	_	_	otherwise
+2	,	_	_	,	_	6	???	_	_	otherwise
+3	but	_	_	CC	_	6	???	_	_	otherwise
+4	a	_	_	DT	_	5	???	_	_	unfair
+5	unfair	_	_	JJ	_	6	???	_	_	otherwise
+6	otherwise	_	_	RB	_	0	ROOT	_	_	ROOT
 
 1	just	_	_	RB	_	3	???	_	_	average
 2	about	_	_	RB	_	3	???	_	_	average
 3	average	_	_	NN	_	0	ROOT	_	_	ROOT
 4	for	_	_	IN	_	3	???	_	_	average
-5	students	_	_	NNS	_	4	???	_	_	for
+5	the	_	_	DT	_	6	???	_	_	company
+6	company	_	_	NN	_	4	???	_	_	for
 
 1	sweeping	_	_	VBG	_	0	ROOT	_	_	ROOT
 2	enough	_	_	RB	_	1	???	_	_	sweeping
 3	to	_	_	TO	_	1	???	_	_	sweeping
-4	break	_	_	VB	_	3	???	_	_	to
+4	reduce	_	_	VB	_	3	???	_	_	to
+5	the	_	_	DT	_	6	???	_	_	rate
+6	rate	_	_	NN	_	4	OBJ-DO	_	_	reduce
 
 1	Ready	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	Ready
-3	break	_	_	VB	_	2	???	_	_	to
+3	jump	_	_	VB	_	2	???	_	_	to
 4	?	_	_	.	_	1	???	_	_	Ready
 
 1	most	_	_	RBS	_	2	???	_	_	pared
@@ -2576,30 +2563,40 @@
 
 1	out	_	_	IN	_	0	ROOT	_	_	ROOT
 2	on	_	_	IN	_	1	???	_	_	out
-3	students	_	_	NNS	_	2	???	_	_	on
-4	with	_	_	IN	_	1	???	_	_	out
-5	students	_	_	NNS	_	4	???	_	_	with
+3	the	_	_	DT	_	4	???	_	_	market
+4	market	_	_	NN	_	2	???	_	_	on
+5	with	_	_	IN	_	1	???	_	_	out
+6	this	_	_	DT	_	7	???	_	_	product
+7	product	_	_	NN	_	5	???	_	_	with
 
 1	ready	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	''	_	_	''	_	1	???	_	_	ready
 3	to	_	_	TO	_	1	???	_	_	ready
-4	break	_	_	VB	_	3	???	_	_	to
+4	evaluate	_	_	VB	_	3	???	_	_	to
+5	the	_	_	DT	_	6	???	_	_	appropriateness
+6	appropriateness	_	_	NN	_	4	OBJ-DO	_	_	evaluate
 
 1	Better	_	_	RBR	_	0	ROOT	_	_	ROOT
 2	than	_	_	IN	_	1	???	_	_	Better
-3	students	_	_	NNS	_	2	???	_	_	than
-4	.	_	_	.	_	1	???	_	_	Better
+3	all	_	_	DT	_	5	???	_	_	offers
+4	those	_	_	DT	_	5	???	_	_	offers
+5	offers	_	_	NNS	_	2	???	_	_	than
+6	to	_	_	TO	_	5	???	_	_	offers
+7	buy	_	_	VB	_	6	???	_	_	to
+8	securities	_	_	NNS	_	7	OBJ-DO	_	_	buy
+9	.	_	_	.	_	1	???	_	_	Better
 
 1	stock	_	_	VB	_	2	???	_	_	market
 2	market	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	just	_	_	RB	_	3	???	_	_	eager
-2	as	_	_	RB	_	3	???	_	_	eager
-3	eager	_	_	JJ	_	0	ROOT	_	_	ROOT
-4	as	_	_	IN	_	3	???	_	_	eager
-5	students	_	_	NNS	_	4	???	_	_	as
-6	to	_	_	TO	_	3	???	_	_	eager
-7	break	_	_	VB	_	6	???	_	_	to
+1	eager	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	as	_	_	IN	_	1	???	_	_	eager
+3	the	_	_	DT	_	4	???	_	_	judge
+4	judge	_	_	NN	_	2	???	_	_	as
+5	to	_	_	TO	_	1	???	_	_	eager
+6	wrap	_	_	VB	_	5	???	_	_	to
+7	it	_	_	PRP	_	6	OBJ-DO	_	_	wrap
+8	up	_	_	RP	_	6	???	_	_	wrap
 
 1	just	_	_	RB	_	0	ROOT	_	_	ROOT
 2	as	_	_	RB	_	1	???	_	_	just
@@ -2608,14 +2605,17 @@
 1	enough	_	_	NN	_	0	ROOT	_	_	ROOT
 2	0_NULL	_	_	-NONE-	_	3	SUBJ	_	_	to
 3	to	_	_	TO	_	1	???	_	_	enough
-4	break	_	_	VB	_	3	???	_	_	to
+4	offset	_	_	VB	_	3	???	_	_	to
+5	the	_	_	DT	_	6	???	_	_	problems
+6	problems	_	_	NNS	_	4	OBJ-DO	_	_	offset
 
 1	best	_	_	RBS	_	2	???	_	_	known
 2	known	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	among	_	_	IN	_	2	???	_	_	known
-4	students	_	_	NNS	_	3	???	_	_	among
+4	politicians	_	_	NNS	_	3	???	_	_	among
 5	for	_	_	IN	_	2	???	_	_	known
-6	students	_	_	NNS	_	5	???	_	_	for
+6	his	_	_	PRP$	_	7	???	_	_	problems
+7	problems	_	_	NNS	_	5	???	_	_	for
 
 1	biggest	_	_	JJS	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	biggest
@@ -2625,10 +2625,7 @@
 2	brand	_	_	NN	_	0	ROOT	_	_	ROOT
 3	loyal	_	_	JJ	_	2	???	_	_	brand
 
-1	students	_	_	NNS	_	3	???	_	_	students
-2	-LRB-	_	_	-LRB-	_	3	???	_	_	students
-3	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-4	-RRB-	_	_	-RRB-	_	3	???	_	_	students
+
 
 1	a	_	_	DT	_	2	???	_	_	bit
 2	bit	_	_	NN	_	0	ROOT	_	_	ROOT
@@ -2647,12 +2644,10 @@
 4	but	_	_	CC	_	5	???	_	_	state
 5	state	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	either	_	_	RB	_	3	???	_	_	small
-2	too	_	_	RB	_	3	???	_	_	small
-3	small	_	_	JJ	_	0	ROOT	_	_	ROOT
-4	or	_	_	CC	_	3	???	_	_	small
-5	too	_	_	RB	_	6	???	_	_	old
-6	old	_	_	JJ	_	3	???	_	_	small
+1	either	_	_	RB	_	2	???	_	_	small
+2	small	_	_	JJ	_	0	ROOT	_	_	ROOT
+3	or	_	_	CC	_	2	???	_	_	small
+4	old	_	_	JJ	_	2	???	_	_	small
 
 1	sufficiently	_	_	RB	_	6	???	_	_	powerful
 2	big	_	_	JJ	_	6	???	_	_	powerful
@@ -2661,44 +2656,50 @@
 5	and	_	_	CC	_	6	???	_	_	powerful
 6	powerful	_	_	JJ	_	0	ROOT	_	_	ROOT
 7	to	_	_	TO	_	6	???	_	_	powerful
-8	break	_	_	VB	_	7	???	_	_	to
+8	coordinate	_	_	VB	_	7	???	_	_	to
+9	policy	_	_	NN	_	8	OBJ-DO	_	_	coordinate
 
 1	Above	_	_	NNP	_	0	ROOT	_	_	ROOT
 2	Top	_	_	NNP	_	1	???	_	_	Above
 3	Secret	_	_	NNP	_	1	???	_	_	Above
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+1	to	_	_	TO	_	2	???	_	_	%
+2	%	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	2	???	_	_	less
-2	less	_	_	JJR	_	0	ROOT	_	_	ROOT
-3	from	_	_	IN	_	2	???	_	_	less
-4	students	_	_	NNS	_	3	???	_	_	from
-5	students	_	_	NNS	_	2	???	_	_	less
-6	than	_	_	IN	_	2	???	_	_	less
-7	students	_	_	NNS	_	6	???	_	_	than
+1	less	_	_	JJR	_	0	ROOT	_	_	ROOT
+2	from	_	_	IN	_	1	???	_	_	less
+3	its	_	_	PRP$	_	4	???	_	_	coffee
+4	coffee	_	_	NN	_	2	???	_	_	from
+5	this	_	_	DT	_	6	???	_	_	year
+6	year	_	_	NN	_	1	???	_	_	less
+7	than	_	_	IN	_	1	???	_	_	less
+8	last	_	_	JJ	_	7	???	_	_	than
 
 1	``	_	_	``	_	3	???	_	_	concerned
 2	very	_	_	RB	_	3	???	_	_	concerned
 3	concerned	_	_	VBN	_	0	ROOT	_	_	ROOT
 4	''	_	_	''	_	3	???	_	_	concerned
 5	about	_	_	IN	_	3	???	_	_	concerned
-6	students	_	_	NNS	_	5	???	_	_	about
+6	the	_	_	DT	_	7	???	_	_	effects
+7	effects	_	_	NNS	_	5	???	_	_	about
 
-1	quite	_	_	RB	_	3	???	_	_	students
-2	unlike	_	_	IN	_	3	???	_	_	students
-3	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+1	quite	_	_	RB	_	3	???	_	_	anything
+2	unlike	_	_	IN	_	3	???	_	_	anything
+3	anything	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	guilty	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	--	_	_	:	_	1	???	_	_	guilty
 3	but	_	_	CC	_	4	???	_	_	of
 4	of	_	_	IN	_	1	???	_	_	guilty
-5	students	_	_	NNS	_	4	???	_	_	of
+5	a	_	_	DT	_	6	???	_	_	crime
+6	crime	_	_	NN	_	4	???	_	_	of
 
 1	OK	_	_	UH	_	0	ROOT	_	_	ROOT
 
 1	prepared	_	_	VBD	_	0	ROOT	_	_	ROOT
 2	to	_	_	TO	_	1	???	_	_	prepared
-3	break	_	_	VB	_	2	???	_	_	to
+3	sacrifice	_	_	VB	_	2	???	_	_	to
+4	themselves	_	_	PRP	_	3	OBJ-DO	_	_	sacrifice
 
 1	completely	_	_	RB	_	4	???	_	_	random
 2	unscientific	_	_	JJ	_	4	???	_	_	random
@@ -2712,38 +2713,40 @@
 5	steady	_	_	JJ	_	0	ROOT	_	_	ROOT
 6	enough	_	_	RB	_	5	???	_	_	steady
 7	for	_	_	IN	_	5	???	_	_	steady
-8	students	_	_	NNS	_	9	SUBJ	_	_	to
-9	to	_	_	TO	_	7	???	_	_	for
-10	break	_	_	VB	_	9	???	_	_	to
+8	both	_	_	DT	_	9	???	_	_	users
+9	users	_	_	NNS	_	10	SUBJ	_	_	to
+10	to	_	_	TO	_	7	???	_	_	for
+11	believe	_	_	VB	_	10	???	_	_	to
 
 1	so	_	_	RB	_	2	???	_	_	upset
 2	upset	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	``	_	_	``	_	2	???	_	_	upset
 4	that	_	_	IN	_	2	???	_	_	upset
-5	students	_	_	NNS	_	6	SUBJ	_	_	broke
-6	broke	_	_	VBD	_	4	???	_	_	that
+5	you	_	_	PRP	_	6	SUBJ	_	_	considered
+6	considered	_	_	VBD	_	4	???	_	_	that
 
 1	faster	_	_	RBR	_	0	ROOT	_	_	ROOT
 2	on	_	_	IN	_	1	???	_	_	faster
-3	students	_	_	NNS	_	2	???	_	_	on
+3	the	_	_	DT	_	4	???	_	_	draw
+4	draw	_	_	NN	_	2	???	_	_	on
 
-1	$	_	_	$	_	0	ROOT	_	_	ROOT
-2	485	_	_	CD	_	1	???	_	_	$
-3	to	_	_	TO	_	1	???	_	_	$
-4	$	_	_	$	_	1	???	_	_	$
-5	490	_	_	CD	_	1	???	_	_	$
-6	students	_	_	NNS	_	1	???	_	_	$
+1	to	_	_	TO	_	2	???	_	_	490
+2	490	_	_	CD	_	0	ROOT	_	_	ROOT
+3	an	_	_	DT	_	4	???	_	_	ounce
+4	ounce	_	_	NN	_	2	???	_	_	490
 
 1	due	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	out	_	_	RB	_	1	???	_	_	due
-3	students	_	_	NNS	_	1	???	_	_	due
+3	Friday	_	_	NNP	_	1	???	_	_	due
 
 1	``	_	_	``	_	3	???	_	_	likely
 2	not	_	_	RB	_	3	???	_	_	likely
 3	likely	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	''	_	_	''	_	3	???	_	_	likely
 5	to	_	_	TO	_	3	???	_	_	likely
-6	break	_	_	VB	_	5	???	_	_	to
+6	affect	_	_	VB	_	5	???	_	_	to
+7	the	_	_	DT	_	8	???	_	_	economy
+8	economy	_	_	NN	_	6	OBJ-DO	_	_	affect
 
 1	North	_	_	JJ	_	4	???	_	_	Korean
 2	or	_	_	CC	_	4	???	_	_	Korean
@@ -2761,14 +2764,11 @@
 3	--	_	_	:	_	1	???	_	_	San
 4	Oakland	_	_	NNP	_	1	???	_	_	San
 
-1	1.2	_	_	CD	_	3	???	_	_	kronor
-2	billion	_	_	CD	_	1	???	_	_	1.2
-3	kronor	_	_	NNS	_	0	ROOT	_	_	ROOT
-4	-LRB-	_	_	-LRB-	_	3	???	_	_	kronor
-5	$	_	_	$	_	3	???	_	_	kronor
-6	186.1	_	_	CD	_	5	???	_	_	$
-7	million	_	_	CD	_	5	???	_	_	$
-8	-RRB-	_	_	-RRB-	_	3	???	_	_	kronor
+1	billion	_	_	CD	_	2	???	_	_	kronor
+2	kronor	_	_	NNS	_	0	ROOT	_	_	ROOT
+3	-LRB-	_	_	-LRB-	_	2	???	_	_	kronor
+4	million	_	_	CD	_	2	???	_	_	kronor
+5	-RRB-	_	_	-RRB-	_	2	???	_	_	kronor
 
 1	``	_	_	``	_	3	???	_	_	qualified
 2	well	_	_	RB	_	3	???	_	_	qualified
@@ -2785,24 +2785,23 @@
 2	but	_	_	CC	_	4	???	_	_	always
 3	not	_	_	RB	_	4	???	_	_	always
 4	always	_	_	RB	_	0	ROOT	_	_	ROOT
-5	fully	_	_	RB	_	6	???	_	_	accurate
-6	accurate	_	_	JJ	_	4	???	_	_	always
+5	accurate	_	_	JJ	_	4	???	_	_	always
 
 1	available	_	_	JJ	_	2	???	_	_	free
 2	free	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	of	_	_	IN	_	2	???	_	_	free
-4	students	_	_	NNS	_	3	???	_	_	of
-5	for	_	_	IN	_	2	???	_	_	free
-6	students	_	_	NNS	_	5	???	_	_	for
-7	to	_	_	TO	_	2	???	_	_	free
-8	students	_	_	NNS	_	7	???	_	_	to
+3	for	_	_	IN	_	2	???	_	_	free
+4	a	_	_	DT	_	5	???	_	_	time
+5	time	_	_	NN	_	3	???	_	_	for
+6	to	_	_	TO	_	2	???	_	_	free
+7	children	_	_	NNS	_	6	???	_	_	to
 
 1	far	_	_	RB	_	0	ROOT	_	_	ROOT
 2	enough	_	_	RB	_	1	???	_	_	far
 3	from	_	_	IN	_	1	???	_	_	far
-4	students	_	_	NNS	_	3	???	_	_	from
+4	areas	_	_	NNS	_	3	???	_	_	from
 5	to	_	_	TO	_	1	???	_	_	far
-6	break	_	_	VB	_	5	???	_	_	to
+6	pass	_	_	VB	_	5	???	_	_	to
+7	muster	_	_	NN	_	6	OBJ-DO	_	_	pass
 
 1	more	_	_	RBR	_	4	???	_	_	powerful
 2	respected	_	_	VBN	_	4	???	_	_	powerful
@@ -2828,7 +2827,8 @@
 1	flatout	_	_	NN	_	0	ROOT	_	_	ROOT
 2	wrong	_	_	JJ	_	1	???	_	_	flatout
 3	in	_	_	IN	_	1	???	_	_	flatout
-4	students	_	_	NNS	_	3	???	_	_	in
+4	its	_	_	PRP$	_	5	???	_	_	predictions
+5	predictions	_	_	NNS	_	3	???	_	_	in
 
 1	spring-brake	_	_	NN	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	spring-brake
@@ -2836,10 +2836,10 @@
 4	and	_	_	CC	_	2	???	_	_	,
 5	related	_	_	JJ	_	4	???	_	_	and
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	than	_	_	IN	_	1	???	_	_	students
+1	%	_	_	NN	_	0	ROOT	_	_	ROOT
+2	than	_	_	IN	_	1	???	_	_	%
 3	in	_	_	IN	_	2	???	_	_	than
-4	students	_	_	NNS	_	3	???	_	_	in
+4	1987	_	_	CD	_	3	???	_	_	in
 
 1	6\/2	_	_	CD	_	2	???	_	_	rate
 2	rate	_	_	NN	_	0	ROOT	_	_	ROOT
@@ -2855,30 +2855,37 @@
 1	more	_	_	JJR	_	2	???	_	_	intent
 2	intent	_	_	NN	_	0	ROOT	_	_	ROOT
 3	on	_	_	IN	_	2	???	_	_	intent
-4	breaking	_	_	VBG	_	3	???	_	_	on
+4	brightening	_	_	VBG	_	3	???	_	_	on
+5	our	_	_	PRP$	_	6	???	_	_	skies
+6	skies	_	_	NNS	_	4	OBJ-DO	_	_	brightening
 
 1	``	_	_	``	_	2	???	_	_	pleased
 2	pleased	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	''	_	_	''	_	2	???	_	_	pleased
 4	that	_	_	IN	_	2	???	_	_	pleased
-5	students	_	_	NNS	_	6	SUBJ	_	_	broke
-6	broke	_	_	VBD	_	4	???	_	_	that
+5	Trump	_	_	NNP	_	6	SUBJ	_	_	had
+6	had	_	_	VBD	_	4	???	_	_	that
+7	backed	_	_	VBN	_	6	???	_	_	had
+8	out	_	_	RB	_	7	???	_	_	backed
 
 1	senior	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	senior
 3	subordinated	_	_	VBD	_	2	???	_	_	and
 
-1	students	_	_	NNS	_	2	???	_	_	cheaper
-2	cheaper	_	_	JJR	_	0	ROOT	_	_	ROOT
-3	and	_	_	CC	_	2	???	_	_	cheaper
-4	quicker	_	_	JJR	_	2	???	_	_	cheaper
+1	a	_	_	DT	_	2	???	_	_	lot
+2	lot	_	_	NN	_	3	???	_	_	cheaper
+3	cheaper	_	_	JJR	_	0	ROOT	_	_	ROOT
+4	and	_	_	CC	_	3	???	_	_	cheaper
+5	quicker	_	_	JJR	_	3	???	_	_	cheaper
 
 1	less	_	_	JJR	_	2	???	_	_	parched
 2	parched	_	_	VBN	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	2	???	_	_	less
-2	less	_	_	JJR	_	0	ROOT	_	_	ROOT
-3	than	_	_	IN	_	2	???	_	_	less
+1	a	_	_	DT	_	2	???	_	_	pound
+2	pound	_	_	NN	_	3	???	_	_	less
+3	less	_	_	JJR	_	0	ROOT	_	_	ROOT
+4	than	_	_	IN	_	3	???	_	_	less
+5	the	_	_	DT	_	6	???	_	_	frame
 
 1	sweet	_	_	JJ	_	3	???	_	_	sweet
 2	!	_	_	.	_	3	???	_	_	sweet
@@ -2887,12 +2894,11 @@
 
 1	too	_	_	RB	_	0	ROOT	_	_	ROOT
 2	little	_	_	RB	_	1	???	_	_	too
-3	too	_	_	RB	_	4	???	_	_	late
-4	late	_	_	JJ	_	1	???	_	_	too
+3	late	_	_	JJ	_	1	???	_	_	too
 
 1	long	_	_	JJ	_	0	ROOT	_	_	ROOT
-2	students	_	_	NNS	_	3	SUBJ	_	_	breaks
-3	breaks	_	_	VBZ	_	1	???	_	_	long
+2	that	_	_	DT	_	3	SUBJ	_	_	is
+3	is	_	_	VBZ	_	1	???	_	_	long
 4	,	_	_	,	_	1	???	_	_	long
 5	20-year	_	_	JJ	_	7	???	_	_	30-year
 6	to	_	_	TO	_	7	???	_	_	30-year
@@ -2906,7 +2912,7 @@
 1	better	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	off	_	_	RP	_	1	???	_	_	better
 3	to	_	_	TO	_	1	???	_	_	better
-4	break	_	_	VB	_	3	???	_	_	to
+4	stick	_	_	VB	_	3	???	_	_	to
 
 1	financially	_	_	RB	_	4	???	_	_	optimistic
 2	``	_	_	``	_	4	???	_	_	optimistic
@@ -2917,8 +2923,9 @@
 2	largely	_	_	RB	_	3	???	_	_	complacent
 3	complacent	_	_	JJ	_	0	ROOT	_	_	ROOT
 4	in	_	_	IN	_	3	???	_	_	complacent
-5	students	_	_	NNS	_	4	???	_	_	in
-6	,	_	_	,	_	3	???	_	_	complacent
+5	the	_	_	DT	_	6	???	_	_	past
+6	past	_	_	NN	_	4	???	_	_	in
+7	,	_	_	,	_	3	???	_	_	complacent
 
 1	``	_	_	``	_	2	???	_	_	safe
 2	safe	_	_	JJ	_	0	ROOT	_	_	ROOT
@@ -2936,9 +2943,9 @@
 2	and	_	_	CC	_	1	???	_	_	permanent
 3	,	_	_	,	_	4	???	_	_	in
 4	in	_	_	IN	_	1	???	_	_	permanent
-5	students	_	_	NNS	_	4	???	_	_	in
-6	,	_	_	,	_	4	???	_	_	in
-7	most	_	_	RBS	_	8	???	_	_	beneficial
+5	my	_	_	PRP$	_	6	???	_	_	view
+6	view	_	_	NN	_	4	???	_	_	in
+7	,	_	_	,	_	4	???	_	_	in
 8	beneficial	_	_	JJ	_	1	???	_	_	permanent
 
 1	Catholic	_	_	NNP	_	2	???	_	_	too
@@ -2946,8 +2953,6 @@
 3	,	_	_	,	_	2	???	_	_	too
 4	but	_	_	CC	_	2	???	_	_	too
 5	unfazed	_	_	JJ	_	2	???	_	_	too
-6	by	_	_	IN	_	5	???	_	_	unfazed
-7	students	_	_	NNS	_	6	???	_	_	by
 
 1	local	_	_	JJ	_	3	???	_	_	regional
 2	or	_	_	CC	_	3	???	_	_	regional
@@ -2959,20 +2964,17 @@
 
 1	ambitious	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	ambitious
-3	generally	_	_	RB	_	4	???	_	_	corrupt
-4	corrupt	_	_	JJ	_	2	???	_	_	,
-5	,	_	_	,	_	6	???	_	_	and
-6	and	_	_	CC	_	2	???	_	_	,
-7	invariably	_	_	RB	_	8	???	_	_	demagogic
-8	demagogic	_	_	JJ	_	6	???	_	_	and
+3	corrupt	_	_	JJ	_	2	???	_	_	,
+4	,	_	_	,	_	5	???	_	_	and
+5	and	_	_	CC	_	2	???	_	_	,
+6	demagogic	_	_	JJ	_	5	???	_	_	and
 
 1	mute	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	mute
 3	rather	_	_	RB	_	4	???	_	_	than
 4	than	_	_	IN	_	1	???	_	_	mute
-5	eloquently	_	_	RB	_	7	???	_	_	concerned
-6	``	_	_	``	_	7	???	_	_	concerned
-7	concerned	_	_	VBN	_	4	???	_	_	than
+5	``	_	_	``	_	6	???	_	_	concerned
+6	concerned	_	_	VBN	_	4	???	_	_	than
 
 1	Frankfurt	_	_	NNP	_	4	???	_	_	Germany-based
 2	,	_	_	,	_	4	???	_	_	Germany-based
@@ -2992,49 +2994,42 @@
 1	humongous	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	humongous
 3	''	_	_	''	_	1	???	_	_	humongous
-4	far	_	_	RB	_	5	???	_	_	greater
-5	greater	_	_	JJR	_	1	???	_	_	humongous
-6	than	_	_	IN	_	5	???	_	_	greater
-7	students	_	_	NNS	_	6	???	_	_	than
+4	greater	_	_	JJR	_	1	???	_	_	humongous
 
 1	about	_	_	IN	_	2	???	_	_	60%-held
 2	60%-held	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	by	_	_	IN	_	2	???	_	_	60%-held
-4	students	_	_	NNS	_	3	???	_	_	by
+4	Co	_	_	NNP	_	3	???	_	_	by
 
 1	so	_	_	RB	_	2	???	_	_	bad
 2	bad	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	,	_	_	,	_	2	???	_	_	bad
 4	0_NULL	_	_	-NONE-	_	2	???	_	_	bad
-5	students	_	_	NNS	_	6	SUBJ	_	_	broke
-6	broke	_	_	VBD	_	4	???	_	_	0_NULL
+5	it	_	_	PRP	_	6	SUBJ	_	_	looked
+6	looked	_	_	VBD	_	4	???	_	_	0_NULL
 
 1	still	_	_	RB	_	3	???	_	_	higher
-2	students	_	_	NNS	_	3	???	_	_	higher
+2	%	_	_	NN	_	3	???	_	_	higher
 3	higher	_	_	JJR	_	0	ROOT	_	_	ROOT
 
 1	due	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	students	_	_	NNS	_	1	???	_	_	due
+2	Oct.	_	_	NNP	_	1	???	_	_	due
 
 1	each	_	_	DT	_	0	ROOT	_	_	ROOT
 2	and	_	_	CC	_	1	???	_	_	each
 3	every	_	_	DT	_	2	???	_	_	and
 
-1	$	_	_	$	_	4	???	_	_	$
-2	300-a-share	_	_	JJ	_	4	???	_	_	$
-3	,	_	_	,	_	4	???	_	_	$
-4	$	_	_	$	_	0	ROOT	_	_	ROOT
-5	6.79	_	_	CD	_	4	???	_	_	$
-6	billion	_	_	CD	_	4	???	_	_	$
+1	$	_	_	$	_	4	???	_	_	billion
+2	300-a-share	_	_	JJ	_	4	???	_	_	billion
+3	,	_	_	,	_	4	???	_	_	billion
+4	billion	_	_	CD	_	0	ROOT	_	_	ROOT
 
 1	probably	_	_	RB	_	2	???	_	_	more
 2	more	_	_	RBR	_	0	ROOT	_	_	ROOT
 3	aware	_	_	JJ	_	2	???	_	_	more
-4	of	_	_	IN	_	2	???	_	_	more
-5	students	_	_	NNS	_	4	???	_	_	of
-6	than	_	_	IN	_	2	???	_	_	more
-7	ever	_	_	RB	_	8	???	_	_	before
-8	before	_	_	IN	_	6	???	_	_	than
+4	than	_	_	IN	_	2	???	_	_	more
+5	ever	_	_	RB	_	6	???	_	_	before
+6	before	_	_	IN	_	4	???	_	_	than
 
 1	two	_	_	CD	_	0	ROOT	_	_	ROOT
 2	or	_	_	CC	_	1	???	_	_	two
@@ -3049,7 +3044,8 @@
 3	all	_	_	DT	_	2	???	_	_	at
 4	interested	_	_	VBN	_	2	???	_	_	at
 5	in	_	_	IN	_	2	???	_	_	at
-6	breaking	_	_	VBG	_	5	???	_	_	in
+6	throwing	_	_	VBG	_	5	???	_	_	in
+7	water	_	_	NN	_	6	OBJ-DO	_	_	throwing
 
 1	#	_	_	#	_	0	ROOT	_	_	ROOT
 2	390-million	_	_	CD	_	1	???	_	_	#
@@ -3064,22 +3060,19 @@
 4	and	_	_	CC	_	5	???	_	_	ridiculous
 5	ridiculous	_	_	JJ	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	3	???	_	_	done
+1	a	_	_	DT	_	3	???	_	_	done
 2	well	_	_	RB	_	3	???	_	_	done
 3	done	_	_	VBN	_	0	ROOT	_	_	ROOT
 
 1	prepared	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	for	_	_	IN	_	1	???	_	_	prepared
-3	students	_	_	NNS	_	2	???	_	_	for
+3	options	_	_	NNS	_	2	???	_	_	for
 4	,	_	_	,	_	1	???	_	_	prepared
 
-1	$	_	_	$	_	0	ROOT	_	_	ROOT
-2	374	_	_	CD	_	1	???	_	_	$
-3	to	_	_	TO	_	1	???	_	_	$
-4	$	_	_	$	_	1	???	_	_	$
-5	375	_	_	CD	_	1	???	_	_	$
-6	per	_	_	IN	_	1	???	_	_	$
-7	students	_	_	NNS	_	6	???	_	_	per
+1	to	_	_	TO	_	2	???	_	_	375
+2	375	_	_	CD	_	0	ROOT	_	_	ROOT
+3	per	_	_	IN	_	2	???	_	_	375
+4	ounce	_	_	NN	_	3	???	_	_	per
 
 1	just	_	_	RB	_	3	???	_	_	cost
 2	not	_	_	RB	_	3	???	_	_	cost
@@ -3096,9 +3089,9 @@
 1	second	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	only	_	_	RB	_	1	???	_	_	second
 3	to	_	_	TO	_	1	???	_	_	second
-4	students	_	_	NNS	_	3	???	_	_	to
+4	Stanley	_	_	NNP	_	3	???	_	_	to
 5	in	_	_	IN	_	1	???	_	_	second
-6	students	_	_	NNS	_	5	???	_	_	in
+6	trading	_	_	NN	_	5	???	_	_	in
 
 1	well-educated	_	_	JJ	_	8	???	_	_	young
 2	,	_	_	,	_	8	???	_	_	young
@@ -3157,9 +3150,10 @@
 3	however	_	_	RB	_	0	ROOT	_	_	ROOT
 4	,	_	_	,	_	3	???	_	_	however
 5	that	_	_	IN	_	3	???	_	_	however
-6	students	_	_	NNS	_	7	SUBJ	_	_	may
+6	Exterior	_	_	NNP	_	7	SUBJ	_	_	may
 7	may	_	_	MD	_	5	???	_	_	that
-8	break	_	_	VB	_	7	???	_	_	may
+8	have	_	_	VB	_	7	???	_	_	may
+9	waited	_	_	VBD	_	8	???	_	_	have
 
 1	retail	_	_	NN	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	retail
@@ -3178,32 +3172,37 @@
 1	bogged	_	_	VBD	_	0	ROOT	_	_	ROOT
 2	down	_	_	IN	_	1	???	_	_	bogged
 3	in	_	_	IN	_	1	???	_	_	bogged
-4	students	_	_	NNS	_	3	???	_	_	in
+4	bureaucracy	_	_	NN	_	3	???	_	_	in
 
 1	obviously	_	_	RB	_	0	ROOT	_	_	ROOT
 2	disappointed	_	_	VBN	_	1	???	_	_	obviously
 3	that	_	_	IN	_	1	???	_	_	obviously
-4	students	_	_	NNS	_	5	SUBJ	_	_	broke
-5	broke	_	_	VBD	_	3	???	_	_	that
+4	the	_	_	DT	_	5	???	_	_	issue
+5	issue	_	_	NN	_	6	SUBJ	_	_	was
+6	was	_	_	VBD	_	3	???	_	_	that
+7	not	_	_	RB	_	6	???	_	_	was
+8	taken	_	_	VBN	_	6	???	_	_	was
+9	up	_	_	IN	_	8	???	_	_	taken
 
 1	more	_	_	RBR	_	2	???	_	_	practical
 2	practical	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	--	_	_	:	_	4	???	_	_	break
-4	break	_	_	VB	_	2	???	_	_	practical
-5	--	_	_	:	_	4	???	_	_	break
+3	--	_	_	:	_	4	???	_	_	read
+4	read	_	_	VB	_	2	???	_	_	practical
+5	affordable	_	_	JJ	_	4	???	_	_	read
+6	--	_	_	:	_	4	???	_	_	read
 
 1	convertible	_	_	NN	_	0	ROOT	_	_	ROOT
-2	students	_	_	NNS	_	1	???	_	_	convertible
+2	Dec.	_	_	NNP	_	1	???	_	_	convertible
 3	,	_	_	,	_	1	???	_	_	convertible
 4	at	_	_	IN	_	1	???	_	_	convertible
-5	students	_	_	NNS	_	4	???	_	_	at
+5	a	_	_	DT	_	6	???	_	_	premium
+6	premium	_	_	NN	_	4	???	_	_	at
 
-1	that	_	_	RB	_	2	???	_	_	much
-2	much	_	_	RB	_	0	ROOT	_	_	ROOT
-3	different	_	_	JJ	_	2	???	_	_	much
-4	''	_	_	''	_	2	???	_	_	much
-5	from	_	_	IN	_	2	???	_	_	much
-6	students	_	_	NNS	_	5	???	_	_	from
+1	much	_	_	RB	_	0	ROOT	_	_	ROOT
+2	different	_	_	JJ	_	1	???	_	_	much
+3	''	_	_	''	_	1	???	_	_	much
+4	from	_	_	IN	_	1	???	_	_	much
+5	loss	_	_	NN	_	4	???	_	_	from
 
 1	unconventional	_	_	JJ	_	4	???	_	_	tastier
 2	,	_	_	,	_	4	???	_	_	tastier
@@ -3215,23 +3214,16 @@
 8	pricier	_	_	JJR	_	4	???	_	_	tastier
 9	,	_	_	,	_	4	???	_	_	tastier
 
-1	students	_	_	NNS	_	2	???	_	_	higher
+1	point	_	_	NN	_	2	???	_	_	higher
 2	higher	_	_	JJR	_	0	ROOT	_	_	ROOT
 3	,	_	_	,	_	4	???	_	_	or
 4	or	_	_	CC	_	2	???	_	_	higher
 5	up	_	_	RB	_	4	???	_	_	or
-6	students	_	_	NNS	_	5	???	_	_	up
-7	for	_	_	IN	_	5	???	_	_	up
-8	students	_	_	NNS	_	7	???	_	_	for
 
 1	disappointed	_	_	VBN	_	0	ROOT	_	_	ROOT
-2	by	_	_	IN	_	1	???	_	_	disappointed
-3	students	_	_	NNS	_	2	???	_	_	by
-4	and	_	_	CC	_	1	???	_	_	disappointed
-5	``	_	_	``	_	1	???	_	_	disappointed
-6	concerned	_	_	JJ	_	1	???	_	_	disappointed
-7	about	_	_	IN	_	6	???	_	_	concerned
-8	students	_	_	NNS	_	7	???	_	_	about
+2	and	_	_	CC	_	1	???	_	_	disappointed
+3	``	_	_	``	_	1	???	_	_	disappointed
+4	concerned	_	_	JJ	_	1	???	_	_	disappointed
 
 1	no	_	_	RB	_	2	???	_	_	worse
 2	worse	_	_	JJR	_	0	ROOT	_	_	ROOT
@@ -3244,11 +3236,10 @@
 2	technologically	_	_	RB	_	3	???	_	_	advanced
 3	advanced	_	_	JJ	_	0	ROOT	_	_	ROOT
 
-1	more	_	_	RBR	_	2	???	_	_	complicated
-2	complicated	_	_	JJ	_	0	ROOT	_	_	ROOT
-3	--	_	_	:	_	4	???	_	_	and
-4	and	_	_	CC	_	2	???	_	_	complicated
-5	dismaying	_	_	JJ	_	4	???	_	_	and
+1	complicated	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	--	_	_	:	_	3	???	_	_	and
+3	and	_	_	CC	_	1	???	_	_	complicated
+4	dismaying	_	_	JJ	_	3	???	_	_	and
 
 1	higher	_	_	JJR	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	higher

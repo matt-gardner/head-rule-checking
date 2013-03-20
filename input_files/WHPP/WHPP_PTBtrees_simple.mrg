@@ -20,10 +20,12 @@
       (NP-SBJ
         (-NONE- *T*-1))
       (VP
-        (VBZ breaks)))))
+        (VBZ looks)))))
 
 (WHPP
   (IN of)
   (NP
-    (NNS students)))
+    (WHNP
+      (WP$ whose)
+      (NNS programs))))
 

@@ -26,16 +26,18 @@
 1	how	_	_	WRB	_	2	???	_	_	much
 2	much	_	_	JJ	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	2	???	_	_	of
+1	some	_	_	DT	_	2	???	_	_	of
 2	of	_	_	IN	_	0	ROOT	_	_	ROOT
 3	which	_	_	WDT	_	2	???	_	_	of
 
 1	whatever	_	_	WDT	_	2	???	_	_	losses
 2	losses	_	_	NNS	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	2	???	_	_	for
-2	for	_	_	IN	_	0	ROOT	_	_	ROOT
-3	students	_	_	NNS	_	2	???	_	_	for
+1	whose	_	_	WP$	_	2	???	_	_	income
+2	income	_	_	NN	_	3	???	_	_	for
+3	for	_	_	IN	_	0	ROOT	_	_	ROOT
+4	the	_	_	DT	_	5	???	_	_	quarter
+5	quarter	_	_	NN	_	3	???	_	_	for
 
 1	whose	_	_	WP$	_	3	???	_	_	career
 2	reckless	_	_	JJ	_	3	???	_	_	career
@@ -80,8 +82,8 @@
 
 1	most	_	_	JJS	_	0	ROOT	_	_	ROOT
 
-1	whose	_	_	WP$	_	2	???	_	_	students
-2	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+1	whose	_	_	WP$	_	2	???	_	_	father
+2	father	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	how	_	_	WRB	_	3	???	_	_	shares
 2	many	_	_	JJ	_	1	???	_	_	how
@@ -92,17 +94,17 @@
 
 1	whose	_	_	WP$	_	3	???	_	_	return
 2	total	_	_	JJ	_	3	???	_	_	return
-3	return	_	_	NN	_	5	???	_	_	students
-4	-LRB-	_	_	-LRB-	_	5	???	_	_	students
-5	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-6	-RRB-	_	_	-RRB-	_	5	???	_	_	students
+3	return	_	_	NN	_	5	???	_	_	changes
+4	-LRB-	_	_	-LRB-	_	5	???	_	_	changes
+5	changes	_	_	NNS	_	0	ROOT	_	_	ROOT
+6	-RRB-	_	_	-RRB-	_	5	???	_	_	changes
 
 1	whatever	_	_	WDT	_	3	???	_	_	notions
 2	nostalgic	_	_	JJ	_	3	???	_	_	notions
 3	notions	_	_	NNS	_	0	ROOT	_	_	ROOT
 
-1	which	_	_	WDT	_	2	???	_	_	students
-2	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+1	which	_	_	WDT	_	2	???	_	_	itself
+2	itself	_	_	PRP	_	0	ROOT	_	_	ROOT
 
 1	the	_	_	DT	_	2	???	_	_	interest
 2	interest	_	_	NN	_	0	ROOT	_	_	ROOT
@@ -155,7 +157,7 @@
 2	family	_	_	NN	_	3	???	_	_	company
 3	company	_	_	NN	_	6	???	_	_	,
 4	,	_	_	,	_	6	???	_	_	,
-5	students	_	_	NNS	_	6	???	_	_	,
+5	Inc.	_	_	NNP	_	6	???	_	_	,
 6	,	_	_	,	_	0	ROOT	_	_	ROOT
 
 1	whose	_	_	WP$	_	4	???	_	_	receipts
@@ -171,9 +173,7 @@
 2	much	_	_	JJ	_	1	???	_	_	how
 3	time	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	about	_	_	IN	_	2	???	_	_	$
-3	34	_	_	CD	_	2	???	_	_	$
-4	million	_	_	CD	_	2	???	_	_	$
+2	million	_	_	CD	_	1	???	_	_	about
 
 1	which	_	_	WDT	_	3	???	_	_	forces
 2	anti-abortion	_	_	NN	_	3	???	_	_	forces
@@ -204,14 +204,14 @@
 3	comments	_	_	NNS	_	0	ROOT	_	_	ROOT
 
 1	what	_	_	WDT	_	2	???	_	_	ways
-4	students	_	_	NNS	_	3	???	_	_	of
+4	escape	_	_	NN	_	3	???	_	_	of
 
 1	whose	_	_	WP$	_	2	???	_	_	book
 2	book	_	_	NN	_	3	???	_	_	on
 3	on	_	_	IN	_	8	???	_	_	''
-4	students	_	_	NNS	_	3	???	_	_	on
+4	Germany	_	_	NNP	_	3	???	_	_	on
 5	,	_	_	,	_	8	???	_	_	''
-6	broken	_	_	VBN	_	8	???	_	_	''
+6	entitled	_	_	VBN	_	8	???	_	_	''
 7	,	_	_	,	_	8	???	_	_	''
 8	''	_	_	''	_	0	ROOT	_	_	ROOT
 
@@ -264,8 +264,9 @@
 2	1988	_	_	CD	_	3	???	_	_	sales
 3	sales	_	_	NNS	_	0	ROOT	_	_	ROOT
 
-1	what	_	_	WP	_	2	???	_	_	students
-2	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+1	what	_	_	WP	_	3	???	_	_	coup
+2	a	_	_	DT	_	3	???	_	_	coup
+3	coup	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	whose	_	_	WP$	_	4	???	_	_	girl
 2	``	_	_	``	_	4	???	_	_	girl
@@ -297,15 +298,16 @@
 3	240-a-share	_	_	JJ	_	2	???	_	_	$
 4	offer	_	_	NN	_	7	???	_	_	in
 5	for	_	_	IN	_	7	???	_	_	in
-6	students	_	_	NNS	_	5	???	_	_	for
+6	UAL	_	_	NNP	_	5	???	_	_	for
 7	in	_	_	IN	_	0	ROOT	_	_	ROOT
-8	students	_	_	NNS	_	7	???	_	_	in
+8	August	_	_	NNP	_	7	???	_	_	in
 
 1	Where	_	_	WRB	_	0	ROOT	_	_	ROOT
 
-1	whose	_	_	WP$	_	3	???	_	_	membership
-2	students	_	_	NNS	_	3	???	_	_	membership
-3	membership	_	_	NN	_	0	ROOT	_	_	ROOT
+1	whose	_	_	WP$	_	4	???	_	_	membership
+2	Lloyd	_	_	NNP	_	3	???	_	_	's
+3	's	_	_	POS	_	4	???	_	_	membership
+4	membership	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	how	_	_	WRB	_	5	???	_	_	options
 2	many	_	_	JJ	_	1	???	_	_	how
@@ -321,8 +323,7 @@
 
 
 
-1	6.5	_	_	CD	_	0	ROOT	_	_	ROOT
-2	million	_	_	CD	_	1	???	_	_	6.5
+1	million	_	_	CD	_	0	ROOT	_	_	ROOT
 
 1	whose	_	_	WP$	_	5	???	_	_	hitters
 2	pitchers	_	_	NNS	_	5	???	_	_	hitters
@@ -332,9 +333,9 @@
 
 1	whose	_	_	WP$	_	3	???	_	_	novel
 2	new	_	_	JJ	_	3	???	_	_	novel
-3	novel	_	_	NN	_	5	???	_	_	students
-4	,	_	_	,	_	5	???	_	_	students
-5	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+3	novel	_	_	NN	_	5	???	_	_	Majestic
+4	,	_	_	,	_	5	???	_	_	Majestic
+5	Majestic	_	_	NNP	_	0	ROOT	_	_	ROOT
 
 1	How	_	_	WRB	_	6	???	_	_	policies
 2	many	_	_	JJ	_	6	???	_	_	policies
@@ -394,10 +395,11 @@
 4	intellectual	_	_	JJ	_	5	???	_	_	incompetence
 5	incompetence	_	_	NN	_	3	???	_	_	and
 
-1	students	_	_	NNS	_	4	???	_	_	,
-2	,	_	_	,	_	4	???	_	_	,
-3	students	_	_	NNS	_	4	???	_	_	,
-4	,	_	_	,	_	0	ROOT	_	_	ROOT
+1	whose	_	_	WP$	_	2	???	_	_	company
+2	company	_	_	NN	_	5	???	_	_	,
+3	,	_	_	,	_	5	???	_	_	,
+4	Group	_	_	NNP	_	5	???	_	_	,
+5	,	_	_	,	_	0	ROOT	_	_	ROOT
 
 1	most	_	_	JJS	_	2	???	_	_	of
 2	of	_	_	IN	_	0	ROOT	_	_	ROOT
@@ -412,7 +414,7 @@
 1	what	_	_	WP	_	3	???	_	_	of
 2	kind	_	_	NN	_	3	???	_	_	of
 3	of	_	_	IN	_	0	ROOT	_	_	ROOT
-4	students	_	_	NNS	_	3	???	_	_	of
+4	policy	_	_	NN	_	3	???	_	_	of
 
 1	whose	_	_	WP$	_	5	???	_	_	Co.
 2	High	_	_	NNP	_	5	???	_	_	Co.
@@ -440,7 +442,7 @@
 6	philosophy	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	what	_	_	WDT	_	2	???	_	_	kind
-4	students	_	_	NNS	_	3	???	_	_	of
+4	man	_	_	NN	_	3	???	_	_	of
 
 1	whose	_	_	WP$	_	3	???	_	_	profitability
 2	declining	_	_	VBG	_	3	???	_	_	profitability
@@ -459,15 +461,15 @@
 3	investment	_	_	NN	_	4	???	_	_	sum
 4	sum	_	_	NN	_	0	ROOT	_	_	ROOT
 
-1	nearly	_	_	RB	_	2	???	_	_	double
-2	double	_	_	JJ	_	3	???	_	_	what
-3	what	_	_	WP	_	0	ROOT	_	_	ROOT
+1	nearly	_	_	RB	_	2	???	_	_	what
+2	what	_	_	WP	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	3	???	_	_	with
-2	-LCB-	_	_	-LRB-	_	3	???	_	_	with
-3	with	_	_	IN	_	0	ROOT	_	_	ROOT
-4	magazines	_	_	NNS	_	3	???	_	_	with
-5	-RCB-	_	_	-RRB-	_	3	???	_	_	with
+1	which	_	_	WDT	_	2	???	_	_	partnerships
+2	partnerships	_	_	NNS	_	4	???	_	_	with
+3	-LCB-	_	_	-LRB-	_	4	???	_	_	with
+4	with	_	_	IN	_	0	ROOT	_	_	ROOT
+5	magazines	_	_	NNS	_	4	???	_	_	with
+6	-RCB-	_	_	-RRB-	_	4	???	_	_	with
 
 1	a	_	_	DT	_	2	???	_	_	which
 2	which	_	_	WDT	_	0	ROOT	_	_	ROOT
@@ -479,7 +481,7 @@
 1	which	_	_	WDT	_	6	???	_	_	version
 2	,	_	_	,	_	3	???	_	_	if
 3	if	_	_	IN	_	6	???	_	_	version
-4	students	_	_	NNS	_	3	???	_	_	if
+4	any	_	_	DT	_	3	???	_	_	if
 5	,	_	_	,	_	3	???	_	_	if
 6	version	_	_	NN	_	0	ROOT	_	_	ROOT
 

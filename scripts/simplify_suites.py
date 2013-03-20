@@ -35,62 +35,169 @@ word_tags = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS',
 def prune_node(node):
     if node.label in word_tags:
         return
-    if node.label.startswith('NP'):
+    elif node.label.startswith('ADJP'):
+        prune_adjp(node)
+    elif node.label.startswith('ADVP'):
+        prune_advp(node)
+    elif node.label.startswith('NP'):
         prune_np(node)
-        return
-    if node.label.startswith('VP'):
+    elif node.label.startswith('QP'):
+        prune_qp(node)
+    elif node.label.startswith('S-') or node.label == 'S':
+        prune_s(node)
+    elif node.label.startswith('VP'):
         prune_vp(node)
-        return
     for i in range(len(node.children)):
         prune_node(node.children[i])
     return
 
 
+def prune_adjp(node):
+    to_remove = set()
+    rbs = []
+    for child in node.children:
+        if 'PP' in child.label:
+            to_remove.add(child)
+            to_remove.add(child)
+        if child.label in ['RB', 'RBR', 'RBS']:
+            rbs.append(child)
+        if child.label in ['ADVP', 'S', 'SBAR']:
+            to_remove.add(child)
+    for child in to_remove:
+        node.children.remove(child)
+    # Remove RBs, but only if there is something else in the node
+    if len(node.children) > len(rbs):
+        for child in rbs:
+            node.children.remove(child)
+
+
+def prune_advp(node):
+    to_remove = set()
+    rbs = []
+    for child in node.children:
+        if 'PP' in child.label:
+            to_remove.add(child)
+        if child.label == 'RB':
+            rbs.append(child)
+    for child in to_remove:
+        node.children.remove(child)
+    # If there is more than one RB, remove all but the last
+    if len(rbs) > 1:
+        for child in rbs[:-1]:
+            node.children.remove(child)
+
+
 def prune_np(node):
-    if node.children[0].label == '-NONE-':
-        return
-    else:
-        if node.children[0].label == 'NNS':
-            noun = node.children[0].children[0].label
-        else:
-            noun = 'students'
-        node.children = []
-        nns_node = Node('NNS', node, False)
-        Node(noun, nns_node, True)
-        return
+    to_remove = set()
+    nns = []
+    nps = []
+    cds = []
+    for child in node.children:
+        if 'PP' in child.label:
+            to_remove.add(child)
+        if 'VB' in child.label:
+            to_remove.add(child)
+        if child.label in ['JJ', 'JJS', 'JJR', 'CC', 'SBAR', ',', 'VP', ':',
+                "``", "''", 'QP', 'ADJP', 'RRC', 'S', 'PRN', 'RB']:
+            to_remove.add(child)
+        if child.label in ['NN', 'NNP', 'NNS', 'NNPS']:
+            nns.append(child)
+        if child.label.startswith('NP'):
+            nps.append(child)
+        if child.label == 'CD':
+            cds.append(child)
+    for child in to_remove:
+        if len(node.children) == 1:
+            #print 'About to remove last child!'
+            #print node.pretty(0)
+            break
+        node.children.remove(child)
+    # If there is more than one NN, remove all but the last
+    if len(nns) > 1:
+        for child in nns[:-1]:
+            node.children.remove(child)
+    # And if there is more than one NP, remove all but the first
+    if len(nps) > 1:
+        for child in nps[1:]:
+            node.children.remove(child)
+    # Now, if there is an NP before an NN, remove the NP
+    nns = []
+    nps = []
+    for i, child in enumerate(node.children):
+        if child.label in ['NN', 'NNP', 'NNS', 'NNPS']:
+            nns.append((i, child))
+        if child.label.startswith('NP'):
+            nps.append((i, child))
+    if len(nns) > 0:
+        last_nn = nns[-1][0]
+        for np in nps:
+            if np[0] < last_nn:
+                node.children.remove(np[1])
+    # Remove CDs, but only if there is something else in the node
+    if len(node.children) > len(cds):
+        for child in cds:
+            node.children.remove(child)
+
+
+def prune_qp(node):
+    to_remove = set()
+    cds = []
+    for child in node.children:
+        if child.label in ['DT', '$', 'JJ']:
+            to_remove.add(child)
+        if child.label == 'CD':
+            cds.append(child)
+    for child in to_remove:
+        if len(node.children) == 1:
+            break
+        node.children.remove(child)
+    # If there is more than one CD, remove all but the last
+    if len(cds) > 1:
+        for child in cds[:-1]:
+            node.children.remove(child)
+
+
+def prune_s(node):
+    to_remove = set()
+    ss = []
+    for child in node.children:
+        if 'PP' in child.label:
+            to_remove.add(child)
+        if 'ADVP' in child.label:
+            to_remove.add(child)
+        if child.label == 'S':
+            ss.append(child)
+        if child.label in [',', 'CC']:
+            to_remove.add(child)
+    for child in to_remove:
+        node.children.remove(child)
+    if len(ss) > 1:
+        for child in ss[1:]:
+            node.children.remove(child)
 
 
 def prune_vp(node):
-    if node.children[0].label == 'VB':
-        node.children = []
-        vb_node = Node('VB', node, False)
-        Node('break', vb_node, True)
-        return
-    elif node.children[0].label == 'VBD':
-        node.children = []
-        vbd_node = Node('VBD', node, False)
-        Node('broke', vbd_node, True)
-        return
-    elif node.children[0].label == 'VBN':
-        node.children = []
-        vbn_node = Node('VBN', node, False)
-        Node('broken', vbn_node, True)
-        return
-    elif node.children[0].label == 'VBZ':
-        node.children = []
-        vbz_node = Node('VBZ', node, False)
-        Node('breaks', vbz_node, True)
-        return
-    elif node.children[0].label == 'VBG':
-        node.children = []
-        vbg_node = Node('VBG', node, False)
-        Node('breaking', vbg_node, True)
-        return
-    elif node.children[0].label == 'VBP':
-        node.children = []
-        vbp_node = Node('VBP', node, False)
-        Node('break', vbp_node, True)
-        return
+    to_remove = set()
+    vps = []
+    for child in node.children:
+        if 'PP' in child.label:
+            to_remove.add(child)
+        if 'ADVP' in child.label:
+            to_remove.add(child)
+        if child.label == 'S' or child.label.startswith('S-'):
+            to_remove.add(child)
+        if child.label in [':', 'NP-TMP', 'NP-1', 'SBAR-PRP', ',', '``', "''",
+                'CC']:
+            to_remove.add(child)
+        if child.label == 'VP':
+            vps.append(child)
+    for child in to_remove:
+        if len(node.children) == 1:
+            break
+        node.children.remove(child)
+    if len(vps) > 1:
+        for child in vps[1:]:
+            node.children.remove(child)
 
 
 if __name__ == '__main__':
@@ -104,10 +211,10 @@ if __name__ == '__main__':
         print 'Simplifying trees for category', pos
         simplify_trees('input_files/%s/%s_PTBtrees.mrg' % (pos, pos),
                 'input_files/%s/%s_PTBtrees_simple.mrg' % (pos, pos))
-    proc = Popen('./scripts/update_simple_supa.sh', shell=True)
-    proc.wait()
-    #print "Producing SUPA from this script doesn't work!"
-    #print "Remember to run ./scripts/update_simple_supa.sh"
+    #proc = Popen('./scripts/update_simple_supa.sh', shell=True)
+    #proc.wait()
+    print "Producing SUPA from this script doesn't work!"
+    print "Remember to run ./scripts/update_simple_supa.sh"
 
 
 # vim: et sw=4 sts=4

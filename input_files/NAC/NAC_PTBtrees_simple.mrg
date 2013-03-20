@@ -58,7 +58,6 @@
   (PP
     (IN of)
     (NP
-      (NNP Toms)
       (NNP River))))
 
 (NAC-TMP
@@ -83,13 +82,14 @@
 
 (NAC
   (NP
-    (NNS students))
+    (JJ nine-cent))
   (NP-ADV
-    (NNS students)))
+    (DT a)
+    (NN gallon)))
 
 (NAC
   (NP
-    (NNS students))
+    (NN secretary))
   (PP
     (IN of)
     (NP
@@ -149,7 +149,8 @@
 
 (NAC
   (NP
-    (NNS students))
+    ($ $)
+    (-NONE- *U*))
   (ADVP
     (DT a)
     (NN month)))
@@ -174,7 +175,6 @@
   (PP
     (IN of)
     (NP
-      (NNP Southern)
       (NNP California))))
 
 (NAC-TTL
@@ -193,10 +193,10 @@
 
 (NAC-LOC
   (NP
-    (NNS students))
+    (NNP Moonachie))
   (, ,)
   (NP
-    (NNS students))
+    (NNP N.J.))
   (, ,))
 
 (NAC
@@ -229,11 +229,11 @@
     (NP
       (NNP California)))
   (NP-LOC
-    (NNS students)))
+    (NNP Berkeley)))
 
 (NAC
   (NP
-    (NNS students))
+    (NNP Secretary))
   (PP
     (IN of)
     (NP
@@ -241,8 +241,6 @@
   (PP
     (IN for)
     (NP
-      (NNP Trade)
-      (CC and)
       (NNP Industry))))
 
 (NAC-LOC
@@ -280,7 +278,6 @@
     (PP
       (IN in)
       (NP
-        (NN profit)
         (NNS expectations)))))
 
 (NAC
@@ -311,7 +308,6 @@
   (PP
     (TO to)
     (NP
-      (CD 8)
       (NN p.m.))))
 
 (NAC
@@ -320,7 +316,6 @@
   (PP
     (IN with)
     (NP
-      (CD one)
       (NN stone))))
 
 (NAC
@@ -362,11 +357,7 @@
     (VP
       (VB Leave)
       (NP
-        (PRP It))
-      (PP
-        (TO to)
-        (NP
-          (NNP Beaver)))))
+        (PRP It))))
   (NN Show))
 
 (NAC-TTL

@@ -805,14 +805,15 @@
 3	bit	_	_	RB	_	1	???	_	_	just
 4	more	_	_	JJR	_	1	???	_	_	just
 
-1	``	_	_	``	_	6	???	_	_	$
-2	students	_	_	NNS	_	6	???	_	_	$
-3	more	_	_	JJR	_	6	???	_	_	$
-4	''	_	_	''	_	6	???	_	_	$
-5	than	_	_	IN	_	6	???	_	_	$
-6	$	_	_	$	_	0	ROOT	_	_	ROOT
-7	1	_	_	CD	_	6	???	_	_	$
-8	billion	_	_	CD	_	6	???	_	_	$
+1	``	_	_	``	_	7	???	_	_	$
+2	a	_	_	DT	_	3	???	_	_	deal
+3	deal	_	_	NN	_	7	???	_	_	$
+4	more	_	_	JJR	_	7	???	_	_	$
+5	''	_	_	''	_	7	???	_	_	$
+6	than	_	_	IN	_	7	???	_	_	$
+7	$	_	_	$	_	0	ROOT	_	_	ROOT
+8	1	_	_	CD	_	7	???	_	_	$
+9	billion	_	_	CD	_	7	???	_	_	$
 
 1	only	_	_	JJ	_	2	???	_	_	about
 2	about	_	_	IN	_	0	ROOT	_	_	ROOT
@@ -1008,8 +1009,9 @@
 
 1	40	_	_	CD	_	2	???	_	_	of
 2	of	_	_	IN	_	0	ROOT	_	_	ROOT
-3	students	_	_	NNS	_	2	???	_	_	of
-4	42	_	_	CD	_	2	???	_	_	of
+3	India	_	_	NNP	_	4	???	_	_	's
+4	's	_	_	POS	_	2	???	_	_	of
+5	42	_	_	CD	_	2	???	_	_	of
 
 1	a	_	_	DT	_	2	???	_	_	dozen
 2	dozen	_	_	NN	_	0	ROOT	_	_	ROOT
@@ -1183,10 +1185,12 @@
 3	even	_	_	RB	_	1	???	_	_	double
 4	triple	_	_	JJ	_	1	???	_	_	double
 
-1	students	_	_	NNS	_	2	???	_	_	up
-2	up	_	_	IN	_	0	ROOT	_	_	ROOT
-3	to	_	_	TO	_	2	???	_	_	up
-4	6	_	_	CD	_	2	???	_	_	up
+1	all	_	_	DT	_	3	???	_	_	way
+2	the	_	_	DT	_	3	???	_	_	way
+3	way	_	_	NN	_	4	???	_	_	up
+4	up	_	_	IN	_	0	ROOT	_	_	ROOT
+5	to	_	_	TO	_	4	???	_	_	up
+6	6	_	_	CD	_	4	???	_	_	up
 
 1	only	_	_	RB	_	3	???	_	_	4
 2	about	_	_	RB	_	3	???	_	_	4
@@ -1228,9 +1232,9 @@
 5	every	_	_	DT	_	2	???	_	_	than
 6	five	_	_	CD	_	2	???	_	_	than
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	and	_	_	CC	_	1	???	_	_	students
-3	students	_	_	NNS	_	2	???	_	_	and
+1	%	_	_	NN	_	0	ROOT	_	_	ROOT
+2	and	_	_	CC	_	1	???	_	_	%
+3	%	_	_	NN	_	2	???	_	_	and
 
 1	about	_	_	RB	_	4	???	_	_	than
 2	slightly	_	_	RB	_	4	???	_	_	than
@@ -1513,18 +1517,17 @@
 3	times	_	_	NNS	_	1	???	_	_	about
 4	more	_	_	JJR	_	1	???	_	_	about
 
-1	between	_	_	IN	_	11	???	_	_	HK$
-2	2,000	_	_	CD	_	11	???	_	_	HK$
-3	Hong	_	_	NNP	_	11	???	_	_	HK$
-4	Kong	_	_	NNP	_	11	???	_	_	HK$
-5	dollars	_	_	NNS	_	11	???	_	_	HK$
+1	between	_	_	IN	_	10	???	_	_	HK$
+2	2,000	_	_	CD	_	10	???	_	_	HK$
+3	Hong	_	_	NNP	_	10	???	_	_	HK$
+4	Kong	_	_	NNP	_	10	???	_	_	HK$
+5	dollars	_	_	NNS	_	10	???	_	_	HK$
 6	-LRB-	_	_	-LRB-	_	7	???	_	_	US$
-7	US$	_	_	$	_	11	???	_	_	HK$
-8	256.18	_	_	CD	_	7	???	_	_	US$
-9	-RRB-	_	_	-RRB-	_	7	???	_	_	US$
-10	and	_	_	CC	_	11	???	_	_	HK$
-11	HK$	_	_	$	_	0	ROOT	_	_	ROOT
-12	6,499	_	_	CD	_	11	???	_	_	HK$
+7	US$	_	_	$	_	10	???	_	_	HK$
+8	-RRB-	_	_	-RRB-	_	7	???	_	_	US$
+9	and	_	_	CC	_	10	???	_	_	HK$
+10	HK$	_	_	$	_	0	ROOT	_	_	ROOT
+11	6,499	_	_	CD	_	10	???	_	_	HK$
 
 1	one	_	_	NN	_	0	ROOT	_	_	ROOT
 2	more	_	_	JJR	_	1	???	_	_	one
@@ -1671,7 +1674,7 @@
 
 1	More	_	_	JJR	_	2	???	_	_	than
 2	than	_	_	IN	_	0	ROOT	_	_	ROOT
-3	students	_	_	NNS	_	2	???	_	_	than
+3	one-third	_	_	NN	_	2	???	_	_	than
 
 1	as	_	_	RB	_	4	???	_	_	$
 2	little	_	_	JJ	_	4	???	_	_	$

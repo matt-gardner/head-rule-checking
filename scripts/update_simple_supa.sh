@@ -1,4 +1,21 @@
-for cat in 'ADJP' 'ADVP' 'CONJP' 'FRAG' 'INTJ' 'LST' 'NAC' 'NP' 'NX' 'PP' 'PRN' 'PRT' 'QP' 'RRC' 'S' 'SBAR' 'SBARQ' 'SINV' 'SQ' 'UCP' 'VP' 'WHADJP' 'WHADVP' 'WHNP' 'WHPP' 'X'
+if [ $1 ]; then
+    i=1
+    while true; do
+        if [ $1 ]; then
+            cats[$i]=$1
+            shift
+        else
+            break
+        fi
+        i=$i+1
+    done
+else
+    cats=('ADJP' 'ADVP' 'CONJP' 'FRAG' 'INTJ' 'LST' 'NAC' 'NP' 'NX' 'PP' \
+        'PRN' 'PRT' 'QP' 'RRC' 'S' 'SBAR' 'SBARQ' 'SINV' 'SQ' 'UCP' 'VP' \
+        'WHADJP' 'WHADVP' 'WHNP' 'WHPP' 'X')
+fi
+
+for cat in "${cats[@]}"
 do
     echo $cat
     input_files/supa_docs/sierra.sh \

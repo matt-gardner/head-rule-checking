@@ -19,9 +19,6 @@
   (PP
     (IN at)
     (NP
-      (NN risk)
-      (NN assessment)
-      (CC and)
       (NN evaluation))))
 
 (WHADJP
@@ -31,7 +28,6 @@
   (PP
     (IN of)
     (NP-1
-      (NNP Robert)
       (NNP Goldberg))))
 
 (WHADJP-2

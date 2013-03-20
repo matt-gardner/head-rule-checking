@@ -1,44 +1,25 @@
 (PP-CLR
   (IN as)
   (NP
-    (NNS students)))
+    (DT a)
+    (NN director)))
 
 (PP-CLR
   (TO to)
   (NP
-    (NNS students)))
+    (PRP it)))
 
 (PP
   (IN with)
   (S-NOM
     (NP-SBJ
       (NP
-        (RB even)
-        (JJ brief)
-        (NNS exposures))
-      (PP
-        (TO to)
-        (NP
-          (PRP it))))
+        (NNS exposures)))
     (VP
       (VBG causing)
       (NP
         (NP
-          (NNS symptoms))
-        (SBAR
-          (WHNP-1
-            (WDT that))
-          (S
-            (NP-SBJ
-              (-NONE- *T*-1))
-            (VP
-              (VBP show)
-              (PRT
-                (RP up))
-              (ADVP-TMP
-                (NP
-                  (NNS decades))
-                (JJ later)))))))))
+          (NNS symptoms))))))
 
 (PP
   (-NONE- *RNR*-1))
@@ -46,7 +27,8 @@
 (PP
   (VBG including)
   (NP
-    (NNS students)))
+    (NP
+      (CD three))))
 
 (PP-PRD
   (IN up)
@@ -61,7 +43,8 @@
     (JJR more))
   (IN like)
   (NP
-    (NNS students)))
+    (NP
+      (NN royalty))))
 
 (PP
   (VBG according)
@@ -69,34 +52,7 @@
     (TO to)
     (NP
       (NP
-        (NNP Brooke)
-        (NNP T.)
-        (NNP Mossman))
-      (, ,)
-      (NP
-        (NP
-          (DT a)
-          (NN professor))
-        (PP
-          (IN of)
-          (NP
-            (NN pathlogy)))
-        (PP-LOC
-          (IN at)
-          (NP
-            (NP
-              (DT the)
-              (NAC
-                (NNP University)
-                (PP
-                  (IN of)
-                  (NP
-                    (NNP Vermont))))
-              (NNP College))
-            (PP
-              (IN of)
-              (NP
-                (NNP Medicine)))))))))
+        (NNP Mossman)))))
 
 (PP
   (IN on)
@@ -106,17 +62,13 @@
       (NP-SBJ
         (NNS users))
       (VP
-        (VBP are)
-        (PP-PRD
-          (IN at)
-          (NP
-            (NN risk)))))))
+        (VBP are)))))
 
 (PP
   (JJ such)
   (IN as)
   (NP
-    (NNS students)))
+    (NN crocidolite)))
 
 (PP
   (VBN based)
@@ -124,29 +76,14 @@
     (IN on)
     (NP
       (NP
-        (JJ actual)
-        (NNS collections))
-      (VP
-        (VBN made)
-        (NP
-          (-NONE- *))
-        (PP-TMP
-          (IN until)
-          (NP
-            (NP
-              (NNP Dec.)
-              (CD 31))
-            (PP
-              (IN of)
-              (NP
-                (DT this)
-                (NN year)))))))))
+        (NNS collections)))))
 
 (PP-PRP
   (IN because)
   (IN of)
   (NP
-    (NNS students)))
+    (NP
+      (NNS rises))))
 
 (PP-TMP
   (PP-DIR
@@ -168,9 +105,6 @@
         (VBG discouraging)
         (NP
           (PRP$ their)
-          (JJ own)
-          (NNS scientists)
-          (CC and)
           (NNS authors)))))
   (CC and)
   (PP
@@ -181,26 +115,7 @@
       (VP
         (VBG deterring)
         (NP-2
-          (NNP U.S.)
-          (NN high-technology)
-          (NNS firms))
-        (PP-CLR
-          (IN from)
-          (S-NOM
-            (NP-SBJ
-              (-NONE- *-2))
-            (VP
-              (VP
-                (VBG investing))
-              (CC or)
-              (VP
-                (VBG marketing)
-                (NP
-                  (PRP$ their)
-                  (JJS best)
-                  (NNS products)))
-              (ADVP-LOC
-                (RB there)))))))))
+          (NNS firms))))))
 
 (PP-CLR
   (IN about)
@@ -215,24 +130,15 @@
         (NP-SBJ
           (NN anyone))
         (VP
-          (VBD heard)
-          (PP-CLR
-            (IN of)
-            (S-NOM
-              (NP-SBJ
-                (NN asbestos))
-              (VP
-                (VBG having)
-                (NP
-                  (DT any)
-                  (JJ questionable)
-                  (NNS properties))))))))))
+          (VBD heard))))))
 
 (PP-3
   (RB rather)
   (IN than)
   (NP
-    (NNS students)))
+    (NP
+      (DT the)
+      (-NONE- *U*))))
 
 (PP-CLR
   (IN as)
@@ -241,17 +147,12 @@
       (JJ cocky))
     (CC and)
     (ADJP
-      (RB too)
-      (JJ yielding)
-      (PP
-        (TO to)
-        (NP
-          (NNS students))))))
+      (JJ yielding))))
 
 (PP
   (IN from)
   (NP
-    (NNS students))
+    (NN %))
   (ADVP-TMP
     (NP
       (DT a)
@@ -266,48 +167,42 @@
     (VP
       (VBG paying)
       (NP
-        (JJR higher)
-        (NNS prices))
-      (PP-CLR
-        (IN for)
-        (NP
-          (NN country)
-          (NNS funds))))))
+        (NNS prices)))))
 
 (PP-2
   (IN on)
   (`` ``)
   (NP
-    (NNS students)))
+    (NN advertising)))
 
 (PP-DIR
   (IN from)
   (NP
-    (NNS students))
+    (CD 13,056))
   (PP-TMP
     (IN in)
     (NP
-      (NNP October)
-      (CD 1988))))
+      (NNP October))))
 
 (PP-LOC
   (NP-ADV
-    (NNS students))
+    (NNS miles))
   (IN from)
   (NP
-    (NNS students)))
+    (NNP Seoul)))
 
 (PP
   (IN from)
   (NP
-    (NNS students))
+    (DT the)
+    (NN sale))
   (NP-TMP
-    (NNS students)))
+    (NNP Friday)))
 
 (PP
   (CC plus)
   (NP
-    (NNS students)))
+    (NN interest)))
 
 (PP
   (RB but)
@@ -331,13 +226,14 @@
   (IN because)
   (IN of)
   (NP
-    (NNS students)))
+    (NP
+      (NNS worries))))
 
 (PP-CLR
   (IN in)
   (`` ``)
   (NP
-    (NNS students))
+    (NNS amounts))
   ('' ''))
 
 (PP-CLR
@@ -345,43 +241,23 @@
     (IN at)
     (NP
       (NP
-        (CD 1.8500)
         (NNS marks))
-      (, ,)
       (ADVP
-        (RB up)
-        (PP
-          (IN from)
-          (NP
-            (CD 1.8415)
-            (NNS marks))
-          (NP-TMP
-            (JJ late)
-            (NNP Tuesday))))))
+        (RB up))))
   (, ,)
   (CC and)
   (PP
     (IN at)
     (NP
       (NP
-        (CD 143.80)
         (NNS yen))
-      (, ,)
       (ADVP
-        (RB up)
-        (PP
-          (IN from)
-          (NP
-            (CD 142.85)
-            (NNS yen))
-          (NP-TMP
-            (JJ late)
-            (NNP Tuesday)))))))
+        (RB up)))))
 
 (PP-DIR
   (TO to)
   (NP
-    (NNS students))
+    (NN %))
   (PP-TMP
     (IN in)
     (NP
@@ -393,58 +269,20 @@
     (IN of)
     (NP
       (NP
-        (JJ serious)
-        (NN concern))
-      ('' '')
-      (PP
-        (TO to)
-        (NP
-          (NP
-            (DT the)
-            (CD 31,329)
-            (NN member)
-            (NNS investors))
-          (, ,)
-          (SBAR
-            (WHNP-2
-              (WP who))
-            (S
-              (NP-SBJ
-                (-NONE- *T*-2))
-              (VP
-                (VBP underwrite)
-                (NP
-                  (NN insurance))
-                (PP-LOC
-                  (IN at)
-                  (NP
-                    (NP
-                      (NNP Lloyd)
-                      (POS 's))))
-                (PP-PRP
-                  (IN in)
-                  (NP
-                    (NP
-                      (NN return))
-                    (PP
-                      (IN for)
-                      (NP
-                        (NN premium)
-                        (CC and)
-                        (NN investment)
-                        (NN income)))))))))))))
+        (NN concern)))))
 
 (PP
   (ADVP
     (RB only))
   (TO to)
   (NP
-    (NNS students)))
+    (NNS institutions)))
 
 (PP
   (VBN given)
   (NP
-    (NNS students)))
+    (DT the)
+    (NN picture)))
 
 (PP-CLR
   (IN of))
@@ -452,7 +290,8 @@
 (PP
   (IN from)
   (NP
-    (NNS students))
+    (NP
+      (-NONE- *U*)))
   (, ,)
   (ADVP-TMP
     (NP
@@ -474,9 +313,7 @@
       (NP-SBJ
         (PRP she))
       (VP
-        (VBD was)
-        (ADVP-LOC-PRD
-          (-NONE- *T*-2))))))
+        (VBD was)))))
 
 (PP-LOC-PRD
   (PP
@@ -490,25 +327,14 @@
     (IN above)
     (NP
       (NP
-        (NP
-          (NNP Marathon)
-          (POS 's))
-        (JJ rich)
-        (NN oil)
-        (NNS reserves))
-      (PP-LOC
-        (IN in)
-        (NP
-          (DT the)
-          (NNP North)
-          (NNP Sea))))))
+        (NNS reserves)))))
 
 (PP-LOC
   (IN in)
   (CC and)
   (IN around)
   (NP
-    (NNS students)))
+    (NNP City)))
 
 (PP
   (TO to)
@@ -525,10 +351,7 @@
     (VP
       (VBG taking)
       (PRT
-        (RP over))
-      (NP-TMP
-        (JJ last)
-        (NNP June)))))
+        (RP over)))))
 
 (PP
   (IN like)
@@ -536,58 +359,36 @@
   (S
     (NP-SBJ-1
       (PRP You))
-    (ADVP
-      (RB just))
     (VP
-      (VBP want)
-      (S
-        (NP-SBJ
-          (-NONE- *-1))
-        (VP
-          (TO to)
-          (VP
-            (VB make)
-            (S
-              (NP-SBJ
-                (PRP it))
-              (ADJP-PRD
-                (JJ easy)
-                (PP
-                  (IN for)
-                  (NP
-                    (DT the)
-                    (NN school)))))))))))
+      (VBP want))))
 
 (PP
   (JJ unlike)
   (NP
-    (NNS students)))
+    (NP
+      (NNS types))))
 
 (PP
   (IN with)
   (FRAG
     (NP-SBJ
-      (JJS most)
       (NNS sales))
     (PP-TMP
       (IN in)
       (NP
         (DT the)
-        (JJ last)
-        (CD five)
         (NNS years)))))
 
 (PP-LOC
   (DT all)
   (IN in)
   (NP
-    (NNS students)))
+    (NNP Exchange)))
 
 (PP-CLR
   (PP
     (TO to)
     (NP
-      (NN computer)
       (NN software)))
   (CONJP
     (RB as)
@@ -596,7 +397,6 @@
   (PP
     (TO to)
     (NP
-      (JJ literary)
       (NNS works))))
 
 (PP
@@ -612,9 +412,7 @@
         (VP
           (VBZ orders)
           (NP
-            (PRP it))
-          (ADVP-TMP
-            (-NONE- *T*-3)))))
+            (PRP it)))))
     (CC or)
     (S-PRP
       (NP-SBJ
@@ -625,38 +423,13 @@
           (VB prevent)
           (NP-4
             (DT the)
-            (NN client))
-          (PP-CLR
-            (IN from)
-            (S-NOM
-              (NP-SBJ
-                (-NONE- *-4))
-              (VP
-                (VBG committing)
-                (NP
-                  (NP
-                    (DT a)
-                    (JJ criminal)
-                    (NN act))
-                  (SBAR
-                    (WHNP-2
-                      (WDT that))
-                    (S
-                      (NP-SBJ
-                        (-NONE- *T*-2))
-                      (VP
-                        (MD could)
-                        (VP
-                          (VB result)
-                          (PP-CLR
-                            (IN in)
-                            (NP
-                              (NN death))))))))))))))))
+            (NN client)))))))
 
 (PP-TTL
   (NNP In)
   (NP
-    (NNS students)))
+    (DT the)
+    (NNP Dumpster)))
 
 (PP-CLR
   (RB as)
@@ -667,7 +440,8 @@
   (JJ due)
   (TO to)
   (NP
-    (NNS students)))
+    (PRP$ its)
+    (NNS outlays)))
 
 (PP-DIR
   (RP down)
@@ -686,14 +460,11 @@
   (PP
     (IN of)
     (NP
-      (JJ foreign)
-      (JJ economic)
       (NNS relations)))
   (CC and)
   (PP
     (IN of)
     (NP
-      (JJ heavy-machine)
       (NN building))))
 
 (PP-CLR
@@ -713,7 +484,7 @@
 (PP-LOC
   (IN In)
   (NP
-    (NNS students))
+    (NN activity))
   (: :))
 
 (PP
@@ -729,17 +500,7 @@
           (VB find)
           (NP
             (DT a)
-            (NN parking)
-            (NN space))
-          (PP-LOC
-            (IN at)
-            (NP
-              (NP
-                (DT the)
-                (NN system)
-                (POS 's))
-              (VBN jammed)
-              (NNS stations))))))))
+            (NN space)))))))
 
 (PP
   (IN for)
@@ -748,11 +509,11 @@
     (PP
       (IN among)
       (NP
-        (JJ other)
         (NNS things)))
     (, ,))
   (NP
-    (NNS students)))
+    (NP
+      (NNS cars))))
 
 (PP-PRP
   (JJ due)
@@ -761,43 +522,27 @@
     (NP
       (NP
         (PRP$ its)
-        (NN third-quarter)
-        (NN loss))
-      (PP
-        (IN of)
-        (NP
-          (NP
-            ($ $)
-            (CD 992,000)
-            (-NONE- *U*))
-          (, ,)
-          (CC or)
-          (NP
-            (NP
-              (CD 15)
-              (NNS cents))
-            (NP-ADV
-              (DT a)
-              (NN share))))))))
+        (NN loss)))))
 
 (PP-CLR
   (IN as)
   (`` ``)
   (ADJP
-    (RB fairly)
     (JJ small)))
 
 (PP-CLR
   (IN into)
   ('' '')
   (NP
-    (NNS students)))
+    (NP
+      (NNS details))))
 
 (PP-CLR
   (TO to)
   (`` ``)
   (NP
-    (NNS students)))
+    (NP
+      (NNS members))))
 
 (PP
   (JJ such)
@@ -809,23 +554,20 @@
       (VP
         (VBG accepting)
         (NP
-          (JJ substantial)
-          (NNS gifts))
-        (PP-DIR
-          (IN from)
-          (NP
-            (NNS businessmen))))
-      (CC or)
-      (VP
-        (VBG having)
-        (NP
-          (JJ extramarital)
-          (NNS affairs))))))
+          (NNS gifts))))))
 
 (PP
   (IN In)
   (NP
-    (NNS students))
+    (S-NOM
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (VBG investing)))
+    (NP
+      (NP
+        (DT a)
+        (NN role))))
   (, ,))
 
 (PP-LOC-CLR
@@ -834,11 +576,7 @@
     (NP
       (NP
         (DT a)
-        (NN suit))
-      (PP
-        (IN for)
-        (NP
-          (NNS damages)))))
+        (NN suit))))
   (, ,)
   (RB not)
   (PP
@@ -853,48 +591,14 @@
     (IN as)
     (NP
       (NP
-        (CD one))
-      (PP
-        (IN of)
-        (NP
-          (NP
-            (DT the)
-            (JJ last)
-            (NNS women))
-          (SBAR
-            (WHNP-1
-              (-NONE- 0))
-            (S
-              (NP-SBJ-2
-                (-NONE- *T*-1))
-              (VP
-                (TO to)
-                (VP
-                  (VB be)
-                  (VP
-                    (VBN executed)
-                    (NP
-                      (-NONE- *-2))
-                    (PP-LOC
-                      (IN in)
-                      (NP
-                        (NNP France))))))))))))
+        (CD one))))
   (CC and)
   (PP
     (IN as)
     (NP
       (NP
         (DT a)
-        (NN symbol))
-      (PP
-        (IN of)
-        (NP
-          (NP
-            (DT the)
-            (NNP Vichy)
-            (NN government)
-            (POS 's))
-          (NN hypocrisy))))))
+        (NN symbol)))))
 
 (PP-TMP
   (IN for)
@@ -908,14 +612,7 @@
     (VP
       (VBG climbing)
       (NP-EXT
-        (CD 0.9)
-        (NN %))
-      (NP-TMP
-        (NP
-          (DT the)
-          (NN month))
-        (ADVP
-          (RB before))))))
+        (NN %)))))
 
 (PP-TMP
   (PP
@@ -928,14 +625,10 @@
     (NP
       (NP
         (DT the)
-        (JJ same)
-        (NN time))
-      (PP
-        (IN as)
-        (NP
-          (-NONE- *RNR*-1)))))
+        (NN time))))
   (NP-1
-    (NNS students)))
+    (DT the)
+    (NNS partners)))
 
 (PP-CLR
   (RB not)
@@ -943,25 +636,22 @@
     (IN as)
     (NP
       (DT a)
-      (JJ common)
       (NN market)))
   (CC but)
   (PP
     (IN as)
     (NP
       (DT an)
-      (JJ integrated)
-      (NN production)
       (NN zone))))
 
 (PP
   (FW vs.)
   (NP
-    (NNS students)))
+    (NNS others)))
 
 (PP-TMP
   (NP
-    (NNS students))
+    (NNS weeks))
   (IN after)
   (S-NOM
     (NP-SBJ
@@ -970,62 +660,21 @@
       (VBG sentencing)
       (NP-2
         (DT an)
-        (JJ 18-year-old)
-        (NN defendant))
-      (PP-CLR
-        (TO to)
-        (NP
-          (NP
-            (CD 30)
-            (NNS years))
-          (PP-LOC
-            (IN in)
-            (NP
-              (NN state)
-              (NN prison)))))
-      (PP-CLR
-        (IN for)
-        (S-NOM
-          (NP-SBJ
-            (-NONE- *-2))
-          (VP
-            (VBG killing)
-            (NP
-              (CD two)
-              (JJ homosexual)
-              (NNS men))
-            (PP-LOC
-              (IN in)
-              (NP
-                (DT a)
-                (NN city)
-                (NN park)))))))))
+        (NN defendant)))))
 
 (PP-PRP
   (RB partly)
   (IN because)
   (IN of)
   (NP
-    (NNS students)))
+    (NN strike)))
 
 (PP-CLR
   (PP
     (TO to)
     (NP
       (NP
-        (JJ perpetual)
-        (NN war))
-      (PP
-        (IN with)
-        (NP
-          (NP
-            (DT the)
-            (NNPS Muslims))
-          (PP-LOC
-            (IN in)
-            (NP
-              (PRP$ their)
-              (NN midst)))))))
+        (NN war))))
   (, ,)
   (CC and)
   (RB so)
@@ -1034,24 +683,18 @@
     (NP
       (NP
         (DT the)
-        (JJ internal)
-        (NN erosion))
-      (PP
-        (IN of)
-        (NP
-          (PRP$ their)
-          (NN state))))))
+        (NN erosion)))))
 
 (PP-DIR
   (IN from)
   (NP
-    (NNS students))
+    (NP
+      (-NONE- *U*)))
   (, ,)
   (PP-TMP
     (IN in)
     (NP
       (DT the)
-      (JJ year-earlier)
       (NN period))))
 
 (PP
@@ -1068,18 +711,12 @@
   (PP
     (IN from)
     (NP
-      (NNP Nov.)
-      (CD 27)
-      (, ,)
-      (CD 1989)))
+      (NNP Nov.)))
   (, ,)
   (PP
     (IN through)
     (NP
-      (NNP Oct.)
-      (CD 26)
-      (, ,)
-      (CD 1993)))
+      (NNP Oct.)))
   (, ,))
 
 (PP
@@ -1089,30 +726,13 @@
   (PP
     (IN for)
     (NP
-      (NNP Mr.)
       (NNP Levy)))
   (CC but)
   (PP
     (IN for)
     (NP
       (NP
-        (NNS hundreds))
-      (PP
-        (IN of)
-        (NP
-          (JJ other)
-          (JJ small)
-          (NN apparel)
-          (NNS makers)
-          (, ,)
-          (NN button)
-          (NNS suppliers)
-          (, ,)
-          (NN trucking)
-          (NNS firms)
-          (CC and)
-          (NN fabric)
-          (NNS houses))))))
+        (NNS hundreds)))))
 
 (PP
   (PP
@@ -1126,14 +746,15 @@
   (PP
     (TO to)
     (NP
-      (NN market)
       (NNS makers))))
 
 (PP-LOC
   (RB just)
   (TO to)
   (NP
-    (NNS students)))
+    (NP
+      (DT the)
+      (NN north))))
 
 (PP-DIR
   (TO to)
@@ -1143,9 +764,9 @@
 (PP-DIR
   (TO to)
   (NP
-    (NNS students))
+    (-NONE- *U*))
   (NP-TMP
-    (NNS students)))
+    (NN year)))
 
 (PP
   (CC but)
@@ -1154,33 +775,14 @@
     (NP
       (NP
         (DT a)
-        (NN reduction))
-      (PP
-        (IN of)
-        (NP
-          (QP
-            ($ A$)
-            (CD 5)
-            (CD billion))
-          (-NONE- *U*)))
-      (PP-TMP
-        (IN over)
-        (NP
-          (DT the)
-          (JJ past)
-          (NN year)))
-      (PP
-        (IN from)
-        (NP
-          (NN asset)
-          (NNS sales))))))
+        (NN reduction)))))
 
 (PP
   (RB as)
   (RB well)
   (IN as)
   (NP
-    (NNS students)))
+    (NNS cards)))
 
 (PP-3
   (IN as)
@@ -1191,30 +793,7 @@
       (NP
         (NP
           (DT a)
-          (JJ little)
-          (NN time))
-        (SBAR
-          (WHADVP-2
-            (-NONE- 0))
-          (S
-            (NP-SBJ
-              (-NONE- *))
-            (VP
-              (TO to)
-              (VP
-                (VB be)
-                (ADJP-PRD
-                  (JJ anonymous))
-                (, ,)
-                (ADVP
-                  (RB alone)
-                  (PP
-                    (IN with)
-                    (NP
-                      (PRP$ their)
-                      (NNS thoughts))))
-                (ADVP-TMP
-                  (-NONE- *T*-2))))))))))
+          (NN time))))))
 
 (PP-CLR
   (RB not)
@@ -1223,70 +802,27 @@
     (NP
       (NP
         (DT a)
-        (JJ central)
-        (NN computer))
-      (SBAR
-        (WHPP-2
-          (IN around)
-          (WHNP
-            (WDT which)))
-        (S
-          (NP-SBJ
-            (NN everything))
-          (VP
-            (VBZ revolves)
-            (PP-LOC-CLR
-              (-NONE- *T*-2)))))))
+        (NN computer))))
   (, ,)
   (CC but)
   (PP
     (IN as)
     (NP
       (NP
-        (NN part))
-      (PP
-        (IN of)
-        (NP
-          (NP
-            (DT a)
-            (JJ decentralized)
-            (NN network))
-          (VP
-            (VBG weaving)
-            (ADVP-CLR
-              (RB together))
-            (NP
-              (NP
-                (NNS hundreds))
-              (PP
-                (IN of)
-                (NP
-                  (NP
-                    (NNS workstations))
-                  (, ,)
-                  (NP
-                    (JJ personal)
-                    (NNS computers))
-                  (, ,)
-                  (NP
-                    (NNS printers))
-                  (CC and)
-                  (NP
-                    (JJ other)
-                    (NNS devices)))))))))))
+        (NN part)))))
 
 (PP
   (ADVP
     (RB modestly))
   (RB under)
   (NP
-    (NNS students)))
+    (NNS shares)))
 
 (PP-CLR
   (TO to)
   (`` ``)
   (NP
-    (NNS students))
+    (NNS interests))
   ('' ''))
 
 (PP
@@ -1295,7 +831,6 @@
     (IN in)
     (NP
       (DT a)
-      (JJ public)
       (NN offering)))
   (CC or)
   (PP
@@ -1308,7 +843,6 @@
   (IN as)
   (`` ``)
   (ADJP
-    (RB absolutely)
     (JJ extraordinary))
   ('' ''))
 
@@ -1327,10 +861,13 @@
 (PP-DIR
   (IN from)
   (NP
-    (NNS students))
+    (NP
+      (-NONE- *U*)))
   (, ,)
   (NP-TMP
-    (NNS students)))
+    (DT a)
+    (NN year)
+    (IN ago)))
 
 (PP
   (CONJP
@@ -1339,9 +876,6 @@
   (PP
     (IN with)
     (NP
-      (JJ Cuban)
-      (NN art)
-      (CC and)
       (NNS artists)))
   (, ,)
   (CONJP
@@ -1351,19 +885,7 @@
     (IN with)
     (NP
       (NP
-        (JJ Cuban)
-        (NNS bureaucrats))
-      (CC and)
-      (NP
-        (NP
-          (PRP$ their)
-          (NNS counterparts))
-        (PP-LOC
-          (IN in)
-          (NP
-            (PRP$ our)
-            (JJ own)
-            (NN government)))))))
+        (NNS bureaucrats)))))
 
 (PP-LOC
   (PP
@@ -1379,7 +901,6 @@
     (IN within)
     (NP
       (DT the)
-      (JJ same)
       (NN party))))
 
 (PP
@@ -1390,7 +911,13 @@
 (PP
   (NN in)
   (NP
-    (NNS students)))
+    (CD 1929)
+    (CD 1933)
+    (CD 1961)
+    (CD 1965)
+    (CD 1968)
+    (CD 1971)
+    (CD 1972)))
 
 (PP-PRD=1
   (RB just)
@@ -1402,12 +929,12 @@
   (RBR more)
   (IN like)
   (NP
-    (NNS students)))
+    (PRP us)))
 
 (PP
   (IN Like)
   (NP
-    (NNS students))
+    (NN capital))
   (. .))
 
 (PP
@@ -1415,7 +942,8 @@
   (CC and)
   (IN from)
   (NP
-    (NNS students)))
+    (NP
+      (NN Highway))))
 
 (PP
   (RB so)
@@ -1433,17 +961,6 @@
     (IN between)
     (NP
       (NP
-        (QP
-          ($ $)
-          (CD 6.4)
-          (CD million))
-        (-NONE- *U*))
-      (CC and)
-      (NP
-        (QP
-          ($ $)
-          (CD 6.9)
-          (CD million))
         (-NONE- *U*))))
   (, ,)
   (CC or)
@@ -1452,23 +969,14 @@
     (NP
       (NP
         (NP
-          (CD 32)
-          (NNS cents))
-        (CC and)
-        (NP
-          (CD 34)
-          (NNS cents)))
-      (NP-ADV
-        (DT a)
-        (NN share))))
+          (NNS cents)))))
   (, ,))
 
 (PP
   (PP
     (IN from)
     (NP
-      (DT the)
-      (CD 1920s)))
+      (DT the)))
   (ADVP
     (IN on)))
 
@@ -1479,24 +987,7 @@
     (NP
       (NP
         ($ $)
-        (CD 1.14)
-        (-NONE- *U*))
-      (, ,)
-      (SBAR
-        (WHADVP-3
-          (WRB where))
-        (S
-          (NP-SBJ-2
-            (JJ modest)
-            (NN buying))
-          (VP
-            (VBD was)
-            (VP
-              (VBN attracted)
-              (NP
-                (-NONE- *-2))
-              (ADVP-LOC
-                (-NONE- *T*-3)))))))))
+        (-NONE- *U*)))))
 
 (PP
   (TO to)
@@ -1505,18 +996,13 @@
 
 (PP
   (NP
-    (NNS students))
+    (VBG depending))
   (PP
     (IN on)
     (NP
       (NP
         (DT the)
-        (NN quality))
-      (PP
-        (IN of)
-        (NP
-          (DT the)
-          (NN picture))))))
+        (NN quality)))))
 
 (PP-PRD
   (PP
@@ -1529,11 +1015,7 @@
     (S
       (NP-SBJ
         (NP
-          (JJS most))
-        (PP
-          (IN of)
-          (NP
-            (PRP us))))
+          (JJS most)))
       (VP
         (VBP think)
         (SBAR
@@ -1552,7 +1034,9 @@
   (IN because)
   (IN of)
   (NP
-    (NNS students)))
+    (NP
+      (DT a)
+      (NN feud))))
 
 (PP
   (IN At)
@@ -1561,19 +1045,15 @@
 (PP
   (IN through)
   (ADVP
-    (RB not)
     (RB only))
   (NP
-    (NNS students)))
+    (DT these)
+    (NNS investigations)))
 
 (PP-LOC-1
   (PP
     (IN above)
     (NP
-      (NP
-        (NNP September)
-        (POS 's))
-      (CD 46)
       (NN %)))
   (, ,)
   (CC and)
@@ -1583,18 +1063,7 @@
     (IN above)
     (NP
       (NP
-        (JJ average)
-        (NNS forecasts))
-      (PP
-        (IN for)
-        (NP
-          (DT the)
-          (NN index)))
-      (PP
-        (IN of)
-        (NP
-          (CD 45.3)
-          (NN %))))))
+        (NNS forecasts)))))
 
 (PP-LOC
   (IN in)
@@ -1603,22 +1072,22 @@
   (PP
     (IN of)
     (NP
-      (JJ small)
-      (`` `)
-      (NNS rooms)
-      ('' '))))
+      (NNS rooms))))
 
 (PP
   (IN of)
   (: ...)
   (NP
-    (NNS students)))
+    (NP
+      (DT a)
+      (NN garden))))
 
 (PP
   (RB not)
   (VBG including)
   (NP
-    (NNS students)))
+    (DT the)
+    (NNP Union)))
 
 (PP
   (RB as)
@@ -1633,7 +1102,8 @@
       (RB perhaps))
     (, ,))
   (NP
-    (NNS students)))
+    (NP
+      (NN someone))))
 
 (PP-LOC
   (PP
@@ -1647,16 +1117,7 @@
     (NP
       (NP
         (DT the)
-        (NN legitimacy))
-      (PP
-        (IN of)
-        (NP
-          (NP
-            (DT the)
-            (NN arms-control)
-            (NN process))
-          (NP
-            (PRP itself)))))))
+        (NN legitimacy)))))
 
 (PP
   (VBG including)
@@ -1665,31 +1126,19 @@
       (WRB how))
     (S
       (NP-SBJ
-        (JJ current)
-        (NN circuit)
         (NNS breakers))
       (VP
         (VBD affected)
         (NP
           (DT the)
-          (NN market))
-        (NP-TMP
-          (NP
-            (DT that)
-            (NN day))
-          (CC and)
-          (NP
-            (DT the)
-            (VBG following)
-            (NNP Monday)))
-        (ADVP-MNR
-          (-NONE- *T*-1))))))
+          (NN market))))))
 
 (PP
   (VBN based)
   (IN on)
   (NP
-    (NNS students)))
+    (NP
+      (NNS levels))))
 
 (PP-LOC
   (IN Under)
@@ -1704,7 +1153,8 @@
     (RB even))
   (VBG including)
   (NP
-    (NNS students)))
+    (DT the)
+    (NN week)))
 
 (PP
   (PP
@@ -1713,7 +1163,8 @@
       (NN part)))
   (IN by)
   (NP-LGS
-    (NNS students)))
+    (NP
+      (NN news))))
 
 (PP-TMP
   (X
@@ -1724,17 +1175,15 @@
     (PP
       (IN of)
       (NP
-        (NP
-          (NNP Thursday)
-          (POS 's))
         (NN close))))
   (. .))
 
 (PP
   (NP
-    (NNS students))
+    (-NONE- *U*))
   (NP-ADV
-    (NNS students)))
+    (DT a)
+    (NN share)))
 
 (PP-LOC
   (DT both)
@@ -1742,7 +1191,8 @@
   (CC and)
   (IN off)
   (NP
-    (NNS students)))
+    (DT the)
+    (NN field)))
 
 (PP-PRD
   (JJ worth)
@@ -1762,7 +1212,7 @@
   (FW a)
   (FW la)
   (NP
-    (NNS students)))
+    (NNP Tower)))
 
 (PP
   (PP
@@ -1776,12 +1226,7 @@
     (IN for)
     (NP
       (NP
-        (NN time))
-      (PP
-        (IN on)
-        (NP
-          (DT the)
-          (NN phone))))))
+        (NN time)))))
 
 (PP-TMP
   (PP
@@ -1809,22 +1254,7 @@
         (VP
           (TO to)
           (VP
-            (VB react)
-            (PP-CLR
-              (TO to)
-              (NP
-                (NP
-                  (NNS discounts))
-                (VP
-                  (VBN offered)
-                  (NP
-                    (-NONE- *))
-                  (PP
-                    (IN by)
-                    (NP-LGS
-                      (NNS competitors))))))
-            (ADVP-MNR
-              (-NONE- *T*-2))))))
+            (VB react)))))
     (CC or)
     (SBAR
       (WHNP-1
@@ -1839,30 +1269,7 @@
             (NP-PRD
               (NP
                 (DT the)
-                (JJ optimum)
-                (NN number))
-              (PP
-                (IN of)
-                (NP
-                  (NNS seats)))
-              (SBAR
-                (WHNP-3
-                  (-NONE- 0))
-                (S
-                  (NP-SBJ
-                    (-NONE- *))
-                  (VP
-                    (TO to)
-                    (VP
-                      (VB offer)
-                      (NP
-                        (-NONE- *T*-3))
-                      (PP
-                        (IN at)
-                        (NP
-                          (DT a)
-                          (VBN given)
-                          (NN price))))))))))))))
+                (NN number)))))))))
 
 (PP
   (TO to))
@@ -1870,13 +1277,14 @@
 (PP
   (RBR than)
   (NP
-    (NNS students)))
+    (NNS others)))
 
 (PP
   (CC either)
   (IN through)
   (NP
-    (NNS students)))
+    (NP
+      (NNS borrowings))))
 
 (PP-TMP
   (IN in)
@@ -1900,37 +1308,26 @@
     (RB particularly))
   (VBN given)
   (NP
-    (NNS students)))
+    (DT a)
+    (NNP France)))
 
 (PP
   (NP
-    (NNS students))
+    (DT the)
+    (NN 13th))
   (IN notwithstanding))
 
 (PP-PRD
   (PP
     (IN for)
     (NP
-      (JJ accessory)
       (NNS apartments)))
   (, ,)
   (PP
     (IN for)
     (NP
       (NP
-        (NNS cottages))
-      (VP
-        (VBN built)
-        (NP
-          (-NONE- *))
-        (PP-LOC
-          (IN in)
-          (NP
-            (NP
-              (DT a)
-              (NN relative)
-              (POS 's))
-            (NN yard))))))
+        (NNS cottages))))
   (, ,)
   (PP
     (IN for)
@@ -1940,13 +1337,14 @@
   (PP
     (IN for)
     (NP
-      (JJ sale-lease-back)
       (NNS transactions))))
 
 (PP
   (TO to)
   (NP
-    (NNS students))
+    (NP
+      (DT the)
+      (NNP Delicious)))
   (, ,))
 
 (PP-CLR
@@ -1973,24 +1371,7 @@
       (VP
         (VBG expanding)
         (NP
-          (NP
-            (DT the)
-            (NN company)
-            (POS 's))
-          (NN market)
-          (NN share))
-        (PP-DIR
-          (TO to)
-          (NP
-            (CD 30)
-            (NN %)))
-        (PP-DIR
-          (IN from)
-          (NP
-            (CD 27)
-            (NN %))
-          (ADVP-TMP
-            (RB currently)))))))
+          (NN share))))))
 
 (PP
   (PP
@@ -1998,13 +1379,7 @@
     (NP-LGS
       (NP
         (DT the)
-        (JJ persistent)
-        (NN strength))
-      (PP
-        (IN of)
-        (NP
-          (DT the)
-          (NN dollar)))))
+        (NN strength))))
   (PRN
     (, ,)
     (S
@@ -2023,33 +1398,7 @@
     (NP-LGS
       (NP
         (DT the)
-        (NNP U.S.)
-        (NN trade)
-        (NN deficit))
-      (, ,)
-      (SBAR
-        (WHNP-2
-          (WDT which))
-        (S
-          (NP-SBJ
-            (-NONE- *T*-2))
-          (VP
-            (VBD widened)
-            (PP-EXT
-              (IN by)
-              (NP
-                (CD 31)
-                (NN %)))
-            (PP-TMP
-              (IN in)
-              (NP
-                (NNP August)))
-            (PP-DIR
-              (IN from)
-              (NP
-                (DT the)
-                (JJ previous)
-                (NN month)))))))))
+        (NN deficit)))))
 
 (PP-CLR
   (RP on)
@@ -2057,26 +1406,12 @@
     (NP-SBJ-1
       (-NONE- *-5))
     (VP
-      (VBG jumping)
-      (ADVP-CLR
-        (RB in))
-      (ADVP-TMP
-        (RB now))
-      (S-PRP
-        (NP-SBJ
-          (-NONE- *-1))
-        (VP
-          (TO to)
-          (VP
-            (VB buy)
-            (NP
-              (DT the)
-              (NNS funds))))))))
+      (VBG jumping))))
 
 (PP
   (IN from)
   (NP
-    (NNS students))
+    (CD 408))
   (SBAR-TMP
     (WHADVP-1
       (WRB when))
@@ -2085,33 +1420,22 @@
         (DT the)
         (NN decade))
       (VP
-        (VBD began)
-        (ADVP-TMP-CLR
-          (-NONE- *T*-1))))))
+        (VBD began)))))
 
 (PP
   (PP
     (IN at)
     (NP
-      (CD 1.8400)
       (NNS marks)))
   (, ,)
   (ADVP
-    (RB up)
-    (PP
-      (IN from)
-      (NP
-        (CD 1.8353)
-        (NNS marks))
-      (NP-TMP
-        (JJ late)
-        (NNP Wednesday)))))
+    (RB up)))
 
 (PP
   (IN of)
   (-LRB- -LCB-)
   (NP
-    (NNS students))
+    (NNP Drabinsky))
   (-RRB- -RCB-))
 
 (PP
@@ -2126,10 +1450,7 @@
     (PP
       (IN on)
       (NP
-        (NNP Oct.)
-        (CD 13)
-        (CC and)
-        (CD 16)))))
+        (NNP Oct.)))))
 
 (PP
   (ADVP
@@ -2146,22 +1467,10 @@
       (NP-SBJ
         (NP
           (DT the)
-          (NN work))
-        (SBAR
-          (WHNP-2
-            (WDT that))
-          (S
-            (NP-SBJ
-              (-NONE- *T*-2))
-            (VP
-              (VBZ gets)
-              (NP
-                (DT the)
-                (NN award))))))
+          (NN work)))
       (VP
         (VBZ has)
         (NP
-          (JJ unmistakable)
           (NNS qualities))))))
 
 (PP
@@ -2170,7 +1479,8 @@
   (`` ``)
   (IN for)
   (NP
-    (NNS students)))
+    (NP
+      (NNS items))))
 
 (PP
   (IN of)
@@ -2181,8 +1491,6 @@
   (PP
     (IN in)
     (NP
-      (NN world)
-      (NN stock)
       (NNS markets)))
   (PRN
     (: --)
@@ -2190,10 +1498,6 @@
     (PP
       (IN in)
       (NP
-        (NP
-          (NNP B.A.T)
-          (POS 's))
-        (NN share)
         (NN price)))
     (: --)))
 
@@ -2204,11 +1508,11 @@
     (PP
       (IN among)
       (NP
-        (JJ other)
         (NNS things)))
     (, ,))
   (NP
-    (NNS students)))
+    (DT a)
+    (NN plan)))
 
 (PP
   (IN For)
@@ -2227,16 +1531,7 @@
           (VP
             (VBD described)
             (NP
-              (-NONE- *T*-1))
-            (PP-CLR
-              (IN as)
-              (NP
-                (ADJP
-                  (RB very)
-                  (JJ personal)
-                  (CC and)
-                  (JJ helpful)))
-              (NN service)))))))
+              (-NONE- *T*-1)))))))
   (. .))
 
 (PP-DIR
@@ -2249,8 +1544,6 @@
     (S
       (NP-SBJ-131
         (-NONE- *T*-1))
-      (ADVP-TMP
-        (RB already))
       (VP
         (VBD had)
         (VP
@@ -2258,19 +1551,14 @@
           (VP
             (VBN reported)
             (NP
-              (-NONE- *-131))
-            (PP-LOC
-              (IN in)
-              (NP
-                (DT the)
-                (NN morning)
-                (NNS newspapers)))))))))
+              (-NONE- *-131))))))))
 
 (PP
   (IN on)
   (CC either)
   (NP
-    (NNS students)))
+    (DT the)
+    (NN situation)))
 
 (PP
   (ADVP
@@ -2282,7 +1570,6 @@
   (PP
     (IN through)
     (NP
-      (JJ eighth)
       (NN grade))))
 
 (PP
@@ -2290,17 +1577,7 @@
     (IN for)
     (NP
       (DT the)
-      (NN failure)
-      (S
-        (NP-SBJ
-          (-NONE- *))
-        (VP
-          (TO to)
-          (VP
-            (VB oust)
-            (NP
-              (NNP Mr.)
-              (NNP Noriega)))))))
+      (NN failure)))
   (CC and)
   (, ,)
   (ADVP
@@ -2311,32 +1588,20 @@
     (IN for)
     (NP
       (NP
-        (NNS difficulties))
-      (PP
-        (IN in)
-        (S-NOM
-          (NP-SBJ
-            (-NONE- *))
-          (VP
-            (VBG carrying)
-            (PRT
-              (RP out))
-            (NP
-              (JJ covert)
-              (NNS activities))
-            (ADVP-LOC
-              (RB abroad))))))))
+        (NNS difficulties)))))
 
 (PP
   (JJ such)
   (IN as)
   (`` ``)
   (NP
-    (NNS students)))
+    (NP
+      (NNS things))))
 
 (PP
   (NP=2
-    (NNS students)))
+    (DT the)
+    (NNS taxpayers)))
 
 (PP
   (RB rather)
@@ -2355,14 +1620,12 @@
     (TO to)
     (NP
       (DT the)
-      (NNS earnings)
       (NN limit))))
 
 (PP
   (TO to)
   (UCP
     (NP
-      (JJ individual)
       (NN equality))
     (CC or)
     (PRN
@@ -2383,12 +1646,7 @@
       (NP
         (NP
           (DT a)
-          (JJ common)
-          (NN destiny))
-        (PP
-          (IN as)
-          (NP
-            (NNPS Americans)))))))
+          (NN destiny))))))
 
 (PP-CLR
   (RB not)
@@ -2397,13 +1655,7 @@
     (NP
       (NP
         (DT the)
-        (JJ narrow)
-        (NNS interests))
-      (PP
-        (IN of)
-        (NP
-          (CD one)
-          (NN group)))))
+        (NNS interests))))
   (CC but)
   (ADVP
     (RB instead))
@@ -2411,7 +1663,6 @@
     (IN for)
     (NP
       (DT the)
-      (JJ common)
       (NN good))))
 
 (PP-DTV
@@ -2437,41 +1688,18 @@
     (IN below)
     (NP
       (NP
-        (NP
-          (DT the)
-          (NN industry)
-          (POS 's))
-        (QP
-          (CD 4)
-          (NN %)
-          (TO to)
-          (CD 5)
-          (NN %))
-        (NN growth)
-        (NN rate))
-      (PP
-        (IN of)
-        (NP
-          (JJ recent)
-          (NNS years)))))
+        (NN rate))))
   (, ,)
   (CC but)
   (PP
     (IN in)
     (NP
       (NP
-        (NN line))
-      (PP
-        (IN with)
-        (NP
-          (JJ other)
-          (JJ soft-drink)
-          (NNS companies)))))
+        (NN line))))
   (PP-TMP
     (IN for)
     (NP
       (DT the)
-      (JJ third)
       (NN quarter))))
 
 (PP-PRD
@@ -2480,7 +1708,8 @@
     (RB far))
   (IN above)
   (NP
-    (NNS students)))
+    (PRP$ his)
+    (NNS classmates)))
 
 (PP
   (IN except)
@@ -2493,49 +1722,7 @@
     (NP
       (NP
         (PRP$ my)
-        (NN record)
-        (NN collection))
-      (, ,)
-      (SBAR
-        (WHNP-1
-          (WP$ whose)
-          (JJ worth))
-        (PRN
-          (, ,)
-          (S
-            (NP-SBJ
-              (PRP I))
-            (VP
-              (VBP think)
-              (SBAR
-                (-NONE- 0)
-                (S
-                  (NP-SBJ
-                    (NP
-                      (PRP it))
-                    (S
-                      (-NONE- *EXP*-3)))
-                  (VP
-                    (VBZ 's)
-                    (ADJP-PRD
-                      (JJ safe))
-                    (S-3
-                      (NP-SBJ
-                        (-NONE- *))
-                      (VP
-                        (TO to)
-                        (VP
-                          (VB say)
-                          (S
-                            (-NONE- *?*))))))))))
-          (, ,))
-        (S
-          (NP-SBJ
-            (-NONE- *T*-1))
-          (VP
-            (VBZ is)
-            (ADJP-PRD
-              (JJ incalculable))))))))
+        (NN collection)))))
 
 (PP-LOC
   (CONJP
@@ -2544,18 +1731,14 @@
   (PP
     (IN in)
     (NP
-      (NNP DES)
       (NNS cases)))
   (CC but)
   (PP
     (IN in)
     (NP
-      (JJ other)
-      (JJ product-related)
       (NNS lawsuits)))
   (, ,)
   (ADVP
-    (RB as)
     (RB well)))
 
 (PP
@@ -2566,7 +1749,6 @@
       (WP What))
     (S
       (NP-SBJ
-        (NN TV)
         (NN News))
       (VP
         (VP
@@ -2575,17 +1757,7 @@
           (VP
             (VB Report)
             (NP
-              (-NONE- *T*-1))
-            (PP-CLR
-              (IN About)
-              (NP
-                (NNP Congress)))))
-        (: --)
-        (CC and)
-        (VP
-          (MD Should)
-          (VP
-            (-NONE- *?*))))))
+              (-NONE- *T*-1)))))))
   ('' ''))
 
 (PP-CLR
@@ -2594,123 +1766,20 @@
     (NP
       (NP
         (DT the)
-        (JJR stronger)
-        (NN dollar))
-      (, ,)
-      (SBAR
-        (WHNP-2
-          (WDT which))
-        (S
-          (NP-SBJ
-            (-NONE- *T*-2))
-          (VP
-            (VBZ reduces)
-            (NP
-              (NP
-                (DT the)
-                (NN value))
-              (PP
-                (IN of)
-                (NP
-                  (JJ overseas)
-                  (NN profit)))
-              (SBAR
-                (WHADVP-4
-                  (WRB when))
-                (S
-                  (NP-SBJ-1
-                    (PRP it))
-                  (VP
-                    (VBZ is)
-                    (VP
-                      (VBN translated)
-                      (NP
-                        (-NONE- *-1))
-                      (PP-CLR
-                        (IN into)
-                        (NP
-                          (NNS dollars)))
-                      (ADVP-TMP
-                        (-NONE- *T*-4))))))))))))
+        (NN dollar))))
   (: ;)
   (PP
     (TO to)
     (NP
       (NP
-        (VBN accelerated)
-        (NN buying))
-      (PP
-        (IN of)
-        (NP
-          (NNP Rorer)
-          (NNS products)))
-      (PP-TMP
-        (IN in)
-        (NP
-          (DT the)
-          (JJ second)
-          (NN quarter)))
-      (PP-PRP
-        (IN because)
-        (IN of)
-        (NP
-          (DT a)
-          (JJ then-pending)
-          (NAC-TMP
-            (NNP July)
-            (CD 1))
-          (NN price)
-          (NN increase)))))
+        (NN buying))))
   (, ,)
   (CC and)
   (PP
     (TO to)
     (NP
       (NP
-        (JJR higher)
-        (NN marketing)
-        (NNS expenses))
-      (PP
-        (IN for)
-        (NP
-          (NP
-            (NP
-              (NNP Rorer)
-              (POS 's))
-            (NNP Maalox)
-            (NN antacid))
-          (, ,)
-          (SBAR
-            (WHNP-3
-              (WHNP
-                (WP$ whose)
-                (NNS sales)
-                (CC and)
-                (NN market)
-                (NN share))
-              (PP-LOC
-                (IN in)
-                (NP
-                  (DT the)
-                  (NNP U.S.))))
-            (S
-              (NP-SBJ
-                (-NONE- *T*-3))
-              (VP
-                (VBD had)
-                (VP
-                  (VBN slipped)
-                  (PP-TMP
-                    (IN in)
-                    (NP
-                      (NP
-                        (DT the)
-                        (JJ first)
-                        (NN half))
-                      (PP
-                        (IN of)
-                        (NP
-                          (CD 1989))))))))))))))
+        (NNS expenses)))))
 
 (PP
   (RB rather)
@@ -2725,15 +1794,15 @@
   (PP
     (TO to)
     (NP
-      (JJR higher)
-      (NN clothing)
       (NNS costs))))
 
 (PP-PRD
   (JJR more)
   (IN like)
   (NP
-    (NNS students)))
+    (NP
+      (DT an)
+      (NN illustration))))
 
 (PP
   (ADVP-TMP
@@ -2742,7 +1811,6 @@
     (IN by)
     (NP-LGS
       (DT the)
-      (NN market)
       (NNS gyrations)))
   (, ,)
   (ADVP-TMP
@@ -2751,44 +1819,13 @@
     (IN by)
     (NP-LGS
       (NP
-        (NP
-          (NNP Tuesday)
-          (POS 's))
-        (NNP San)
-        (NNP Francisco)
-        (NN earthquake))
-      (, ,)
-      (SBAR
-        (WHNP-2
-          (WDT which))
-        (S
-          (NP-SBJ
-            (-NONE- *T*-2))
-          (VP
-            (MD could)
-            (VP
-              (VB leave)
-              (S
-                (NP-SBJ
-                  (NP
-                    (NNP B.A.T)
-                    (POS 's))
-                  (NNPS Farmers)
-                  (NNP Group)
-                  (NNP Inc.)
-                  (NN insurance)
-                  (NN unit))
-                (VP
-                  (VBG facing)
-                  (NP
-                    (JJ big)
-                    (NNS claims)))))))))))
+        (NN earthquake)))))
 
 (PP-PRD
   (IN at)
   (-RRB- -RCB-)
   (NP
-    (NNS students)))
+    (CD 3000)))
 
 (PP-PRD
   (ADVP
@@ -2808,8 +1845,7 @@
       (IN In)
       (NP
         (DT the)
-        (NN Year)
-        (CD 2000))))
+        (NN Year))))
   ('' ''))
 
 (PP-DIR
@@ -2818,21 +1854,16 @@
     (NP
       (NP
         ($ $)
-        (CD 40)
-        (-NONE- *U*))
-      (NP-ADV
-        (-NONE- *RNR*-1))))
+        (-NONE- *U*))))
   (PP
     (TO to)
     (NP
       (NP
         ($ $)
-        (CD 125)
-        (-NONE- *U*))
-      (NP-ADV
-        (-NONE- *RNR*-1))))
+        (-NONE- *U*))))
   (NP-ADV-1
-    (NNS students)))
+    (DT a)
+    (NN bottle)))
 
 (PP
   (`` ``)
@@ -2840,7 +1871,8 @@
   ('' '')
   (IN behind)
   (NP
-    (NNS students)))
+    (DT the)
+    (NN firm)))
 
 (PP
   (`` ``)
@@ -2849,7 +1881,6 @@
     (IN for)
     (NP
       (PRP$ their)
-      (JJ corporate)
       (NN use)))
   (, ,)
   (CC but)
@@ -2857,12 +1888,7 @@
     (IN for)
     (NP
       (NP
-        (NN resale))
-      (PP
-        (IN at)
-        (NP
-          (JJ huge)
-          (NN profit))))))
+        (NN resale)))))
 
 (PP-PRP
   (ADVP
@@ -2887,10 +1913,6 @@
               (VP
                 (VB be)
                 (NP-PRD
-                  (ADJP
-                    (RB temporarily)
-                    (JJR better))
-                  (NN price)
                   (NN behavior))))))))))
 
 (PP-LOC
@@ -2904,7 +1926,6 @@
     (NP
       (NNP Europe)))
   (ADVP
-    (RB as)
     (RB well)))
 
 (PP-LOC
@@ -2913,7 +1934,7 @@
   (IN on)
   (`` ``)
   (NP-TTL
-    (NNS students)))
+    (NNP Batibot)))
 
 (PP-TMP
   (ADVP
@@ -2926,19 +1947,7 @@
     (NP
       (NP
         (DT the)
-        (NN astonishment)
-        (CC and)
-        (NN dismay))
-      (PP
-        (IN of)
-        (NP
-          (NP
-            (PRP$ her)
-            (NNS superiors))
-          (CC and)
-          (NP
-            (JJ legal)
-            (NNS authorities))))))
+        (NN dismay))))
   (: --)
   (JJ and)
   (ADVP
@@ -2948,18 +1957,7 @@
     (NP
       (NP
         (DT a)
-        (NN measure))
-      (PP
-        (IN of)
-        (NP
-          (NP
-            (DT the)
-            (NN unpopularity))
-          (PP
-            (IN of)
-            (NP
-              (JJ standardized)
-              (NNS tests)))))))
+        (NN measure))))
   (: --))
 
 (PP
@@ -2967,7 +1965,8 @@
   (CC or)
   (VB take)
   (NP
-    (NNS students)))
+    (NP
+      (NNS pizzas-with-everything))))
 
 (PP
   (VBN based)
@@ -2980,39 +1979,7 @@
     (NP
       (NP
         (NP
-          (JJ strong)
-          (NNS sales))
-        (PP
-          (IN of)
-          (NP
-            (NP
-              (NN prescription)
-              (NNS drugs))
-            (PP
-              (JJ such)
-              (IN as)
-              (NP
-                (NP
-                  (NNP Premarin))
-                (, ,)
-                (NP
-                  (DT an)
-                  (NN estrogen-replacement)
-                  (NN drug))
-                (, ,))))))
-      (CC and)
-      (NP
-        (NP
-          (NNS sales))
-        (PP
-          (IN of)
-          (NP
-            (NP
-              (DT the)
-              (NN company)
-              (POS 's))
-            (NN infant)
-            (NN formula)))))))
+          (NNS sales))))))
 
 (PP
   (IN of)
@@ -3026,7 +1993,7 @@
     (JJR more))
   (IN like)
   (NP
-    (NNS students)))
+    (NNS proteins)))
 
 (PP-MNR
   (PP
@@ -3034,9 +2001,7 @@
     (NP
       (NP
         (DT a)
-        (NN rate))
-      (SBAR
-        (-NONE- *RNR*-3))))
+        (NN rate))))
   (, ,)
   (CC and)
   (PP
@@ -3044,9 +2009,7 @@
     (NP
       (NP
         (DT a)
-        (NN direction))
-      (SBAR
-        (-NONE- *RNR*-3))))
+        (NN direction))))
   (, ,)
   (SBAR-3
     (WHNP-1
@@ -3058,29 +2021,14 @@
         (VBP leave)
         (NP
           (NP
-            (VBN informed)
-            (NN commentary))
-          (PRN
-            (: --)
-            (ADVP
-              (VB let)
-              (JJ alone))
-            (NP
-              (NN policy))
-            (: --)))
-        (PP-LOC-CLR
-          (RB far)
-          (IN in)
-          (NP
-            (PRP$ their)
-            (NN wake)))))))
+            (NN commentary)))))))
 
 (PP
   (-LRB- -LCB-)
   (IN on)
   (-RRB- -RCB-)
   (NP
-    (NNS students)))
+    (NNS pullbacks)))
 
 (PP-PRD
   (RB near)
@@ -3093,7 +2041,7 @@
   (JJ such)
   (RB as)
   (NP
-    (NNS students)))
+    (NNP Interpublic)))
 
 (PP-CLR
   (IN as)
@@ -3109,19 +2057,13 @@
       (NP
         (NP
           (DT the)
-          (JJS best)
-          (NNS interests))
-        (PP
-          (IN of)
-          (NP
-            (NNP Mesa)
-            (NNS shareholders)))))))
+          (NNS interests))))))
 
 (PP-CLR
   (RP in)
   (`` ``)
   (NP
-    (NNS students)))
+    (NNS problems)))
 
 (PP-PRP
   (RB because)
@@ -3131,13 +2073,14 @@
     (VB say))
   (, ,)
   (NP
-    (NNS students)))
+    (NP
+      (PRP$ its)
+      (NNS loans))))
 
 (PP-CLR
   (PP
     (TO to)
     (NP
-      (CD five)
       (UCP
         (JJ federal)
         (CC and)
@@ -3149,14 +2092,6 @@
   (PP
     (TO to)
     (NP
-      (JJ local)
-      (NN fire)
-      (, ,)
-      (NN police)
-      (, ,)
-      (NN hospital)
-      (CC and)
-      (NN plumbing)
       (NNS authorities))))
 
 (PP-PRP
@@ -3169,7 +2104,9 @@
   (IN because)
   (IN of)
   (NP
-    (NNS students)))
+    (NP
+      (DT a)
+      (NN lack))))
 
 (PP-PRD
   (PP
@@ -3186,21 +2123,19 @@
     (PP
       (IN on)
       (NP
-        (JJ unfair)
         (NNS inferences)))))
 
 (PP-MNR
   (`` ``)
   (IN With)
   (NP
-    (NNS students))
+    (NN pleasure))
   (. .))
 
 (PP-LOC
   (PP
     (IN in)
     (NP
-      (JJ normal)
       (NX
         (-NONE- *RNR*-1))))
   (CONJP
@@ -3210,7 +2145,6 @@
   (PP
     (IN in)
     (NP
-      (JJ cancerous)
       (NX
         (-NONE- *RNR*-1))))
   (NX-1
@@ -3220,7 +2154,9 @@
   (IN because)
   (IN of)
   (NP
-    (NNS students))
+    (NP
+      (PRP$ their)
+      (NNS positions)))
   (, ,))
 
 (PP-DIR
@@ -3229,13 +2165,6 @@
     (NP
       (NP
         (DT a)
-        (ADJP
-          (QP
-            ($ $)
-            (CD 11)
-            (CD million))
-          (-NONE- *U*))
-        (NN parking)
         (NN garage))
       (ADVP-LOC
         (RB here))))
@@ -3245,56 +2174,36 @@
     (NP
       (NP
         (DT a)
-        (NN land)
-        (NN transfer))
-      (PP-LOC
-        (IN in)
-        (NP
-          (NNP Hawaii)))))
+        (NN transfer))))
   (, ,)
   (PP
     (TO to)
     (NP
       (DT a)
-      (NN provision)
-      (S
-        (NP-SBJ
-          (-NONE- *))
-        (VP
-          (TO to)
-          (VP
-            (VB assist)
-            (NP
-              (NP
-                (DT the)
-                (NNP Makwah)
-                (NNP Indian)
-                (NNP Tribe))
-              (PP-LOC
-                (IN in)
-                (NP
-                  (NNP Washington)
-                  (NN state))))))))))
+      (NN provision))))
 
 (PP-PRP
   (ADVP
     (ADVP
       (RB probably)
-      (RBR less))
-    (PP
-      (-NONE- *ICH*-3)))
+      (RBR less)))
   (RB because)
   (IN of)
   (NP
-    (NNS students)))
+    (NP
+      (PRP$ his)
+      (NN program))))
 
 (PP
   (IN for)
   (NP
-    (NNS students))
+    (NP
+      (NP
+        (NN aircraft))))
   (CC and)
   (NP
-    (NNS students)))
+    (NP
+      (NNS parts))))
 
 (PP
   (ADVP
@@ -3305,43 +2214,7 @@
     (NP
       (NP
         (DT the)
-        (JJ huge)
-        (NNS sums))
-      (SBAR
-        (WHNP-1
-          (WDT that))
-        (S
-          (NP-SBJ
-            (-NONE- *T*-1))
-          (VP
-            (VBD changed)
-            (NP
-              (NNS hands))
-            (PP-LOC
-              (IN in)
-              (NP
-                (NP
-                  (DT the)
-                  (NNP Recruit)
-                  (NNP Co)
-                  (. .)
-                  (NN influence-peddling)
-                  (NN scandal))
-                (SBAR
-                  (WHNP-2
-                    (WDT that))
-                  (S
-                    (NP-SBJ
-                      (-NONE- *T*-2))
-                    (VP
-                      (VBD plagued)
-                      (NP
-                        (DT the)
-                        (VBG ruling)
-                        (NN party))
-                      (NP-TMP
-                        (JJ last)
-                        (NN year)))))))))))))
+        (NNS sums)))))
 
 (PP
   (PP
@@ -3361,9 +2234,7 @@
     (NP
       (NP
         (DT the)
-        (JJ regimented)
         (NN office))
-      (, ,)
       (SBAR-LOC
         (WHADVP-1
           (WRB where))
@@ -3377,10 +2248,7 @@
               (NP
                 (-NONE- *-59))
               (NP
-                (NN lunch)
-                (NNS partners))
-              (ADVP-LOC
-                (-NONE- *T*-1))))))))
+                (NNS partners))))))))
   (: --)
   (JJ and)
   (PP
@@ -3395,19 +2263,7 @@
       (NP
         (NP
           (DT the)
-          (JJ austere)
-          (NN company)
-          (NN dormitory))
-        (VP
-          (VBN run)
-          (NP
-            (-NONE- *))
-          (PP
-            (IN by)
-            (NP-LGS
-              (DT a)
-              (JJ prying)
-              (NN caretaker))))))))
+          (NN dormitory))))))
 
 (PP
   (PP
@@ -3415,129 +2271,26 @@
     (NP
       (NP
         (DT a)
-        (NN principal))
-      (SBAR
-        (WHNP-81
-          (WP who))
-        (S
-          (NP-SBJ
-            (-NONE- *T*-81))
-          (VP
-            (VP
-              (VBD was)
-              (NP-PRD
-                (PRP$ her)
-                (NN friend)))
-            (CC and)
-            (VP
-              (ADVP-TMP
-                (RB now))
-              (VBZ calls)
-              (S
-                (NP-SBJ
-                  (PRP her))
-                (NP-PRD
-                  (DT a)
-                  (NN betrayer)))))))))
+        (NN principal))))
   (: ;)
   (PP
     (IN of)
     (NP
       (NP
-        (NNS colleagues))
-      (SBAR
-        (WHNP-82
-          (WP who))
-        (S
-          (NP-SBJ
-            (-NONE- *T*-82))
-          (VP
-            (VBP say)
-            (SBAR
-              (-NONE- 0)
-              (S
-                (NP-SBJ
-                  (PRP she))
-                (VP
-                  (VBD brought)
-                  (NP
-                    (PRP them))
-                  (NP
-                    (NN shame))))))))))
+        (NNS colleagues))))
   (: ;)
   (PP
     (IN of)
     (NP
       (NP
-        (NNS students)
-        (CC and)
-        (NNS parents))
-      (SBAR
-        (WHNP-83
-          (WP who))
-        (S
-          (NP-SBJ
-            (-NONE- *T*-83))
-          (VP
-            (VP
-              (VBD defended)
-              (NP
-                (PRP her)))
-            (CC and)
-            (VP
-              (VBP insist)
-              (SBAR
-                (-NONE- 0)
-                (S
-                  (NP-SBJ-1
-                    (PRP she))
-                  (VP
-                    (VBD was)
-                    (VP
-                      (VBN treated)
-                      (NP
-                        (-NONE- *-1))
-                      (ADVP-MNR
-                        (RB harshly))))))))))))
+        (NNS parents))))
   (: ;)
   (CC and)
   (PP
     (IN of)
     (NP
       (NP
-        (NN school-district)
-        (NNS officials))
-      (ADJP
-        (JJ stunned)
-        (SBAR
-          (IN that)
-          (S
-            (PP
-              (IN despite)
-              (NP
-                (NP
-                  (DT the)
-                  (JJ bald-faced)
-                  (NN nature))
-                (PP
-                  (IN of)
-                  (NP
-                    (PRP$ her)
-                    (NNS actions)))))
-            (, ,)
-            (NP-SBJ
-              (PRP she))
-            (VP
-              (VBD became)
-              (NP-PRD
-                (NP
-                  (NN something))
-                (PP
-                  (IN of)
-                  (NP
-                    (DT a)
-                    (JJ local)
-                    (NN martyr)))))))))))
+        (NNS officials)))))
 
 (PP
   (IN in)
@@ -3550,13 +2303,7 @@
     (NP-SBJ
       (-NONE- *))
     (VP
-      (VBG paying)
-      (PP-CLR
-        (IN for)
-        (NP
-          (VBN extended)
-          (NN nursing-home)
-          (NN care))))))
+      (VBG paying))))
 
 (PP-CLR
   (ADVP
@@ -3569,19 +2316,11 @@
     (VP
       (VBG taking)
       (NP
-        (ADJP
-          (ADJP
-            (JJ large))
-          (CC and)
-          (ADJP
-            (RB often)
-            (JJ contrarian)))
         (NNS positions))))
   (PP
     (IN than)
     (NP
       (DT a)
-      (NN valuation)
       (NN problem))))
 
 (PP-PRP
@@ -3592,19 +2331,14 @@
     (TO to)
     (NP
       (NP
-        (VB further)
-        (VBG selling))
-      (PP-LOC
-        (IN in)
-        (NP
-          (NNP UAL))))))
+        (VBG selling)))))
 
 (PP-CLR
   (NP
-    (NNS students))
+    (DT a))
   (JJ like)
   (NP
-    (NNS students)))
+    (NNS cherries)))
 
 (PP
   (IN like)
@@ -3620,10 +2354,7 @@
       (VP
         (VB make)
         (NP
-          (CD 15)
-          (JJ different)
           (NNS corkscrews))
-        (, ,)
         (SBAR-TMP
           (WHADVP-4
             (WRB when))
@@ -3631,27 +2362,12 @@
             (NP-SBJ
               (NP
                 (NP
-                  (DT all))
-                (SBAR
-                  (WHNP-3
-                    (-NONE- 0))
-                  (S
-                    (NP-SBJ
-                      (PRP you))
-                    (VP
-                      (VBP need)
-                      (NP
-                        (-NONE- *T*-3)))))))
+                  (DT all))))
             (VP
               (VBZ is)
               (NP-PRD
                 (CD one)
-                (JJ good)
-                (CD one))
-              (ADVP-TMP
-                (-NONE- *T*-4)))))
-        (ADVP-PRP
-          (-NONE- *T*-2))))
+                (CD one)))))))
     (. ?))
   ('' '))
 
@@ -3668,8 +2384,6 @@
         (VP
           (VB produce)
           (NP
-            (NN sugar)
-            (CC or)
             (NN alcohol)))))))
 
 (PP-DIR
@@ -3681,7 +2395,7 @@
   (IN over)
   (`` ``)
   (NP-TTL
-    (NNS students))
+    (NNP Show))
   (, ,)
   ('' ''))
 
@@ -3692,33 +2406,7 @@
     (NP
       (NP
         (DT the)
-        (`` ``)
-        (JJ vigorous)
-        (NN defense)
-        ('' ''))
-      (PP
-        (IN of)
-        (NP
-          (PRP$ its)
-          (NN position)
-          (SBAR
-            (IN that)
-            (S
-              (NP-SBJ
-                (DT the)
-                (NN catheter))
-              (VP
-                (VBZ does)
-                (RB n't)
-                (VP
-                  (VB infringe)
-                  (NP
-                    (NP
-                      (DT the)
-                      (NNP Lilly)
-                      (NN unit)
-                      (POS 's))
-                    (NN patent))))))))))
+        (NN defense))))
   (, ,)
   (CC and)
   (PP
@@ -3726,41 +2414,7 @@
     (NP
       (NP
         (DT the)
-        (NN pursuit))
-      (PP
-        (IN of)
-        (NP
-          (NP
-            (PRP$ its)
-            (JJ own)
-            (NNS counterclaims))
-          (, ,)
-          (SBAR
-            (WHNP-1
-              (WDT which))
-            (S
-              (NP-SBJ
-                (-NONE- *T*-1))
-              (VP
-                (VBP allege)
-                (SBAR
-                  (-NONE- 0)
-                  (S
-                    (NP-SBJ
-                      (NNP Lilly))
-                    (VP
-                      (VBD engaged)
-                      (PP-CLR
-                        (IN in)
-                        (NP
-                          (NP
-                            (JJ antitrust)
-                            (NNS violations))
-                          (CC and)
-                          (NP
-                            (JJ other)
-                            (JJ wrongful)
-                            (NNS acts)))))))))))))))
+        (NN pursuit)))))
 
 (PP-DIR
   (ADVP
@@ -3770,8 +2424,6 @@
     (IN on)
     (NP
       (PRP$ their)
-      (NN life)
-      (CC and)
       (NNS limbs))))
 
 (PP
@@ -3782,21 +2434,18 @@
   (PP-TMP
     (IN until)
     (NP
-      (JJ early)
-      (JJ next)
       (NN year))))
 
 (PP-LOC
   (RB just)
   (IN up)
   (NP
-    (NNS students))
+    (DT the)
+    (NN street))
   (PP
     (IN from)
     (NP
       (DT the)
-      (NNP Orange)
-      (NNPS Workers)
       (NN office))))
 
 (PP
@@ -3824,22 +2473,7 @@
                 (VP
                   (VBD were)
                   (VP
-                    (VBG going)
-                    (S
-                      (NP-SBJ
-                        (-NONE- *-1))
-                      (VP
-                        (TO to)
-                        (VP
-                          (VB lose)
-                          (NP
-                            (QP
-                              ($ $)
-                              (CD 55)
-                              (CD million))
-                            (-NONE- *U*)))))))))
-            (ADVP-MNR
-              (-NONE- *T*-3)))))
+                    (VBG going))))))))
       (. ?))
     ('' '')
     (CC and)
@@ -3855,7 +2489,6 @@
         (RB still))
       (NP-PRD-2
         (DT a)
-        (JJ viable)
         (NN company))
       (. ?))))
 
@@ -3871,16 +2504,19 @@
       (VP
         (VBD did)
         (NP
-          (WP what))
-        (PP-CLR
-          (TO to)
-          (NP
-            (WP whom)))))))
+          (WP what))))))
 
 (PP
   (VBN given)
   (NP
-    (NNS students))
+    (NP
+      (NP
+        (DT the)
+        (NN attractiveness)))
+    (CONJP
+      (RB as)
+      (RB well)
+      (IN as)))
   (, ,))
 
 (PP-TMP
@@ -3897,24 +2533,17 @@
     (VP
       (VBG increasing)
       (NP
-        (NNP TPA)
         (NNS sales))
       (NP
         (NP
-          (CD 20)
-          (NN %))
-        (PP
-          (TO to)
-          (NP
-            (CD 25)
-            (NN %)))))
+          (NN %))))
     (NP
       (DT this)
       (NN year))))
 
 (PP
   (NP
-    (NNS students))
+    (NNS feet))
   (IN below)
   (ADJP
     (JJ normal)))
@@ -3926,55 +2555,22 @@
     (VB say))
   (, ,)
   (NP
-    (NNS students)))
+    (NP
+      (NP
+        (NNS workers)))))
 
 (PP-CLR
   (PP
     (IN from)
     (NP
       (NP
-        (JJ other)
-        (NNP New)
-        (NNP York)
-        (NNS agencies))
-      (SBAR
-        (WHNP-1
-          (WDT that))
-        (S
-          (NP-SBJ
-            (-NONE- *T*-1))
-          (VP
-            (VBP license)
-            (CC or)
-            (VBP register)
-            (NP
-              (NNS professionals)
-              (CC and)
-              (NNS businesses)))))))
+        (NNS agencies))))
   (: ;)
   (PP
     (IN from)
     (NP
       (NP
-        (NN exchange)
-        (NNS agreements))
-      (PP
-        (IN with)
-        (NP
-          (NP
-            (DT the)
-            (NNP IRS))
-          (, ,)
-          (NP
-            (CD 24)
-            (JJ other)
-            (NNS states))
-          (, ,)
-          (CC and)
-          (NP
-            (CD two)
-            (JJ Canadian)
-            (NNS provinces))))))
+        (NNS agreements))))
   (, ,)
   (CC and)
   (ADVP
@@ -3982,52 +2578,25 @@
   (PP
     (IN from)
     (NP
-      (NN phonebook)
-      (NNP Yellow)
       (NNP Pages))))
 
 (PP
   (PP
     (IN of)
     (NP
-      (NNP Cairo)
-      (JJ low-life)))
+      (NNP Cairo)))
   (: --)
   (PP
     (IN of)
     (NP
       (NP
-        (NNS charlatans))
-      (CC and)
-      (NP
-        (NN opium)
-        (NNS addicts))))
+        (NNS charlatans))))
   (, ,)
   (PP
     (IN of)
     (NP
       (NP
-        (NNS streets))
-      (VP
-        (VBN filled)
-        (NP
-          (-NONE- *))
-        (PP-CLR
-          (IN with)
-          (`` ``)
-          (NP
-            (NP
-              (NN dust))
-            (, ,)
-            (NP
-              (NN vegetable)
-              (NN litter))
-            (, ,)
-            (CC and)
-            (NP
-              (NN animal)
-              (NN dung)))
-          ('' ''))))))
+        (NNS streets)))))
 
 (PP
   (IN of)
@@ -4051,7 +2620,6 @@
   (PP
     (TO to)
     (NP
-      (NNP U.S.)
       (NNS theaters)))
   (, ,)
   (ADVP
@@ -4079,160 +2647,23 @@
     (S
       (S
         (NP-TMP
-          (JJ next)
           (NN year))
-        (, ,)
         (NP-SBJ
           (NP
-            (NNP Charlie)
-            (NNP Brown))
-          (, ,)
-          (NP
-            (NNP Snoopy))
-          (CC and)
-          (NP
-            (DT the)
-            (NN gang)))
+            (NNP Brown)))
         (VP
           (VBP turn)
           (NP-PRD
             (CD 40))))
-      (: --)
-      (CC and)
-      (S
-        (NP-SBJ-1
-          (NP
-            (NP
-              (NNP Scripps)
-              (NNP Howard)
-              (POS 's))
-            (NNP United)
-            (NNP Media)
-            (NN unit))
-          (, ,)
-          (NP
-            (NP
-              (DT the)
-              (NX
-                (NX
-                  (NN syndicator))
-                (CC and)
-                (NX
-                  (NN licensing)
-                  (NN agent))))
-            (PP
-              (IN for)
-              (NP
-                (NP
-                  (NNP Charles)
-                  (NNP Schulz)
-                  (POS 's))
-                (JJ comic)
-                (NN strip))))
-          (, ,))
-        (VP
-          (VBZ sees)
-          (NP
-            (DT a)
-            (NN bonanza))
-          (PP-CLR
-            (IN in)
-            (S-NOM
-              (NP-SBJ
-                (-NONE- *-1))
-              (VP
-                (VBG licensing)
-                (NP
-                  (DT the)
-                  (NN cartoon)
-                  (NNS characters))
-                (PP-CLR
-                  (TO to)
-                  (NP
-                    (NP
-                      (DT a)
-                      (NN bevy))
-                    (PP
-                      (IN of)
-                      (NP
-                        (NNS advertisers)))))
-                (PP-PRP
-                  (IN for)
-                  (NP
-                    (NNS ads)
-                    (, ,)
-                    (NNS tie-ins)
-                    (CC and)
-                    (NNS promotions)))))))))))
+      (: --))))
 
 (PP
   (NN beginning)
   (PP
     (IN with)
     (NP
-      (`` ``)
       (NP-TTL
-        (JJ Golden)
-        (NN Rain))
-      (, ,)
-      ('' '')
-      (NP
-        (NP
-          (DT a)
-          (JJ lilting)
-          (, ,)
-          (JJ laid-back)
-          (NN lead))
-        (PP
-          (IN in)
-          (PP
-            (TO to)
-            (NP
-              (NP
-                (DT the)
-                (JJ uptempo)
-                (`` ``)
-                (NX-TTL
-                  (NN Sky)))
-              (, ,)
-              ('' '')
-              (SBAR
-                (WHNP-19
-                  (WDT which))
-                (S
-                  (NP-SBJ
-                    (-NONE- *T*-19))
-                  (VP
-                    (VBD gave)
-                    (NP
-                      (NNP Mr.)
-                      (NNP Stoltzman))
-                    (NP
-                      (DT the)
-                      (NN opportunity)
-                      (S
-                        (NP-SBJ
-                          (-NONE- *))
-                        (VP
-                          (TO to)
-                          (VP
-                            (VP
-                              (VB wail)
-                              (PP
-                                (IN in)
-                                (NP
-                                  (DT a)
-                                  (JJ high)
-                                  (NN register))))
-                            (CC and)
-                            (VP
-                              (VB show)
-                              (PRT
-                                (RP off))
-                              (NP
-                                (PRP$ his)
-                                (JJ fleet)
-                                (NNS fingers)))))))))))))))))
+        (NN Rain)))))
 
 (PP-LOC
   (IN whether)
@@ -4254,17 +2685,7 @@
     (NP
       (NP
         (DT a)
-        (JJ hoped-for)
-        (NN goal))
-      ('' '')
-      (PP
-        (IN of)
-        (NP
-          (NP
-            (NNP Telerate)
-            (POS 's))
-          (NN management)))
-      (`` ``)))
+        (NN goal))))
   (CC and)
   (RB not)
   (PP
@@ -4272,30 +2693,7 @@
     (NP
       (NP
         (DT a)
-        (JJ realistic)
-        (NN basis))
-      (SBAR
-        (WHPP-1
-          (IN on)
-          (WHNP
-            (WDT which)))
-        (S
-          (NP-SBJ
-            (-NONE- *))
-          (VP
-            (TO to)
-            (VP
-              (VB project)
-              (NP
-                (NP
-                  (DT the)
-                  (NN company)
-                  (POS 's))
-                (JJ likely)
-                (NN future)
-                (NN performance))
-              (PP-CLR
-                (-NONE- *T*-1)))))))))
+        (NN basis)))))
 
 (PP
   (DT both)
@@ -4313,53 +2711,20 @@
         (VP
           (VBG backing)
           (PRT
-            (RP down))
-          (PP
-            (IN on)
-            (NP
-              (DT the)
-              (NNS elections))))))
+            (RP down)))))
     (, ,))
   (CC and)
   (PP
     (IN at)
     (NP-2
       (NP
-        (NP
-          (NNP Shamir)
-          (POS 's))
-        (NN rival))
-      (, ,)
-      (NP
-        (NNP Peres))
-      (, ,)))
+        (NN rival))))
   (PRN
     (PP
       (IN for)
       (NP
         (NP
-          (JJ political)
-          (NN ineptitude))
-        (PP
-          (IN in)
-          (S-NOM
-            (NP-SBJ
-              (-NONE- *-2))
-            (VP
-              (VBG forcing)
-              (NP
-                (NP
-                  (DT a)
-                  (JJ premature)
-                  (NN cabinet)
-                  (NN vote))
-                (PP
-                  (IN on)
-                  (NP
-                    (NP
-                      (NNP Baker)
-                      (POS 's))
-                    (NN plan)))))))))))
+          (NN ineptitude))))))
 
 (PP
   (ADVP
@@ -4368,13 +2733,11 @@
   (ADJP
     (ADJP
       (NP
-        (CD four)
         (NNS feet))
       (JJ tall))
     (CC and)
     (ADJP
       (NP
-        (CD two)
         (NNS feet))
       (JJ wide))))
 
@@ -4383,7 +2746,8 @@
     (RB somewhere))
   (IN between)
   (NP
-    (NNS students))
+    (CD 135)
+    (CD 155))
   (, ,))
 
 (PP-MNR
@@ -4408,12 +2772,7 @@
       (VP
         (VBG pouring)
         (NP
-          (JJ Western)
-          (NN money))
-        (PP-DIR
-          (IN into)
-          (NP
-            (PRP it)))))))
+          (NN money))))))
 
 (PP
   (IN like)
@@ -4421,42 +2780,33 @@
   (`` ``)
   (S
     (NP-SBJ
-      (JJS Most)
-      (JJ modern)
       (NNS chelicerates))
     (VP
       (VBP have)
       (NP
-        (CD six)
-        (JJ uniramous)
-        (NNS appendages))
-      (PP-LOC
-        (IN on)
-        (NP
-          (DT the)
-          (NN prosoma))))))
+        (NNS appendages)))))
 
 (PP-TMP
   (ADVP
     (RB probably))
   (NP
-    (NNS students))
+    (NNS years))
   (IN from)
   (NP-TMP
-    (NNS students)))
+    (RB now)))
 
 (PP
   (DT both)
   (TO to)
   (NP
-    (NNS students)))
+    (NP
+      (NN warming))))
 
 (PP-PRD
   (PP
     (IN as)
     (NP
       (DT an)
-      (NN auction)
       (NN house)))
   (, ,)
   (CC and)
@@ -4467,16 +2817,7 @@
     (NP
       (NP
         (DT an)
-        (NN agent))
-      (PRN
-        (-LRB- -LCB-)
-        (PP
-          (IN for)
-          (NP
-            (NN buyer)
-            (CC and)
-            (NN seller)))
-        (-RRB- -RCB-))))
+        (NN agent))))
   (, ,)
   (RB not)
   (PP
@@ -4493,12 +2834,7 @@
     (NP
       (NP
         (DT the)
-        (NNP Heat))
-      (PP
-        (IN of)
-        (NP
-          (DT the)
-          (NNP Night))))))
+        (NNP Heat)))))
 
 (PP
   (PP
@@ -4515,26 +2851,21 @@
     (NP
       (NP
         (DT the)
-        (JJ big)
-        (NN bowl)
-        (NNS revenues))
-      (CC or)
-      (NP
-        (JJ lucrative)
-        (NN TV)
-        (NNS contracts)))))
+        (NNS revenues)))))
 
 (PP
   (X
     (WP what))
   (IN with)
   (NP
-    (NNS students)))
+    (NP
+      (DT the)
+      (NNP War))))
 
 (PP
   (IN by)
   (NP-LGS
-    (NNS students))
+    (NN decision))
   (, ,)
   (SBAR-PRP
     (IN because)
@@ -4558,28 +2889,12 @@
                   (VB lift)
                   (NP
                     (DT the)
-                    (JJ golden)
-                    (NN share))
-                  (PP
-                    (IN without)
-                    (S-NOM
-                      (NP-SBJ
-                        (-NONE- *-1))
-                      (VP
-                        (VBG consulting)
-                        (NP
-                          (DT the)
-                          (NN company))
-                        (ADVP-TMP
-                          (RB first))))))))))))))
+                    (NN share)))))))))))
 
 (PP-PRP
   (PP
     (IN for)
     (NP
-      (VBG remodeling)
-      (CC and)
-      (VBG refurbishing)
       (NNS projects)))
   (, ,)
   (RB as)
@@ -4589,18 +2904,12 @@
     (IN for)
     (NP
       (DT the)
-      (VBN planned)
-      (NNP MGM)
-      (NNP Grand)
-      (NN hotel\/casino)
-      (CC and)
-      (NN theme)
       (NN park))))
 
 (PP-LOC
   (IN In)
   (NP
-    (NNS students))
+    (NNP France))
   (. ?)
   (. ?)
   (. !)
@@ -4611,7 +2920,7 @@
   (VBG including)
   (`` ``)
   (NP-TTL
-    (NNS students)))
+    (NNP Batibot)))
 
 (PP
   (PP
@@ -4620,7 +2929,9 @@
       (NN part)))
   (TO to)
   (NP
-    (NNS students)))
+    (NP
+      (DT the)
+      (NN exclusion))))
 
 (PP-CLR
   (IN as)
@@ -4644,7 +2955,9 @@
     (RB primarily))
   (TO to)
   (NP
-    (NNS students)))
+    (NP
+      (DT a)
+      (NN recovery))))
 
 (PP
   (ADVP
@@ -4661,7 +2974,8 @@
     (NP
       (-NONE- *RNR*-2)))
   (NP-2
-    (NNS students)))
+    (NP
+      (NNP Wallach))))
 
 (PP-DIR
   (TO to)
@@ -4672,7 +2986,6 @@
     (IN below)
     (NP
       ($ $)
-      (CD 8)
       (-NONE- *U*))))
 
 (PP-CLR
@@ -4680,26 +2993,13 @@
     (IN for)
     (NP
       (NP
-        (NN assault))
-      (CC and)
-      (NP
-        (JJ unlawful)
-        (NN confinement))))
+        (NN assault))))
   (, ,)
   (PP
     (IN for)
     (NP
       (NP
-        (NN fraud))
-      (CC and)
-      (NP
-        (NP
-          (NN forgery))
-        (PP
-          (IN of)
-          (NP
-            (JJ private)
-            (NNS documents))))))
+        (NN fraud))))
   (, ,)
   (CC and)
   (PP
@@ -4715,33 +3015,7 @@
     (NP
       (NP
         (DT the)
-        (JJ gentle)
-        (NN current)
-        (PP
-          (IN of)
-          (NP
-            (DT the)
-            (NNP Orange)
-            (NNP River))))
-      (SBAR
-        (WHNP-1
-          (WDT that))
-        (S
-          (NP-SBJ
-            (-NONE- *T*-1))
-          (VP
-            (VBD carried)
-            (NP
-              (DT the)
-              (NNS stones))
-            (PP-DIR
-              (IN from)
-              (NP
-                (NP
-                  (NNP South)
-                  (NNP Africa)
-                  (POS 's))
-                (NN interior))))))))
+        (NN current))))
   (, ,)
   (ADVP-TMP
     (RB then))
@@ -4750,13 +3024,7 @@
     (NP
       (NP
         (DT the)
-        (JJ cold)
-        (NN surf))
-      (PP
-        (IN of)
-        (NP
-          (DT the)
-          (NN ocean)))))
+        (NN surf))))
   (, ,)
   (CC and)
   (ADVP-TMP
@@ -4766,24 +3034,18 @@
     (NP
       (NP
         (DT the)
-        (JJ coarse)
-        (NNS sands))
-      (PP
-        (IN of)
-        (NP
-          (DT the)
-          (NN desert))))))
+        (NNS sands)))))
 
 (PP-CLR
   (IN at)
   (NP
-    (NNS students))
+    (NN %))
   (PP
     (IN of)
     (NP
       (NN capacity)))
   (NP-TMP
-    (NNS students)))
+    (NN month)))
 
 (PP
   (ADVP
@@ -4798,13 +3060,7 @@
       (VBG trying)
       (NP
         (DT a)
-        (JJ few)
-        (ADJP
-          (RB really)
-          (JJ neat))
-        (NNS ideas))
-      (ADVP-TMP
-        (RB first)))))
+        (NNS ideas)))))
 
 (PP
   (PP
@@ -4812,18 +3068,14 @@
     (NP
       (NP
         (DT a)
-        (NN scale))
-      (SBAR
-        (-NONE- *RNR*-3))))
+        (NN scale))))
   (CC and)
   (PP
     (IN with)
     (NP
       (NP
         (DT a)
-        (NN frequency))
-      (SBAR
-        (-NONE- *RNR*-3))))
+        (NN frequency))))
   (SBAR-3
     (WHNP-1
       (-NONE- 0))
@@ -4836,9 +3088,7 @@
         (VP
           (VBN seen)
           (NP
-            (-NONE- *T*-1))
-          (ADVP-TMP
-            (IN before)))))))
+            (-NONE- *T*-1)))))))
 
 (PP-LOC
   (IN In)
@@ -4860,27 +3110,23 @@
   (CC both)
   (IN from)
   (NP
-    (NNS students))
+    (NN licensing))
   (CC and)
   (NP
-    (NNS students)))
+    (PRP$ its)
+    (NNS products)))
 
 (PP-TMP
   (RB even)
   (RB after)
   (NP
-    (NNS students)))
+    (NN indictment)))
 
 (PP
   (RB rather)
   (IN than)
   (ADVP-MNR
-    (RB directly)
-    (PP
-      (IN by)
-      (NP
-        (NNP LDI)
-        (NNP Corp)))))
+    (RB directly)))
 
 (PP-PRD
   (RB not)
@@ -4889,32 +3135,7 @@
     (IN in)
     (NP
       (NP
-        (NNP Eastern)
-        (NNP Europe))
-      (SBAR
-        (WHADVP-1
-          (WRB where))
-        (S
-          (NP-SBJ
-            (NP
-              (DT the)
-              (NN march))
-            (PP
-              (IN of)
-              (NP
-                (NNS events))))
-          (VP
-            (VBZ is)
-            (ADVP-TMP
-              (RB finally))
-            (PP-PRD
-              (IN on)
-              (NP
-                (DT the)
-                (NNP U.S.)
-                (NN side)))
-            (ADVP-LOC
-              (-NONE- *T*-1)))))))
+        (NNP Europe))))
   (, ,)
   (CC but)
   (PP-LOC
@@ -4922,13 +3143,8 @@
     (NP
       (NP
         (DT the)
-        (NN horn))
-      (PP
-        (IN of)
-        (NP
-          (NNP Africa))))
+        (NN horn)))
     (ADVP
-      (RB as)
       (RB well))))
 
 (PP-CLR
@@ -4947,8 +3163,6 @@
   (PP
     (IN for)
     (NP
-      (NN pride)
-      (CC and)
       (NN recognition))))
 
 (PP-LOC
@@ -4959,7 +3173,7 @@
     (RB apparently))
   (IN in)
   (NP
-    (NNS students)))
+    (NNP Moscow)))
 
 (PP
   (IN as)
@@ -4982,17 +3196,17 @@
   (, ,)
   (IN by)
   (NP
-    (NNS students))
+    (DT the)
+    (NN way))
   (, ,))
 
 (PP-PUT
   (NP-ADV
-    (NNS students))
+    (NN four-square))
   (PP
     (IN behind)
     (NP
       (FW perestroika)
-      (CC and)
       (FW glasnost)))
   (PRN
     (, ,)
@@ -5002,7 +3216,6 @@
     (PP
       (IN behind)
       (NP
-        (NNP Mikhail)
         (NNP Gorbachev)))
     (, ,)))
 
@@ -5013,7 +3226,9 @@
     (RB however))
   (, ,)
   (NP
-    (NNS students)))
+    (NP
+      (DT any)
+      (NN assumption))))
 
 (PP
   (IN By)
@@ -5025,14 +3240,7 @@
       (NP
         (NP
           (DT the)
-          (NN design))
-        (PP
-          (IN of)
-          (NP
-            (JJ new)
-            (NNS products))))
-      (ADVP-DIR
-        (JJ in-house))))
+          (NN design)))))
   (PRN
     (: --)
     (PP
@@ -5068,18 +3276,17 @@
 
 (PP
   (NP-ADV
-    (NNS students))
+    (DT all)
+    (DT the)
+    (NN way))
   (TO to)
   (S-NOM
     (NP-SBJ
       (-NONE- *))
     (VP
       (VBG selling)
-      (CC and)
       (VBG trading)
       (NP
-        (JJ high-yield)
-        (NN junk)
         (NNS bonds)))))
 
 (PP
@@ -5088,21 +3295,13 @@
     (IN in)
     (NP
       (DT the)
-      (JJ early)
-      (JJ 19th)
       (NN century)))
   (, ,)
   (PP
     (IN with)
     (NP
       (NP
-        (NNP U.S.))
-      (PP
-        (CC v.)
-        (NP
-          (NNP Hudson)
-          (CC and)
-          (NNP Goodwin))))))
+        (NNP U.S.)))))
 
 (PP
   (VB like)
@@ -5118,29 +3317,18 @@
           (VP
             (VB keep)
             (NP
-              (NNS meringues))
-            (PP-CLR
-              (IN from)
-              (VP
-                (VBG weeping)))
-            (ADVP-MNR
-              (-NONE- *T*-1))))))
+              (NNS meringues))))))
     (CC and)
     (SBAR
       (WHADVP-2
         (WRB how))
       (S
         (NP-SBJ
-          (JJ bovine)
-          (JJ eating)
           (NNS habits))
         (VP
           (VBP affect)
           (NP
-            (NN butter)
-            (NN texture))
-          (ADVP-MNR
-            (-NONE- *T*-2)))))))
+            (NN texture)))))))
 
 (PP
   (RBR more)
@@ -5160,10 +3348,6 @@
       (VP
         (VB save)
         (NP
-          (NP
-            (DT a)
-            (NN woman)
-            (POS 's))
           (NN life))))))
 
 (PP
@@ -5173,14 +3357,15 @@
     (RB well))
   (, ,)
   (NP
-    (NNS students)))
+    (NN farce)))
 
 (PP-PRP
   (IN because)
   (IN of)
   (`` ``)
   (NP
-    (NNS students)))
+    (NP
+      (NNS questions))))
 
 (PP
   (IN than)
@@ -5193,30 +3378,14 @@
     (NP
       (NP
         (DT the)
-        (NN time))
-      (SBAR
-        (WHADVP-2
-          (-NONE- 0))
-        (S
-          (NP-SBJ-1
-            (DT the)
-            (NN indictment))
-          (VP
-            (VBZ is)
-            (VP
-              (VBN returned)
-              (NP
-                (-NONE- *-1))
-              (ADVP-TMP
-                (-NONE- *T*-2))))))))
+        (NN time))))
   (CC or)
   (PRN
     (, ,)
     (PP
       (IN at)
       (NP
-        (DT the)
-        (JJS latest)))
+        (DT the)))
     (, ,))
   (PP
     (IN at)
@@ -5224,18 +3393,7 @@
       (NP
         (NP
           (DT the)
-          (JJ first)
-          (NN proceeding))
-        (PP-LOC
-          (IN before)
-          (NP
-            (DT the)
-            (NN court))))
-      (VP
-        (VBG concerning)
-        (NP
-          (DT the)
-          (NN TRO))))))
+          (NN proceeding))))))
 
 (PP
   (IN of)
@@ -5245,15 +3403,24 @@
 (PP
   (IN from)
   (NP
-    (NNS students))
+    (DT a)
+    (-NONE- *U*))
   (, ,)
   (CC or)
   (NP
-    (NNS students)))
+    (NP
+      (NP
+        (NP
+          (NNS cents))))
+    (ADVP-TMP
+      (NP
+        (DT a)
+        (NN year))
+      (RBR earlier))))
 
 (PP-LOC
   (NP-ADV
-    (NNS students))
+    (NNS feet))
   (IN from)
   (SBAR-LOC
     (WHADVP-2
@@ -5262,21 +3429,14 @@
       (NP-SBJ
         (PRP I))
       (VP
-        (VBD sat)
-        (ADVP-LOC
-          (-NONE- *T*-2))))))
+        (VBD sat)))))
 
 (PP-TMP
   (ADVP
     (RB possibly))
   (RB as)
   (ADVP
-    (RB soon)
-    (PP
-      (IN as)
-      (NP
-        (JJ next)
-        (NN month)))))
+    (RB soon)))
 
 (PP-PRD
   (`` ``)
@@ -5285,7 +3445,8 @@
   (JJ above)
   ('' '')
   (NP
-    (NNS students)))
+    (NP
+      (NNS sales))))
 
 (PP-LOC-PRD
   (`` ``)
@@ -5294,12 +3455,16 @@
   ('' '')
   (IN below)
   (NP
-    (NNS students)))
+    (DT the)
+    (NN level)))
 
 (PP-CLR
   (IN as)
   (NP
-    (NNS students))
+    (ADJP
+      (JJ personal)
+      (CC and)
+      (JJ helpful)))
   (NN service))
 
 (PP
@@ -5314,7 +3479,6 @@
   (PP
     (IN of)
     (NP
-      (JJ integrated-circuit)
       (NN technology))))
 
 (PP
@@ -5323,14 +3487,12 @@
   (PP
     (IN at)
     (NP
-      (JJ current)
       (NNS tuitions)))
   (CC or)
   (PP
     (IN at)
     (NP
       (DT a)
-      (JJ slight)
       (NN discount))))
 
 (PP-PRD
@@ -5342,26 +3504,29 @@
   (VBG including)
   (: :)
   (NP
-    (NNS students)))
+    (NP
+      (NP
+        (NP
+          (DT the)
+          (NN index))))))
 
 (PP-TMP
   (PP
     (IN Between)
     (NP
       (NP
-        (CD 1981))
-      (CC and)
-      (NP
-        (CD 1986))))
+        (CD 1981))))
   (, ,)
   (NP
-    (NNS students))
+    (NP
+      (DT the)
+      (NN period)))
   (, ,))
 
 (PP-LOC
   (IN in)
   (NP
-    (NNS students))
+    (NNS claims))
   (X
     (JJ legal)
     (NNS expenses)
@@ -5373,14 +3538,14 @@
 (PP
   (VBG Including)
   (NP
-    (NNS students))
+    (NP
+      (DT those)))
   (. .))
 
 (PP-CLR
   (PP
     (TO to)
     (NP
-      (JJ other)
       (NNS factors)))
   (-LRB- -LCB-)
   (PP
@@ -5388,7 +3553,6 @@
       (RB primarily))
     (TO to)
     (NP
-      (JJR greater)
       (NN speed)))
   (-RRB- -RCB-))
 
@@ -5398,13 +3562,19 @@
     (RB only))
   (IN from)
   (NP
-    (NNS students)))
+    (NP
+      (NP
+        (NNS concerns)))
+    (CONJP
+      (CC but)
+      (RB also))))
 
 (PP
   (IN for)
   (`` ``)
   (NP
-    (NNS students))
+    (NP
+      (NNS data)))
   (. .)
   ('' ''))
 
@@ -5416,30 +3586,14 @@
   (S
     (S
       (NP-SBJ
-        (NNP George)
         (NNP Orwell))
       (VP
         (VBD was)
         (NP-PRD
           (DT an)
           (NN optimist))))
-    (, ,)
     ('' '')
-    (CC or)
-    (`` ``)
-    (S
-      (NP-SBJ
-        (-NONE- *))
-      (VP
-        (VB Do)
-        (RB n't)
-        (VP
-          (VB feed)
-          (NP
-            (DT the)
-            (NNS bats))
-          (NP-TMP
-            (RB tonight)))))))
+    (`` ``)))
 
 (PP-CLR
   (CC either)
@@ -5449,53 +3603,18 @@
       (NP
         (NP
           (DT the)
-          (JJ main)
-          (NN computer))
-        (PP-LOC
-          (IN in)
-          (NP
-            (NP
-              (DT a)
-              (NN network))
-            (PP
-              (IN of)
-              (NP
-                (JJ many)
-                (NNS terminals))))))
-      (PRN
-        (-LRB- -LRB-)
-        (NP
-          (NP
-            (DT a)
-            (NN role))
-          (VP
-            (ADVP-TMP
-              (RB usually))
-            (VBN filled)
-            (NP
-              (-NONE- *))
-            (PP
-              (IN by)
-              (NP-LGS
-                (DT a)
-                (NN minicomputer)))))
-        (-RRB- -RRB-))))
+          (NN computer)))))
   (, ,)
   (PP
     (IN as)
     (NP
       (DT a)
-      (JJ technical)
       (NN workstation)))
   (CC or)
   (PP
     (IN as)
     (NP
       (DT a)
-      (ADJP
-        (RB very)
-        (JJ fast))
-      (JJ personal)
       (NN computer))))
 
 (PP-LOC-PRD
@@ -5511,20 +3630,13 @@
       (VP
         (VB do)
         (NP
-          (-NONE- *T*-1))
-        (PP-CLR
-          (IN with)
-          (NP
-            (DT that)
-            (NN money)))))))
+          (-NONE- *T*-1))))))
 
 (PP
   (PP
     (IN on)
     (NP
       (DT a)
-      (JJ start-up)
-      (NN investment)
       (NN pool)))
   (: --)
   (RB maybe)
@@ -5544,52 +3656,14 @@
     (IN for)
     (NP
       (NP
-        (NN accuracy)
-        (CC and)
-        (NN honesty))
-      (PP-LOC
-        (IN in)
-        (NP
-          (NN solicitation)))))
+        (NN honesty))))
   (: ;)
   (CC and)
   (PP
     (IN for)
     (NP
       (NP
-        (NN percentage))
-      (PP
-        (IN of)
-        (NP
-          (NNS funds)))
-      (VP
-        (ADVP
-          (RB actually))
-        (VBG going)
-        (PP-DIR
-          (TO to)
-          (NP
-            (NP
-              (VB work))
-            (SBAR
-              (WHPP-3
-                (IN for)
-                (WHNP
-                  (WDT which)))
-              (S
-                (NP-SBJ-1
-                  (DT the)
-                  (NN charity))
-                (VP
-                  (VBD was)
-                  (ADVP
-                    (RB supposedly))
-                  (VP
-                    (VBN established)
-                    (NP
-                      (-NONE- *-1))
-                    (PP-CLR
-                      (-NONE- *T*-3))))))))))))
+        (NN percentage)))))
 
 (PP-PRP
   (IN because)
@@ -5603,38 +3677,14 @@
       (VP
         (VBZ views)
         (NP
-          (-NONE- *T*-2))
-        (PP-CLR
-          (IN as)
-          (NP
-            (NP
-              (DT an)
-              (JJ undesirable)
-              (NN intrusion))
-            (PP
-              (IN into)
-              (NP
-                (NP
-                  (DT the)
-                  (NNS affairs))
-                (PP
-                  (IN of)
-                  (NP
-                    (NN industry)))))))))))
+          (-NONE- *T*-2))))))
 
 (PP-LOC-CLR
   (PP
     (IN in)
     (NP
       (NP
-        (JJ informal)
-        (NN conference)
-        (NNS reports))
-      (VP
-        (VBG accompanying)
-        (NP
-          (NN spending)
-          (NNS bills)))))
+        (NNS reports))))
   (RB rather)
   (IN than)
   (PP
@@ -5642,10 +3692,7 @@
     (NP
       (NP
         (DT the)
-        (JJ official)
-        (NNS bills))
-      (NP
-        (PRP themselves)))))
+        (NNS bills)))))
 
 (PP
   (PRP$ their)
@@ -5668,38 +3715,32 @@
           (VB smoke))))
     (. !)
     ('' ')
-    (CC or)
     (`` `)
-    (S
-      (NP-SBJ
-        (-NONE- *))
-      (VP
-        (VB Wear)
-        (NP
-          (NN suntan)
-          (NN lotion))))
-    (, ,)
     ('' ')))
 
 (PP
   (VBG including)
   (NP
-    (NNS students))
+    (NNP Denny)
+    (POS 's))
   (, ,)
   (NP
-    (NNS students))
+    (NNP Hardee)
+    (POS 's))
   (, ,)
   (NP
-    (NNS students))
+    (NNP Quincy)
+    (POS 's))
   (CC and)
   (NP
-    (NNS students)))
+    (NP
+      (NNP Loco))))
 
 (PP
   (TO to)
   ('' '')
   (NP
-    (NNS students))
+    (NN arbitrage))
   (`` ``))
 
 (PP-TMP
@@ -5710,16 +3751,13 @@
     (NP-SBJ
       (-NONE- *-1))
     (VP
-      (NN training)
-      (PP
-        (IN with)
-        (NP
-          (DT the)
-          (NNPS Tropics))))))
+      (NN training))))
 
 (PP
   (NP-EXT
-    (NNS students))
+    (PDT all)
+    (DT the)
+    (NN way))
   (IN down)
   (PP
     (TO to)
@@ -5728,24 +3766,7 @@
       (NP
         (NP
           ($ $)
-          (CD 1.14)
-          (-NONE- *U*))
-        (, ,)
-        (SBAR
-          (WHADVP-3
-            (WRB where))
-          (S
-            (NP-SBJ-2
-              (JJ modest)
-              (NN buying))
-            (VP
-              (VBD was)
-              (VP
-                (VBN attracted)
-                (NP
-                  (-NONE- *-2))
-                (ADVP-LOC
-                  (-NONE- *T*-3))))))))))
+          (-NONE- *U*))))))
 
 (PP-TMP
   (ADVP
@@ -5761,18 +3782,19 @@
   (JJ above)
   ('' '')
   (NP-TMP
-    (NNS students)))
+    (DT the)
+    (NN earlier-period)))
 
 (PP-LOC
   (ADVP
     (RB just))
   (IN across)
   (NP
-    (NNS students))
+    (DT the)
+    (NN border))
   (PP
     (IN from)
     (NP
-      (NNP San)
       (NNP Diego))))
 
 (PP-CLR
@@ -5784,24 +3806,7 @@
     (VP
       (VBG pyramiding)
       (NP
-        (NN debt))
-      (S-PRP
-        (NP-SBJ
-          (-NONE- *))
-        (VP
-          (TO to)
-          (VP
-            (VB provide)
-            (NP
-              (DT a)
-              (JJ luxurious)
-              (NN life)
-              (NN style))
-            (PP-BNF
-              (IN for)
-              (NP
-                (PRP$ its)
-                (NNS owners)))))))))
+        (NN debt)))))
 
 (PP-TMP
   (PP
@@ -5828,21 +3833,17 @@
             (VBN been)
             (NP-PRD
               (DT a)
-              (JJ profitable)
-              (JJ public)
-              (NN company))
-            (ADVP-TMP
-              (-NONE- *T*-3))))))))
+              (NN company))))))))
 
 (PP-TMP
   (VBZ is)
   (NP
-    (NNS students)))
+    (CD 1989)))
 
 (PP
   (IN of)
   (NP
-    (NNS students))
+    (NN cash))
   ('' ''))
 
 (PP
@@ -5854,7 +3855,8 @@
   (, ,)
   (TO to)
   (NP
-    (NNS students)))
+    (NP
+      (NNS sales))))
 
 (PP-LOC
   (RB below))
@@ -5863,13 +3865,13 @@
   (CC either)
   (TO to)
   (NP
-    (NNS students)))
+    (NP
+      (NN gold))))
 
 (PP-DTV
   (PP
     (TO to)
     (NP
-      (NNP U.S.)
       (NNS collectors)))
   (CC or)
   (PRN
@@ -5877,13 +3879,11 @@
     (PP-MNR
       (IN in)
       (NP
-        (JJ large)
         (NNS lots)))
     (, ,))
   (PP
     (TO to)
     (NP
-      (JJ British)
       (NNS businesses))))
 
 (PP-CLR
@@ -5891,26 +3891,7 @@
     (IN from)
     (NP
       (PRP$ its)
-      (NN failure)
-      (S
-        (NP-SBJ
-          (-NONE- *))
-        (VP
-          (TO to)
-          (VP
-            (VB give)
-            (NP
-              (NNS customers))
-            (SBAR-NOM
-              (WHNP-1
-                (WP what))
-              (S
-                (NP-SBJ
-                  (PRP they))
-                (VP
-                  (VBP want)
-                  (NP
-                    (-NONE- *T*-1))))))))))
+      (NN failure)))
   (: --)
   (CONJP
     (RB rather)
@@ -5919,32 +3900,18 @@
     (IN from)
     (NP
       (NP
-        (VBG increasing)
-        (NN competition))
-      (PP
-        (IN from)
-        (NP
-          (NP
-            (NN gasoline)
-            (NNS stations))
-          (CC and)
-          (NP
-            (JJ 24-hour)
-            (NN grocery)
-            (NNS stores)))))))
+        (NN competition)))))
 
 (PP-LOC
   (PP
     (IN at)
     (NP
       (DT the)
-      (NN limit)
       (NN price)))
   (CC or)
   (PP
     (IN at)
     (NP
-      (JJR higher)
       (NNS prices)))
   (, ,)
   (CC but)
@@ -5966,17 +3933,17 @@
     (NP
       (NNS journalists)))
   (ADVP
-    (RB as)
     (RB well)))
 
 (PP-DIR
   (IN from)
   (NP
-    (NNS students))
+    (-NONE- *U*))
   (, ,)
   (CC or)
   (NP
-    (NNS students))
+    (NP
+      (NNS cents)))
   (, ,)
   (ADVP-TMP
     (NP
@@ -5988,7 +3955,7 @@
   (TO to)
   (-RRB- -RCB-)
   (NP
-    (NNS students)))
+    (NN outlook)))
 
 (PP
   (RB instead)
@@ -6014,22 +3981,7 @@
     (NP
       (NP
         (DT the)
-        (NN release))
-      (PP
-        (IN of)
-        (NP
-          (NP
-            (DT the)
-            (JJ special)
-            (NN issue))
-          (PP
-            (IN of)
-            (NP
-              (NNP U.S.)
-              (NNP News)
-              (CC &)
-              (NNP World)
-              (NNP Report))))))))
+        (NN release)))))
 
 (PP
   (PRN
@@ -6038,7 +3990,7 @@
     (-RRB- -RCB-))
   (IN for)
   (NP
-    (NNS students)))
+    (NNS prices)))
 
 (PP
   (ADVP
@@ -6046,7 +3998,9 @@
   (IN without)
   ('' '')
   (NP
-    (NNS students)))
+    (NP
+      (DT the)
+      (NNS systems))))
 
 (PP
   (CC but)
@@ -6057,13 +4011,13 @@
       (VBG dissociating)
       (NP
         (DT the)
-        (NN heavy)
         (NN water)))))
 
 (PP-DIR
   (IN from)
   (NP
-    (NNS students))
+    (NP
+      (-NONE- *U*)))
   (ADVP-TMP
     (NP
       (DT a)
@@ -6081,24 +4035,12 @@
         (NP
           (NP
             (DT a)
-            (ADJP
-              (QP
-                ($ $)
-                (CD 9)
-                (CD million))
-              (-NONE- *U*))
-            (NN write-down))
-          (PP
-            (IN of)
-            (NP
-              (NN utility)
-              (NNS inventories))))))))
+            (NN write-down)))))))
 
 (PP-MNR
   (PP
     (IN through)
     (NP
-      (VBG existing)
       (NNS shareholders)))
   ('' '')
   (CONJP
@@ -6108,7 +4050,6 @@
   (PP
     (IN through)
     (NP
-      (NN junk)
       (NNS bonds))))
 
 (PP
@@ -6120,20 +4061,9 @@
     (IN from)
     (NP
       (NP
-        (ADJP
-          (RB politically)
-          (JJ powerful))
-        (NN interest)
         (NNS groups))
-      (, ,)
       (ADVP
-        (RB particularly))
-      (NP
-        (DT the)
-        (NNP American)
-        (NNP Medical)
-        (NNP Association))
-      (, ,)))
+        (RB particularly))))
   (CC and)
   (ADVP
     (RB perhaps))
@@ -6143,7 +4073,6 @@
       (DT the)
       (NN public)))
   (ADVP
-    (RB as)
     (RB well)))
 
 (PP-CLR
@@ -6152,15 +4081,6 @@
   (ADVP
     (NP
       (NP
-        (CD 50)
-        (NN %))
-      (, ,)
-      (NP
-        (CD 60)
-        (NN %))
-      (CC and)
-      (NP
-        (CD 70)
         (NN %)))
     (RB off)))
 
@@ -6170,7 +4090,6 @@
   (IN as)
   (ADVP-TMP
     (NP
-      (CD two)
       (NNS years))
     (RB ago)
     (NP
@@ -6185,11 +4104,5 @@
     (NP-SBJ
       (-NONE- *-2))
     (VP
-      (VBG looking)
-      (PP-CLR
-        (IN at)
-        (NP
-          (JJ certain)
-          (NN policy)
-          (NNS options))))))
+      (VBG looking))))
 

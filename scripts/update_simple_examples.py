@@ -46,6 +46,7 @@ def main(category_symbol, simple_penn_file, simple_supa_file):
             or len(expansions) != len(supa_texts)):
         print len(expansions), len(penn_texts)
         print len(expansions), len(supa_texts)
+        print penn_texts[len(supa_texts)]
         raise RuntimeError('Error processing files')
     for i, expansion in enumerate(expansions):
         expansion.simple_supa_example = supa_texts[i]
@@ -67,6 +68,9 @@ if __name__ == '__main__':
         simple_supa_file = cat_base + '_simple.supa'
         simple_penn_file = cat_base + '_PTBtrees_simple.mrg'
         print 'Updating simple examples for test suite', category
-        main(category, simple_penn_file, simple_supa_file)
+        try:
+            main(category, simple_penn_file, simple_supa_file)
+        except:
+            print 'Failed!'
 
 # vim: et sw=4 sts=4

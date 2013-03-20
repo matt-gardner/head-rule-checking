@@ -2,7 +2,8 @@
   (ADVP-TMP
     (RB now))
   (NP
-    (NNS students)))
+    (NP
+      (NNP PLC))))
 
 (RRC
   (ADVP-TMP
@@ -10,7 +11,6 @@
   (PP-LOC
     (IN at)
     (NP
-      (NNP Multimedia)
       (NNP Inc))))
 
 (RRC
@@ -19,25 +19,15 @@
     (NP
       (NNS years)))
   (NP
-    (NNS students)))
+    (NP
+      (DT a)
+      (NN presence))))
 
 (RRC
   (VP
     (VBN exposed)
     (NP
-      (-NONE- *))
-    (PP-CLR
-      (TO to)
-      (NP
-        (PRP it)))
-    (ADVP-TMP
-      (NP
-        (QP
-          (RBR more)
-          (IN than)
-          (CD 30))
-        (NNS years))
-      (IN ago))))
+      (-NONE- *))))
 
 (RRC
   (ADVP-TMP
@@ -45,24 +35,13 @@
   (VP
     (VBN used)
     (NP
-      (-NONE- *))
-    (S-CLR
-      (NP-SBJ
-        (-NONE- *))
-      (VP
-        (TO to)
-        (VP
-          (VB make)
-          (NP
-            (NNP Kent)
-            (NN cigarette)
-            (NNS filters)))))))
+      (-NONE- *))))
 
 (RRC
   (ADJP
     (JJ open))
   (NP-TMP
-    (NNS students)))
+    (NN year)))
 
 (RRC
   (ADVP-TMP
@@ -78,52 +57,21 @@
   (PP-TMP
     (IN by)
     (NP
-      (NN age)
-      (CD five))))
+      (NN age))))
 
 (RRC
   (ADJP
-    (JJ payable)
-    (PP
-      (TO to)
-      (NP
-        (NP
-          (NNS holders))
-        (PP
-          (IN of)
-          (NP
-            (NN record)))
-        (PP-TMP
-          (IN on)
-          (NP
-            (NNP Nov.)
-            (CD 10))))))
+    (JJ payable))
   (SBAR-ADV
     (IN if)
     (S
       (NP-SBJ
         (DT the)
-        (NNPS Securities)
-        (CC and)
-        (NNP Exchange)
         (NNP Commission))
       (VP
         (VBZ approves)
         (NP
-          (DT this))
-        (PP-CLR
-          (IN as)
-          (NP
-            (NP
-              (DT the)
-              (JJ effective)
-              (NN date))
-            (PP
-              (IN of)
-              (NP
-                (DT the)
-                (NN registration)
-                (NN statement)))))))))
+          (DT this))))))
 
 (RRC
   (ADJP
@@ -136,14 +84,11 @@
 
 (RRC
   (NP
-    (NNS students))
+    (NP
+      (NN manager)))
   (PP-TMP
     (IN for)
     (NP
-      (QP
-        (RBR more)
-        (IN than)
-        (CD seven))
       (NNS years))))
 
 (RRC
@@ -153,9 +98,7 @@
       (RP of)))
   (ADVP-TMP
     (NP
-      (RB only)
       (DT a)
-      (JJ few)
       (NNS years))
     (RB ago)))
 
@@ -170,20 +113,11 @@
     (IN for)
     (NP
       (NP
-        (NNS companies))
-      (VP
-        (VBN caught)
-        (NP
-          (-NONE- *))
-        (PP-LOC-CLR
-          (IN in)
-          (NP
-            (JJ embarrassing)
-            (NNS situations)))))))
+        (NNS companies)))))
 
 (RRC
   (NP
-    (NNS students))
+    (NN pitch))
   (, ,)
   (ADVP
     (RB apparently)))
@@ -194,12 +128,12 @@
     (ADVP
       (RB then)))
   (NP
-    (NNS students))
+    (DT a)
+    (NN producer))
   (PP
     (IN in)
     (NP
       (PRP$ his)
-      (JJ own)
       (NN right)))
   (, ,)
   (PP-TMP
@@ -207,10 +141,5 @@
     (NP
       (NP
         (DT the)
-        (NN death))
-      (PP
-        (IN of)
-        (NP
-          (NNP Mr.)
-          (NNP Bogart))))))
+        (NN death)))))
 

@@ -32,7 +32,8 @@
 (WHADVP-2
   (WRB how)
   (NP
-    (NNS students)))
+    (NP
+      (JJ much))))
 
 (WHADVP-1
   (WRB how)

@@ -91,20 +91,7 @@
     (NP
       (NP
         (DT that)
-        (NN welter))
-      (PP
-        (IN of)
-        (NP
-          (NNS contradictions)))
-      (VP
-        (VBN known)
-        (NP
-          (-NONE- *))
-        (PP-CLR
-          (IN as)
-          (NP
-            (NNP Newport)
-            (NNP Beach))))))
+        (NN welter))))
   (. .))
 
 (INTJ

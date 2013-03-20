@@ -124,7 +124,7 @@
 
 (NX-TTL
   (NP
-    (NNS students))
+    (NNP Story))
   (PP
     (IN of)
     (NP
@@ -144,7 +144,6 @@
 
 (NX
   (ADJP
-    (RB relatively)
     (JJ poor))
   (NN performance))
 
@@ -193,9 +192,6 @@
   (PP-1
     (IN of)
     (NP
-      (NNP General)
-      (NNP Public)
-      (NNP Utilities)
       (NNP Corp.))))
 
 (NX
@@ -321,12 +317,7 @@
       (NP-SBJ
         (-NONE- *T*-1))
       (VP
-        (VBP lend)
-        (PP-CLR
-          (TO to)
-          (NP
-            (JJ small)
-            (NNS companies)))))))
+        (VBP lend)))))
 
 (NX
   (NN investment)
@@ -345,15 +336,12 @@
     (NP
       (NP
         (DT the)
-        (NNP University))
-      (PP
-        (IN of)
-        (NP
-          (NNP Chicago))))))
+        (NNP University)))))
 
 (NX
   (NP
-    (NNS students))
+    (NNS doctors)
+    (POS '))
   (NNS offices))
 
 (NX
@@ -406,7 +394,8 @@
     (CD 1.50)
     (-NONE- *U*))
   (NP-ADV
-    (NNS students)))
+    (DT a)
+    (NN share)))
 
 (NX
   ($ $)
@@ -420,7 +409,6 @@
 
 (NX
   (ADJP
-    (RB thinly)
     (VBN stretched))
   (NNS resources))
 
@@ -436,8 +424,6 @@
     (IN over)
     (NP
       (DT the)
-      (JJ past)
-      (CD 10)
       (NNS years))))
 
 (NX
@@ -446,7 +432,7 @@
 
 (NX-1
   (NP
-    (NNS students))
+    (NNS wafers))
   (SBAR
     (WHPP-2
       (IN with)
@@ -460,21 +446,16 @@
         (VP
           (VB fabricate)
           (NP
-            (NNS chips))
-          (PP-MNR
-            (-NONE- *T*-2)))))))
+            (NNS chips)))))))
 
 (NX
   (NP
-    (NNS students))
+    (DT the)
+    (NNS months))
   (VP
     (VBN ended)
     (NP
-      (-NONE- *))
-    (PP-TMP
-      (IN in)
-      (NP
-        (NNP June)))))
+      (-NONE- *))))
 
 (NX-TTL
   (FW Libera)
@@ -482,8 +463,6 @@
 
 (NX
   (QP
-    ($ $)
-    (CD 304)
     (CD million))
   (-NONE- *U*))
 
@@ -507,16 +486,19 @@
 
 (NX-TTL
   (NP
-    (NNS students))
+    (DT The)
+    (NNP Insider)
+    (POS 's))
   (NNP Japan))
 
 (NX-TTL
   (`` ``)
   (NP
-    (NNS students))
+    (NN Enterprise))
   (: :)
   (NP
-    (NNS students)))
+    (NP
+      (NNP Row))))
 
 (NX
   (JJ western-style)
@@ -526,7 +508,8 @@
 
 (NX-TTL
   (NP
-    (NNS students))
+    (NP
+      (NN Battle)))
   (: :)
   (SBAR
     (WHADVP
@@ -534,7 +517,6 @@
     (S
       (NP-SBJ
         (DT the)
-        (NNP Bork)
         (NN Nomination))
       (VP
         (VBD Shook)
@@ -559,7 +541,7 @@
     (NN increase))
   (CC and)
   (NP
-    (NNS students)))
+    (NN bonus)))
 
 (NX
   (RB early)
@@ -625,7 +607,8 @@
     (NNP Hermann))
   (, ,)
   (NP
-    (NNS students)))
+    (NP
+      (NN chief))))
 
 (NX
   (NN processing)
@@ -647,7 +630,9 @@
     (NN son))
   (: --)
   (NP
-    (NNS students))
+    (NP
+      (DT a)
+      (NN prodigy)))
   (: --))
 
 (NX-TTL
@@ -669,12 +654,12 @@
 (NX-TTL
   (`` ``)
   (NP
-    (NNS students))
+    (DT The)
+    (NN Fall))
   (PP
     (IN of)
     (NP
       (DT the)
-      (NNP Third)
       (NNP Reich)))
   (, ,)
   ('' ''))
@@ -691,12 +676,7 @@
     (VP
       (TO to)
       (VP
-        (VB embark)
-        (PP-CLR
-          (IN on)
-          (NP
-            (JJ foreign)
-            (NNS visits)))))))
+        (VB embark)))))
 
 (NX-TTL
   (DT The)
@@ -733,7 +713,6 @@
   (PP
     (IN of)
     (NP
-      (JJ personal)
       (NN power)))
   (, ,)
   (PP-TMP
@@ -743,14 +722,7 @@
     (NP
       (NP
         (DT the)
-        (JJ last)
-        (NNP Politburo)
-        (NN reshuffle))
-      (PP-TMP
-        (IN on)
-        (NP
-          (NNP Sept.)
-          (CD 30)))))
+        (NN reshuffle))))
   (, ,))
 
 (NX
@@ -772,14 +744,13 @@
     (-LRB- -LRB-)
     (NP
       (NP
-        (NNP D.))
-      (, ,)
-      (NP-LOC
-        (NNP Minn.)))
+        (NNP D.)))
     (-RRB- -RRB-))
   (, ,)
   (NP
-    (NNS students)))
+    (NP
+      (DT the)
+      (NN chairman))))
 
 (NX-TTL
   (NNP Il)
@@ -799,8 +770,6 @@
   (JJ annual)
   (ADJP
     (QP
-      ($ $)
-      (CD 18)
       (CD million))
     (-NONE- *U*))
   (JJ world-wide)
@@ -842,12 +811,9 @@
         (-NONE- *T*-1))
       (VP
         (VBZ has)
-        (ADVP-TMP
-          (RB long))
         (VP
           (VBN headed)
           (NP
-            (JJ economic)
             (NNS affairs))))))
   (, ,))
 
@@ -890,7 +856,8 @@
 
 (NX-TTL
   (NP
-    (NNS students)))
+    (DT A)
+    (NNP Chase)))
 
 (NX
   (DT The)
@@ -925,65 +892,7 @@
           (VB have)
           (NP
             (NP
-              (JJ adequate)
-              (NNS staffs))
-            (SBAR
-              (WHNP-1
-                (-NONE- 0))
-              (S
-                (NP-SBJ
-                  (-NONE- *T*-1))
-                (VP
-                  (TO to)
-                  (VP
-                    (VB provide)
-                    (NP
-                      (NP
-                        (JJ quick)
-                        (NNS answers))
-                      (PP
-                        (TO to)
-                        (NP
-                          (NP
-                            (DT the)
-                            (NNS questions))
-                          (VP
-                            (VBG being)
-                            (VP
-                              (VBN raised)
-                              (NP
-                                (-NONE- *))
-                              (PP
-                                (IN by)
-                                (SBAR-NOM-LGS
-                                  (WHNP-2
-                                    (WP what))
-                                  (S
-                                    (NP-SBJ-72
-                                      (-NONE- *T*-2))
-                                    (ADVP
-                                      (RB generally))
-                                    (VP
-                                      (VBP are)
-                                      (VP
-                                        (VBN considered)
-                                        (S
-                                          (NP-SBJ
-                                            (-NONE- *-72))
-                                          (NP-PRD
-                                            (NP
-                                              (DT the)
-                                              (ADJP
-                                                (RBS most)
-                                                (JJ complex))
-                                              (NN arms-control)
-                                              (NNS talks))
-                                            (VP
-                                              (ADVP-TMP
-                                                (RB ever))
-                                              (VBN attempted)
-                                              (NP
-                                                (-NONE- *)))))))))))))))))))))))))
+              (NNS staffs))))))))
 
 (NX
   (`` ``)
@@ -1029,7 +938,8 @@
 
 (NX-TTL
   (NP
-    (NNS students))
+    (NNP Snoopy)
+    (POS 's))
   (NNP Love)
   (NNP Bouquet))
 
@@ -1064,10 +974,11 @@
 
 (NX-TTL
   (NP
-    (NNS students))
+    (NNP Messiah))
   (: :)
   (NP
-    (NNS students)))
+    (NP
+      (NNP Story))))
 
 (NX
   (CD 35,000)
@@ -1131,7 +1042,6 @@
 
 (NX
   (ADJP
-    (RB allegedly)
     (JJ pervasive))
   (NN billing)
   (NNS irregularities))

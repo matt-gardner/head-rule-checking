@@ -980,7 +980,8 @@
 (QP
   (`` ``)
   (NP-ADV
-    (NNS students))
+    (DT a)
+    (NN deal))
   (JJR more)
   ('' '')
   (IN than)
@@ -1219,7 +1220,8 @@
   (CD 40)
   (IN of)
   (NP
-    (NNS students))
+    (NNP India)
+    (POS 's))
   (CD 42))
 
 (QP
@@ -1428,7 +1430,9 @@
 
 (QP
   (NP-ADV
-    (NNS students))
+    (DT all)
+    (DT the)
+    (NN way))
   (IN up)
   (TO to)
   (CD 6))
@@ -1482,10 +1486,10 @@
 
 (QP
   (NP
-    (NNS students))
+    (NN %))
   (CC and)
   (NP
-    (NNS students)))
+    (NN %)))
 
 (QP
   (RB about)
@@ -1829,7 +1833,6 @@
     (-LRB- -LRB-)
     (NP
       ($ US$)
-      (CD 256.18)
       (-NONE- *U*))
     (-RRB- -RRB-))
   (CC and)
@@ -2012,7 +2015,7 @@
   (JJR More)
   (IN than)
   (NP
-    (NNS students)))
+    (NN one-third)))
 
 (QP
   (RB as)

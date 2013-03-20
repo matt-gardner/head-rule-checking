@@ -41,8 +41,7 @@
 2	National	_	_	NNP	_	1	???	_	_	First
 3	Bank	_	_	NNP	_	1	???	_	_	First
 4	of	_	_	IN	_	1	???	_	_	First
-5	Toms	_	_	NNP	_	6	???	_	_	River
-6	River	_	_	NNP	_	4	???	_	_	of
+5	River	_	_	NNP	_	4	???	_	_	of
 
 1	Friday	_	_	NNP	_	0	ROOT	_	_	ROOT
 2	the	_	_	DT	_	1	???	_	_	Friday
@@ -58,11 +57,12 @@
 4	Colo.	_	_	NNP	_	1	???	_	_	Colorado
 5	,	_	_	,	_	1	???	_	_	Colorado
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	students	_	_	NNS	_	1	???	_	_	students
+1	nine-cent	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	a	_	_	DT	_	3	???	_	_	gallon
+3	gallon	_	_	NN	_	1	???	_	_	nine-cent
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	of	_	_	IN	_	1	???	_	_	students
+1	secretary	_	_	NN	_	0	ROOT	_	_	ROOT
+2	of	_	_	IN	_	1	???	_	_	secretary
 3	state	_	_	NN	_	2	???	_	_	of
 
 1	British	_	_	JJ	_	2	???	_	_	Chancellor
@@ -101,9 +101,9 @@
 1	the	_	_	DT	_	2	???	_	_	federal
 2	federal	_	_	JJ	_	0	ROOT	_	_	ROOT
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
+1	$	_	_	$	_	0	ROOT	_	_	ROOT
 2	a	_	_	DT	_	3	???	_	_	month
-3	month	_	_	NN	_	1	???	_	_	students
+3	month	_	_	NN	_	1	???	_	_	$
 
 1	Group	_	_	NNP	_	0	ROOT	_	_	ROOT
 2	of	_	_	IN	_	1	???	_	_	Group
@@ -115,8 +115,7 @@
 1	the	_	_	DT	_	2	???	_	_	University
 2	University	_	_	NNP	_	0	ROOT	_	_	ROOT
 3	of	_	_	IN	_	2	???	_	_	University
-4	Southern	_	_	NNP	_	5	???	_	_	California
-5	California	_	_	NNP	_	3	???	_	_	of
+4	California	_	_	NNP	_	3	???	_	_	of
 
 1	``	_	_	``	_	4	???	_	_	Bureaucrat
 2	My	_	_	PRP$	_	4	???	_	_	Bureaucrat
@@ -130,10 +129,10 @@
 4	Texas	_	_	NNP	_	2	???	_	_	Pasadena
 5	,	_	_	,	_	2	???	_	_	Pasadena
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	,	_	_	,	_	1	???	_	_	students
-3	students	_	_	NNS	_	1	???	_	_	students
-4	,	_	_	,	_	1	???	_	_	students
+1	Moonachie	_	_	NNP	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	Moonachie
+3	N.J.	_	_	NNP	_	1	???	_	_	Moonachie
+4	,	_	_	,	_	1	???	_	_	Moonachie
 
 1	six-cent	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	per	_	_	IN	_	1	???	_	_	six-cent
@@ -152,15 +151,13 @@
 1	University	_	_	NNP	_	0	ROOT	_	_	ROOT
 2	of	_	_	IN	_	1	???	_	_	University
 3	California	_	_	NNP	_	2	???	_	_	of
-4	students	_	_	NNS	_	1	???	_	_	University
+4	Berkeley	_	_	NNP	_	1	???	_	_	University
 
-1	students	_	_	NNS	_	0	ROOT	_	_	ROOT
-2	of	_	_	IN	_	1	???	_	_	students
+1	Secretary	_	_	NNP	_	0	ROOT	_	_	ROOT
+2	of	_	_	IN	_	1	???	_	_	Secretary
 3	State	_	_	NNP	_	2	???	_	_	of
-4	for	_	_	IN	_	1	???	_	_	students
-5	Trade	_	_	NNP	_	4	???	_	_	for
-6	and	_	_	CC	_	5	???	_	_	Trade
-7	Industry	_	_	NNP	_	6	???	_	_	and
+4	for	_	_	IN	_	1	???	_	_	Secretary
+5	Industry	_	_	NNP	_	4	???	_	_	for
 
 1	Upper	_	_	NNP	_	0	ROOT	_	_	ROOT
 2	Saddle	_	_	NNP	_	1	???	_	_	Upper
@@ -186,8 +183,7 @@
 4	or	_	_	CC	_	1	???	_	_	change
 5	change	_	_	NN	_	4	???	_	_	or
 6	in	_	_	IN	_	5	???	_	_	change
-7	profit	_	_	NN	_	8	???	_	_	expectations
-8	expectations	_	_	NNS	_	6	???	_	_	in
+7	expectations	_	_	NNS	_	6	???	_	_	in
 
 1	the	_	_	DT	_	2	???	_	_	Lord
 2	Lord	_	_	NNP	_	0	ROOT	_	_	ROOT
@@ -208,14 +204,12 @@
 1	6	_	_	CD	_	2	???	_	_	a.m.
 2	a.m.	_	_	NN	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	a.m.
-4	8	_	_	CD	_	5	???	_	_	p.m.
-5	p.m.	_	_	NN	_	3	???	_	_	to
+4	p.m.	_	_	NN	_	3	???	_	_	to
 
 1	TWO	_	_	CD	_	2	???	_	_	BIRDS
 2	BIRDS	_	_	NNS	_	0	ROOT	_	_	ROOT
 3	with	_	_	IN	_	2	???	_	_	BIRDS
-4	one	_	_	CD	_	5	???	_	_	stone
-5	stone	_	_	NN	_	3	???	_	_	with
+4	stone	_	_	NN	_	3	???	_	_	with
 
 1	former	_	_	JJ	_	2	???	_	_	U.S.
 2	U.S.	_	_	NNP	_	0	ROOT	_	_	ROOT
@@ -241,11 +235,9 @@
 4	D.C.	_	_	NNP	_	2	???	_	_	Washington
 5	,	_	_	,	_	2	???	_	_	Washington
 
-1	Leave	_	_	VB	_	5	???	_	_	Show
+1	Leave	_	_	VB	_	3	???	_	_	Show
 2	It	_	_	PRP	_	1	OBJ-DO	_	_	Leave
-3	to	_	_	TO	_	1	???	_	_	Leave
-4	Beaver	_	_	NNP	_	3	???	_	_	to
-5	Show	_	_	NN	_	0	ROOT	_	_	ROOT
+3	Show	_	_	NN	_	0	ROOT	_	_	ROOT
 
 1	Cars	_	_	NNS	_	0	ROOT	_	_	ROOT
 2	That	_	_	WDT	_	3	SUBJ	_	_	Make
