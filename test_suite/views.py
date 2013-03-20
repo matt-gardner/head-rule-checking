@@ -45,10 +45,12 @@ def test_suite(request, suite_id, subset=None):
     for expansion in context['expansions']:
         try:
             annotation = expansion.annotation_set.get(user=request.user)
+            expansion.head_index = annotation.head_index
             expansion.head_correct = annotation.head_correct
             expansion.comp_head_correct = annotation.comp_head_correct
             expansion.notes = annotation.notes
         except Annotation.DoesNotExist:
+            expansion.head_index = 0
             expansion.head_correct = None
             expansion.comp_head_correct = None
             expansion.notes = ''
@@ -124,6 +126,7 @@ def testsuite_subset(request, suite_id, user, annotations):
     context['disable'] = user != request.user
     for annotation in annotations:
         expansion = annotation.expansion
+        expansion.head_index = annotation.head_index
         expansion.head_correct = annotation.head_correct
         expansion.comp_head_correct = annotation.comp_head_correct
         expansion.notes = annotation.notes
@@ -157,6 +160,9 @@ def update(request, name, val):
         annotation.save()
     elif type == 'comp':
         annotation.comp_head_correct = correct
+        annotation.save()
+    elif type == 'headindex':
+        annotation.head_index = val
         annotation.save()
     elif type == 'notes':
         # The javascript adds quotes around the value, so that you can tell

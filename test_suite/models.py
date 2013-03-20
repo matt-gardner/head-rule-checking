@@ -172,6 +172,15 @@ class Expansion(models.Model):
     def simple_penn_example_rendered(self):
         return self.penn_example_rendered(simple=True)
 
+    def head_index_box(self):
+        from django.forms.widgets import Select
+        choices = [(0, 'Unknown')]
+        for i, daughter in enumerate(self.rule[1:-1].split()[1:]):
+            choices.append((i+1, daughter))
+        s = Select(choices=choices)
+        return s.render('expansion-'+str(self.id) + '-headindex',
+                self.head_index)
+
     def head_correct_box(self):
         from django.forms.widgets import NullBooleanSelect
         s = NullBooleanSelect()
@@ -198,12 +207,22 @@ class Expansion(models.Model):
 class Annotation(models.Model):
     user = models.ForeignKey('auth.User')
     expansion = models.ForeignKey('Expansion')
+    head_index = models.IntegerField(default=0)
     head_correct = models.NullBooleanField()
     comp_head_correct = models.NullBooleanField()
     notes = models.TextField(blank=True)
 
     def comments(self):
         return self.comment_set.all()
+
+    def head_index_box(self):
+        from django.forms.widgets import Select
+        choices = [(0, 'Unknown')]
+        for i, daughter in enumerate(self.rule[1:-1].split()[1:]):
+            choices.append((i+1, daughter))
+        s = Select(choices=choices)
+        return s.render('expansion-'+str(self.id) + '-headindex',
+                self.head_index)
 
     def head_correct_box(self):
         from django.forms.widgets import NullBooleanSelect
