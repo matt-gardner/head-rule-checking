@@ -1136,11 +1136,11 @@
 1	all-employee	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	owned	_	_	VBN	_	1	???	_	_	all-employee
 
-1	as	_	_	RB	_	0	ROOT	_	_	ROOT
-2	for	_	_	IN	_	1	???	_	_	as
+1	known	_	_	VBN	_	0	ROOT	_	_	ROOT
+2	for	_	_	IN	_	1	???	_	_	known
 3	his	_	_	PRP$	_	4	???	_	_	tastes
 4	tastes	_	_	NNS	_	2	???	_	_	for
-5	as	_	_	IN	_	1	???	_	_	as
+5	as	_	_	IN	_	1	???	_	_	known
 6	he	_	_	PRP	_	7	SUBJ	_	_	is
 7	is	_	_	VBZ	_	5	???	_	_	as
 

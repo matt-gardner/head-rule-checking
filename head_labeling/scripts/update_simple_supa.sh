@@ -15,14 +15,15 @@ else
         'WHADJP' 'WHADVP' 'WHNP' 'WHPP' 'X')
 fi
 
+base=/home/mg1/classes/treebanking
 for cat in "${cats[@]}"
 do
     echo $cat
-    input_files/supa_docs/sierra.sh \
-        -morder input_files/supa_docs/macros/ORDER.txt \
-        -oporder input_files/supa_docs/opfiles/ORDER_TS.txt \
-        -treeFile input_files/${cat}/${cat}_PTBtrees_simple.mrg \
-        >input_files/${cat}/${cat}_simple.supa
+    $base/input_files/supa_docs/sierra.sh \
+        -morder $base/input_files/supa_docs/macros/ORDER.txt \
+        -oporder $base/input_files/supa_docs/opfiles/ORDER_TS.txt \
+        -treeFile $base/input_files/${cat}/${cat}_PTBtrees_simple.mrg \
+        >$base/input_files/${cat}/${cat}_simple.supa
 done
 
-rm -f sierra_*
+#rm -f sierra_*
