@@ -16,6 +16,7 @@ else
 fi
 
 base=/home/mg1/classes/treebanking
+suites_dir=test_suites_v2
 results_file=results.tsv
 if [ -e $results_file ]
 then
@@ -32,10 +33,10 @@ echo "tok_correct	%_tok_correct" >>$results_file
 for cat in "${cats[@]}"
 do
     echo $cat
-    $base/input_files/supa_docs/sierra.sh \
-        -morder $base/input_files/supa_docs/macros/ORDER.txt \
-        -oporder $base/input_files/supa_docs/opfiles/ORDER_TS.txt \
-        -treeFile $base/input_files/${cat}/${cat}_PTBtrees.mrg \
+    $base/supa_docs/sierra.sh \
+        -morder $base/supa_docs/macros/ORDER.txt \
+        -oporder $base/supa_docs/opfiles/ORDER_TS.txt \
+        -treeFile $base/$suites_dir/${cat}/${cat}_PTBtrees.mrg \
         -nosupa
     python test_suite.py $base/annotations/${cat}_annotations.tsv $cat
     #rm -f sierra_*

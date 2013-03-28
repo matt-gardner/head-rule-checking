@@ -34,7 +34,7 @@ def main(annotation_file, category):
             text = ''
             continue
         text += line
-    count_file = '../input_files/%s/%s_tagAsParent_rules_grouped.txt' % (
+    count_file = '../test_suites_v2/%s/%s_tagAsParent_rules_grouped.txt' % (
             category, category)
     counts = []
     for line in open(count_file):

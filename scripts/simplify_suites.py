@@ -203,14 +203,15 @@ def prune_vp(node):
 if __name__ == '__main__':
     from import_suite import categories
     import sys
-    if len(sys.argv) > 1:
-        cats = sys.argv[1].split(',')
+    base = sys.argv[1]
+    if len(sys.argv) > 2:
+        cats = sys.argv[2:]
     else:
         cats = categories
     for pos in cats:
         print 'Simplifying trees for category', pos
-        simplify_trees('input_files/%s/%s_PTBtrees.mrg' % (pos, pos),
-                'input_files/%s/%s_PTBtrees_simple.mrg' % (pos, pos))
+        simplify_trees(base + '%s/%s_PTBtrees.mrg' % (pos, pos),
+                base + '%s/%s_PTBtrees_simple.mrg' % (pos, pos))
     #proc = Popen('./scripts/update_simple_supa.sh', shell=True)
     #proc.wait()
     print "Producing SUPA from this script doesn't work!"

@@ -16,14 +16,15 @@ else
 fi
 
 base=/home/mg1/classes/treebanking
+suite_dir=test_suites_v2
 for cat in "${cats[@]}"
 do
     echo $cat
-    $base/input_files/supa_docs/sierra.sh \
-        -morder $base/input_files/supa_docs/macros/ORDER.txt \
-        -oporder $base/input_files/supa_docs/opfiles/ORDER_TS.txt \
-        -treeFile $base/input_files/${cat}/${cat}_PTBtrees_simple.mrg \
-        >$base/input_files/${cat}/${cat}_simple.supa
+    $base/supa_docs/sierra.sh \
+        -morder $base/supa_docs/macros/ORDER.txt \
+        -oporder $base/supa_docs/opfiles/ORDER_TS.txt \
+        -treeFile $base/$suite_dir/${cat}/${cat}_PTBtrees_simple.mrg \
+        >$base/$suite_dir/${cat}/${cat}_simple.supa
 done
 
 rm -f sierra_*

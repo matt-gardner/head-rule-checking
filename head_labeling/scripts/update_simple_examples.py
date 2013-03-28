@@ -56,11 +56,11 @@ def main(category_symbol, simple_penn_file, simple_supa_file):
 
 
 if __name__ == '__main__':
-    base = 'input_files/'
     from import_suite import categories
     import sys
-    if len(sys.argv) > 1:
-        cats = sys.argv[1].split(',')
+    base = sys.argv[1]
+    if len(sys.argv) > 2:
+        cats = sys.argv[2:]
     else:
         cats = categories
     for category in cats:
