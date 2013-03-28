@@ -58,6 +58,7 @@ def main(category_symbol, grouped_file, supa_file, penn_file):
         penn_text += line
     if (len(expansions) != len(supa_texts)
             or len(expansions) != len(penn_texts)):
+        print len(expansions), len(supa_texts), len(penn_texts)
         raise RuntimeError('Error processing files')
     for i, expansion in enumerate(expansions):
         expansion.supa_example = supa_texts[i]
@@ -87,7 +88,11 @@ class ExpansionData(object):
 if __name__ == '__main__':
     import sys
     base = sys.argv[1]
-    for category in categories:
+    if len(sys.argv) > 2:
+        cats = sys.argv[2:]
+    else:
+        cats = categories
+    for category in cats:
         cat_base = base + category + '/' + category
         grouped_file = cat_base + '_tagAsParent_rules_grouped.txt'
         supa_file = cat_base + '.supa'
