@@ -1,0 +1,5872 @@
+(ROOT
+  (DEPS
+    (2__1.5__CD
+      1__$__$
+      ???)
+    (3__billion__CD
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__1.5__CD 2__1.5__CD) (CD__3__billion__CD 3__billion__CD)))
+
+(ROOT
+  (DEPS
+    (2__billion__CD
+      1__9.8__CD
+      ???)
+    (1__9.8__CD
+      0__ROOT__
+      ROOT))
+  (QP__1__9.8__CD (CD__1__9.8__CD 1__9.8__CD) (CD__2__billion__CD 2__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__about__RB
+      2__60__CD
+      ???)
+    (2__60__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__60__CD (RB__1__about__RB 1__about__RB) (CD__2__60__CD 2__60__CD)))
+
+(ROOT
+  (DEPS
+    (2__160__CD
+      1__About__IN
+      ???)
+    (1__About__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__About__IN (IN__1__About__IN 1__About__IN) (CD__2__160__CD 2__160__CD)))
+
+(ROOT
+  (DEPS
+    (1__fewer__JJR
+      2__than__IN
+      ???)
+    (3__100__CD
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__fewer__JJR 1__fewer__JJR) (IN__2__than__IN 2__than__IN) (CD__3__100__CD 3__100__CD)))
+
+(ROOT
+  (DEPS
+    (1__almost__RB
+      2__$__$
+      ???)
+    (3__100__CD
+      2__$__$
+      ???)
+    (4__million__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (RB__1__almost__RB 1__almost__RB) ($__2__$__$ 2__$__$) (CD__3__100__CD 3__100__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__about__IN
+      2__$__$
+      ???)
+    (3__370__CD
+      2__$__$
+      ???)
+    (4__million__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (IN__1__about__IN 1__about__IN) ($__2__$__$ 2__$__$) (CD__3__370__CD 3__370__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__to__TO
+      1__three__CD
+      ???)
+    (3__six__CD
+      1__three__CD
+      ???)
+    (1__three__CD
+      0__ROOT__
+      ROOT))
+  (QP__1__three__CD (CD__1__three__CD 1__three__CD) (TO__2__to__TO 2__to__TO) (CD__3__six__CD 3__six__CD)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__100__CD
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (CD__3__100__CD 3__100__CD)))
+
+(ROOT
+  (DEPS
+    (1__#__#
+      2__100__CD
+      ???)
+    (3__million__CD
+      2__100__CD
+      ???)
+    (2__100__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__100__CD (#__1__#__# 1__#__#) (CD__2__100__CD 2__100__CD) (CD__3__million__CD 3__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      3__$__$
+      ???)
+    (2__than__IN
+      3__$__$
+      ???)
+    (4__1.2__CD
+      3__$__$
+      ???)
+    (5__billion__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) ($__3__$__$ 3__$__$) (CD__4__1.2__CD 4__1.2__CD) (CD__5__billion__CD 5__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      3__as__IN
+      ???)
+    (2__many__JJ
+      3__as__IN
+      ???)
+    (4__12__CD
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (RB__1__as__RB 1__as__RB) (JJ__2__many__JJ 2__many__JJ) (IN__3__as__IN 3__as__IN) (CD__4__12__CD 4__12__CD)))
+
+(ROOT
+  (DEPS
+    (1__roughly__RB
+      2__145__CD
+      ???)
+    (3__million__CD
+      2__145__CD
+      ???)
+    (2__145__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__145__CD (RB__1__roughly__RB 1__roughly__RB) (CD__2__145__CD 2__145__CD) (CD__3__million__CD 3__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__about__RB
+      2__$__$
+      ???)
+    (3__70__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (RB__1__about__RB 1__about__RB) ($__2__$__$ 2__$__$) (CD__3__70__CD 3__70__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__RBR
+      2__than__IN
+      ???)
+    (3__30__CD
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (RBR__1__more__RBR 1__more__RBR) (IN__2__than__IN 2__than__IN) (CD__3__30__CD 3__30__CD)))
+
+(ROOT
+  (DEPS
+    (2__two__CD
+      1__about__IN
+      ???)
+    (3__million__CD
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (CD__2__two__CD 2__two__CD) (CD__3__million__CD 3__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__every__DT
+      2__two__CD
+      ???)
+    (2__two__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__two__CD (DT__1__every__DT 1__every__DT) (CD__2__two__CD 2__two__CD)))
+
+(ROOT
+  (DEPS
+    (1__1__CD
+      2__%__NN
+      ???)
+    (3__to__TO
+      2__%__NN
+      ???)
+    (4__2__CD
+      2__%__NN
+      ???)
+    (5__%__NN
+      2__%__NN
+      ???)
+    (2__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__%__NN (CD__1__1__CD 1__1__CD) (NN__2__%__NN 2__%__NN) (TO__3__to__TO 3__to__TO) (CD__4__2__CD 4__2__CD) (NN__5__%__NN 5__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__about__IN
+      2__$__$
+      ???)
+    (3__120,000__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (IN__1__about__IN 1__about__IN) ($__2__$__$ 2__$__$) (CD__3__120,000__CD 3__120,000__CD)))
+
+(ROOT
+  (DEPS
+    (2__60__CD
+      1__$__$
+      ???)
+    (3__to__TO
+      1__$__$
+      ???)
+    (4__$__$
+      1__$__$
+      ???)
+    (5__80__CD
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__60__CD 2__60__CD) (TO__3__to__TO 3__to__TO) ($__4__$__$ 4__$__$) (CD__5__80__CD 5__80__CD)))
+
+(ROOT
+  (DEPS
+    (2__2__CD
+      1__$__$
+      ???)
+    (3__million__CD
+      1__$__$
+      ???)
+    (4__to__TO
+      1__$__$
+      ???)
+    (5__$__$
+      1__$__$
+      ???)
+    (6__3__CD
+      1__$__$
+      ???)
+    (7__million__CD
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__2__CD 2__2__CD) (CD__3__million__CD 3__million__CD) (TO__4__to__TO 4__to__TO) ($__5__$__$ 5__$__$) (CD__6__3__CD 6__3__CD) (CD__7__million__CD 7__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__8__CD
+      3__%__NN
+      ???)
+    (2__11\/16__CD
+      3__%__NN
+      ???)
+    (4__to__TO
+      3__%__NN
+      ???)
+    (5__8__CD
+      3__%__NN
+      ???)
+    (6__9\/16__CD
+      3__%__NN
+      ???)
+    (7__%__NN
+      3__%__NN
+      ???)
+    (3__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__%__NN (CD__1__8__CD 1__8__CD) (CD__2__11\/16__CD 2__11\/16__CD) (NN__3__%__NN 3__%__NN) (TO__4__to__TO 4__to__TO) (CD__5__8__CD 5__8__CD) (CD__6__9\/16__CD 6__9\/16__CD) (NN__7__%__NN 7__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__or__CC
+      2__less__JJR
+      ???)
+    (2__less__JJR
+      0__ROOT__
+      ROOT))
+  (QP__2__less__JJR (CC__1__or__CC 1__or__CC)
+    (JJR__2__less__JJR 2__less__JJR)))
+
+(ROOT
+  (DEPS
+    (1__500__CD
+      2__times__NNS
+      ???)
+    (2__times__NNS
+      0__ROOT__
+      ROOT))
+  (QP__2__times__NNS (CD__1__500__CD 1__500__CD) (NNS__2__times__NNS 2__times__NNS)))
+
+(ROOT
+  (DEPS
+    (2__to__TO
+      1__up__IN
+      ???)
+    (3__10__CD
+      1__up__IN
+      ???)
+    (1__up__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__up__IN (IN__1__up__IN 1__up__IN) (TO__2__to__TO 2__to__TO) (CD__3__10__CD 3__10__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      2__than__IN
+      ???)
+    (3__four__CD
+      2__than__IN
+      ???)
+    (4__million__CD
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) (CD__3__four__CD 3__four__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      4__$__$
+      ???)
+    (2__much__JJ
+      4__$__$
+      ???)
+    (3__as__IN
+      4__$__$
+      ???)
+    (5__400__CD
+      4__$__$
+      ???)
+    (6__million__CD
+      4__$__$
+      ???)
+    (4__$__$
+      0__ROOT__
+      ROOT))
+  (QP__4__$__$ (RB__1__as__RB 1__as__RB) (JJ__2__much__JJ 2__much__JJ) (IN__3__as__IN 3__as__IN) ($__4__$__$ 4__$__$) (CD__5__400__CD 5__400__CD) (CD__6__million__CD 6__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      3__$__$
+      ???)
+    (2__than__IN
+      3__$__$
+      ???)
+    (4__10,000__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) ($__3__$__$ 3__$__$) (CD__4__10,000__CD 4__10,000__CD)))
+
+(ROOT
+  (DEPS
+    (2__or__CC
+      1__three__CD
+      ???)
+    (3__four__CD
+      2__or__CC
+      ???)
+    (1__three__CD
+      0__ROOT__
+      ROOT))
+  (QP__1__three__CD (CD__1__three__CD 1__three__CD)
+    (CONJPP__2__or__CC (CC__2__or__CC 2__or__CC)
+      (CD__3__four__CD 3__four__CD))))
+
+(ROOT
+  (DEPS
+    (1__or__CC
+      2__so__RB
+      ???)
+    (2__so__RB
+      0__ROOT__
+      ROOT))
+  (QP__2__so__RB (CC__1__or__CC 1__or__CC)
+    (RB__2__so__RB 2__so__RB)))
+
+(ROOT
+  (DEPS
+    (1__well__RB
+      2__over__IN
+      ???)
+    (3__9__CD
+      2__over__IN
+      ???)
+    (2__over__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__over__IN (RB__1__well__RB 1__well__RB) (IN__2__over__IN 2__over__IN) (CD__3__9__CD 3__9__CD)))
+
+(ROOT
+  (DEPS
+    (1__at__IN
+      3__$__$
+      ???)
+    (2__least__JJS
+      3__$__$
+      ???)
+    (4__33__CD
+      3__$__$
+      ???)
+    (5__million__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) ($__3__$__$ 3__$__$) (CD__4__33__CD 4__33__CD) (CD__5__million__CD 5__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__some__DT
+      2__$__$
+      ???)
+    (3__38.3__CD
+      2__$__$
+      ???)
+    (4__billion__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (DT__1__some__DT 1__some__DT) ($__2__$__$ 2__$__$) (CD__3__38.3__CD 3__38.3__CD) (CD__4__billion__CD 4__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__nearly__RB
+      3__third__JJ
+      ???)
+    (2__a__DT
+      3__third__JJ
+      ???)
+    (3__third__JJ
+      0__ROOT__
+      ROOT))
+  (QP__3__third__JJ (RB__1__nearly__RB 1__nearly__RB) (DT__2__a__DT 2__a__DT) (JJ__3__third__JJ 3__third__JJ)))
+
+(ROOT
+  (DEPS
+    (2__one__CD
+      1__only__JJ
+      ???)
+    (1__only__JJ
+      0__ROOT__
+      ROOT))
+  (QP__1__only__JJ (JJ__1__only__JJ 1__only__JJ) (CD__2__one__CD 2__one__CD)))
+
+(ROOT
+  (DEPS
+    (1__one__CD
+      2__in__IN
+      ???)
+    (3__four__CD
+      2__in__IN
+      ???)
+    (2__in__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__in__IN (CD__1__one__CD 1__one__CD) (IN__2__in__IN 2__in__IN) (CD__3__four__CD 3__four__CD)))
+
+(ROOT
+  (DEPS
+    (2__20__CD
+      1__between__IN
+      ???)
+    (3__%__NN
+      1__between__IN
+      ???)
+    (4__and__CC
+      1__between__IN
+      ???)
+    (5__25__CD
+      1__between__IN
+      ???)
+    (6__%__NN
+      1__between__IN
+      ???)
+    (1__between__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__between__IN (IN__1__between__IN 1__between__IN) (CD__2__20__CD 2__20__CD) (NN__3__%__NN 3__%__NN)
+    (CC__4__and__CC 4__and__CC)
+    (CD__5__25__CD 5__25__CD) (NN__6__%__NN 6__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__or__CC
+      2__two__CD
+      ???)
+    (2__two__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__two__CD (CC__1__or__CC 1__or__CC)
+    (CD__2__two__CD 2__two__CD)))
+
+(ROOT
+  (DEPS
+    (1__up__IN
+      3__$__$
+      ???)
+    (2__to__TO
+      3__$__$
+      ???)
+    (4__500__CD
+      3__$__$
+      ???)
+    (5__million__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (IN__1__up__IN 1__up__IN) (TO__2__to__TO 2__to__TO) ($__3__$__$ 3__$__$) (CD__4__500__CD 4__500__CD) (CD__5__million__CD 5__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__RBR
+      3__$__$
+      ???)
+    (2__than__IN
+      3__$__$
+      ???)
+    (4__75__CD
+      3__$__$
+      ???)
+    (5__million__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (RBR__1__more__RBR 1__more__RBR) (IN__2__than__IN 2__than__IN) ($__3__$__$ 3__$__$) (CD__4__75__CD 4__75__CD) (CD__5__million__CD 5__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__600__CD
+      1__$__$
+      ???)
+    (3__million__CD
+      1__$__$
+      ???)
+    (4__or__CC
+      1__$__$
+      ???)
+    (5__more__JJR
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__600__CD 2__600__CD) (CD__3__million__CD 3__million__CD)
+    (CC__4__or__CC 4__or__CC)
+    (JJR__5__more__JJR 5__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      3__as__IN
+      ???)
+    (2__many__JJ
+      3__as__IN
+      ???)
+    (4__45__CD
+      3__as__IN
+      ???)
+    (5__million__CD
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (RB__1__as__RB 1__as__RB) (JJ__2__many__JJ 2__many__JJ) (IN__3__as__IN 3__as__IN) (CD__4__45__CD 4__45__CD) (CD__5__million__CD 5__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__between__IN
+      2__$__$
+      ???)
+    (3__190__CD
+      2__$__$
+      ???)
+    (4__million__CD
+      2__$__$
+      ???)
+    (5__and__CC
+      2__$__$
+      ???)
+    (6__$__$
+      2__$__$
+      ???)
+    (7__195__CD
+      2__$__$
+      ???)
+    (8__million__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (IN__1__between__IN 1__between__IN) ($__2__$__$ 2__$__$) (CD__3__190__CD 3__190__CD) (CD__4__million__CD 4__million__CD)
+    (CC__5__and__CC 5__and__CC)
+    ($__6__$__$ 6__$__$) (CD__7__195__CD 7__195__CD) (CD__8__million__CD 8__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      3__2__CD
+      ???)
+    (2__about__RB
+      3__2__CD
+      ???)
+    (3__2__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__2__CD (RB__1__only__RB 1__only__RB) (RB__2__about__RB 2__about__RB) (CD__3__2__CD 3__2__CD)))
+
+(ROOT
+  (DEPS
+    (1__nearly__RB
+      2__half__NN
+      ???)
+    (2__half__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__half__NN (RB__1__nearly__RB 1__nearly__RB) (NN__2__half__NN 2__half__NN)))
+
+(ROOT
+  (DEPS
+    (1__between__IN
+      2__$__$
+      ???)
+    (3__35__CD
+      2__$__$
+      ???)
+    (4__and__CC
+      2__$__$
+      ???)
+    (5__$__$
+      2__$__$
+      ???)
+    (6__55__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (IN__1__between__IN 1__between__IN) ($__2__$__$ 2__$__$) (CD__3__35__CD 3__35__CD)
+    (CC__4__and__CC 4__and__CC)
+    ($__5__$__$ 5__$__$) (CD__6__55__CD 6__55__CD)))
+
+(ROOT
+  (DEPS
+    (2__or__CC
+      1__one__CD
+      ???)
+    (3__more__JJR
+      2__or__CC
+      ???)
+    (1__one__CD
+      0__ROOT__
+      ROOT))
+  (QP__1__one__CD (CD__1__one__CD 1__one__CD)
+    (CONJPP__2__or__CC (CC__2__or__CC 2__or__CC)
+      (JJR__3__more__JJR 3__more__JJR))))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      2__than__IN
+      ???)
+    (3__half__PDT
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) (PDT__3__half__PDT 3__half__PDT)))
+
+(ROOT
+  (DEPS
+    (2__10,000__CD
+      1__$__$
+      ???)
+    (3__to__TO
+      1__$__$
+      ???)
+    (4__$__$
+      1__$__$
+      ???)
+    (5__1__CD
+      1__$__$
+      ???)
+    (6__million__CD
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__10,000__CD 2__10,000__CD) (TO__3__to__TO 3__to__TO) ($__4__$__$ 4__$__$) (CD__5__1__CD 5__1__CD) (CD__6__million__CD 6__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__less__JJR
+      2__than__IN
+      ???)
+    (3__a__DT
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__less__JJR 1__less__JJR) (IN__2__than__IN 2__than__IN) (DT__3__a__DT 3__a__DT)))
+
+(ROOT
+  (DEPS
+    (2__double__RB
+      1__nearly__RB
+      ???)
+    (1__nearly__RB
+      0__ROOT__
+      ROOT))
+  (QP__1__nearly__RB (RB__1__nearly__RB 1__nearly__RB) (RB__2__double__RB 2__double__RB)))
+
+(ROOT
+  (DEPS
+    (2__15,015,000__CD
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__15,015,000__CD 2__15,015,000__CD)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      3__as__IN
+      ???)
+    (2__much__RB
+      3__as__IN
+      ???)
+    (4__50__CD
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (RB__1__as__RB 1__as__RB) (RB__2__much__RB 2__much__RB) (IN__3__as__IN 3__as__IN) (CD__4__50__CD 4__50__CD)))
+
+(ROOT
+  (DEPS
+    (2__half__DT
+      1__almost__RB
+      ???)
+    (1__almost__RB
+      0__ROOT__
+      ROOT))
+  (QP__1__almost__RB (RB__1__almost__RB 1__almost__RB) (DT__2__half__DT 2__half__DT)))
+
+(ROOT
+  (DEPS
+    (2__2,520__CD
+      1__between__IN
+      ???)
+    (3__and__CC
+      1__between__IN
+      ???)
+    (4__6,881__CD
+      1__between__IN
+      ???)
+    (1__between__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__between__IN (IN__1__between__IN 1__between__IN) (CD__2__2,520__CD 2__2,520__CD)
+    (CC__3__and__CC 3__and__CC)
+    (CD__4__6,881__CD 4__6,881__CD)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      4__$__$
+      ???)
+    (2__low__JJ
+      4__$__$
+      ???)
+    (3__as__IN
+      4__$__$
+      ???)
+    (5__145__CD
+      4__$__$
+      ???)
+    (4__$__$
+      0__ROOT__
+      ROOT))
+  (QP__4__$__$ (RB__1__as__RB 1__as__RB) (JJ__2__low__JJ 2__low__JJ) (IN__3__as__IN 3__as__IN) ($__4__$__$ 4__$__$) (CD__5__145__CD 5__145__CD)))
+
+(ROOT
+  (DEPS
+    (2__more__JJR
+      1__four__CD
+      ???)
+    (1__four__CD
+      0__ROOT__
+      ROOT))
+  (QP__1__four__CD (CD__1__four__CD 1__four__CD) (JJR__2__more__JJR 2__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      4__$__$
+      ???)
+    (2__much__RB
+      4__$__$
+      ???)
+    (3__as__IN
+      4__$__$
+      ???)
+    (5__50__CD
+      4__$__$
+      ???)
+    (6__million__CD
+      4__$__$
+      ???)
+    (4__$__$
+      0__ROOT__
+      ROOT))
+  (QP__4__$__$ (RB__1__as__RB 1__as__RB) (RB__2__much__RB 2__much__RB) (IN__3__as__IN 3__as__IN) ($__4__$__$ 4__$__$) (CD__5__50__CD 5__50__CD) (CD__6__million__CD 6__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__No__RB
+      3__than__IN
+      ???)
+    (2__fewer__JJR
+      3__than__IN
+      ???)
+    (4__24__CD
+      3__than__IN
+      ???)
+    (3__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__than__IN (RB__1__No__RB 1__No__RB) (JJR__2__fewer__JJR 2__fewer__JJR) (IN__3__than__IN 3__than__IN) (CD__4__24__CD 4__24__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      2__than__IN
+      ???)
+    (3__half__NN
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) (NN__3__half__NN 3__half__NN)))
+
+(ROOT
+  (DEPS
+    (2__or__CC
+      1__5,000__CD
+      ???)
+    (3__so__RB
+      2__or__CC
+      ???)
+    (1__5,000__CD
+      0__ROOT__
+      ROOT))
+  (QP__1__5,000__CD (CD__1__5,000__CD 1__5,000__CD)
+    (CONJPP__2__or__CC (CC__2__or__CC 2__or__CC)
+      (RB__3__so__RB 3__so__RB))))
+
+(ROOT
+  (DEPS
+    (2__a__DT
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (DT__2__a__DT 2__a__DT)))
+
+(ROOT
+  (DEPS
+    (2__half__PDT
+      1__only__RB
+      ???)
+    (1__only__RB
+      0__ROOT__
+      ROOT))
+  (QP__1__only__RB (RB__1__only__RB 1__only__RB) (PDT__2__half__PDT 2__half__PDT)))
+
+(ROOT
+  (DEPS
+    (1__about__RB
+      3__20__CD
+      ???)
+    (2__#__#
+      3__20__CD
+      ???)
+    (4__billion__CD
+      3__20__CD
+      ???)
+    (3__20__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__20__CD (RB__1__about__RB 1__about__RB) (#__2__#__# 2__#__#) (CD__3__20__CD 3__20__CD) (CD__4__billion__CD 4__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__about__RB
+      2__one-third__JJ
+      ???)
+    (2__one-third__JJ
+      0__ROOT__
+      ROOT))
+  (QP__2__one-third__JJ (RB__1__about__RB 1__about__RB) (JJ__2__one-third__JJ 2__one-third__JJ)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      3__of__IN
+      ???)
+    (2__two__CD
+      3__of__IN
+      ???)
+    (4__six__CD
+      3__of__IN
+      ???)
+    (3__of__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__of__IN (RB__1__only__RB 1__only__RB) (CD__2__two__CD 2__two__CD) (IN__3__of__IN 3__of__IN) (CD__4__six__CD 4__six__CD)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      3__%__NN
+      ???)
+    (2__1__CD
+      3__%__NN
+      ???)
+    (4__to__TO
+      3__%__NN
+      ???)
+    (5__5__CD
+      3__%__NN
+      ???)
+    (6__%__NN
+      3__%__NN
+      ???)
+    (3__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__%__NN (RB__1__only__RB 1__only__RB) (CD__2__1__CD 2__1__CD) (NN__3__%__NN 3__%__NN) (TO__4__to__TO 4__to__TO) (CD__5__5__CD 5__5__CD) (NN__6__%__NN 6__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__close__RB
+      3__$__$
+      ???)
+    (2__to__TO
+      3__$__$
+      ???)
+    (4__100__CD
+      3__$__$
+      ???)
+    (5__million__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (RB__1__close__RB 1__close__RB) (TO__2__to__TO 2__to__TO) ($__3__$__$ 3__$__$) (CD__4__100__CD 4__100__CD) (CD__5__million__CD 5__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__about__RB
+      2__eight__CD
+      ???)
+    (3__to__TO
+      2__eight__CD
+      ???)
+    (4__10__CD
+      2__eight__CD
+      ???)
+    (2__eight__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__eight__CD (RB__1__about__RB 1__about__RB) (CD__2__eight__CD 2__eight__CD) (TO__3__to__TO 3__to__TO) (CD__4__10__CD 4__10__CD)))
+
+(ROOT
+  (DEPS
+    (2__half__PDT
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (PDT__2__half__PDT 2__half__PDT)))
+
+(ROOT
+  (DEPS
+    (1__more__RBR
+      2__than__IN
+      ???)
+    (3__a__DT
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (RBR__1__more__RBR 1__more__RBR) (IN__2__than__IN 2__than__IN) (DT__3__a__DT 3__a__DT)))
+
+(ROOT
+  (DEPS
+    (2__#__#
+      1__about__IN
+      ???)
+    (3__15__CD
+      1__about__IN
+      ???)
+    (4__billion__CD
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (#__2__#__# 2__#__#) (CD__3__15__CD 3__15__CD) (CD__4__billion__CD 4__billion__CD)))
+
+(ROOT
+  (DEPS
+    (2__half__NN
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (NN__2__half__NN 2__half__NN)))
+
+(ROOT
+  (DEPS
+    (1__9__CD
+      2__%__NN
+      ???)
+    (3__and__CC
+      2__%__NN
+      ???)
+    (4__14__CD
+      2__%__NN
+      ???)
+    (5__%__NN
+      2__%__NN
+      ???)
+    (2__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__%__NN (CD__1__9__CD 1__9__CD) (NN__2__%__NN 2__%__NN)
+    (CC__3__and__CC 3__and__CC)
+    (CD__4__14__CD 4__14__CD) (NN__5__%__NN 5__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__three__CD
+      4__times__NNS
+      ???)
+    (2__to__TO
+      4__times__NNS
+      ???)
+    (3__five__CD
+      4__times__NNS
+      ???)
+    (4__times__NNS
+      0__ROOT__
+      ROOT))
+  (QP__4__times__NNS (CD__1__three__CD 1__three__CD) (TO__2__to__TO 2__to__TO) (CD__3__five__CD 3__five__CD) (NNS__4__times__NNS 4__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__15__CD
+      2__%__NN
+      ???)
+    (3__or__CC
+      2__%__NN
+      ???)
+    (4__more__JJR
+      2__%__NN
+      ???)
+    (2__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__%__NN (CD__1__15__CD 1__15__CD) (NN__2__%__NN 2__%__NN)
+    (CC__3__or__CC 3__or__CC)
+    (JJR__4__more__JJR 4__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__more__RBR
+      2__than__IN
+      ???)
+    (3__1.6__CD
+      2__than__IN
+      ???)
+    (4__million__CD
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (RBR__1__more__RBR 1__more__RBR) (IN__2__than__IN 2__than__IN) (CD__3__1.6__CD 3__1.6__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__about__RB
+      3__times__NNS
+      ???)
+    (2__five__CD
+      3__times__NNS
+      ???)
+    (3__times__NNS
+      0__ROOT__
+      ROOT))
+  (QP__3__times__NNS (RB__1__about__RB 1__about__RB) (CD__2__five__CD 2__five__CD) (NNS__3__times__NNS 3__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__about__IN
+      2__$__$
+      ???)
+    (3__45__CD
+      2__$__$
+      ???)
+    (4__to__TO
+      2__$__$
+      ???)
+    (5__$__$
+      2__$__$
+      ???)
+    (6__50__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (IN__1__about__IN 1__about__IN) ($__2__$__$ 2__$__$) (CD__3__45__CD 3__45__CD) (TO__4__to__TO 4__to__TO) ($__5__$__$ 5__$__$) (CD__6__50__CD 6__50__CD)))
+
+(ROOT
+  (DEPS
+    (1__9__CD
+      3__%__NN
+      ???)
+    (2__3\/4__CD
+      3__%__NN
+      ???)
+    (4__to__TO
+      3__%__NN
+      ???)
+    (5__10__CD
+      3__%__NN
+      ???)
+    (6__%__NN
+      3__%__NN
+      ???)
+    (3__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__%__NN (CD__1__9__CD 1__9__CD) (CD__2__3\/4__CD 2__3\/4__CD) (NN__3__%__NN 3__%__NN) (TO__4__to__TO 4__to__TO) (CD__5__10__CD 5__10__CD) (NN__6__%__NN 6__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__up__RB
+      3__150,000__CD
+      ???)
+    (2__to__TO
+      3__150,000__CD
+      ???)
+    (3__150,000__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__150,000__CD (RB__1__up__RB 1__up__RB) (TO__2__to__TO 2__to__TO) (CD__3__150,000__CD 3__150,000__CD)))
+
+(ROOT
+  (DEPS
+    (1__7.71__CD
+      2__%__NN
+      ???)
+    (3__to__TO
+      2__%__NN
+      ???)
+    (4__7.73__CD
+      2__%__NN
+      ???)
+    (2__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__%__NN (CD__1__7.71__CD 1__7.71__CD) (NN__2__%__NN 2__%__NN) (TO__3__to__TO 3__to__TO) (CD__4__7.73__CD 4__7.73__CD)))
+
+(ROOT
+  (DEPS
+    (1__7__CD
+      0__ROOT__
+      ROOT))
+  (QP__1__7__CD (CD__1__7__CD 1__7__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      2__than__IN
+      ???)
+    (3__10__CD
+      2__than__IN
+      ???)
+    (4__times__NNS
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) (CD__3__10__CD 3__10__CD) (NNS__4__times__NNS 4__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      2__third__JJ
+      ???)
+    (2__third__JJ
+      0__ROOT__
+      ROOT))
+  (QP__2__third__JJ (DT__1__a__DT 1__a__DT) (JJ__2__third__JJ 2__third__JJ)))
+
+(ROOT
+  (DEPS
+    (1__almost__RB
+      3__tenth__NN
+      ???)
+    (2__a__DT
+      3__tenth__NN
+      ???)
+    (3__tenth__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__tenth__NN (RB__1__almost__RB 1__almost__RB) (DT__2__a__DT 2__a__DT) (NN__3__tenth__NN 3__tenth__NN)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      2__$__$
+      ???)
+    (3__36__CD
+      2__$__$
+      ???)
+    (4__to__TO
+      2__$__$
+      ???)
+    (5__$__$
+      2__$__$
+      ???)
+    (6__45__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (RB__1__only__RB 1__only__RB) ($__2__$__$ 2__$__$) (CD__3__36__CD 3__36__CD) (TO__4__to__TO 4__to__TO) ($__5__$__$ 5__$__$) (CD__6__45__CD 6__45__CD)))
+
+(ROOT
+  (DEPS
+    (1__to__TO
+      2__7.10__CD
+      ???)
+    (2__7.10__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__7.10__CD (TO__1__to__TO 1__to__TO) (CD__2__7.10__CD 2__7.10__CD)))
+
+(ROOT
+  (DEPS
+    (1__More__JJR
+      2__than__IN
+      ???)
+    (3__two-thirds__NNS
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__More__JJR 1__More__JJR) (IN__2__than__IN 2__than__IN) (NNS__3__two-thirds__NNS 3__two-thirds__NNS)))
+
+(ROOT
+  (DEPS
+    (2__more__RBR
+      1__or__CC
+      ???)
+    (1__or__CC
+      0__ROOT__
+      ROOT))
+  (QP__1__or__CC (CC__1__or__CC 1__or__CC)
+    (RBR__2__more__RBR 2__more__RBR)))
+
+(ROOT
+  (DEPS
+    (2__to__TO
+      1__up__IN
+      ???)
+    (3__20__CD
+      1__up__IN
+      ???)
+    (4__million__CD
+      1__up__IN
+      ???)
+    (1__up__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__up__IN (IN__1__up__IN 1__up__IN) (TO__2__to__TO 2__to__TO) (CD__3__20__CD 3__20__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__hundred__CD
+      1__several__JJ
+      ???)
+    (3__million__CD
+      1__several__JJ
+      ???)
+    (1__several__JJ
+      0__ROOT__
+      ROOT))
+  (QP__1__several__JJ (JJ__1__several__JJ 1__several__JJ) (CD__2__hundred__CD 2__hundred__CD) (CD__3__million__CD 3__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__some__DT
+      2__100__CD
+      ???)
+    (3__million__CD
+      2__100__CD
+      ???)
+    (2__100__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__100__CD (DT__1__some__DT 1__some__DT) (CD__2__100__CD 2__100__CD) (CD__3__million__CD 3__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__two__CD
+      2__dozen__NN
+      ???)
+    (2__dozen__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__dozen__NN (CD__1__two__CD 1__two__CD) (NN__2__dozen__NN 2__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (2__6__CD
+      1__$__$
+      ???)
+    (3__or__CC
+      1__$__$
+      ???)
+    (4__$__$
+      1__$__$
+      ???)
+    (5__7__CD
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__6__CD 2__6__CD)
+    (CC__3__or__CC 3__or__CC)
+    ($__4__$__$ 4__$__$) (CD__5__7__CD 5__7__CD)))
+
+(ROOT
+  (DEPS
+    (1__hundreds__NNS
+      2__of__IN
+      ???)
+    (3__thousands__NNS
+      2__of__IN
+      ???)
+    (2__of__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__of__IN (NNS__1__hundreds__NNS 1__hundreds__NNS) (IN__2__of__IN 2__of__IN) (NNS__3__thousands__NNS 3__thousands__NNS)))
+
+(ROOT
+  (DEPS
+    (2__five__CD
+      1__between__IN
+      ???)
+    (3__million__CD
+      1__between__IN
+      ???)
+    (4__and__CC
+      1__between__IN
+      ???)
+    (5__six__CD
+      1__between__IN
+      ???)
+    (6__million__CD
+      1__between__IN
+      ???)
+    (1__between__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__between__IN (IN__1__between__IN 1__between__IN) (CD__2__five__CD 2__five__CD) (CD__3__million__CD 3__million__CD)
+    (CC__4__and__CC 4__and__CC)
+    (CD__5__six__CD 5__six__CD) (CD__6__million__CD 6__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__estimated__VBN
+      2__$__$
+      ???)
+    (3__470__CD
+      2__$__$
+      ???)
+    (4__million__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (VBN__1__estimated__VBN 1__estimated__VBN) ($__2__$__$ 2__$__$) (CD__3__470__CD 3__470__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__up__RB
+      3__$__$
+      ???)
+    (2__to__TO
+      3__$__$
+      ???)
+    (4__67,000__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (RB__1__up__RB 1__up__RB) (TO__2__to__TO 2__to__TO) ($__3__$__$ 3__$__$) (CD__4__67,000__CD 4__67,000__CD)))
+
+(ROOT
+  (DEPS
+    (2__50,000__CD
+      1__$__$
+      ???)
+    (3__or__CC
+      1__$__$
+      ???)
+    (4__less__JJR
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__50,000__CD 2__50,000__CD)
+    (CC__3__or__CC 3__or__CC)
+    (JJR__4__less__JJR 4__less__JJR)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      2__than__IN
+      ???)
+    (3__double__RB
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) (RB__3__double__RB 3__double__RB)))
+
+(ROOT
+  (DEPS
+    (1__14__CD
+      2__cents__NNS
+      ???)
+    (3__to__TO
+      2__cents__NNS
+      ???)
+    (4__18__CD
+      2__cents__NNS
+      ???)
+    (2__cents__NNS
+      0__ROOT__
+      ROOT))
+  (QP__2__cents__NNS (CD__1__14__CD 1__14__CD) (NNS__2__cents__NNS 2__cents__NNS) (TO__3__to__TO 3__to__TO) (CD__4__18__CD 4__18__CD)))
+
+(ROOT
+  (DEPS
+    (1__roughly__RB
+      2__$__$
+      ???)
+    (3__2__CD
+      2__$__$
+      ???)
+    (4__billion__CD
+      2__$__$
+      ???)
+    (5__to__TO
+      2__$__$
+      ???)
+    (6__$__$
+      2__$__$
+      ???)
+    (7__4__CD
+      2__$__$
+      ???)
+    (8__billion__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (RB__1__roughly__RB 1__roughly__RB) ($__2__$__$ 2__$__$) (CD__3__2__CD 3__2__CD) (CD__4__billion__CD 4__billion__CD) (TO__5__to__TO 5__to__TO) ($__6__$__$ 6__$__$) (CD__7__4__CD 7__4__CD) (CD__8__billion__CD 8__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__approximately__RB
+      2__two-thirds__NNS
+      ???)
+    (2__two-thirds__NNS
+      0__ROOT__
+      ROOT))
+  (QP__2__two-thirds__NNS (RB__1__approximately__RB 1__approximately__RB) (NNS__2__two-thirds__NNS 2__two-thirds__NNS)))
+
+(ROOT
+  (DEPS
+    (2__15__CD
+      1__$__$
+      ???)
+    (3__million__CD
+      1__$__$
+      ???)
+    (4__and__CC
+      1__$__$
+      ???)
+    (5__$__$
+      1__$__$
+      ???)
+    (6__30__CD
+      1__$__$
+      ???)
+    (7__million__CD
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__15__CD 2__15__CD) (CD__3__million__CD 3__million__CD)
+    (CC__4__and__CC 4__and__CC)
+    ($__5__$__$ 5__$__$) (CD__6__30__CD 6__30__CD) (CD__7__million__CD 7__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__half__RB
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (RB__2__half__RB 2__half__RB)))
+
+(ROOT
+  (DEPS
+    (1__A__DT
+      3__of__IN
+      ???)
+    (2__total__NN
+      3__of__IN
+      ???)
+    (4__139__CD
+      3__of__IN
+      ???)
+    (3__of__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__of__IN (DT__1__A__DT 1__A__DT) (NN__2__total__NN 2__total__NN) (IN__3__of__IN 3__of__IN) (CD__4__139__CD 4__139__CD)))
+
+(ROOT
+  (DEPS
+    (2__10__CD
+      1__About__IN
+      ???)
+    (3__%__NN
+      1__About__IN
+      ???)
+    (4__to__TO
+      1__About__IN
+      ???)
+    (5__15__CD
+      1__About__IN
+      ???)
+    (6__%__NN
+      1__About__IN
+      ???)
+    (1__About__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__About__IN (IN__1__About__IN 1__About__IN) (CD__2__10__CD 2__10__CD) (NN__3__%__NN 3__%__NN) (TO__4__to__TO 4__to__TO) (CD__5__15__CD 5__15__CD) (NN__6__%__NN 6__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__less__JJR
+      2__than__IN
+      ???)
+    (3__an__DT
+      2__than__IN
+      ???)
+    (4__eighth__NN
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__less__JJR 1__less__JJR) (IN__2__than__IN 2__than__IN) (DT__3__an__DT 3__an__DT) (NN__4__eighth__NN 4__eighth__NN)))
+
+(ROOT
+  (DEPS
+    (1__well__RB
+      2__over__IN
+      ???)
+    (3__10__CD
+      2__over__IN
+      ???)
+    (4__million__CD
+      2__over__IN
+      ???)
+    (2__over__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__over__IN (RB__1__well__RB 1__well__RB) (IN__2__over__IN 2__over__IN) (CD__3__10__CD 3__10__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__about__IN
+      2__$__$
+      ???)
+    (3__80__CD
+      2__$__$
+      ???)
+    (4__million__CD
+      2__$__$
+      ???)
+    (5__to__TO
+      2__$__$
+      ???)
+    (6__$__$
+      2__$__$
+      ???)
+    (7__90__CD
+      2__$__$
+      ???)
+    (8__million__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (IN__1__about__IN 1__about__IN) ($__2__$__$ 2__$__$) (CD__3__80__CD 3__80__CD) (CD__4__million__CD 4__million__CD) (TO__5__to__TO 5__to__TO) ($__6__$__$ 6__$__$) (CD__7__90__CD 7__90__CD) (CD__8__million__CD 8__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__several__JJ
+      2__billions__NNS
+      ???)
+    (2__billions__NNS
+      0__ROOT__
+      ROOT))
+  (QP__2__billions__NNS (JJ__1__several__JJ 1__several__JJ) (NNS__2__billions__NNS 2__billions__NNS)))
+
+(ROOT
+  (DEPS
+    (1__some__DT
+      2__$__$
+      ???)
+    (3__400,000__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (DT__1__some__DT 1__some__DT) ($__2__$__$ 2__$__$) (CD__3__400,000__CD 3__400,000__CD)))
+
+(ROOT
+  (DEPS
+    (1__19__CD
+      2__out__IN
+      ???)
+    (3__of__IN
+      2__out__IN
+      ???)
+    (4__20__CD
+      2__out__IN
+      ???)
+    (2__out__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__out__IN (CD__1__19__CD 1__19__CD) (IN__2__out__IN 2__out__IN) (IN__3__of__IN 3__of__IN) (CD__4__20__CD 4__20__CD)))
+
+(ROOT
+  (DEPS
+    (1__up__IN
+      3__$__$
+      ???)
+    (2__to__TO
+      3__$__$
+      ???)
+    (4__18,000__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (IN__1__up__IN 1__up__IN) (TO__2__to__TO 2__to__TO) ($__3__$__$ 3__$__$) (CD__4__18,000__CD 4__18,000__CD)))
+
+(ROOT
+  (DEPS
+    (2__million__CD
+      1__28__CD
+      ???)
+    (3__to__TO
+      1__28__CD
+      ???)
+    (4__29__CD
+      1__28__CD
+      ???)
+    (5__million__CD
+      1__28__CD
+      ???)
+    (1__28__CD
+      0__ROOT__
+      ROOT))
+  (QP__1__28__CD (CD__1__28__CD 1__28__CD) (CD__2__million__CD 2__million__CD) (TO__3__to__TO 3__to__TO) (CD__4__29__CD 4__29__CD) (CD__5__million__CD 5__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__half__PDT
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (PDT__3__half__PDT 3__half__PDT)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      3__as__IN
+      ???)
+    (2__much__JJ
+      3__as__IN
+      ???)
+    (4__40__CD
+      3__as__IN
+      ???)
+    (5__%__NN
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (RB__1__as__RB 1__as__RB) (JJ__2__much__JJ 2__much__JJ) (IN__3__as__IN 3__as__IN) (CD__4__40__CD 4__40__CD) (NN__5__%__NN 5__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      4__$__$
+      ???)
+    (2__much__RB
+      4__$__$
+      ???)
+    (3__as__IN
+      4__$__$
+      ???)
+    (5__100__CD
+      4__$__$
+      ???)
+    (4__$__$
+      0__ROOT__
+      ROOT))
+  (QP__4__$__$ (RB__1__as__RB 1__as__RB) (RB__2__much__RB 2__much__RB) (IN__3__as__IN 3__as__IN) ($__4__$__$ 4__$__$) (CD__5__100__CD 5__100__CD)))
+
+(ROOT
+  (DEPS
+    (2__but__CC
+      1__all__DT
+      ???)
+    (3__eight__CD
+      2__but__CC
+      ???)
+    (1__all__DT
+      0__ROOT__
+      ROOT))
+  (QP__1__all__DT (DT__1__all__DT 1__all__DT)
+    (CONJPP__2__but__CC (CC__2__but__CC 2__but__CC)
+      (CD__3__eight__CD 3__eight__CD))))
+
+(ROOT
+  (DEPS
+    (2__50__CD
+      1__about__IN
+      ???)
+    (3__to__TO
+      1__about__IN
+      ???)
+    (4__55__CD
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (CD__2__50__CD 2__50__CD) (TO__3__to__TO 3__to__TO) (CD__4__55__CD 4__55__CD)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__another__DT
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (DT__3__another__DT 3__another__DT)))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      2__mere__JJ
+      ???)
+    (3__0.7__CD
+      2__mere__JJ
+      ???)
+    (2__mere__JJ
+      0__ROOT__
+      ROOT))
+  (QP__2__mere__JJ (DT__1__a__DT 1__a__DT) (JJ__2__mere__JJ 2__mere__JJ) (CD__3__0.7__CD 3__0.7__CD)))
+
+(ROOT
+  (DEPS
+    (1__More__JJR
+      2__than__IN
+      ???)
+    (3__three__CD
+      2__than__IN
+      ???)
+    (4__in__IN
+      2__than__IN
+      ???)
+    (5__five__CD
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__More__JJR 1__More__JJR) (IN__2__than__IN 2__than__IN) (CD__3__three__CD 3__three__CD) (IN__4__in__IN 4__in__IN) (CD__5__five__CD 5__five__CD)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__three__CD
+      1__at__IN
+      ???)
+    (4__million__CD
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (CD__3__three__CD 3__three__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__two-thirds__NNS
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (NNS__2__two-thirds__NNS 2__two-thirds__NNS)))
+
+(ROOT
+  (DEPS
+    (1__no__DT
+      3__than__IN
+      ???)
+    (2__more__JJR
+      3__than__IN
+      ???)
+    (4__4__CD
+      3__than__IN
+      ???)
+    (3__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__than__IN (DT__1__no__DT 1__no__DT) (JJR__2__more__JJR 2__more__JJR) (IN__3__than__IN 3__than__IN) (CD__4__4__CD 4__4__CD)))
+
+(ROOT
+  (DEPS
+    (1__just__RB
+      3__$__$
+      ???)
+    (2__over__IN
+      3__$__$
+      ???)
+    (4__9__CD
+      3__$__$
+      ???)
+    (5__billion__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (RB__1__just__RB 1__just__RB) (IN__2__over__IN 2__over__IN) ($__3__$__$ 3__$__$) (CD__4__9__CD 4__9__CD) (CD__5__billion__CD 5__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__roughly__RB
+      3__70,000__CD
+      ???)
+    (2__#__#
+      3__70,000__CD
+      ???)
+    (3__70,000__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__70,000__CD (RB__1__roughly__RB 1__roughly__RB) (#__2__#__# 2__#__#) (CD__3__70,000__CD 3__70,000__CD)))
+
+(ROOT
+  (DEPS
+    (1__triple__RB
+      0__ROOT__
+      ROOT))
+  (QP__1__triple__RB (RB__1__triple__RB 1__triple__RB)))
+
+(ROOT
+  (DEPS
+    (2__4__CD
+      1__about__IN
+      ???)
+    (3__1\/4__CD
+      1__about__IN
+      ???)
+    (4__times__NNS
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (CD__2__4__CD 2__4__CD) (CD__3__1\/4__CD 3__1\/4__CD) (NNS__4__times__NNS 4__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__minimum__JJ
+      2__$__$
+      ???)
+    (3__5,000__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (JJ__1__minimum__JJ 1__minimum__JJ) ($__2__$__$ 2__$__$) (CD__3__5,000__CD 3__5,000__CD)))
+
+(ROOT
+  (DEPS
+    (1__some__RB
+      3__dozen__NN
+      ???)
+    (2__two__CD
+      3__dozen__NN
+      ???)
+    (3__dozen__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__dozen__NN (RB__1__some__RB 1__some__RB) (CD__2__two__CD 2__two__CD) (NN__3__dozen__NN 3__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (1__More__RBR
+      2__than__IN
+      ???)
+    (3__half__PDT
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (RBR__1__More__RBR 1__More__RBR) (IN__2__than__IN 2__than__IN) (PDT__3__half__PDT 3__half__PDT)))
+
+(ROOT
+  (DEPS
+    (1__Only__RB
+      3__of__IN
+      ???)
+    (2__five__CD
+      3__of__IN
+      ???)
+    (4__the__DT
+      3__of__IN
+      ???)
+    (5__40__CD
+      3__of__IN
+      ???)
+    (3__of__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__of__IN (RB__1__Only__RB 1__Only__RB) (CD__2__five__CD 2__five__CD) (IN__3__of__IN 3__of__IN) (DT__4__the__DT 4__the__DT) (CD__5__40__CD 5__40__CD)))
+
+(ROOT
+  (DEPS
+    (1__less__RBR
+      3__$__$
+      ???)
+    (2__than__IN
+      3__$__$
+      ???)
+    (4__1,600__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (RBR__1__less__RBR 1__less__RBR) (IN__2__than__IN 2__than__IN) ($__3__$__$ 3__$__$) (CD__4__1,600__CD 4__1,600__CD)))
+
+(ROOT
+  (DEPS
+    (2__1__CD
+      1__$__$
+      ???)
+    (3__trillion-plus__NN
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__1__CD 2__1__CD) (NN__3__trillion-plus__NN 3__trillion-plus__NN)))
+
+(ROOT
+  (DEPS
+    (1__just__RB
+      2__about__IN
+      ???)
+    (3__all__DT
+      2__about__IN
+      ???)
+    (2__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__about__IN (RB__1__just__RB 1__just__RB) (IN__2__about__IN 2__about__IN) (DT__3__all__DT 3__all__DT)))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      2__dozen__NN
+      ???)
+    (2__dozen__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__dozen__NN (DT__1__a__DT 1__a__DT) (NN__2__dozen__NN 2__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (1__all__DT
+      3__about__IN
+      ???)
+    (2__but__CC
+      3__about__IN
+      ???)
+    (4__30__CD
+      3__about__IN
+      ???)
+    (3__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__about__IN (DT__1__all__DT 1__all__DT)
+    (CC__2__but__CC 2__but__CC)
+    (IN__3__about__IN 3__about__IN) (CD__4__30__CD 4__30__CD)))
+
+(ROOT
+  (DEPS
+    (1__FFr__SYM
+      2__27.68__CD
+      ???)
+    (3__billion__CD
+      2__27.68__CD
+      ???)
+    (2__27.68__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__27.68__CD (SYM__1__FFr__SYM 1__FFr__SYM) (CD__2__27.68__CD 2__27.68__CD) (CD__3__billion__CD 3__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__1__CD
+      3__Swedish__JJ
+      ???)
+    (2__billion__CD
+      3__Swedish__JJ
+      ???)
+    (3__Swedish__JJ
+      0__ROOT__
+      ROOT))
+  (QP__3__Swedish__JJ (CD__1__1__CD 1__1__CD) (CD__2__billion__CD 2__billion__CD) (JJ__3__Swedish__JJ 3__Swedish__JJ)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__half__NN
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (NN__3__half__NN 3__half__NN)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      2__than__IN
+      ???)
+    (3__three__CD
+      2__than__IN
+      ???)
+    (4__dozen__NN
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) (CD__3__three__CD 3__three__CD) (NN__4__dozen__NN 4__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (1__about__RP
+      2__11__CD
+      ???)
+    (2__11__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__11__CD (RP__1__about__RP 1__about__RP) (CD__2__11__CD 2__11__CD)))
+
+(ROOT
+  (DEPS
+    (1__1.5__CD
+      2__million-gallon__JJ
+      ???)
+    (2__million-gallon__JJ
+      0__ROOT__
+      ROOT))
+  (QP__2__million-gallon__JJ (CD__1__1.5__CD 1__1.5__CD) (JJ__2__million-gallon__JJ 2__million-gallon__JJ)))
+
+(ROOT
+  (DEPS
+    (2__hundred__CD
+      1__One__CD
+      ???)
+    (3__and__CC
+      1__One__CD
+      ???)
+    (4__ninety__CD
+      1__One__CD
+      ???)
+    (5__two__CD
+      1__One__CD
+      ???)
+    (1__One__CD
+      0__ROOT__
+      ROOT))
+  (QP__1__One__CD (CD__1__One__CD 1__One__CD) (CD__2__hundred__CD 2__hundred__CD)
+    (CC__3__and__CC 3__and__CC)
+    (CD__4__ninety__CD 4__ninety__CD) (CD__5__two__CD 5__two__CD)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__several__JJ
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (JJ__3__several__JJ 3__several__JJ)))
+
+(ROOT
+  (DEPS
+    (1__close__RB
+      3__12__CD
+      ???)
+    (2__to__TO
+      3__12__CD
+      ???)
+    (4__million__CD
+      3__12__CD
+      ???)
+    (3__12__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__12__CD (RB__1__close__RB 1__close__RB) (TO__2__to__TO 2__to__TO) (CD__3__12__CD 3__12__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__four__CD
+      1__about__IN
+      ???)
+    (3__times__NNS
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (CD__2__four__CD 2__four__CD) (NNS__3__times__NNS 3__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__anywhere__RB
+      2__from__IN
+      ???)
+    (3__50,000__CD
+      2__from__IN
+      ???)
+    (4__to__TO
+      2__from__IN
+      ???)
+    (5__100,000__CD
+      2__from__IN
+      ???)
+    (2__from__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__from__IN (RB__1__anywhere__RB 1__anywhere__RB) (IN__2__from__IN 2__from__IN) (CD__3__50,000__CD 3__50,000__CD) (TO__4__to__TO 4__to__TO) (CD__5__100,000__CD 5__100,000__CD)))
+
+(ROOT
+  (DEPS
+    (1__further__JJ
+      2__than__IN
+      ???)
+    (3__12__CD
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJ__1__further__JJ 1__further__JJ) (IN__2__than__IN 2__than__IN) (CD__3__12__CD 3__12__CD)))
+
+(ROOT
+  (DEPS
+    (1__at__IN
+      3__$__$
+      ???)
+    (2__least__JJS
+      3__$__$
+      ???)
+    (4__300__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) ($__3__$__$ 3__$__$) (CD__4__300__CD 4__300__CD)))
+
+(ROOT
+  (DEPS
+    (1__twice__RB
+      3__large__JJ
+      ???)
+    (2__as__RB
+      3__large__JJ
+      ???)
+    (3__large__JJ
+      0__ROOT__
+      ROOT))
+  (QP__3__large__JJ (RB__1__twice__RB 1__twice__RB) (RB__2__as__RB 2__as__RB) (JJ__3__large__JJ 3__large__JJ)))
+
+(ROOT
+  (DEPS
+    (1__somewhere__RB
+      3__$__$
+      ???)
+    (2__between__IN
+      3__$__$
+      ???)
+    (4__135__CD
+      3__$__$
+      ???)
+    (5__and__CC
+      3__$__$
+      ???)
+    (6__$__$
+      3__$__$
+      ???)
+    (7__150__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (RB__1__somewhere__RB 1__somewhere__RB) (IN__2__between__IN 2__between__IN) ($__3__$__$ 3__$__$) (CD__4__135__CD 4__135__CD)
+    (CC__5__and__CC 5__and__CC)
+    ($__6__$__$ 6__$__$) (CD__7__150__CD 7__150__CD)))
+
+(ROOT
+  (DEPS
+    (2__half__PDT
+      1__about__IN
+      ???)
+    (3__a__DT
+      1__about__IN
+      ???)
+    (4__dozen__NN
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (PDT__2__half__PDT 2__half__PDT) (DT__3__a__DT 3__a__DT) (NN__4__dozen__NN 4__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (1__more__RBR
+      2__than__IN
+      ???)
+    (3__one-fourth__NN
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (RBR__1__more__RBR 1__more__RBR) (IN__2__than__IN 2__than__IN) (NN__3__one-fourth__NN 3__one-fourth__NN)))
+
+(ROOT
+  (DEPS
+    (2__a__DT
+      1__over__IN
+      ???)
+    (3__dozen__NN
+      1__over__IN
+      ???)
+    (1__over__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__over__IN (IN__1__over__IN 1__over__IN) (DT__2__a__DT 2__a__DT) (NN__3__dozen__NN 3__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (1__no__DT
+      4__$__$
+      ???)
+    (2__more__JJR
+      4__$__$
+      ???)
+    (3__than__IN
+      4__$__$
+      ???)
+    (5__60__CD
+      4__$__$
+      ???)
+    (6__million__CD
+      4__$__$
+      ???)
+    (4__$__$
+      0__ROOT__
+      ROOT))
+  (QP__4__$__$ (DT__1__no__DT 1__no__DT) (JJR__2__more__JJR 2__more__JJR) (IN__3__than__IN 3__than__IN) ($__4__$__$ 4__$__$) (CD__5__60__CD 5__60__CD) (CD__6__million__CD 6__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__RBR
+      2__than__IN
+      ???)
+    (3__double__VB
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (RBR__1__more__RBR 1__more__RBR) (IN__2__than__IN 2__than__IN) (VB__3__double__VB 3__double__VB)))
+
+(ROOT
+  (DEPS
+    (1__more__RBR
+      2__than__IN
+      ???)
+    (3__double__JJ
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (RBR__1__more__RBR 1__more__RBR) (IN__2__than__IN 2__than__IN) (JJ__3__double__JJ 3__double__JJ)))
+
+(ROOT
+  (DEPS
+    (1__half__PDT
+      3__dozen__NN
+      ???)
+    (2__a__DT
+      3__dozen__NN
+      ???)
+    (3__dozen__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__dozen__NN (PDT__1__half__PDT 1__half__PDT) (DT__2__a__DT 2__a__DT) (NN__3__dozen__NN 3__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (1__about__IN
+      2__US$__$
+      ???)
+    (3__386,000__CD
+      2__US$__$
+      ???)
+    (4__to__TO
+      2__US$__$
+      ???)
+    (5__US$__$
+      2__US$__$
+      ???)
+    (6__2.7__CD
+      2__US$__$
+      ???)
+    (7__million__CD
+      2__US$__$
+      ???)
+    (2__US$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__US$__$ (IN__1__about__IN 1__about__IN) ($__2__US$__$ 2__US$__$) (CD__3__386,000__CD 3__386,000__CD) (TO__4__to__TO 4__to__TO) ($__5__US$__$ 5__US$__$) (CD__6__2.7__CD 6__2.7__CD) (CD__7__million__CD 7__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__consolidated__JJ
+      2__loan__NN
+      ???)
+    (2__loan__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__loan__NN (JJ__1__consolidated__JJ 1__consolidated__JJ) (NN__2__loan__NN 2__loan__NN)))
+
+(ROOT
+  (DEPS
+    (2__50__CD
+      1__$__$
+      ???)
+    (3__million__CD
+      1__$__$
+      ???)
+    (4__or__CC
+      1__$__$
+      ???)
+    (5__so__RB
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__50__CD 2__50__CD) (CD__3__million__CD 3__million__CD)
+    (CC__4__or__CC 4__or__CC)
+    (RB__5__so__RB 5__so__RB)))
+
+(ROOT
+  (DEPS
+    (2__to__TO
+      1__three__CD
+      ???)
+    (3__3__CD
+      1__three__CD
+      ???)
+    (4__1\/2__CD
+      1__three__CD
+      ???)
+    (1__three__CD
+      0__ROOT__
+      ROOT))
+  (QP__1__three__CD (CD__1__three__CD 1__three__CD) (TO__2__to__TO 2__to__TO) (CD__3__3__CD 3__3__CD) (CD__4__1\/2__CD 4__1\/2__CD)))
+
+(ROOT
+  (DEPS
+    (1__#__#
+      2__10.44__CD
+      ???)
+    (2__10.44__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__10.44__CD (#__1__#__# 1__#__#) (CD__2__10.44__CD 2__10.44__CD)))
+
+(ROOT
+  (DEPS
+    (1__#__#
+      3__billion__CD
+      ???)
+    (2__2__,
+      3__billion__CD
+      ???)
+    (3__billion__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__billion__CD (#__1__#__# 1__#__#) (,__2__2__, 2__2__,) (CD__3__billion__CD 3__billion__CD)))
+
+(ROOT
+  (DEPS
+    (2__about__RB
+      1__only__RB
+      ???)
+    (3__a__DT
+      1__only__RB
+      ???)
+    (1__only__RB
+      0__ROOT__
+      ROOT))
+  (QP__1__only__RB (RB__1__only__RB 1__only__RB) (RB__2__about__RB 2__about__RB) (DT__3__a__DT 3__a__DT)))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      3__$__$
+      ???)
+    (2__negative__JJ
+      3__$__$
+      ???)
+    (4__400__CD
+      3__$__$
+      ???)
+    (5__million__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (DT__1__a__DT 1__a__DT) (JJ__2__negative__JJ 2__negative__JJ) ($__3__$__$ 3__$__$) (CD__4__400__CD 4__400__CD) (CD__5__million__CD 5__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__or__CC
+      1__dozen__NN
+      ???)
+    (3__so__RB
+      2__or__CC
+      ???)
+    (1__dozen__NN
+      0__ROOT__
+      ROOT))
+  (QP__1__dozen__NN (NN__1__dozen__NN 1__dozen__NN)
+    (CONJPP__2__or__CC (CC__2__or__CC 2__or__CC)
+      (RB__3__so__RB 3__so__RB))))
+
+(ROOT
+  (DEPS
+    (2__a__DT
+      1__just__RB
+      ???)
+    (3__bit__RB
+      1__just__RB
+      ???)
+    (4__more__JJR
+      1__just__RB
+      ???)
+    (1__just__RB
+      0__ROOT__
+      ROOT))
+  (QP__1__just__RB (RB__1__just__RB 1__just__RB) (DT__2__a__DT 2__a__DT) (RB__3__bit__RB 3__bit__RB) (JJR__4__more__JJR 4__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__``__``
+      8__$__$
+      ???)
+    (4__deal__NN
+      8__$__$
+      ???)
+    (2__a__DT
+      4__deal__NN
+      ???)
+    (3__good__JJ
+      4__deal__NN
+      ???)
+    (5__more__JJR
+      8__$__$
+      ???)
+    (6__''__''
+      8__$__$
+      ???)
+    (7__than__IN
+      8__$__$
+      ???)
+    (9__1__CD
+      8__$__$
+      ???)
+    (10__billion__CD
+      8__$__$
+      ???)
+    (8__$__$
+      0__ROOT__
+      ROOT))
+  (QP__8__$__$ (``__1__``__`` 1__``__``)
+    (NP-ADV__4__deal__NN (DT__2__a__DT 2__a__DT) (JJ__3__good__JJ 3__good__JJ) (NN__4__deal__NN 4__deal__NN))
+    (JJR__5__more__JJR 5__more__JJR) (''__6__''__'' 6__''__'') (IN__7__than__IN 7__than__IN) ($__8__$__$ 8__$__$) (CD__9__1__CD 9__1__CD) (CD__10__billion__CD 10__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__only__JJ
+      2__about__IN
+      ???)
+    (3__a__DT
+      2__about__IN
+      ???)
+    (4__third__NN
+      2__about__IN
+      ???)
+    (2__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__about__IN (JJ__1__only__JJ 1__only__JJ) (IN__2__about__IN 2__about__IN) (DT__3__a__DT 3__a__DT) (NN__4__third__NN 4__third__NN)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__a__DT
+      1__at__IN
+      ???)
+    (4__dozen__NN
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (DT__3__a__DT 3__a__DT) (NN__4__dozen__NN 4__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (1__#__#
+      2__130__CD
+      ???)
+    (3__million__CD
+      2__130__CD
+      ???)
+    (4__to__TO
+      2__130__CD
+      ???)
+    (5__#__#
+      2__130__CD
+      ???)
+    (6__135__CD
+      2__130__CD
+      ???)
+    (7__million__CD
+      2__130__CD
+      ???)
+    (2__130__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__130__CD (#__1__#__# 1__#__#) (CD__2__130__CD 2__130__CD) (CD__3__million__CD 3__million__CD) (TO__4__to__TO 4__to__TO) (#__5__#__# 5__#__#) (CD__6__135__CD 6__135__CD) (CD__7__million__CD 7__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__just__RB
+      4__$__$
+      ???)
+    (2__more__JJR
+      4__$__$
+      ???)
+    (3__than__IN
+      4__$__$
+      ???)
+    (5__2.6__CD
+      4__$__$
+      ???)
+    (6__billion__CD
+      4__$__$
+      ???)
+    (4__$__$
+      0__ROOT__
+      ROOT))
+  (QP__4__$__$ (RB__1__just__RB 1__just__RB) (JJR__2__more__JJR 2__more__JJR) (IN__3__than__IN 3__than__IN) ($__4__$__$ 4__$__$) (CD__5__2.6__CD 5__2.6__CD) (CD__6__billion__CD 6__billion__CD)))
+
+(ROOT
+  (DEPS
+    (2__or__CC
+      1__five__CD
+      ???)
+    (3__six__CD
+      1__five__CD
+      ???)
+    (4__thousand__CD
+      1__five__CD
+      ???)
+    (1__five__CD
+      0__ROOT__
+      ROOT))
+  (QP__1__five__CD (CD__1__five__CD 1__five__CD)
+    (CC__2__or__CC 2__or__CC)
+    (CD__3__six__CD 3__six__CD) (CD__4__thousand__CD 4__thousand__CD)))
+
+(ROOT
+  (DEPS
+    (1__an__DT
+      2__hour__NN
+      ???)
+    (3__and__CC
+      2__hour__NN
+      ???)
+    (4__15__CD
+      3__and__CC
+      ???)
+    (2__hour__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__hour__NN (DT__1__an__DT 1__an__DT) (NN__2__hour__NN 2__hour__NN)
+    (CONJPP__3__and__CC (CC__3__and__CC 3__and__CC)
+      (CD__4__15__CD 4__15__CD))))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      3__as__IN
+      ???)
+    (2__much__JJ
+      3__as__IN
+      ???)
+    (4__25__CD
+      3__as__IN
+      ???)
+    (5__%__NN
+      3__as__IN
+      ???)
+    (6__to__TO
+      3__as__IN
+      ???)
+    (7__30__CD
+      3__as__IN
+      ???)
+    (8__%__NN
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (RB__1__as__RB 1__as__RB) (JJ__2__much__JJ 2__much__JJ) (IN__3__as__IN 3__as__IN) (CD__4__25__CD 4__25__CD) (NN__5__%__NN 5__%__NN) (TO__6__to__TO 6__to__TO) (CD__7__30__CD 7__30__CD) (NN__8__%__NN 8__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__some__DT
+      3__dozen__NN
+      ???)
+    (2__four__CD
+      3__dozen__NN
+      ???)
+    (3__dozen__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__dozen__NN (DT__1__some__DT 1__some__DT) (CD__2__four__CD 2__four__CD) (NN__3__dozen__NN 3__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (2__or__CC
+      1__four__CD
+      ???)
+    (3__five__CD
+      1__four__CD
+      ???)
+    (4__more__JJR
+      1__four__CD
+      ???)
+    (1__four__CD
+      0__ROOT__
+      ROOT))
+  (QP__1__four__CD (CD__1__four__CD 1__four__CD)
+    (CC__2__or__CC 2__or__CC)
+    (CD__3__five__CD 3__five__CD) (JJR__4__more__JJR 4__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__total__NN
+      2__$__$
+      ???)
+    (3__33__CD
+      2__$__$
+      ???)
+    (4__million__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (NN__1__total__NN 1__total__NN) ($__2__$__$ 2__$__$) (CD__3__33__CD 3__33__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__closer__RBR
+      3__20__CD
+      ???)
+    (2__to__TO
+      3__20__CD
+      ???)
+    (3__20__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__20__CD (RBR__1__closer__RBR 1__closer__RBR) (TO__2__to__TO 2__to__TO) (CD__3__20__CD 3__20__CD)))
+
+(ROOT
+  (DEPS
+    (2__least__RBS
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (RBS__2__least__RBS 2__least__RBS)))
+
+(ROOT
+  (DEPS
+    (1__anywhere__RB
+      2__between__IN
+      ???)
+    (3__8.5__CD
+      2__between__IN
+      ???)
+    (4__to__TO
+      2__between__IN
+      ???)
+    (5__10__CD
+      2__between__IN
+      ???)
+    (6__times__NNS
+      2__between__IN
+      ???)
+    (2__between__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__between__IN (RB__1__anywhere__RB 1__anywhere__RB) (IN__2__between__IN 2__between__IN) (CD__3__8.5__CD 3__8.5__CD) (TO__4__to__TO 4__to__TO) (CD__5__10__CD 5__10__CD) (NNS__6__times__NNS 6__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__nearly__RB
+      3__times__NNS
+      ???)
+    (2__five__CD
+      3__times__NNS
+      ???)
+    (4__as__RB
+      3__times__NNS
+      ???)
+    (5__much__JJ
+      3__times__NNS
+      ???)
+    (3__times__NNS
+      0__ROOT__
+      ROOT))
+  (QP__3__times__NNS (RB__1__nearly__RB 1__nearly__RB) (CD__2__five__CD 2__five__CD) (NNS__3__times__NNS 3__times__NNS) (RB__4__as__RB 4__as__RB) (JJ__5__much__JJ 5__much__JJ)))
+
+(ROOT
+  (DEPS
+    (2__12__CD
+      1__between__IN
+      ???)
+    (3__5\/8__CD
+      1__between__IN
+      ???)
+    (4__%__NN
+      1__between__IN
+      ???)
+    (5__to__TO
+      1__between__IN
+      ???)
+    (6__12__CD
+      1__between__IN
+      ???)
+    (7__3\/4__CD
+      1__between__IN
+      ???)
+    (8__%__NN
+      1__between__IN
+      ???)
+    (1__between__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__between__IN (IN__1__between__IN 1__between__IN) (CD__2__12__CD 2__12__CD) (CD__3__5\/8__CD 3__5\/8__CD) (NN__4__%__NN 4__%__NN) (TO__5__to__TO 5__to__TO) (CD__6__12__CD 6__12__CD) (CD__7__3\/4__CD 7__3\/4__CD) (NN__8__%__NN 8__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      2__than__IN
+      ???)
+    (3__about__IN
+      2__than__IN
+      ???)
+    (4__22__CD
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) (IN__3__about__IN 3__about__IN) (CD__4__22__CD 4__22__CD)))
+
+(ROOT
+  (DEPS
+    (1__two-thirds__NNS
+      0__ROOT__
+      ROOT))
+  (QP__1__two-thirds__NNS (NNS__1__two-thirds__NNS 1__two-thirds__NNS)))
+
+(ROOT
+  (DEPS
+    (1__between__IN
+      5__$__$
+      ???)
+    (2__95__CD
+      5__$__$
+      ???)
+    (3__cents__NNS
+      5__$__$
+      ???)
+    (4__and__CC
+      5__$__$
+      ???)
+    (6__1.05__CD
+      5__$__$
+      ???)
+    (5__$__$
+      0__ROOT__
+      ROOT))
+  (QP__5__$__$ (IN__1__between__IN 1__between__IN) (CD__2__95__CD 2__95__CD) (NNS__3__cents__NNS 3__cents__NNS)
+    (CC__4__and__CC 4__and__CC)
+    ($__5__$__$ 5__$__$) (CD__6__1.05__CD 6__1.05__CD)))
+
+(ROOT
+  (DEPS
+    (2__10__CD
+      1__about__IN
+      ???)
+    (3__%__NN
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP=1__1__about__IN (IN__1__about__IN 1__about__IN) (CD__2__10__CD 2__10__CD) (NN__3__%__NN 3__%__NN)))
+
+(ROOT
+  (DEPS
+    (2__to__TO
+      1__up__IN
+      ???)
+    (3__10__CD
+      1__up__IN
+      ???)
+    (4__times__NNS
+      1__up__IN
+      ???)
+    (1__up__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__up__IN (IN__1__up__IN 1__up__IN) (TO__2__to__TO 2__to__TO) (CD__3__10__CD 3__10__CD) (NNS__4__times__NNS 4__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__three__CD
+      4__times__NNS
+      ???)
+    (2__and__CC
+      4__times__NNS
+      ???)
+    (3__four__CD
+      4__times__NNS
+      ???)
+    (4__times__NNS
+      0__ROOT__
+      ROOT))
+  (QP__4__times__NNS (CD__1__three__CD 1__three__CD)
+    (CC__2__and__CC 2__and__CC)
+    (CD__3__four__CD 3__four__CD) (NNS__4__times__NNS 4__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__not__RB
+      3__one__CD
+      ???)
+    (2__just__RB
+      3__one__CD
+      ???)
+    (4__but__CC
+      3__one__CD
+      ???)
+    (5__two__CD
+      3__one__CD
+      ???)
+    (3__one__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__one__CD (RB__1__not__RB 1__not__RB) (RB__2__just__RB 2__just__RB) (CD__3__one__CD 3__one__CD)
+    (CC__4__but__CC 4__but__CC)
+    (CD__5__two__CD 5__two__CD)))
+
+(ROOT
+  (DEPS
+    (1__25__CD
+      2__%__NN
+      ???)
+    (3__to__TO
+      2__%__NN
+      ???)
+    (4__30__CD
+      2__%__NN
+      ???)
+    (5__%__NN
+      2__%__NN
+      ???)
+    (6__or__CC
+      2__%__NN
+      ???)
+    (7__so__RB
+      2__%__NN
+      ???)
+    (2__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__%__NN (CD__1__25__CD 1__25__CD) (NN__2__%__NN 2__%__NN) (TO__3__to__TO 3__to__TO) (CD__4__30__CD 4__30__CD) (NN__5__%__NN 5__%__NN)
+    (CC__6__or__CC 6__or__CC)
+    (RB__7__so__RB 7__so__RB)))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      3__bit__NN
+      ???)
+    (2__little__JJ
+      3__bit__NN
+      ???)
+    (4__more__JJR
+      3__bit__NN
+      ???)
+    (3__bit__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__bit__NN (DT__1__a__DT 1__a__DT) (JJ__2__little__JJ 2__little__JJ) (NN__3__bit__NN 3__bit__NN) (JJR__4__more__JJR 4__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__an__DT
+      3__10,000__CD
+      ???)
+    (2__estimated__VBN
+      3__10,000__CD
+      ???)
+    (4__to__TO
+      3__10,000__CD
+      ???)
+    (5__15,000__CD
+      3__10,000__CD
+      ???)
+    (3__10,000__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__10,000__CD (DT__1__an__DT 1__an__DT) (VBN__2__estimated__VBN 2__estimated__VBN) (CD__3__10,000__CD 3__10,000__CD) (TO__4__to__TO 4__to__TO) (CD__5__15,000__CD 5__15,000__CD)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      3__of__IN
+      ???)
+    (2__three__CD
+      3__of__IN
+      ???)
+    (4__about__RB
+      3__of__IN
+      ???)
+    (5__a__DT
+      3__of__IN
+      ???)
+    (6__dozen__NN
+      3__of__IN
+      ???)
+    (3__of__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__of__IN (RB__1__only__RB 1__only__RB) (CD__2__three__CD 2__three__CD) (IN__3__of__IN 3__of__IN) (RB__4__about__RB 4__about__RB) (DT__5__a__DT 5__a__DT) (NN__6__dozen__NN 6__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (2__11.75-a-share__JJ
+      1__$__$
+      ???)
+    (3__,__,
+      1__$__$
+      ???)
+    (4__or__CC
+      1__$__$
+      ???)
+    (5__$__$
+      1__$__$
+      ???)
+    (6__190__CD
+      1__$__$
+      ???)
+    (7__million__CD
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (JJ__2__11.75-a-share__JJ 2__11.75-a-share__JJ) (,__3__,__, 3__,__,)
+    (CC__4__or__CC 4__or__CC)
+    ($__5__$__$ 5__$__$) (CD__6__190__CD 6__190__CD) (CD__7__million__CD 7__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__to__TO
+      1__close__NN
+      ???)
+    (3__25__CD
+      1__close__NN
+      ???)
+    (1__close__NN
+      0__ROOT__
+      ROOT))
+  (QP__1__close__NN (NN__1__close__NN 1__close__NN) (TO__2__to__TO 2__to__TO) (CD__3__25__CD 3__25__CD)))
+
+(ROOT
+  (DEPS
+    (1__almost__RB
+      2__as__IN
+      ???)
+    (3__much__JJ
+      2__as__IN
+      ???)
+    (2__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__as__IN (RB__1__almost__RB 1__almost__RB) (IN__2__as__IN 2__as__IN) (JJ__3__much__JJ 3__much__JJ)))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      3__times__NNS
+      ???)
+    (2__million__CD
+      3__times__NNS
+      ???)
+    (3__times__NNS
+      0__ROOT__
+      ROOT))
+  (QP__3__times__NNS (DT__1__a__DT 1__a__DT) (CD__2__million__CD 2__million__CD) (NNS__3__times__NNS 3__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__all__DT
+      2__but__IN
+      ???)
+    (3__two__CD
+      2__but__IN
+      ???)
+    (2__but__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__but__IN (DT__1__all__DT 1__all__DT) (IN__2__but__IN 2__but__IN) (CD__3__two__CD 3__two__CD)))
+
+(ROOT
+  (DEPS
+    (2__to__TO
+      1__up__IN
+      ???)
+    (3__an__DT
+      1__up__IN
+      ???)
+    (4__additional__JJ
+      1__up__IN
+      ???)
+    (5__one__CD
+      1__up__IN
+      ???)
+    (6__million__CD
+      1__up__IN
+      ???)
+    (1__up__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__up__IN (IN__1__up__IN 1__up__IN) (TO__2__to__TO 2__to__TO) (DT__3__an__DT 3__an__DT) (JJ__4__additional__JJ 4__additional__JJ) (CD__5__one__CD 5__one__CD) (CD__6__million__CD 6__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__half__PDT
+      0__ROOT__
+      ROOT))
+  (QP__1__half__PDT (PDT__1__half__PDT 1__half__PDT)))
+
+(ROOT
+  (DEPS
+    (1__total__JJ
+      2__$__$
+      ???)
+    (3__63__CD
+      2__$__$
+      ???)
+    (4__million__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (JJ__1__total__JJ 1__total__JJ) ($__2__$__$ 2__$__$) (CD__3__63__CD 3__63__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__much__RB
+      1__as__IN
+      ???)
+    (3__as__IN
+      1__as__IN
+      ???)
+    (4__#__#
+      1__as__IN
+      ???)
+    (5__300__CD
+      1__as__IN
+      ???)
+    (6__million__CD
+      1__as__IN
+      ???)
+    (1__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__as__IN (IN__1__as__IN 1__as__IN) (RB__2__much__RB 2__much__RB) (IN__3__as__IN 3__as__IN) (#__4__#__# 4__#__#) (CD__5__300__CD 5__300__CD) (CD__6__million__CD 6__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__40__CD
+      2__of__IN
+      ???)
+    (4__'s__POS
+      2__of__IN
+      ???)
+    (3__India__NNP
+      4__'s__POS
+      ???)
+    (5__42__CD
+      2__of__IN
+      ???)
+    (2__of__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__of__IN (CD__1__40__CD 1__40__CD) (IN__2__of__IN 2__of__IN)
+    (NP__4__'s__POS (NNP__3__India__NNP 3__India__NNP) (POS__4__'s__POS 4__'s__POS))
+    (CD__5__42__CD 5__42__CD)))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      2__dozen__NN
+      ???)
+    (3__or__CC
+      2__dozen__NN
+      ???)
+    (4__more__JJR
+      3__or__CC
+      ???)
+    (2__dozen__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__dozen__NN (DT__1__a__DT 1__a__DT) (NN__2__dozen__NN 2__dozen__NN)
+    (CONJPP__3__or__CC (CC__3__or__CC 3__or__CC)
+      (JJR__4__more__JJR 4__more__JJR))))
+
+(ROOT
+  (DEPS
+    (1__about__RB
+      4__as__IN
+      ???)
+    (2__three__CD
+      4__as__IN
+      ???)
+    (3__times__NNS
+      4__as__IN
+      ???)
+    (5__many__JJ
+      4__as__IN
+      ???)
+    (4__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__4__as__IN (RB__1__about__RB 1__about__RB) (CD__2__three__CD 2__three__CD) (NNS__3__times__NNS 3__times__NNS) (IN__4__as__IN 4__as__IN) (JJ__5__many__JJ 5__many__JJ)))
+
+(ROOT
+  (DEPS
+    (2__13__CD
+      1__between__IN
+      ???)
+    (3__1\/4__CD
+      1__between__IN
+      ???)
+    (4__%__NN
+      1__between__IN
+      ???)
+    (5__and__CC
+      1__between__IN
+      ???)
+    (6__13__CD
+      1__between__IN
+      ???)
+    (7__1\/2__CD
+      1__between__IN
+      ???)
+    (1__between__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__between__IN (IN__1__between__IN 1__between__IN) (CD__2__13__CD 2__13__CD) (CD__3__1\/4__CD 3__1\/4__CD) (NN__4__%__NN 4__%__NN)
+    (CC__5__and__CC 5__and__CC)
+    (CD__6__13__CD 6__13__CD) (CD__7__1\/2__CD 7__1\/2__CD)))
+
+(ROOT
+  (DEPS
+    (1__and__CC
+      3__half__NN
+      ???)
+    (2__a__DT
+      3__half__NN
+      ???)
+    (3__half__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__half__NN (CC__1__and__CC 1__and__CC)
+    (DT__2__a__DT 2__a__DT) (NN__3__half__NN 3__half__NN)))
+
+(ROOT
+  (DEPS
+    (1__less__JJS
+      3__$__$
+      ???)
+    (2__than__IN
+      3__$__$
+      ???)
+    (4__1.25__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (JJS__1__less__JJS 1__less__JJS) (IN__2__than__IN 2__than__IN) ($__3__$__$ 3__$__$) (CD__4__1.25__CD 4__1.25__CD)))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      4__$__$
+      ???)
+    (2__maximum__NN
+      4__$__$
+      ???)
+    (3__of__IN
+      4__$__$
+      ???)
+    (5__10,000__CD
+      4__$__$
+      ???)
+    (4__$__$
+      0__ROOT__
+      ROOT))
+  (QP__4__$__$ (DT__1__a__DT 1__a__DT) (NN__2__maximum__NN 2__maximum__NN) (IN__3__of__IN 3__of__IN) ($__4__$__$ 4__$__$) (CD__5__10,000__CD 5__10,000__CD)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__a__DT
+      1__at__IN
+      ???)
+    (4__few__JJ
+      1__at__IN
+      ???)
+    (5__more__JJR
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (DT__3__a__DT 3__a__DT) (JJ__4__few__JJ 4__few__JJ) (JJR__5__more__JJR 5__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__no__DT
+      3__than__IN
+      ???)
+    (2__more__JJR
+      3__than__IN
+      ???)
+    (4__2__CD
+      3__than__IN
+      ???)
+    (5__1\/2__CD
+      3__than__IN
+      ???)
+    (3__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__than__IN (DT__1__no__DT 1__no__DT) (JJR__2__more__JJR 2__more__JJR) (IN__3__than__IN 3__than__IN) (CD__4__2__CD 4__2__CD) (CD__5__1\/2__CD 5__1\/2__CD)))
+
+(ROOT
+  (DEPS
+    (1__the__DT
+      3__quarter__NN
+      ???)
+    (2__third__JJ
+      3__quarter__NN
+      ???)
+    (3__quarter__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__quarter__NN (DT__1__the__DT 1__the__DT) (JJ__2__third__JJ 2__third__JJ) (NN__3__quarter__NN 3__quarter__NN)))
+
+(ROOT
+  (DEPS
+    (1__slightly__RB
+      3__than__IN
+      ???)
+    (2__more__JJR
+      3__than__IN
+      ???)
+    (4__two-thirds__NNS
+      3__than__IN
+      ???)
+    (3__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__than__IN (RB__1__slightly__RB 1__slightly__RB) (JJR__2__more__JJR 2__more__JJR) (IN__3__than__IN 3__than__IN) (NNS__4__two-thirds__NNS 4__two-thirds__NNS)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__the__DT
+      1__at__IN
+      ???)
+    (4__next__JJ
+      1__at__IN
+      ???)
+    (5__six__CD
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (DT__3__the__DT 3__the__DT) (JJ__4__next__JJ 4__next__JJ) (CD__5__six__CD 5__six__CD)))
+
+(ROOT
+  (DEPS
+    (2__a__DT
+      1__about__IN
+      ???)
+    (3__million__CD
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (DT__2__a__DT 2__a__DT) (CD__3__million__CD 3__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      2__about__IN
+      ???)
+    (3__half__PDT
+      2__about__IN
+      ???)
+    (2__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__about__IN (RB__1__only__RB 1__only__RB) (IN__2__about__IN 2__about__IN) (PDT__3__half__PDT 3__half__PDT)))
+
+(ROOT
+  (DEPS
+    (1__at__IN
+      4__next__JJ
+      ???)
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__the__DT
+      4__next__JJ
+      ???)
+    (5__six__CD
+      4__next__JJ
+      ???)
+    (4__next__JJ
+      0__ROOT__
+      ROOT))
+  (QP__4__next__JJ
+    (ADVP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS))
+    (DT__3__the__DT 3__the__DT) (JJ__4__next__JJ 4__next__JJ) (CD__5__six__CD 5__six__CD)))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      2__couple__NN
+      ???)
+    (3__hundred__CD
+      2__couple__NN
+      ???)
+    (4__thousand__CD
+      2__couple__NN
+      ???)
+    (2__couple__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__couple__NN (DT__1__a__DT 1__a__DT) (NN__2__couple__NN 2__couple__NN) (CD__3__hundred__CD 3__hundred__CD) (CD__4__thousand__CD 4__thousand__CD)))
+
+(ROOT
+  (DEPS
+    (1__``__``
+      5__$__$
+      ???)
+    (2__at__IN
+      5__$__$
+      ???)
+    (3__least__JJS
+      5__$__$
+      ???)
+    (4__''__''
+      5__$__$
+      ???)
+    (6__1.3__CD
+      5__$__$
+      ???)
+    (7__million__CD
+      5__$__$
+      ???)
+    (5__$__$
+      0__ROOT__
+      ROOT))
+  (QP__5__$__$ (``__1__``__`` 1__``__``) (IN__2__at__IN 2__at__IN) (JJS__3__least__JJS 3__least__JJS) (''__4__''__'' 4__''__'') ($__5__$__$ 5__$__$) (CD__6__1.3__CD 6__1.3__CD) (CD__7__million__CD 7__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      4__third__JJ
+      ???)
+    (2__about__RB
+      4__third__JJ
+      ???)
+    (3__a__DT
+      4__third__JJ
+      ???)
+    (4__third__JJ
+      0__ROOT__
+      ROOT))
+  (QP__4__third__JJ (RB__1__only__RB 1__only__RB) (RB__2__about__RB 2__about__RB) (DT__3__a__DT 3__a__DT) (JJ__4__third__JJ 4__third__JJ)))
+
+(ROOT
+  (DEPS
+    (2__13__CD
+      1__between__IN
+      ???)
+    (3__1\/4__CD
+      1__between__IN
+      ???)
+    (4__%__NN
+      1__between__IN
+      ???)
+    (5__and__CC
+      1__between__IN
+      ???)
+    (6__13__CD
+      1__between__IN
+      ???)
+    (7__1\/2__CD
+      1__between__IN
+      ???)
+    (8__%__NN
+      1__between__IN
+      ???)
+    (1__between__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__between__IN (IN__1__between__IN 1__between__IN) (CD__2__13__CD 2__13__CD) (CD__3__1\/4__CD 3__1\/4__CD) (NN__4__%__NN 4__%__NN)
+    (CC__5__and__CC 5__and__CC)
+    (CD__6__13__CD 6__13__CD) (CD__7__1\/2__CD 7__1\/2__CD) (NN__8__%__NN 8__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__less__JJR
+      5__$__$
+      ???)
+    (2__than__IN
+      5__$__$
+      ???)
+    (3__half__PDT
+      5__$__$
+      ???)
+    (4__the__DT
+      5__$__$
+      ???)
+    (6__64.1__CD
+      5__$__$
+      ???)
+    (7__million__CD
+      5__$__$
+      ???)
+    (5__$__$
+      0__ROOT__
+      ROOT))
+  (QP__5__$__$ (JJR__1__less__JJR 1__less__JJR) (IN__2__than__IN 2__than__IN) (PDT__3__half__PDT 3__half__PDT) (DT__4__the__DT 4__the__DT) ($__5__$__$ 5__$__$) (CD__6__64.1__CD 6__64.1__CD) (CD__7__million__CD 7__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__between__IN
+      2__$__$
+      ???)
+    (3__500,000__CD
+      2__$__$
+      ???)
+    (4__and__CC
+      2__$__$
+      ???)
+    (5__$__$
+      2__$__$
+      ???)
+    (6__1.5__CD
+      2__$__$
+      ???)
+    (7__million__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (IN__1__between__IN 1__between__IN) ($__2__$__$ 2__$__$) (CD__3__500,000__CD 3__500,000__CD)
+    (CC__4__and__CC 4__and__CC)
+    ($__5__$__$ 5__$__$) (CD__6__1.5__CD 6__1.5__CD) (CD__7__million__CD 7__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__as__JJ
+      3__as__IN
+      ???)
+    (2__much__RB
+      3__as__IN
+      ???)
+    (4__15__CD
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (JJ__1__as__JJ 1__as__JJ) (RB__2__much__RB 2__much__RB) (IN__3__as__IN 3__as__IN) (CD__4__15__CD 4__15__CD)))
+
+(ROOT
+  (DEPS
+    (2__about__RP
+      1__just__RB
+      ???)
+    (3__all__DT
+      1__just__RB
+      ???)
+    (1__just__RB
+      0__ROOT__
+      ROOT))
+  (QP__1__just__RB (RB__1__just__RB 1__just__RB) (RP__2__about__RP 2__about__RP) (DT__3__all__DT 3__all__DT)))
+
+(ROOT
+  (DEPS
+    (1__about__RB
+      4__times__NNS
+      ???)
+    (2__8__CD
+      4__times__NNS
+      ???)
+    (3__1\/2__CD
+      4__times__NNS
+      ???)
+    (4__times__NNS
+      0__ROOT__
+      ROOT))
+  (QP__4__times__NNS (RB__1__about__RB 1__about__RB) (CD__2__8__CD 2__8__CD) (CD__3__1\/2__CD 3__1\/2__CD) (NNS__4__times__NNS 4__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      2__about__IN
+      ???)
+    (3__8__CD
+      2__about__IN
+      ???)
+    (4__%__NN
+      2__about__IN
+      ???)
+    (5__to__TO
+      2__about__IN
+      ???)
+    (6__10__CD
+      2__about__IN
+      ???)
+    (7__%__NN
+      2__about__IN
+      ???)
+    (2__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__about__IN (RB__1__only__RB 1__only__RB) (IN__2__about__IN 2__about__IN) (CD__3__8__CD 3__8__CD) (NN__4__%__NN 4__%__NN) (TO__5__to__TO 5__to__TO) (CD__6__10__CD 6__10__CD) (NN__7__%__NN 7__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      2__million__CD
+      ???)
+    (3__or__CC
+      2__million__CD
+      ???)
+    (4__more__JJR
+      3__or__CC
+      ???)
+    (2__million__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__million__CD (DT__1__a__DT 1__a__DT) (CD__2__million__CD 2__million__CD)
+    (CONJPP__3__or__CC (CC__3__or__CC 3__or__CC)
+      (JJR__4__more__JJR 4__more__JJR))))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      3__of__IN
+      ???)
+    (2__couple__NN
+      3__of__IN
+      ???)
+    (4__dozen__NN
+      3__of__IN
+      ???)
+    (3__of__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__of__IN (DT__1__a__DT 1__a__DT) (NN__2__couple__NN 2__couple__NN) (IN__3__of__IN 3__of__IN) (NN__4__dozen__NN 4__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (1__about__RBR
+      2__three-fourths__JJ
+      ???)
+    (2__three-fourths__JJ
+      0__ROOT__
+      ROOT))
+  (QP__2__three-fourths__JJ (RBR__1__about__RBR 1__about__RBR) (JJ__2__three-fourths__JJ 2__three-fourths__JJ)))
+
+(ROOT
+  (DEPS
+    (2__700__CD
+      1__$__$
+      ???)
+    (3__million-plus__JJ
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__700__CD 2__700__CD) (JJ__3__million-plus__JJ 3__million-plus__JJ)))
+
+(ROOT
+  (DEPS
+    (1__and__CC
+      2__up__IN
+      ???)
+    (2__up__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__up__IN (CC__1__and__CC 1__and__CC)
+    (IN__2__up__IN 2__up__IN)))
+
+(ROOT
+  (DEPS
+    (2__#__#
+      1__between__IN
+      ???)
+    (3__8__CD
+      1__between__IN
+      ???)
+    (4__and__CC
+      1__between__IN
+      ???)
+    (5__#__#
+      1__between__IN
+      ???)
+    (6__10__CD
+      1__between__IN
+      ???)
+    (1__between__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__between__IN (IN__1__between__IN 1__between__IN) (#__2__#__# 2__#__#) (CD__3__8__CD 3__8__CD)
+    (CC__4__and__CC 4__and__CC)
+    (#__5__#__# 5__#__#) (CD__6__10__CD 6__10__CD)))
+
+(ROOT
+  (DEPS
+    (2__or__CC
+      1__double__JJ
+      ???)
+    (3__even__RB
+      1__double__JJ
+      ???)
+    (4__triple__JJ
+      1__double__JJ
+      ???)
+    (1__double__JJ
+      0__ROOT__
+      ROOT))
+  (QP__1__double__JJ (JJ__1__double__JJ 1__double__JJ)
+    (CC__2__or__CC 2__or__CC)
+    (RB__3__even__RB 3__even__RB) (JJ__4__triple__JJ 4__triple__JJ)))
+
+(ROOT
+  (DEPS
+    (3__way__NN
+      4__up__IN
+      ???)
+    (1__all__DT
+      3__way__NN
+      ???)
+    (2__the__DT
+      3__way__NN
+      ???)
+    (5__to__TO
+      4__up__IN
+      ???)
+    (6__6__CD
+      4__up__IN
+      ???)
+    (4__up__IN
+      0__ROOT__
+      ROOT))
+  (QP__4__up__IN
+    (NP-ADV__3__way__NN (DT__1__all__DT 1__all__DT) (DT__2__the__DT 2__the__DT) (NN__3__way__NN 3__way__NN))
+    (IN__4__up__IN 4__up__IN) (TO__5__to__TO 5__to__TO) (CD__6__6__CD 6__6__CD)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      3__4__CD
+      ???)
+    (2__about__RB
+      3__4__CD
+      ???)
+    (4__1\/2__CD
+      3__4__CD
+      ???)
+    (3__4__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__4__CD (RB__1__only__RB 1__only__RB) (RB__2__about__RB 2__about__RB) (CD__3__4__CD 3__4__CD) (CD__4__1\/2__CD 4__1\/2__CD)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      3__as__IN
+      ???)
+    (2__long__JJ
+      3__as__IN
+      ???)
+    (4__10__CD
+      3__as__IN
+      ???)
+    (5__or__CC
+      3__as__IN
+      ???)
+    (6__11__CD
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (RB__1__as__RB 1__as__RB) (JJ__2__long__JJ 2__long__JJ) (IN__3__as__IN 3__as__IN) (CD__4__10__CD 4__10__CD)
+    (CC__5__or__CC 5__or__CC)
+    (CD__6__11__CD 6__11__CD)))
+
+(ROOT
+  (DEPS
+    (1__three__CD
+      4__half__NN
+      ???)
+    (2__and__CC
+      4__half__NN
+      ???)
+    (3__a__DT
+      4__half__NN
+      ???)
+    (4__half__NN
+      0__ROOT__
+      ROOT))
+  (QP__4__half__NN (CD__1__three__CD 1__three__CD)
+    (CC__2__and__CC 2__and__CC)
+    (DT__3__a__DT 3__a__DT) (NN__4__half__NN 4__half__NN)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      2__than__IN
+      ???)
+    (3__three__CD
+      2__than__IN
+      ???)
+    (4__times__NNS
+      2__than__IN
+      ???)
+    (5__as__IN
+      2__than__IN
+      ???)
+    (6__many__JJ
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) (CD__3__three__CD 3__three__CD) (NNS__4__times__NNS 4__times__NNS) (IN__5__as__IN 5__as__IN) (JJ__6__many__JJ 6__many__JJ)))
+
+(ROOT
+  (DEPS
+    (2__excess__NN
+      1__in__IN
+      ???)
+    (3__of__IN
+      1__in__IN
+      ???)
+    (4__4__CD
+      1__in__IN
+      ???)
+    (1__in__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__in__IN (IN__1__in__IN 1__in__IN) (NN__2__excess__NN 2__excess__NN) (IN__3__of__IN 3__of__IN) (CD__4__4__CD 4__4__CD)))
+
+(ROOT
+  (DEPS
+    (2__half__PDT
+      1__about__IN
+      ???)
+    (3__a__DT
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (PDT__2__half__PDT 2__half__PDT) (DT__3__a__DT 3__a__DT)))
+
+(ROOT
+  (DEPS
+    (1__fewer__JJR
+      2__than__IN
+      ???)
+    (3__one__CD
+      2__than__IN
+      ???)
+    (4__of__IN
+      2__than__IN
+      ???)
+    (5__every__DT
+      2__than__IN
+      ???)
+    (6__five__CD
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__fewer__JJR 1__fewer__JJR) (IN__2__than__IN 2__than__IN) (CD__3__one__CD 3__one__CD) (IN__4__of__IN 4__of__IN) (DT__5__every__DT 5__every__DT) (CD__6__five__CD 6__five__CD)))
+
+(ROOT
+  (DEPS
+    (1__7__CD
+      2__%__NN
+      ???)
+    (3__and__CC
+      2__%__NN
+      ???)
+    (5__%__NN
+      3__and__CC
+      ???)
+    (4__8__CD
+      5__%__NN
+      ???)
+    (2__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__%__NN
+    (NP__2__%__NN (CD__1__7__CD 1__7__CD) (NN__2__%__NN 2__%__NN))
+    (CONJPP__3__and__CC (CC__3__and__CC 3__and__CC)
+      (NP__5__%__NN (CD__4__8__CD 4__8__CD) (NN__5__%__NN 5__%__NN)))))
+
+(ROOT
+  (DEPS
+    (1__about__RB
+      4__than__IN
+      ???)
+    (2__slightly__RB
+      4__than__IN
+      ???)
+    (3__more__JJR
+      4__than__IN
+      ???)
+    (5__80__CD
+      4__than__IN
+      ???)
+    (6__million__CD
+      4__than__IN
+      ???)
+    (4__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__4__than__IN (RB__1__about__RB 1__about__RB) (RB__2__slightly__RB 2__slightly__RB) (JJR__3__more__JJR 3__more__JJR) (IN__4__than__IN 4__than__IN) (CD__5__80__CD 5__80__CD) (CD__6__million__CD 6__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      2__than__IN
+      ???)
+    (3__#__#
+      2__than__IN
+      ???)
+    (4__1.6__CD
+      2__than__IN
+      ???)
+    (5__billion__CD
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) (#__3__#__# 3__#__#) (CD__4__1.6__CD 4__1.6__CD) (CD__5__billion__CD 5__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__less__JJR
+      2__than__IN
+      ???)
+    (3__a__DT
+      2__than__IN
+      ???)
+    (4__third__NN
+      2__than__IN
+      ???)
+    (5__of__IN
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__less__JJR 1__less__JJR) (IN__2__than__IN 2__than__IN) (DT__3__a__DT 3__a__DT) (NN__4__third__NN 4__third__NN) (IN__5__of__IN 5__of__IN)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      2__12__CD
+      ???)
+    (3__or__CC
+      2__12__CD
+      ???)
+    (4__so__RB
+      2__12__CD
+      ???)
+    (2__12__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__12__CD (RB__1__only__RB 1__only__RB) (CD__2__12__CD 2__12__CD)
+    (CC__3__or__CC 3__or__CC)
+    (RB__4__so__RB 4__so__RB)))
+
+(ROOT
+  (DEPS
+    (1__all__DT
+      2__but__IN
+      ???)
+    (3__a__DT
+      2__but__IN
+      ???)
+    (4__dozen__NN
+      2__but__IN
+      ???)
+    (2__but__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__but__IN (DT__1__all__DT 1__all__DT) (IN__2__but__IN 2__but__IN) (DT__3__a__DT 3__a__DT) (NN__4__dozen__NN 4__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (1__nearly__RB
+      3__million__CD
+      ???)
+    (2__a__DT
+      3__million__CD
+      ???)
+    (3__million__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__million__CD (RB__1__nearly__RB 1__nearly__RB) (DT__2__a__DT 2__a__DT) (CD__3__million__CD 3__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__Only__RB
+      4__quarter__NN
+      ???)
+    (2__about__RB
+      4__quarter__NN
+      ???)
+    (3__a__DT
+      4__quarter__NN
+      ???)
+    (4__quarter__NN
+      0__ROOT__
+      ROOT))
+  (QP__4__quarter__NN (RB__1__Only__RB 1__Only__RB) (RB__2__about__RB 2__about__RB) (DT__3__a__DT 3__a__DT) (NN__4__quarter__NN 4__quarter__NN)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      2__than__IN
+      ???)
+    (3__a__DT
+      2__than__IN
+      ???)
+    (4__million__CD
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) (DT__3__a__DT 3__a__DT) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__a__DT
+      1__at__IN
+      ???)
+    (4__41__CD
+      1__at__IN
+      ???)
+    (5__%__NN
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (DT__3__a__DT 3__a__DT) (CD__4__41__CD 4__41__CD) (NN__5__%__NN 5__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__at__IN
+      3__0.26__CD
+      ???)
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__0.26__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__0.26__CD
+    (ADVP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS))
+    (CD__3__0.26__CD 3__0.26__CD)))
+
+(ROOT
+  (DEPS
+    (1__almost__RB
+      3__as__IN
+      ???)
+    (2__twice__RB
+      3__as__IN
+      ???)
+    (4__many__JJ
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (RB__1__almost__RB 1__almost__RB) (RB__2__twice__RB 2__twice__RB) (IN__3__as__IN 3__as__IN) (JJ__4__many__JJ 4__many__JJ)))
+
+(ROOT
+  (DEPS
+    (1__up__IN
+      5__$__$
+      ???)
+    (2__to__TO
+      5__$__$
+      ???)
+    (3__an__DT
+      5__$__$
+      ???)
+    (4__additional__JJ
+      5__$__$
+      ???)
+    (6__86__CD
+      5__$__$
+      ???)
+    (7__million__CD
+      5__$__$
+      ???)
+    (5__$__$
+      0__ROOT__
+      ROOT))
+  (QP__5__$__$ (IN__1__up__IN 1__up__IN) (TO__2__to__TO 2__to__TO) (DT__3__an__DT 3__an__DT) (JJ__4__additional__JJ 4__additional__JJ) ($__5__$__$ 5__$__$) (CD__6__86__CD 6__86__CD) (CD__7__million__CD 7__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__well__RB
+      3__$__$
+      ???)
+    (2__over__RB
+      3__$__$
+      ???)
+    (4__100__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (RB__1__well__RB 1__well__RB) (RB__2__over__RB 2__over__RB) ($__3__$__$ 3__$__$) (CD__4__100__CD 4__100__CD)))
+
+(ROOT
+  (DEPS
+    (2__one__CD
+      1__between__IN
+      ???)
+    (3__and__CC
+      1__between__IN
+      ???)
+    (4__two__CD
+      1__between__IN
+      ???)
+    (5__times__NNS
+      1__between__IN
+      ???)
+    (1__between__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__between__IN (IN__1__between__IN 1__between__IN) (CD__2__one__CD 2__one__CD)
+    (CC__3__and__CC 3__and__CC)
+    (CD__4__two__CD 4__two__CD) (NNS__5__times__NNS 5__times__NNS)))
+
+(ROOT
+  (DEPS
+    (2__FFr__SYM
+      1__about__IN
+      ???)
+    (3__1__CD
+      1__about__IN
+      ???)
+    (4__billion__CD
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (SYM__2__FFr__SYM 2__FFr__SYM) (CD__3__1__CD 3__1__CD) (CD__4__billion__CD 4__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      5__$__$
+      ???)
+    (2__than__IN
+      5__$__$
+      ???)
+    (3__twice__RB
+      5__$__$
+      ???)
+    (4__the__DT
+      5__$__$
+      ???)
+    (6__13.5__CD
+      5__$__$
+      ???)
+    (7__million__CD
+      5__$__$
+      ???)
+    (5__$__$
+      0__ROOT__
+      ROOT))
+  (QP__5__$__$ (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) (RB__3__twice__RB 3__twice__RB) (DT__4__the__DT 4__the__DT) ($__5__$__$ 5__$__$) (CD__6__13.5__CD 6__13.5__CD) (CD__7__million__CD 7__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__all__DT
+      3__$__$
+      ???)
+    (2__but__CC
+      3__$__$
+      ???)
+    (4__40,000__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (DT__1__all__DT 1__all__DT)
+    (CC__2__but__CC 2__but__CC)
+    ($__3__$__$ 3__$__$) (CD__4__40,000__CD 4__40,000__CD)))
+
+(ROOT
+  (DEPS
+    (2__half__PDT
+      1__a__DT
+      ???)
+    (1__a__DT
+      0__ROOT__
+      ROOT))
+  (QP__1__a__DT (DT__1__a__DT 1__a__DT) (PDT__2__half__PDT 2__half__PDT)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      3__$__$
+      ???)
+    (2__about__RB
+      3__$__$
+      ???)
+    (4__150__CD
+      3__$__$
+      ???)
+    (5__million__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (RB__1__only__RB 1__only__RB) (RB__2__about__RB 2__about__RB) ($__3__$__$ 3__$__$) (CD__4__150__CD 4__150__CD) (CD__5__million__CD 5__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__one__CD
+      1__at__IN
+      ???)
+    (4__more__JJR
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (CD__3__one__CD 3__one__CD) (JJR__4__more__JJR 4__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__five__CD
+      3__as__IN
+      ???)
+    (2__times__NNS
+      3__as__IN
+      ???)
+    (4__much__JJ
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (CD__1__five__CD 1__five__CD) (NNS__2__times__NNS 2__times__NNS) (IN__3__as__IN 3__as__IN) (JJ__4__much__JJ 4__much__JJ)))
+
+(ROOT
+  (DEPS
+    (1__more__JJ
+      2__than__IN
+      ???)
+    (3__three__CD
+      2__than__IN
+      ???)
+    (4__times__NNS
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJ__1__more__JJ 1__more__JJ) (IN__2__than__IN 2__than__IN) (CD__3__three__CD 3__three__CD) (NNS__4__times__NNS 4__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__#__#
+      2__80__CD
+      ???)
+    (3__million__CD
+      2__80__CD
+      ???)
+    (4__and__CC
+      2__80__CD
+      ???)
+    (5__#__#
+      2__80__CD
+      ???)
+    (6__90__CD
+      2__80__CD
+      ???)
+    (7__million__CD
+      2__80__CD
+      ???)
+    (2__80__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__80__CD (#__1__#__# 1__#__#) (CD__2__80__CD 2__80__CD) (CD__3__million__CD 3__million__CD)
+    (CC__4__and__CC 4__and__CC)
+    (#__5__#__# 5__#__#) (CD__6__90__CD 6__90__CD) (CD__7__million__CD 7__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__20__CD
+      2__%__NN
+      ???)
+    (3__or__CC
+      2__%__NN
+      ???)
+    (4__so__RB
+      2__%__NN
+      ???)
+    (2__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__%__NN (CD__1__20__CD 1__20__CD) (NN__2__%__NN 2__%__NN)
+    (CC__3__or__CC 3__or__CC)
+    (RB__4__so__RB 4__so__RB)))
+
+(ROOT
+  (DEPS
+    (2__7__CD
+      1__between__IN
+      ???)
+    (3__3\/4__CD
+      1__between__IN
+      ???)
+    (4__%__NN
+      1__between__IN
+      ???)
+    (5__and__CC
+      1__between__IN
+      ???)
+    (6__8__CD
+      1__between__IN
+      ???)
+    (7__%__NN
+      1__between__IN
+      ???)
+    (1__between__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__between__IN (IN__1__between__IN 1__between__IN) (CD__2__7__CD 2__7__CD) (CD__3__3\/4__CD 3__3\/4__CD) (NN__4__%__NN 4__%__NN)
+    (CC__5__and__CC 5__and__CC)
+    (CD__6__8__CD 6__8__CD) (NN__7__%__NN 7__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__no__DT
+      3__than__IN
+      ???)
+    (2__more__RBR
+      3__than__IN
+      ???)
+    (4__10__CD
+      3__than__IN
+      ???)
+    (3__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__than__IN (DT__1__no__DT 1__no__DT) (RBR__2__more__RBR 2__more__RBR) (IN__3__than__IN 3__than__IN) (CD__4__10__CD 4__10__CD)))
+
+(ROOT
+  (DEPS
+    (1__about__IN
+      5__$__$
+      ???)
+    (2__half__NN
+      5__$__$
+      ???)
+    (3__of__IN
+      5__$__$
+      ???)
+    (4__the__DT
+      5__$__$
+      ???)
+    (6__3__CD
+      5__$__$
+      ???)
+    (7__billion__CD
+      5__$__$
+      ???)
+    (5__$__$
+      0__ROOT__
+      ROOT))
+  (QP__5__$__$ (IN__1__about__IN 1__about__IN) (NN__2__half__NN 2__half__NN) (IN__3__of__IN 3__of__IN) (DT__4__the__DT 4__the__DT) ($__5__$__$ 5__$__$) (CD__6__3__CD 6__3__CD) (CD__7__billion__CD 7__billion__CD)))
+
+(ROOT
+  (DEPS
+    (2__billion__CD
+      1__SKr1.5__NNS
+      ???)
+    (1__SKr1.5__NNS
+      0__ROOT__
+      ROOT))
+  (QP__1__SKr1.5__NNS (NNS__1__SKr1.5__NNS 1__SKr1.5__NNS) (CD__2__billion__CD 2__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__RBR
+      2__than__IN
+      ???)
+    (3__a__DT
+      2__than__IN
+      ???)
+    (4__dozen__NN
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (RBR__1__more__RBR 1__more__RBR) (IN__2__than__IN 2__than__IN) (DT__3__a__DT 3__a__DT) (NN__4__dozen__NN 4__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      2__two__CD
+      ???)
+    (3__or__CC
+      2__two__CD
+      ???)
+    (4__three__CD
+      2__two__CD
+      ???)
+    (2__two__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__two__CD (RB__1__only__RB 1__only__RB) (CD__2__two__CD 2__two__CD)
+    (CC__3__or__CC 3__or__CC)
+    (CD__4__three__CD 4__three__CD)))
+
+(ROOT
+  (DEPS
+    (2__or__CC
+      1__nearer__IN
+      ???)
+    (3__above__IN
+      1__nearer__IN
+      ???)
+    (4__#__#
+      1__nearer__IN
+      ???)
+    (5__2__CD
+      1__nearer__IN
+      ???)
+    (6__billion__CD
+      1__nearer__IN
+      ???)
+    (1__nearer__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__nearer__IN (IN__1__nearer__IN 1__nearer__IN)
+    (CC__2__or__CC 2__or__CC)
+    (IN__3__above__IN 3__above__IN) (#__4__#__# 4__#__#) (CD__5__2__CD 5__2__CD) (CD__6__billion__CD 6__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__half__DT
+      3__much__JJ
+      ???)
+    (2__as__RB
+      3__much__JJ
+      ???)
+    (3__much__JJ
+      0__ROOT__
+      ROOT))
+  (QP__3__much__JJ (DT__1__half__DT 1__half__DT) (RB__2__as__RB 2__as__RB) (JJ__3__much__JJ 3__much__JJ)))
+
+(ROOT
+  (DEPS
+    (1__10__CD
+      2__cents__NNS
+      ???)
+    (3__to__TO
+      2__cents__NNS
+      ???)
+    (4__20__CD
+      2__cents__NNS
+      ???)
+    (5__cents__NNS
+      2__cents__NNS
+      ???)
+    (2__cents__NNS
+      0__ROOT__
+      ROOT))
+  (QP__2__cents__NNS (CD__1__10__CD 1__10__CD) (NNS__2__cents__NNS 2__cents__NNS) (TO__3__to__TO 3__to__TO) (CD__4__20__CD 4__20__CD) (NNS__5__cents__NNS 5__cents__NNS)))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      3__dozen__NN
+      ???)
+    (2__half__DT
+      3__dozen__NN
+      ???)
+    (3__dozen__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__dozen__NN (DT__1__a__DT 1__a__DT) (DT__2__half__DT 2__half__DT) (NN__3__dozen__NN 3__dozen__NN)))
+
+(ROOT
+  (DEPS
+    (1__from__IN
+      5__$__$
+      ???)
+    (2__30__CD
+      5__$__$
+      ???)
+    (3__cents__NNS
+      5__$__$
+      ???)
+    (4__to__TO
+      5__$__$
+      ???)
+    (6__25__CD
+      5__$__$
+      ???)
+    (5__$__$
+      0__ROOT__
+      ROOT))
+  (QP__5__$__$ (IN__1__from__IN 1__from__IN) (CD__2__30__CD 2__30__CD) (NNS__3__cents__NNS 3__cents__NNS) (TO__4__to__TO 4__to__TO) ($__5__$__$ 5__$__$) (CD__6__25__CD 6__25__CD)))
+
+(ROOT
+  (DEPS
+    (1__More__JJR
+      2__than__IN
+      ???)
+    (3__twice__RB
+      2__than__IN
+      ???)
+    (4__as__IN
+      2__than__IN
+      ???)
+    (5__many__JJ
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__More__JJR 1__More__JJR) (IN__2__than__IN 2__than__IN) (RB__3__twice__RB 3__twice__RB) (IN__4__as__IN 4__as__IN) (JJ__5__many__JJ 5__many__JJ)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__another__DT
+      1__at__IN
+      ???)
+    (4__500,000__CD
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (DT__3__another__DT 3__another__DT) (CD__4__500,000__CD 4__500,000__CD)))
+
+(ROOT
+  (DEPS
+    (1__about__RB
+      2__$__$
+      ???)
+    (3__43.3__CD
+      2__$__$
+      ???)
+    (4__million__CD
+      2__$__$
+      ???)
+    (5__and__CC
+      2__$__$
+      ???)
+    (6__$__$
+      2__$__$
+      ???)
+    (7__28.6__CD
+      2__$__$
+      ???)
+    (8__million__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (RB__1__about__RB 1__about__RB) ($__2__$__$ 2__$__$) (CD__3__43.3__CD 3__43.3__CD) (CD__4__million__CD 4__million__CD)
+    (CC__5__and__CC 5__and__CC)
+    ($__6__$__$ 6__$__$) (CD__7__28.6__CD 7__28.6__CD) (CD__8__million__CD 8__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__RBR
+      0__ROOT__
+      ROOT))
+  (QP__1__more__RBR (RBR__1__more__RBR 1__more__RBR)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      3__as__IN
+      ???)
+    (2__much__JJ
+      3__as__IN
+      ???)
+    (4__a__DT
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (RB__1__as__RB 1__as__RB) (JJ__2__much__JJ 2__much__JJ) (IN__3__as__IN 3__as__IN) (DT__4__a__DT 4__a__DT)))
+
+(ROOT
+  (DEPS
+    (1__more__RBR
+      2__than__IN
+      ???)
+    (3__three__CD
+      2__than__IN
+      ???)
+    (4__times__NNS
+      2__than__IN
+      ???)
+    (5__as__IN
+      2__than__IN
+      ???)
+    (6__many__JJ
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (RBR__1__more__RBR 1__more__RBR) (IN__2__than__IN 2__than__IN) (CD__3__three__CD 3__three__CD) (NNS__4__times__NNS 4__times__NNS) (IN__5__as__IN 5__as__IN) (JJ__6__many__JJ 6__many__JJ)))
+
+(ROOT
+  (DEPS
+    (1__more__RBR
+      2__than__IN
+      ???)
+    (3__twice__RB
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (RBR__1__more__RBR 1__more__RBR) (IN__2__than__IN 2__than__IN) (RB__3__twice__RB 3__twice__RB)))
+
+(ROOT
+  (DEPS
+    (1__the__DT
+      2__next__JJ
+      ???)
+    (3__two__CD
+      2__next__JJ
+      ???)
+    (4__to__TO
+      2__next__JJ
+      ???)
+    (5__three__CD
+      2__next__JJ
+      ???)
+    (2__next__JJ
+      0__ROOT__
+      ROOT))
+  (QP__2__next__JJ (DT__1__the__DT 1__the__DT) (JJ__2__next__JJ 2__next__JJ) (CD__3__two__CD 3__two__CD) (TO__4__to__TO 4__to__TO) (CD__5__three__CD 5__three__CD)))
+
+(ROOT
+  (DEPS
+    (1__about__IN
+      2__$__$
+      ???)
+    (3__650__CD
+      2__$__$
+      ???)
+    (4__million__CD
+      2__$__$
+      ???)
+    (5__or__CC
+      2__$__$
+      ???)
+    (6__more__JJR
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (IN__1__about__IN 1__about__IN) ($__2__$__$ 2__$__$) (CD__3__650__CD 3__650__CD) (CD__4__million__CD 4__million__CD)
+    (CC__5__or__CC 5__or__CC)
+    (JJR__6__more__JJR 6__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__estimated__VBN
+      2__$__$
+      ???)
+    (3__5__CD
+      2__$__$
+      ???)
+    (4__million__CD
+      2__$__$
+      ???)
+    (5__to__TO
+      2__$__$
+      ???)
+    (6__$__$
+      2__$__$
+      ???)
+    (7__6__CD
+      2__$__$
+      ???)
+    (8__million__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (VBN__1__estimated__VBN 1__estimated__VBN) ($__2__$__$ 2__$__$) (CD__3__5__CD 3__5__CD) (CD__4__million__CD 4__million__CD) (TO__5__to__TO 5__to__TO) ($__6__$__$ 6__$__$) (CD__7__6__CD 7__6__CD) (CD__8__million__CD 8__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__half__NN
+      2__as__IN
+      ???)
+    (3__much__JJ
+      2__as__IN
+      ???)
+    (2__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__as__IN (NN__1__half__NN 1__half__NN) (IN__2__as__IN 2__as__IN) (JJ__3__much__JJ 3__much__JJ)))
+
+(ROOT
+  (DEPS
+    (1__sometimes__RB
+      3__than__IN
+      ???)
+    (2__more__JJR
+      3__than__IN
+      ???)
+    (4__once__RB
+      3__than__IN
+      ???)
+    (3__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__than__IN (RB__1__sometimes__RB 1__sometimes__RB) (JJR__2__more__JJR 2__more__JJR) (IN__3__than__IN 3__than__IN) (RB__4__once__RB 4__once__RB)))
+
+(ROOT
+  (DEPS
+    (1__A__DT
+      3__of__IN
+      ???)
+    (2__quarter__NN
+      3__of__IN
+      ???)
+    (4__a__DT
+      3__of__IN
+      ???)
+    (5__million__CD
+      3__of__IN
+      ???)
+    (3__of__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__of__IN (DT__1__A__DT 1__A__DT) (NN__2__quarter__NN 2__quarter__NN) (IN__3__of__IN 3__of__IN) (DT__4__a__DT 4__a__DT) (CD__5__million__CD 5__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      3__as__IN
+      ???)
+    (2__little__JJ
+      3__as__IN
+      ???)
+    (4__#__#
+      3__as__IN
+      ???)
+    (5__1.3__CD
+      3__as__IN
+      ???)
+    (6__billion__CD
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (RB__1__as__RB 1__as__RB) (JJ__2__little__JJ 2__little__JJ) (IN__3__as__IN 3__as__IN) (#__4__#__# 4__#__#) (CD__5__1.3__CD 5__1.3__CD) (CD__6__billion__CD 6__billion__CD)))
+
+(ROOT
+  (DEPS
+    (2__20__CD
+      1__about__IN
+      ???)
+    (3__times__NNS
+      1__about__IN
+      ???)
+    (4__more__JJR
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (CD__2__20__CD 2__20__CD) (NNS__3__times__NNS 3__times__NNS) (JJR__4__more__JJR 4__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__between__IN
+      11__HK$__$
+      ???)
+    (2__2,000__CD
+      11__HK$__$
+      ???)
+    (3__Hong__NNP
+      11__HK$__$
+      ???)
+    (4__Kong__NNP
+      11__HK$__$
+      ???)
+    (5__dollars__NNS
+      11__HK$__$
+      ???)
+    (7__US$__$
+      11__HK$__$
+      ???)
+    (6__-LRB-__-LRB-
+      7__US$__$
+      ???)
+    (8__256.18__CD
+      7__US$__$
+      ???)
+    (__*U*__-NONE-
+      7__US$__$
+      ???)
+    (9__-RRB-__-RRB-
+      7__US$__$
+      ???)
+    (10__and__CC
+      11__HK$__$
+      ???)
+    (12__6,499__CD
+      11__HK$__$
+      ???)
+    (11__HK$__$
+      0__ROOT__
+      ROOT))
+  (QP__11__HK$__$ (IN__1__between__IN 1__between__IN) (CD__2__2,000__CD 2__2,000__CD) (NNP__3__Hong__NNP 3__Hong__NNP) (NNP__4__Kong__NNP 4__Kong__NNP) (NNS__5__dollars__NNS 5__dollars__NNS)
+    (PRN__7__US$__$ (-LRB-__6__-LRB-__-LRB- 6__-LRB-__-LRB-)
+      (NP__7__US$__$ ($__7__US$__$ 7__US$__$) (CD__8__256.18__CD 8__256.18__CD) (-NONE-____*U*__-NONE- __*U*__-NONE-))
+      (-RRB-__9__-RRB-__-RRB- 9__-RRB-__-RRB-))
+    (CC__10__and__CC 10__and__CC)
+    ($__11__HK$__$ 11__HK$__$) (CD__12__6,499__CD 12__6,499__CD)))
+
+(ROOT
+  (DEPS
+    (2__more__JJR
+      1__one__NN
+      ???)
+    (1__one__NN
+      0__ROOT__
+      ROOT))
+  (QP__1__one__NN (NN__1__one__NN 1__one__NN) (JJR__2__more__JJR 2__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__anywhere__RB
+      2__from__IN
+      ???)
+    (3__one-fourth__NN
+      2__from__IN
+      ???)
+    (4__to__TO
+      2__from__IN
+      ???)
+    (5__one-half__NN
+      2__from__IN
+      ???)
+    (2__from__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__from__IN (RB__1__anywhere__RB 1__anywhere__RB) (IN__2__from__IN 2__from__IN) (NN__3__one-fourth__NN 3__one-fourth__NN) (TO__4__to__TO 4__to__TO) (NN__5__one-half__NN 5__one-half__NN)))
+
+(ROOT
+  (DEPS
+    (1__the__DT
+      2__next__JJ
+      ???)
+    (3__three__CD
+      2__next__JJ
+      ???)
+    (4__or__CC
+      2__next__JJ
+      ???)
+    (5__four__CD
+      2__next__JJ
+      ???)
+    (6__or__CC
+      2__next__JJ
+      ???)
+    (7__five__CD
+      2__next__JJ
+      ???)
+    (8__or__CC
+      2__next__JJ
+      ???)
+    (9__six__CD
+      2__next__JJ
+      ???)
+    (2__next__JJ
+      0__ROOT__
+      ROOT))
+  (QP__2__next__JJ (DT__1__the__DT 1__the__DT) (JJ__2__next__JJ 2__next__JJ) (CD__3__three__CD 3__three__CD)
+    (CC__4__or__CC 4__or__CC)
+    (CD__5__four__CD 5__four__CD)
+    (CC__6__or__CC 6__or__CC)
+    (CD__7__five__CD 7__five__CD)
+    (CC__8__or__CC 8__or__CC)
+    (CD__9__six__CD 9__six__CD)))
+
+(ROOT
+  (DEPS
+    (1__somewhere__RB
+      2__between__IN
+      ???)
+    (3__one__CD
+      2__between__IN
+      ???)
+    (4__and__CC
+      2__between__IN
+      ???)
+    (5__two__CD
+      2__between__IN
+      ???)
+    (6__billion__CD
+      2__between__IN
+      ???)
+    (2__between__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__between__IN (RB__1__somewhere__RB 1__somewhere__RB) (IN__2__between__IN 2__between__IN) (CD__3__one__CD 3__one__CD)
+    (CC__4__and__CC 4__and__CC)
+    (CD__5__two__CD 5__two__CD) (CD__6__billion__CD 6__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__close__JJ
+      3__$__$
+      ???)
+    (2__to__TO
+      3__$__$
+      ???)
+    (4__10,000__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (JJ__1__close__JJ 1__close__JJ) (TO__2__to__TO 2__to__TO) ($__3__$__$ 3__$__$) (CD__4__10,000__CD 4__10,000__CD)))
+
+(ROOT
+  (DEPS
+    (1__no__DT
+      3__than__IN
+      ???)
+    (2__more__JJR
+      3__than__IN
+      ???)
+    (4__half__PDT
+      3__than__IN
+      ???)
+    (3__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__than__IN (DT__1__no__DT 1__no__DT) (JJR__2__more__JJR 2__more__JJR) (IN__3__than__IN 3__than__IN) (PDT__4__half__PDT 4__half__PDT)))
+
+(ROOT
+  (DEPS
+    (1__1__CD
+      2__%__NN
+      ???)
+    (3__or__CC
+      2__%__NN
+      ???)
+    (4__2__CD
+      2__%__NN
+      ???)
+    (2__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__%__NN (CD__1__1__CD 1__1__CD) (NN__2__%__NN 2__%__NN)
+    (CC__3__or__CC 3__or__CC)
+    (CD__4__2__CD 4__2__CD)))
+
+(ROOT
+  (DEPS
+    (1__more__JJR
+      2__than__IN
+      ???)
+    (3__a__DT
+      2__than__IN
+      ???)
+    (4__third__JJ
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__more__JJR 1__more__JJR) (IN__2__than__IN 2__than__IN) (DT__3__a__DT 3__a__DT) (JJ__4__third__JJ 4__third__JJ)))
+
+(ROOT
+  (DEPS
+    (1__close__JJ
+      3__$__$
+      ???)
+    (2__to__TO
+      3__$__$
+      ???)
+    (4__850__CD
+      3__$__$
+      ???)
+    (5__million__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (JJ__1__close__JJ 1__close__JJ) (TO__2__to__TO 2__to__TO) ($__3__$__$ 3__$__$) (CD__4__850__CD 4__850__CD) (CD__5__million__CD 5__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__up__RB
+      3__half__NN
+      ???)
+    (2__to__TO
+      3__half__NN
+      ???)
+    (3__half__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__half__NN (RB__1__up__RB 1__up__RB) (TO__2__to__TO 2__to__TO) (NN__3__half__NN 3__half__NN)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      2__$__$
+      ???)
+    (3__50__CD
+      2__$__$
+      ???)
+    (__*U*__-NONE-
+      2__$__$
+      ???)
+    (4__to__TO
+      2__$__$
+      ???)
+    (5__$__$
+      2__$__$
+      ???)
+    (6__100__CD
+      2__$__$
+      ???)
+    (2__$__$
+      0__ROOT__
+      ROOT))
+  (QP__2__$__$ (RB__1__only__RB 1__only__RB) ($__2__$__$ 2__$__$) (CD__3__50__CD 3__50__CD) (-NONE-____*U*__-NONE- __*U*__-NONE-) (TO__4__to__TO 4__to__TO) ($__5__$__$ 5__$__$) (CD__6__100__CD 6__100__CD)))
+
+(ROOT
+  (DEPS
+    (1__most__JJS
+      2__of__IN
+      ???)
+    (3__the__DT
+      2__of__IN
+      ???)
+    (4__past__JJ
+      2__of__IN
+      ???)
+    (5__30__CD
+      2__of__IN
+      ???)
+    (2__of__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__of__IN (JJS__1__most__JJS 1__most__JJS) (IN__2__of__IN 2__of__IN) (DT__3__the__DT 3__the__DT) (JJ__4__past__JJ 4__past__JJ) (CD__5__30__CD 5__30__CD)))
+
+(ROOT
+  (DEPS
+    (1__only__JJ
+      3__%__NN
+      ???)
+    (2__5__CD
+      3__%__NN
+      ???)
+    (4__to__TO
+      3__%__NN
+      ???)
+    (5__6__CD
+      3__%__NN
+      ???)
+    (6__%__NN
+      3__%__NN
+      ???)
+    (3__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__%__NN (JJ__1__only__JJ 1__only__JJ) (CD__2__5__CD 2__5__CD) (NN__3__%__NN 3__%__NN) (TO__4__to__TO 4__to__TO) (CD__5__6__CD 5__6__CD) (NN__6__%__NN 6__%__NN)))
+
+(ROOT
+  (DEPS
+    (1__just__RB
+      5__than__IN
+      ???)
+    (2__a__DT
+      5__than__IN
+      ???)
+    (3__little__RB
+      5__than__IN
+      ???)
+    (4__more__JJR
+      5__than__IN
+      ???)
+    (6__a__DT
+      5__than__IN
+      ???)
+    (7__third__NN
+      5__than__IN
+      ???)
+    (5__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__5__than__IN (RB__1__just__RB 1__just__RB) (DT__2__a__DT 2__a__DT) (RB__3__little__RB 3__little__RB) (JJR__4__more__JJR 4__more__JJR) (IN__5__than__IN 5__than__IN) (DT__6__a__DT 6__a__DT) (NN__7__third__NN 7__third__NN)))
+
+(ROOT
+  (DEPS
+    (2__two__CD
+      1__next__JJ
+      ???)
+    (3__to__TO
+      1__next__JJ
+      ???)
+    (4__five__CD
+      1__next__JJ
+      ???)
+    (1__next__JJ
+      0__ROOT__
+      ROOT))
+  (QP__1__next__JJ (JJ__1__next__JJ 1__next__JJ) (CD__2__two__CD 2__two__CD) (TO__3__to__TO 3__to__TO) (CD__4__five__CD 4__five__CD)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS)))
+
+(ROOT
+  (DEPS
+    (1__close__NN
+      3__$__$
+      ???)
+    (2__to__TO
+      3__$__$
+      ???)
+    (4__100__CD
+      3__$__$
+      ???)
+    (5__million__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (NN__1__close__NN 1__close__NN) (TO__2__to__TO 2__to__TO) ($__3__$__$ 3__$__$) (CD__4__100__CD 4__100__CD) (CD__5__million__CD 5__million__CD)))
+
+(ROOT
+  (DEPS
+    (2__to__TO
+      1__close__NN
+      ???)
+    (3__12__CD
+      1__close__NN
+      ???)
+    (4__million__CD
+      1__close__NN
+      ???)
+    (1__close__NN
+      0__ROOT__
+      ROOT))
+  (QP__1__close__NN (NN__1__close__NN 1__close__NN) (TO__2__to__TO 2__to__TO) (CD__3__12__CD 3__12__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__much__RB
+      2__of__IN
+      ???)
+    (2__of__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__of__IN (RB__1__much__RB 1__much__RB) (IN__2__of__IN 2__of__IN)))
+
+(ROOT
+  (DEPS
+    (1__more__RBR
+      2__than__IN
+      ???)
+    (3__50__CD
+      2__than__IN
+      ???)
+    (4__times__NNS
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (RBR__1__more__RBR 1__more__RBR) (IN__2__than__IN 2__than__IN) (CD__3__50__CD 3__50__CD) (NNS__4__times__NNS 4__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      3__one-third__NN
+      ???)
+    (2__about__RB
+      3__one-third__NN
+      ???)
+    (3__one-third__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__one-third__NN (RB__1__only__RB 1__only__RB) (RB__2__about__RB 2__about__RB) (NN__3__one-third__NN 3__one-third__NN)))
+
+(ROOT
+  (DEPS
+    (1__up__RP
+      3__25__CD
+      ???)
+    (2__to__TO
+      3__25__CD
+      ???)
+    (3__25__CD
+      0__ROOT__
+      ROOT))
+  (QP__3__25__CD (RP__1__up__RP 1__up__RP) (TO__2__to__TO 2__to__TO) (CD__3__25__CD 3__25__CD)))
+
+(ROOT
+  (DEPS
+    (1__60__CD
+      2__%__NN
+      ???)
+    (3__more__JJR
+      2__%__NN
+      ???)
+    (2__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__2__%__NN (CD__1__60__CD 1__60__CD) (NN__2__%__NN 2__%__NN) (JJR__3__more__JJR 3__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__only__RB
+      3__few__JJ
+      ???)
+    (2__a__DT
+      3__few__JJ
+      ???)
+    (4__hundred__CD
+      3__few__JJ
+      ???)
+    (3__few__JJ
+      0__ROOT__
+      ROOT))
+  (QP__3__few__JJ (RB__1__only__RB 1__only__RB) (DT__2__a__DT 2__a__DT) (JJ__3__few__JJ 3__few__JJ) (CD__4__hundred__CD 4__hundred__CD)))
+
+(ROOT
+  (DEPS
+    (2__300__CD
+      1__$__$
+      ???)
+    (__*U*__-NONE-
+      1__$__$
+      ???)
+    (3__to__TO
+      1__$__$
+      ???)
+    (4__$__$
+      1__$__$
+      ???)
+    (5__400__CD
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__300__CD 2__300__CD) (-NONE-____*U*__-NONE- __*U*__-NONE-) (TO__3__to__TO 3__to__TO) ($__4__$__$ 4__$__$) (CD__5__400__CD 5__400__CD)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      3__as__IN
+      ???)
+    (2__much__JJ
+      3__as__IN
+      ???)
+    (4__one-third__JJ
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (RB__1__as__RB 1__as__RB) (JJ__2__much__JJ 2__much__JJ) (IN__3__as__IN 3__as__IN) (JJ__4__one-third__JJ 4__one-third__JJ)))
+
+(ROOT
+  (DEPS
+    (2__to__TO
+      1__2.5-ton__JJ
+      ???)
+    (3__4.2-ton__JJ
+      1__2.5-ton__JJ
+      ???)
+    (1__2.5-ton__JJ
+      0__ROOT__
+      ROOT))
+  (QP__1__2.5-ton__JJ (JJ__1__2.5-ton__JJ 1__2.5-ton__JJ) (TO__2__to__TO 2__to__TO) (JJ__3__4.2-ton__JJ 3__4.2-ton__JJ)))
+
+(ROOT
+  (DEPS
+    (1__More__JJR
+      2__than__IN
+      ???)
+    (3__one-third__NN
+      2__than__IN
+      ???)
+    (2__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__than__IN (JJR__1__More__JJR 1__More__JJR) (IN__2__than__IN 2__than__IN)
+    (NP__3__one-third__NN (NN__3__one-third__NN 3__one-third__NN))))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      4__$__$
+      ???)
+    (2__little__JJ
+      4__$__$
+      ???)
+    (3__as__IN
+      4__$__$
+      ???)
+    (5__89__CD
+      4__$__$
+      ???)
+    (6__to__TO
+      4__$__$
+      ???)
+    (7__$__$
+      4__$__$
+      ???)
+    (8__109__CD
+      4__$__$
+      ???)
+    (4__$__$
+      0__ROOT__
+      ROOT))
+  (QP__4__$__$ (RB__1__as__RB 1__as__RB) (JJ__2__little__JJ 2__little__JJ) (IN__3__as__IN 3__as__IN) ($__4__$__$ 4__$__$) (CD__5__89__CD 5__89__CD) (TO__6__to__TO 6__to__TO) ($__7__$__$ 7__$__$) (CD__8__109__CD 8__109__CD)))
+
+(ROOT
+  (DEPS
+    (1__just__RB
+      2__about__IN
+      ???)
+    (3__as__RB
+      2__about__IN
+      ???)
+    (2__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__about__IN (RB__1__just__RB 1__just__RB) (IN__2__about__IN 2__about__IN) (RB__3__as__RB 3__as__RB)))
+
+(ROOT
+  (DEPS
+    (1__Half__DT
+      0__ROOT__
+      ROOT))
+  (QP__1__Half__DT (DT__1__Half__DT 1__Half__DT)))
+
+(ROOT
+  (DEPS
+    (1__a__DT
+      2__few__JJ
+      ???)
+    (3__hundred__CD
+      2__few__JJ
+      ???)
+    (4__million__CD
+      2__few__JJ
+      ???)
+    (2__few__JJ
+      0__ROOT__
+      ROOT))
+  (QP__2__few__JJ (DT__1__a__DT 1__a__DT) (JJ__2__few__JJ 2__few__JJ) (CD__3__hundred__CD 3__hundred__CD) (CD__4__million__CD 4__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__another__DT
+      2__three__CD
+      ???)
+    (3__to__TO
+      2__three__CD
+      ???)
+    (4__four__CD
+      2__three__CD
+      ???)
+    (2__three__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__three__CD (DT__1__another__DT 1__another__DT) (CD__2__three__CD 2__three__CD) (TO__3__to__TO 3__to__TO) (CD__4__four__CD 4__four__CD)))
+
+(ROOT
+  (DEPS
+    (2__a__DT
+      1__about__IN
+      ???)
+    (3__dozen__NN
+      1__about__IN
+      ???)
+    (4__more__JJR
+      1__about__IN
+      ???)
+    (1__about__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__about__IN (IN__1__about__IN 1__about__IN) (DT__2__a__DT 2__a__DT) (NN__3__dozen__NN 3__dozen__NN) (JJR__4__more__JJR 4__more__JJR)))
+
+(ROOT
+  (DEPS
+    (1__roughly__RB
+      5__times__NNS
+      ???)
+    (2__25__CD
+      5__times__NNS
+      ???)
+    (3__to__TO
+      5__times__NNS
+      ???)
+    (4__30__CD
+      5__times__NNS
+      ???)
+    (5__times__NNS
+      0__ROOT__
+      ROOT))
+  (QP__5__times__NNS (RB__1__roughly__RB 1__roughly__RB) (CD__2__25__CD 2__25__CD) (TO__3__to__TO 3__to__TO) (CD__4__30__CD 4__30__CD) (NNS__5__times__NNS 5__times__NNS)))
+
+(ROOT
+  (DEPS
+    (2__least__JJS
+      1__at__IN
+      ???)
+    (3__15__CD
+      1__at__IN
+      ???)
+    (4__%__NN
+      1__at__IN
+      ???)
+    (5__to__TO
+      1__at__IN
+      ???)
+    (6__20__CD
+      1__at__IN
+      ???)
+    (7__%__NN
+      1__at__IN
+      ???)
+    (1__at__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__at__IN (IN__1__at__IN 1__at__IN) (JJS__2__least__JJS 2__least__JJS) (CD__3__15__CD 3__15__CD) (NN__4__%__NN 4__%__NN) (TO__5__to__TO 5__to__TO) (CD__6__20__CD 6__20__CD) (NN__7__%__NN 7__%__NN)))
+
+(ROOT
+  (DEPS
+    (2__of__IN
+      1__out__IN
+      ???)
+    (3__10__CD
+      1__out__IN
+      ???)
+    (1__out__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__out__IN (IN__1__out__IN 1__out__IN) (IN__2__of__IN 2__of__IN) (CD__3__10__CD 3__10__CD)))
+
+(ROOT
+  (DEPS
+    (1__perhaps__RB
+      3__%__NN
+      ???)
+    (2__7__CD
+      3__%__NN
+      ???)
+    (4__or__CC
+      3__%__NN
+      ???)
+    (5__8__CD
+      3__%__NN
+      ???)
+    (6__%__JJ
+      3__%__NN
+      ???)
+    (3__%__NN
+      0__ROOT__
+      ROOT))
+  (QP__3__%__NN (RB__1__perhaps__RB 1__perhaps__RB) (CD__2__7__CD 2__7__CD) (NN__3__%__NN 3__%__NN)
+    (CC__4__or__CC 4__or__CC)
+    (CD__5__8__CD 5__8__CD) (JJ__6__%__JJ 6__%__JJ)))
+
+(ROOT
+  (DEPS
+    (1__closes__NNS
+      3__$__$
+      ???)
+    (2__to__TO
+      3__$__$
+      ???)
+    (4__15__CD
+      3__$__$
+      ???)
+    (5__billion__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (NNS__1__closes__NNS 1__closes__NNS) (TO__2__to__TO 2__to__TO) ($__3__$__$ 3__$__$) (CD__4__15__CD 4__15__CD) (CD__5__billion__CD 5__billion__CD)))
+
+(ROOT
+  (DEPS
+    (1__five__CD
+      2__times__NNS
+      ???)
+    (3__more__RBR
+      2__times__NNS
+      ???)
+    (2__times__NNS
+      0__ROOT__
+      ROOT))
+  (QP__2__times__NNS (CD__1__five__CD 1__five__CD) (NNS__2__times__NNS 2__times__NNS) (RBR__3__more__RBR 3__more__RBR)))
+
+(ROOT
+  (DEPS
+    (1__off__RB
+      2__1\/8__CD
+      ???)
+    (3__to__TO
+      2__1\/8__CD
+      ???)
+    (4__up__RB
+      2__1\/8__CD
+      ???)
+    (5__3\/8__CD
+      2__1\/8__CD
+      ???)
+    (2__1\/8__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__1\/8__CD (RB__1__off__RB 1__off__RB) (CD__2__1\/8__CD 2__1\/8__CD) (TO__3__to__TO 3__to__TO) (RB__4__up__RB 4__up__RB) (CD__5__3\/8__CD 5__3\/8__CD)))
+
+(ROOT
+  (DEPS
+    (__*ICH*-1__-NONE-
+      0__ROOT__
+      ROOT))
+  (QP____*ICH*-1__-NONE- (-NONE-____*ICH*-1__-NONE- __*ICH*-1__-NONE-)))
+
+(ROOT
+  (DEPS
+    (2__to__TO
+      1__close__JJ
+      ???)
+    (1__close__JJ
+      0__ROOT__
+      ROOT))
+  (QP__1__close__JJ (JJ__1__close__JJ 1__close__JJ) (TO__2__to__TO 2__to__TO)))
+
+(ROOT
+  (DEPS
+    (1__no__DT
+      3__than__IN
+      ???)
+    (2__more__RBR
+      3__than__IN
+      ???)
+    (4__2__CD
+      3__than__IN
+      ???)
+    (5__1\/2__CD
+      3__than__IN
+      ???)
+    (3__than__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__than__IN (DT__1__no__DT 1__no__DT) (RBR__2__more__RBR 2__more__RBR) (IN__3__than__IN 3__than__IN) (CD__4__2__CD 4__2__CD) (CD__5__1\/2__CD 5__1\/2__CD)))
+
+(ROOT
+  (DEPS
+    (1__well__RB
+      2__over__IN
+      ???)
+    (3__half__PDT
+      2__over__IN
+      ???)
+    (4__a__DT
+      2__over__IN
+      ???)
+    (5__billion__CD
+      2__over__IN
+      ???)
+    (2__over__IN
+      0__ROOT__
+      ROOT))
+  (QP__2__over__IN (RB__1__well__RB 1__well__RB) (IN__2__over__IN 2__over__IN) (PDT__3__half__PDT 3__half__PDT) (DT__4__a__DT 4__a__DT) (CD__5__billion__CD 5__billion__CD)))
+
+(ROOT
+  (DEPS
+    (2__2.06__CD
+      1__$__$
+      ???)
+    (3__billions__NNS
+      1__$__$
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (QP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__2.06__CD 2__2.06__CD) (NNS__3__billions__NNS 3__billions__NNS)))
+
+(ROOT
+  (DEPS
+    (2__500,000__CD
+      1__from__IN
+      ???)
+    (3__to__TO
+      1__from__IN
+      ???)
+    (4__3.5__CD
+      1__from__IN
+      ???)
+    (5__million__CD
+      1__from__IN
+      ???)
+    (1__from__IN
+      0__ROOT__
+      ROOT))
+  (QP__1__from__IN (IN__1__from__IN 1__from__IN) (CD__2__500,000__CD 2__500,000__CD) (TO__3__to__TO 3__to__TO) (CD__4__3.5__CD 4__3.5__CD) (CD__5__million__CD 5__million__CD)))
+
+(ROOT
+  (DEPS
+    (1__estimated__VBN
+      2__70__CD
+      ???)
+    (2__70__CD
+      0__ROOT__
+      ROOT))
+  (QP__2__70__CD (VBN__1__estimated__VBN 1__estimated__VBN) (CD__2__70__CD 2__70__CD)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      3__as__IN
+      ???)
+    (2__much__JJ
+      3__as__IN
+      ???)
+    (4__six__CD
+      3__as__IN
+      ???)
+    (5__times__NNS
+      3__as__IN
+      ???)
+    (3__as__IN
+      0__ROOT__
+      ROOT))
+  (QP__3__as__IN (RB__1__as__RB 1__as__RB) (JJ__2__much__JJ 2__much__JJ) (IN__3__as__IN 3__as__IN) (CD__4__six__CD 4__six__CD) (NNS__5__times__NNS 5__times__NNS)))
+
+(ROOT
+  (DEPS
+    (1__as__RB
+      3__$__$
+      ???)
+    (2__little__JJ
+      3__$__$
+      ???)
+    (4__3__CD
+      3__$__$
+      ???)
+    (3__$__$
+      0__ROOT__
+      ROOT))
+  (QP__3__$__$ (RB__1__as__RB 1__as__RB) (JJ__2__little__JJ 2__little__JJ) ($__3__$__$ 3__$__$) (CD__4__3__CD 4__3__CD)))
+

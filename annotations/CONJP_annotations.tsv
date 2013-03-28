@@ -1,0 +1,9 @@
+index	pattern	head_index
+1	(CONJP RB RB IN)	2
+2	(CONJP RB IN)	1
+3	(CONJP RB RB)	2
+4	(CONJP CC RB)	1
+7	(CONJP RB TO VB)	1
+8	(CONJP IN IN)	2
+9	(CONJP IN NN TO)	1
+10	(CONJP IN)	1

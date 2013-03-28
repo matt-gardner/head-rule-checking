@@ -1,0 +1,54 @@
+% Mark the filler for reference by interposing a "FILLER" label between it and
+% its parent. This is needed to distinguish the original filler structure from
+% its copies being used to fill gaps.
+fillerUnmarked%i=src : gap%i
+
+adjoinF (FILLER @) src
+
+% Within parentheticals, move any framing punctuation (for example, commas or
+% dashes) up a level.
+% TODO: find better way to deal with punctuation, e.g., attach to left sibling
+%punctuation=punc as the first child of @PRN=paren
+%
+%move punc $+ paren
+%
+%punctuation=punc as the last child of @PRN=paren
+%
+%move punc $- paren
+%
+% If the filler dominates its gap, move the subtree containing the gap to be a
+% left sister to the filler. (Eliminates recursive co-reference resolution.)
+% Example handled below: a quote or reported speech split up with its
+% attribution: ("..., analysts say, ....")
+% NOTE: Because of conventions around quote placement, these ops can screw up
+% quote placement.
+%(filler%i=fill immediately dominated by anything=parent)
+%  dominating
+%  (PRN=paren dominating gap%i)
+filler%i=fillerTree not dominating filler%i
+and immediately dominating
+  (anything immediately dominating
+    (anything=gapSubtree dominating gap%i))
+
+move gapSubtree $+ fillerTree
+
+%excise paren paren
+%
+% Revert the discontinuities -- that is, refill the gaps. "fillerContent" is the
+% original filler constituent, currently immediately under the FILLER label.
+fillerContent%i=src : gap%i=dest
+
+replace dest src
+
+% Prune the FILLER subtree, now that the filler's coindexed gaps have been
+% filled.
+filler%i=src
+
+prune src
+
+% Drop indices from filled gaps.
+% Matches on unmarked fillers without coindexed gaps -- that is, the filler
+% subtrees that just filled the gaps.
+fillerUnmarked%i=src : (TOP not dominating nullElement%i)
+
+relabel src /^(.+)-[0-9]+$/$1/

@@ -1,0 +1,76 @@
+(ROOT
+  (WHADVP (WRB 1__where)))
+
+(ROOT
+  (WHADVP (-NONE- 1__0_NULL)))
+
+(ROOT
+  (WHADVP (WRB 1__how) (RB 2__badly)))
+
+(ROOT
+  (WHADVP (IN 1__that)))
+
+(ROOT
+  (WHADVP (WRB 1__how) (JJ 2__much)))
+
+(ROOT
+  (WHADVP (RB 1__even) (WRB 2__when)))
+
+(ROOT
+  (WHADVP
+    (ADVP (RB 1__even))
+    (WRB 2__when)))
+
+(ROOT
+  (WHADVP (WRB 1__how)
+    (CONJPP (CC 2__and)
+      (WRB 3__when))))
+
+(ROOT
+  (WHADVP (WRB 1__how)
+    (NP
+      (NP (JJ 2__much))
+      (PP (IN 3__of)
+        (NP (PRP$ 4__their) (NN 5__anger))))))
+
+(ROOT
+  (WHADVP (WRB 1__how) (JJ 2__much) (NN 3__produce)))
+
+(ROOT
+  (WHADVP (RB 1__however)))
+
+(ROOT
+  (WHADVP (RB 1__precisely) (WRB 2__when)
+    (CC 3__and)
+    (WRB 4__where)))
+
+(ROOT
+  (WHADVP (`` 1__``) (WRB 2__How) (JJ 3__interesting) (. 4__.) ('' 5__'')))
+
+(ROOT
+  (WHADVP (RB 1__just) (WRB 2__how) (JJ 3__bizarre)))
+
+(ROOT
+  (WHADVP (WRB 1__how) (RB 2__haltingly)
+    (CC 3__or)
+    (RB 4__predictably)))
+
+(ROOT
+  (WHADVP (WDT 1__whatever)))
+
+(ROOT
+  (WHADVP (RB 1__just) (WRB 2__how) (RB 3__much)))
+
+(ROOT
+  (WHADVP (WDT 1__which) (NN 2__way)))
+
+(ROOT
+  (WHADVP (WRB 1__when) (WRB 2__when)))
+
+(ROOT
+  (WHADVP (WRB 1__how)
+    (ADJP (JJ 2__useful))))
+
+(ROOT
+  (WHADVP (WRB 1__how) (RB 2__far) (RB 3__down)))
+

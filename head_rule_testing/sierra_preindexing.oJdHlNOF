@@ -1,0 +1,29 @@
+(WHPP-2 (IN under)
+  (WHNP (WDT which)))
+
+(WHPP-1 (TO to)
+  (WHNP (WDT which)))
+
+(WHPP-3 (-NONE- 0_NULL))
+
+(WHPP (IN for)
+  (SBAR
+    (WHNP-1 (WP what))
+    (S
+      (NP-SBJ (-NONE- *T*-1_SKIP))
+      (VP (VBZ looks)
+        (S
+          (NP-SBJ (-NONE- *_SKIP))
+          (VP (TO to)
+            (VP (VB be)
+              (NP-PRD (DT an) (JJ uncertain) (NN market)))))))))
+
+(WHPP (IN of)
+  (NP
+    (WHNP (WP$ whose) (NNS programs))
+    (, ,)
+    (ADJP (JJ such)
+      (PP (IN as)
+        (NP (JJ commercial) (NN rent) (NN control))))
+    (, ,)))
+

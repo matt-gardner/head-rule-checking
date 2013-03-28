@@ -1,0 +1,34 @@
+(ROOT
+  (WHPP (IN 1__under)
+    (WHNP (WDT 2__which))))
+
+(ROOT
+  (WHPP (TO 1__to)
+    (WHNP (WDT 2__which))))
+
+(ROOT
+  (WHPP (-NONE- 1__0_NULL)))
+
+(ROOT
+  (WHPP (IN 1__for)
+    (SBAR
+      (S
+        (NP-SBJ
+          (WHNP (WP 2__what)))
+        (VP (VBZ 3__looks)
+          (S
+            (NP-SBJ (-NONE- __*))
+            (VP (TO 4__to)
+              (VP (VB 5__be)
+                (NP-PRD (DT 6__an) (JJ 7__uncertain) (NN 8__market))))))))))
+
+(ROOT
+  (WHPP (IN 1__of)
+    (NP
+      (WHNP (WP$ 2__whose) (NNS 3__programs))
+      (, 4__,)
+      (ADJP (JJ 5__such)
+        (PP (IN 6__as)
+          (NP (JJ 7__commercial) (NN 8__rent) (NN 9__control))))
+      (, 10__,))))
+

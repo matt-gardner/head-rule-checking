@@ -1,0 +1,242 @@
+(ROOT
+  (NAC-LOC (NNP 1__Albuquerque) (, 2__,) (NNP 3__N.M.) (, 4__,)))
+
+(ROOT
+  (NAC (NNP 1__University)
+    (PP (IN 2__of)
+      (NP (NNP 3__Vermont)))))
+
+(ROOT
+  (NAC-LOC (NNP 1__West) (NNP 2__Groton) (, 3__,) (NNP 4__Mass.) (, 5__,)))
+
+(ROOT
+  (NAC (NNP 1__National) (NNP 2__Union)
+    (PP (IN 3__of)
+      (NP (NNPS 4__Mineworkers)))))
+
+(ROOT
+  (NAC (NN 1__quality)
+    (PP (IN 2__of)
+      (NP (NN 3__life)))))
+
+(ROOT
+  (NAC-TMP (NNP 1__Friday) (CD 2__13)))
+
+(ROOT
+  (NAC-TMP (NNP 1__Monday) (, 2__,) (NNP 3__October) (CD 4__23) (, 5__,) (CD 6__1989) (, 7__,)))
+
+(ROOT
+  (NAC-LOC (NNP 1__Albuquerque) (, 2__,) (NNP 3__N.M.)))
+
+(ROOT
+  (NAC (NNP 1__First) (NNP 2__National) (NNP 3__Bank)
+    (PP (IN 4__of)
+      (NP (NNP 5__Toms) (NNP 6__River)))))
+
+(ROOT
+  (NAC-TMP (NNP 1__Friday) (DT 2__the) (JJ 3__13th)))
+
+(ROOT
+  (NAC
+    (NAC (NNS 1__Dirks))
+    (PP (CC 2__v.)
+      (NP (NNP 3__SEC)))))
+
+(ROOT
+  (NAC-LOC (NNP 1__Colorado) (NNPS 2__Springs) (, 3__,) (NNP 4__Colo.) (, 5__,)))
+
+(ROOT
+  (NAC
+    (NP (JJ 1__nine-cent))
+    (NP-ADV (DT 2__a) (NN 3__gallon))))
+
+(ROOT
+  (NAC
+    (NP (NN 1__secretary))
+    (PP (IN 2__of)
+      (NP (NN 3__state)))))
+
+(ROOT
+  (NAC (JJ 1__British) (NNP 2__Chancellor)
+    (PP (IN 3__of)
+      (NP (DT 4__the) (NNP 5__Exchequer)))))
+
+(ROOT
+  (NAC-LOC (NNP 1__White) (NNP 2__Plains) (, 3__,) (NNP 4__N.Y.)))
+
+(ROOT
+  (NAC-TMP (NNP 1__Sept.) (CD 2__1) (, 3__,) (CD 4__1991) (, 5__,)))
+
+(ROOT
+  (NAC (NNPS 1__Americans)
+    (PP (IN 2__With)
+      (NP (NNPS 3__Disabilities)))))
+
+(ROOT
+  (NAC (NNP 1__National) (NNPS 2__Institutes)
+    (PP (IN 3__of)
+      (NP (NNP 4__Health)))))
+
+(ROOT
+  (NAC-TTL (JJ 1__American) (NN 2__Way)
+    (PP (IN 3__of)
+      (NP (VBG 4__Buying)))))
+
+(ROOT
+  (NAC (NNP 1__Group)))
+
+(ROOT
+  (NAC (DT 1__the) (JJ 2__federal)))
+
+(ROOT
+  (NAC
+    (NP ($ 1__$) (CD 2__3,000) (-NONE- __*U*))
+    (ADVP (DT 3__a) (NN 4__month))))
+
+(ROOT
+  (NAC
+    (NAC
+      (NAC (NNP 1__Group))
+      (PP (IN 2__of)
+        (NP (NNP 3__Seven))))
+    (PRN (-LRB- 4__-LRB-)
+      (NAC (NNP 5__G-7))
+      (-RRB- 6__-RRB-))))
+
+(ROOT
+  (NAC (DT 1__the) (NNP 2__University)
+    (PP (IN 3__of)
+      (NP (NNP 4__Southern) (NNP 5__California)))))
+
+(ROOT
+  (NAC-TTL (`` 1__``) (PRP$ 2__My) (JJ 3__Favorite) (NN 4__Bureaucrat) ('' 5__'')))
+
+(ROOT
+  (NAC-LOC (JJ 1__Nearby) (NNP 2__Pasadena) (, 3__,) (NNP 4__Texas) (, 5__,)))
+
+(ROOT
+  (NAC-LOC
+    (NP (NNP 1__Moonachie))
+    (, 2__,)
+    (NP (NNP 3__N.J.))
+    (, 4__,)))
+
+(ROOT
+  (NAC (JJ 1__six-cent)
+    (PP (IN 2__per)
+      (NP (NN 3__dollar)))))
+
+(ROOT
+  (NAC (DT 1__the) (NNP 2__Bill)))
+
+(ROOT
+  (NAC (NNS 1__Dirks)))
+
+(ROOT
+  (NAC ($ 1__$) (CD 2__10,000) (-NONE- __*U*)
+    (PP (IN 3__per)
+      (NP (NN 4__capita)))))
+
+(ROOT
+  (NAC (NNP 1__University)
+    (PP (IN 2__of)
+      (NP (NNP 3__California)))
+    (NP-LOC (NNP 4__Berkeley))))
+
+(ROOT
+  (NAC
+    (NP (NNP 1__Secretary))
+    (PP (IN 2__of)
+      (NP (NNP 3__State)))
+    (PP (IN 4__for)
+      (NP (NNP 5__Trade)
+        (CONJPP (CC 6__and)
+          (NNP 7__Industry))))))
+
+(ROOT
+  (NAC-LOC (NNP 1__Upper) (NNP 2__Saddle) (NNP 3__River) (, 4__,) (NNP 5__N.J.) (, 6__,)))
+
+(ROOT
+  (NAC-LOC (NNP 1__Ponce) (, 2__,) (NNP 3__Puerto) (NNP 4__Rico)))
+
+(ROOT
+  (NAC-LOC (NNP 1__U.S.A) (. 2__.)))
+
+(ROOT
+  (NAC (NNP 1__British) (NNP 2__Chancellor)))
+
+(ROOT
+  (NAC
+    (NAC (NN 1__change)
+      (PP (IN 2__in)
+        (NP (NN 3__strategy))))
+    (CONJPP (CC 4__or)
+      (NAC (NN 5__change)
+        (PP (IN 6__in)
+          (NP (NN 7__profit) (NNS 8__expectations)))))))
+
+(ROOT
+  (NAC (DT 1__the) (NNP 2__Lord) (NNP 3__Mayor)
+    (PP (IN 4__of)
+      (NP (NNP 5__London)))))
+
+(ROOT
+  (NAC-LOC
+    (NAC (NNP 1__Hannibal) (, 2__,) (NNP 3__Ohio))
+    (CONJPP (, 4__,)
+      (CC 5__and)
+      (NAC (NNP 6__Jackson) (, 7__,) (NNP 8__Tenn.) (, 9__,)))))
+
+(ROOT
+  (NAC (CD 1__6) (NN 2__a.m.)
+    (PP (TO 3__to)
+      (NP (CD 4__8) (NN 5__p.m.)))))
+
+(ROOT
+  (NAC (CD 1__TWO) (NNS 2__BIRDS)
+    (PP (IN 3__with)
+      (NP (CD 4__one) (NN 5__stone)))))
+
+(ROOT
+  (NAC (JJ 1__former) (NNP 2__U.S.) (NN 3__attorney)
+    (PP-LOC (IN 4__in)
+      (NP (NNP 5__Washington)))))
+
+(ROOT
+  (NAC (VBN 1__Retired) (NN 2__army) (NNP 3__Chief)
+    (PP (IN 4__of)
+      (NP (NNP 5__Staff)))))
+
+(ROOT
+  (NAC-LOC (NNP 1__Vancouver) (, 2__,) (NNP 3__British) (NNP 4__Columbia) (, 5__,)))
+
+(ROOT
+  (NAC-LOC (DT 1__the) (NNP 2__Washington) (, 3__,) (NNP 4__D.C.) (, 5__,)))
+
+(ROOT
+  (NAC-TTL
+    (S-TTL
+      (NP-SBJ (-NONE- __*))
+      (VP (VB 1__Leave)
+        (NP (PRP 2__It))
+        (PP (TO 3__to)
+          (NP (NNP 4__Beaver)))))
+    (NN 5__Show)))
+
+(ROOT
+  (NAC-TTL (NNS 1__Cars)
+    (SBAR
+      (S
+        (NP-SBJ
+          (WHNP (WDT 2__That)))
+        (VP (VBP 3__Make)
+          (NP (NN 4__Sense)))))))
+
+(ROOT
+  (NAC (JJ 1__FORMER) (JJ 2__CANADIAN) (NN 3__AMBASSADOR)
+    (PP (TO 4__to)
+      (NP (DT 5__the) (NNP 6__U.S.)))))
+
+(ROOT
+  (NAC-LOC (NNP 1__San) (JJ 2__Francisco-based)))
+

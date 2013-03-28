@@ -1,0 +1,39 @@
+index	pattern	head_index
+1	(X SYM)	1
+2	(X DT JJR)	2
+3	(X IN)	1
+4	(X PP)	1
+5	(X DT RBR)	2
+6	(X NP)	1
+7	(X TO)	1
+8	(X DT)	1
+9	(X X NP)	2
+10	(X DT ADJP)	2
+12	(X NN)	1
+14	(X X PP)	2
+16	(X VBD)	1
+17	(X SBAR , X NP)	4
+18	(X DT JJR NN)	3
+19	(X RB)	1
+20	(X MD)	1
+21	(X WP)	1
+24	(X VP)	1
+25	(X IN NP)	2
+26	(X DT RBR JJ)	3
+27	(X X : VP .)	3
+28	(X SBARQ)	1
+31	(X X S)	2
+32	(X NP : PP)	3
+35	(X DT JJS)	2
+36	(X NP , PP :)	4
+39	(X JJ . NNP)	3
+41	(X NP NP NP)	3
+42	(X CC VP .)	3
+43	(X NNP NNP NNP CD NN)	5
+44	(X NNP NNP NNP NNPS NNP)	5
+46	(X NNP .)	2
+47	(X FW NN , FW)	4
+50	(X SBARQ .)	2
+59	(X JJ NNS IN TO JJ NNS)	6
+60	(X DT RB)	2
+62	(X FW FW FW NP)	4

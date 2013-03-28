@@ -1,0 +1,92 @@
+(ROOT
+  (INTJ (UH 1__uh)))
+
+(ROOT
+  (INTJ (RB 1__no)))
+
+(ROOT
+  (INTJ (VB 1__say)))
+
+(ROOT
+  (INTJ (UH 1__Egad) (. 2__.)))
+
+(ROOT
+  (INTJ (WRB 1__Why)))
+
+(ROOT
+  (INTJ (DT 1__that) (VBZ 2__is)))
+
+(ROOT
+  (INTJ (UH 1__Oh) (UH 2__no)))
+
+(ROOT
+  (INTJ (JJ 1__Good) (NN 2__luck) (. 3__.)))
+
+(ROOT
+  (INTJ (NN 1__Beat) (, 2__,) (NN 3__BEAT)))
+
+(ROOT
+  (INTJ (RB 1__So) (JJ 2__Long)))
+
+(ROOT
+  (INTJ (UH 1__aw) (, 2__,) (UH 3__shucks)))
+
+(ROOT
+  (INTJ (UH 1__Wham) (. 2__!) (UH 3__Bam) (. 4__!)))
+
+(ROOT
+  (INTJ
+    (S
+      (NP-SBJ (WP 1__What))
+      (VP (VBZ 2__'s)
+        (NP-PRD (JJR 3__more))))))
+
+(ROOT
+  (INTJ (UH 1__Oh) (PRP$ 2__my) (NNP 3__God)))
+
+(ROOT
+  (INTJ (VB 1__whack) (, 2__,) (VB 3__whack) (, 4__,) (VB 5__whack)))
+
+(ROOT
+  (INTJ (JJ 1__Good) (NN 2__morning)))
+
+(ROOT
+  (INTJ (`` 1__``) (UH 2__Oh) (, 3__,) (RB 4__yes) (. 5__.)))
+
+(ROOT
+  (INTJ (VB 1__C'mon) (, 2__,) (RB 3__now)))
+
+(ROOT
+  (INTJ (UH 1__Welcome)
+    (PP (TO 2__to)
+      (NP
+        (NP (DT 3__that) (NN 4__welter))
+        (PP (IN 5__of)
+          (NP (NNS 6__contradictions)))
+        (VP (VBN 7__known)
+          (NP (-NONE- __*))
+          (PP-CLR (IN 8__as)
+            (NP (NNP 9__Newport) (NNP 10__Beach))))))
+    (. 11__.)))
+
+(ROOT
+  (INTJ (NN 1__Quack) (. 2__.)))
+
+(ROOT
+  (INTJ
+    (INTJ (UH 1__quack))
+    (, 2__,)
+    (INTJ (UH 3__quack))))
+
+(ROOT
+  (INTJ (JJ 1__right)))
+
+(ROOT
+  (INTJ (NN 1__crunch) (, 2__,) (NN 3__crunch) (, 4__,) (NN 5__crunch) (, 6__,) (NN 7__bang) (, 8__,) (NN 9__bang) (, 10__,) (NN 11__bang)))
+
+(ROOT
+  (INTJ (JJ 1__Sure) (. 2__.)))
+
+(ROOT
+  (INTJ-HLN (NNP 1__UH) (NNP 2__HUH) (: 3__:)))
+

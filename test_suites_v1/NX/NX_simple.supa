@@ -1,0 +1,712 @@
+1	president	_	_	NN	_	0	ROOT	_	_	ROOT
+2	and	_	_	CC	_	1	???	_	_	president
+3	chief	_	_	NN	_	5	???	_	_	officer
+4	operating	_	_	VBG	_	5	???	_	_	officer
+5	officer	_	_	NN	_	2	???	_	_	and
+
+1	president	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	patents	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	promotional	_	_	JJ	_	2	???	_	_	effort
+2	effort	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	fast-food	_	_	NN	_	2	???	_	_	restaurants
+2	restaurants	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	public	_	_	JJ	_	2	???	_	_	elevators
+2	elevators	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	chief	_	_	NN	_	2	???	_	_	designer
+2	designer	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	World	_	_	NNP	_	2	???	_	_	Bank
+2	Bank	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	patents	_	_	NNS	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	patents
+3	copyrights	_	_	NNS	_	2	???	_	_	,
+4	and	_	_	CC	_	2	???	_	_	,
+5	other	_	_	JJ	_	7	???	_	_	rights
+6	intellectual-property	_	_	JJ	_	7	???	_	_	rights
+7	rights	_	_	NNS	_	4	???	_	_	and
+
+1	CAT	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	chairman	_	_	NN	_	0	ROOT	_	_	ROOT
+
+
+
+1	chief	_	_	JJ	_	3	???	_	_	officer
+2	executive	_	_	NN	_	3	???	_	_	officer
+3	officer	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	chief	_	_	JJ	_	3	???	_	_	officer
+2	executive	_	_	JJ	_	3	???	_	_	officer
+3	officer	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	International	_	_	NNP	_	3	???	_	_	Fund
+2	Monetary	_	_	NNP	_	3	???	_	_	Fund
+3	Fund	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	heart	_	_	NN	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	heart
+3	brain	_	_	NN	_	2	???	_	_	,
+4	,	_	_	,	_	2	???	_	_	,
+5	nerves	_	_	NNS	_	4	???	_	_	,
+6	and	_	_	CC	_	4	???	_	_	,
+7	blood	_	_	NN	_	8	???	_	_	vessels
+8	vessels	_	_	NNS	_	6	???	_	_	and
+
+1	independent	_	_	JJ	_	3	???	_	_	stations
+2	TV	_	_	NN	_	3	???	_	_	stations
+3	stations	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	Lee	_	_	NNP	_	2	???	_	_	Hamilton
+2	Hamilton	_	_	NNP	_	0	ROOT	_	_	ROOT
+3	-LRB-	_	_	-LRB-	_	6	???	_	_	Ind.
+4	D.	_	_	NNP	_	6	???	_	_	Ind.
+5	,	_	_	,	_	6	???	_	_	Ind.
+6	Ind.	_	_	NNP	_	2	???	_	_	Hamilton
+7	-RRB-	_	_	-RRB-	_	6	???	_	_	Ind.
+
+1	Mitsubishi	_	_	NNP	_	2	???	_	_	consultant
+2	consultant	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	personal	_	_	JJ	_	2	???	_	_	values
+2	values	_	_	NNS	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	4	???	_	_	or
+4	or	_	_	CC	_	2	???	_	_	values
+5	lack	_	_	NN	_	4	???	_	_	or
+6	of	_	_	IN	_	5	???	_	_	lack
+7	them	_	_	PRP	_	6	???	_	_	of
+
+1	Story	_	_	NNP	_	0	ROOT	_	_	ROOT
+2	of	_	_	IN	_	1	???	_	_	Story
+3	Women	_	_	NNP	_	2	???	_	_	of
+
+1	Learning	_	_	NNP	_	2	???	_	_	Materials
+2	Materials	_	_	NNPS	_	0	ROOT	_	_	ROOT
+
+1	personnel	_	_	NNS	_	2	???	_	_	training
+2	training	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	13.9	_	_	CD	_	2	???	_	_	rating
+2	rating	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	poor	_	_	JJ	_	2	???	_	_	performance
+2	performance	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	glass	_	_	NN	_	3	???	_	_	executive
+2	industry	_	_	NN	_	3	???	_	_	executive
+3	executive	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	chief	_	_	NN	_	3	???	_	_	officer
+2	operating	_	_	VBG	_	3	???	_	_	officer
+3	officer	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	royalty	_	_	NN	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	royalty
+3	or	_	_	CC	_	1	???	_	_	royalty
+4	percentage	_	_	NN	_	1	???	_	_	royalty
+5	of	_	_	IN	_	4	???	_	_	percentage
+6	sales	_	_	NNS	_	5	???	_	_	of
+7	,	_	_	,	_	1	???	_	_	royalty
+
+1	a	_	_	DT	_	2	???	_	_	vicar
+2	vicar	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	chairman	_	_	NN	_	0	ROOT	_	_	ROOT
+2	and	_	_	CC	_	1	???	_	_	chairman
+3	chief	_	_	JJ	_	5	???	_	_	officer
+4	executive	_	_	JJ	_	5	???	_	_	officer
+5	officer	_	_	NN	_	1	???	_	_	chairman
+6	of	_	_	IN	_	1	???	_	_	chairman
+7	Corp.	_	_	NNP	_	6	???	_	_	of
+
+1	Foreign	_	_	NNP	_	4	???	_	_	Board
+2	Investment	_	_	NNP	_	4	???	_	_	Board
+3	Review	_	_	NNP	_	4	???	_	_	Board
+4	Board	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	Kindertotenlieder	_	_	FW	_	0	ROOT	_	_	ROOT
+
+1	alleged	_	_	VBN	_	2	???	_	_	scams
+2	scams	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	dilutive	_	_	JJ	_	2	???	_	_	equivalents
+2	equivalents	_	_	NNS	_	0	ROOT	_	_	ROOT
+3	outstanding	_	_	JJ	_	2	???	_	_	equivalents
+
+1	Congressmen	_	_	NNPS	_	0	ROOT	_	_	ROOT
+
+1	other	_	_	JJ	_	3	???	_	_	rights
+2	intellectual-property	_	_	JJ	_	3	???	_	_	rights
+3	rights	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	old	_	_	JJ	_	3	???	_	_	hand
+2	Washington	_	_	NNP	_	3	???	_	_	hand
+3	hand	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	late	_	_	JJ	_	2	???	_	_	1970s
+2	1970s	_	_	CD	_	0	ROOT	_	_	ROOT
+
+1	Bloomingdale	_	_	NNP	_	0	ROOT	_	_	ROOT
+2	's	_	_	POS	_	1	???	_	_	Bloomingdale
+
+1	theaters	_	_	NNS	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	theaters
+3	buses	_	_	NNS	_	2	???	_	_	,
+4	,	_	_	,	_	2	???	_	_	,
+5	public	_	_	JJ	_	6	???	_	_	elevators
+6	elevators	_	_	NNS	_	4	???	_	_	,
+7	,	_	_	,	_	4	???	_	_	,
+8	hospitals	_	_	NNS	_	7	???	_	_	,
+9	and	_	_	CC	_	7	???	_	_	,
+10	fast-food	_	_	NN	_	11	???	_	_	restaurants
+11	restaurants	_	_	NNS	_	9	???	_	_	and
+
+1	hardly	_	_	RB	_	2	???	_	_	knowns
+2	knowns	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	Social	_	_	NNP	_	3	???	_	_	number
+2	Security	_	_	NNP	_	3	???	_	_	number
+3	number	_	_	NN	_	0	ROOT	_	_	ROOT
+
+4	35,000	_	_	CD	_	5	???	_	_	business
+
+1	``	_	_	``	_	3	???	_	_	Buckles
+2	Mrs.	_	_	NNP	_	3	???	_	_	Buckles
+3	Buckles	_	_	NNP	_	0	ROOT	_	_	ROOT
+4	''	_	_	''	_	3	???	_	_	Buckles
+5	and	_	_	CC	_	3	???	_	_	Buckles
+6	``	_	_	``	_	3	???	_	_	Buckles
+7	Patsy	_	_	NNP	_	3	???	_	_	Buckles
+
+1	revenue	_	_	NN	_	0	ROOT	_	_	ROOT
+2	and	_	_	CC	_	1	???	_	_	revenue
+
+1	Kissing	_	_	VBG	_	0	ROOT	_	_	ROOT
+2	Nature	_	_	NN	_	1	???	_	_	Kissing
+3	Good-bye	_	_	NN	_	1	OBJ-DO	_	_	Kissing
+
+1	``	_	_	``	_	2	???	_	_	machikin
+2	machikin	_	_	FW	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	machikin
+4	''	_	_	''	_	2	???	_	_	machikin
+5	which	_	_	WDT	_	6	SUBJ	_	_	lend
+6	lend	_	_	VBP	_	2	???	_	_	machikin
+
+1	investment	_	_	NN	_	3	???	_	_	activities
+2	banking	_	_	NN	_	3	???	_	_	activities
+3	activities	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	FEMA	_	_	NNP	_	2	???	_	_	personnel
+2	personnel	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	Philip	_	_	NNP	_	2	???	_	_	Kurland
+2	Kurland	_	_	NNP	_	0	ROOT	_	_	ROOT
+3	of	_	_	IN	_	2	???	_	_	Kurland
+4	the	_	_	DT	_	5	???	_	_	University
+5	University	_	_	NNP	_	3	???	_	_	of
+
+1	doctors	_	_	NNS	_	2	???	_	_	'
+2	'	_	_	POS	_	3	???	_	_	offices
+3	offices	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	respect	_	_	NN	_	0	ROOT	_	_	ROOT
+2	for	_	_	IN	_	1	???	_	_	respect
+3	the	_	_	DT	_	4	???	_	_	law
+4	law	_	_	NN	_	2	???	_	_	for
+
+1	name	_	_	NN	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	name
+3	Social	_	_	NNP	_	5	???	_	_	number
+4	Security	_	_	NNP	_	5	???	_	_	number
+5	number	_	_	NN	_	1	???	_	_	name
+6	,	_	_	,	_	1	???	_	_	name
+7	passport	_	_	NN	_	8	???	_	_	number
+8	number	_	_	NN	_	1	???	_	_	name
+
+1	their	_	_	PRP$	_	2	???	_	_	riders
+2	riders	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	an	_	_	DT	_	3	???	_	_	bell-ringer
+2	active	_	_	JJ	_	3	???	_	_	bell-ringer
+3	bell-ringer	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	1.8400	_	_	CD	_	2	???	_	_	marks
+2	marks	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	seven	_	_	CD	_	2	???	_	_	Ohio
+2	Ohio	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	controlling	_	_	VBG	_	2	???	_	_	shareholders
+2	shareholders	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	$	_	_	$	_	2	???	_	_	1.50
+2	1.50	_	_	CD	_	0	ROOT	_	_	ROOT
+3	a	_	_	DT	_	4	???	_	_	share
+4	share	_	_	NN	_	2	???	_	_	1.50
+
+1	$	_	_	$	_	2	???	_	_	1.50
+2	1.50	_	_	CD	_	0	ROOT	_	_	ROOT
+
+1	stock	_	_	NN	_	3	???	_	_	fund
+2	mutual	_	_	JJ	_	3	???	_	_	fund
+3	fund	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	stretched	_	_	VBN	_	2	???	_	_	resources
+2	resources	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	transformation	_	_	NN	_	0	ROOT	_	_	ROOT
+2	of	_	_	IN	_	1	???	_	_	transformation
+3	their	_	_	PRP$	_	4	???	_	_	industry
+4	industry	_	_	NN	_	2	???	_	_	of
+5	over	_	_	IN	_	1	???	_	_	transformation
+6	the	_	_	DT	_	7	???	_	_	years
+7	years	_	_	NNS	_	5	???	_	_	over
+
+1	largest	_	_	JJS	_	2	???	_	_	lender
+2	lender	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	wafers	_	_	NNS	_	0	ROOT	_	_	ROOT
+2	with	_	_	IN	_	1	???	_	_	wafers
+3	which	_	_	WDT	_	2	???	_	_	with
+4	to	_	_	TO	_	2	???	_	_	with
+5	fabricate	_	_	VB	_	4	???	_	_	to
+6	chips	_	_	NNS	_	5	OBJ-DO	_	_	fabricate
+
+1	the	_	_	DT	_	2	???	_	_	months
+2	months	_	_	NNS	_	0	ROOT	_	_	ROOT
+3	ended	_	_	VBN	_	2	???	_	_	months
+
+1	Libera	_	_	FW	_	0	ROOT	_	_	ROOT
+2	me	_	_	FW	_	1	???	_	_	Libera
+
+1	million	_	_	CD	_	0	ROOT	_	_	ROOT
+
+1	doctors	_	_	NNS	_	2	???	_	_	'
+2	'	_	_	POS	_	3	???	_	_	offices
+3	offices	_	_	NNS	_	0	ROOT	_	_	ROOT
+4	,	_	_	,	_	3	???	_	_	offices
+5	clinics	_	_	NNS	_	4	???	_	_	,
+6	,	_	_	,	_	7	???	_	_	and
+7	and	_	_	CC	_	4	???	_	_	,
+8	health	_	_	NN	_	9	???	_	_	centers
+9	centers	_	_	NNS	_	7	???	_	_	and
+
+1	common	_	_	JJ	_	0	ROOT	_	_	ROOT
+
+1	The	_	_	DT	_	3	???	_	_	's
+2	Insider	_	_	NNP	_	3	???	_	_	's
+3	's	_	_	POS	_	4	???	_	_	Japan
+4	Japan	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	``	_	_	``	_	2	???	_	_	Enterprise
+2	Enterprise	_	_	NN	_	0	ROOT	_	_	ROOT
+3	:	_	_	:	_	2	???	_	_	Enterprise
+4	Row	_	_	NNP	_	2	???	_	_	Enterprise
+
+1	western-style	_	_	JJ	_	4	???	_	_	boots
+2	hat	_	_	NN	_	4	???	_	_	boots
+3	and	_	_	CC	_	4	???	_	_	boots
+4	boots	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	Battle	_	_	NN	_	0	ROOT	_	_	ROOT
+2	:	_	_	:	_	1	???	_	_	Battle
+3	How	_	_	WRB	_	1	???	_	_	Battle
+4	the	_	_	DT	_	5	???	_	_	Nomination
+5	Nomination	_	_	NN	_	6	SUBJ	_	_	Shook
+6	Shook	_	_	VBD	_	3	???	_	_	How
+7	America	_	_	NNP	_	6	OBJ-DO	_	_	Shook
+
+1	same	_	_	JJ	_	2	???	_	_	pay
+2	pay	_	_	NN	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	pay
+4	same	_	_	JJ	_	5	???	_	_	hours
+5	hours	_	_	NNS	_	2	???	_	_	pay
+
+1	4	_	_	CD	_	2	???	_	_	%
+2	%	_	_	NN	_	4	???	_	_	increase
+3	pay	_	_	NN	_	4	???	_	_	increase
+4	increase	_	_	NN	_	0	ROOT	_	_	ROOT
+5	and	_	_	CC	_	4	???	_	_	increase
+6	bonus	_	_	NN	_	5	???	_	_	and
+
+1	early	_	_	RB	_	2	???	_	_	'80s
+2	'80s	_	_	CD	_	0	ROOT	_	_	ROOT
+
+1	cash	_	_	NN	_	4	???	_	_	prices
+2	tender	_	_	NN	_	4	???	_	_	prices
+3	offer	_	_	NN	_	4	???	_	_	prices
+4	prices	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	Federal	_	_	NNP	_	5	???	_	_	Corp.
+2	Home	_	_	NNP	_	5	???	_	_	Corp.
+3	Loan	_	_	NNP	_	5	???	_	_	Corp.
+4	Mortgage	_	_	NNP	_	5	???	_	_	Corp.
+5	Corp.	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	National	_	_	NNP	_	5	???	_	_	Commission
+2	Companies	_	_	NNP	_	5	???	_	_	Commission
+3	and	_	_	CC	_	5	???	_	_	Commission
+4	Securities	_	_	NNP	_	5	???	_	_	Commission
+5	Commission	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	Ben	_	_	NNP	_	4	???	_	_	Inc.
+2	Franklin	_	_	NNP	_	4	???	_	_	Inc.
+3	Stores	_	_	NNPS	_	4	???	_	_	Inc.
+4	Inc.	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	Micronic	_	_	NNP	_	4	???	_	_	subsidiaries
+2	hand-held	_	_	JJ	_	4	???	_	_	subsidiaries
+3	computer	_	_	NN	_	4	???	_	_	subsidiaries
+4	subsidiaries	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	amplifiers	_	_	NNS	_	0	ROOT	_	_	ROOT
+2	and	_	_	CC	_	1	???	_	_	amplifiers
+3	receivers	_	_	NNS	_	2	???	_	_	and
+4	and	_	_	CC	_	2	???	_	_	and
+5	software	_	_	NN	_	6	???	_	_	players
+6	players	_	_	NNS	_	4	???	_	_	and
+
+1	trade	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	the	_	_	DT	_	4	???	_	_	Weir
+2	Rev.	_	_	NNP	_	4	???	_	_	Weir
+3	Benjamin	_	_	NNP	_	4	???	_	_	Weir
+4	Weir	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	Joachim	_	_	NNP	_	2	???	_	_	Hermann
+2	Hermann	_	_	NNP	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	Hermann
+4	chief	_	_	NN	_	2	???	_	_	Hermann
+
+1	processing	_	_	NN	_	3	???	_	_	guaranteeing
+2	and	_	_	CC	_	3	???	_	_	guaranteeing
+3	guaranteeing	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	Cie	_	_	NNP	_	5	???	_	_	Paribas
+2	.	_	_	.	_	5	???	_	_	Paribas
+3	Financiere	_	_	NNP	_	5	???	_	_	Paribas
+4	de	_	_	IN	_	5	???	_	_	Paribas
+5	Paribas	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	older	_	_	JJR	_	2	???	_	_	son
+2	son	_	_	NN	_	0	ROOT	_	_	ROOT
+3	--	_	_	:	_	2	???	_	_	son
+4	a	_	_	DT	_	5	???	_	_	prodigy
+5	prodigy	_	_	NN	_	2	???	_	_	son
+6	--	_	_	:	_	2	???	_	_	son
+
+1	American	_	_	NNP	_	4	???	_	_	Buying
+2	Way	_	_	NNP	_	4	???	_	_	Buying
+3	of	_	_	IN	_	4	???	_	_	Buying
+4	Buying	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	4	_	_	CD	_	2	???	_	_	%
+2	%	_	_	NN	_	4	???	_	_	increase
+3	pay	_	_	NN	_	4	???	_	_	increase
+4	increase	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	meeting	_	_	VBG	_	0	ROOT	_	_	ROOT
+
+1	``	_	_	``	_	3	???	_	_	Fall
+2	The	_	_	DT	_	3	???	_	_	Fall
+3	Fall	_	_	NN	_	0	ROOT	_	_	ROOT
+4	of	_	_	IN	_	3	???	_	_	Fall
+5	the	_	_	DT	_	6	???	_	_	Reich
+6	Reich	_	_	NNP	_	4	???	_	_	of
+7	,	_	_	,	_	3	???	_	_	Fall
+8	''	_	_	''	_	3	???	_	_	Fall
+
+1	older	_	_	JJR	_	2	???	_	_	son
+2	son	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	readiness	_	_	NN	_	0	ROOT	_	_	ROOT
+2	to	_	_	TO	_	1	???	_	_	readiness
+3	embark	_	_	VB	_	2	???	_	_	to
+
+1	The	_	_	DT	_	3	???	_	_	Goodbye
+2	Long	_	_	NNP	_	3	???	_	_	Goodbye
+3	Goodbye	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	rescue	_	_	NN	_	2	???	_	_	and
+2	and	_	_	CC	_	4	???	_	_	supplies
+3	medical	_	_	JJ	_	2	???	_	_	and
+4	supplies	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	proposed	_	_	VBN	_	3	???	_	_	fees
+2	consent	_	_	NN	_	3	???	_	_	fees
+3	fees	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	consequent	_	_	JJ	_	3	???	_	_	prices
+2	lower	_	_	JJR	_	3	???	_	_	prices
+3	prices	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	current	_	_	JJ	_	2	???	_	_	account
+2	account	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	steady	_	_	JJ	_	2	???	_	_	accumulation
+2	accumulation	_	_	NN	_	0	ROOT	_	_	ROOT
+3	of	_	_	IN	_	2	???	_	_	accumulation
+4	power	_	_	NN	_	3	???	_	_	of
+5	,	_	_	,	_	2	???	_	_	accumulation
+6	particularly	_	_	RB	_	7	???	_	_	since
+7	since	_	_	IN	_	2	???	_	_	accumulation
+8	the	_	_	DT	_	9	???	_	_	reshuffle
+9	reshuffle	_	_	NN	_	7	???	_	_	since
+10	,	_	_	,	_	2	???	_	_	accumulation
+
+1	rising	_	_	VBG	_	2	???	_	_	cost
+2	cost	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	largest	_	_	JJS	_	3	???	_	_	donor
+2	aid	_	_	NN	_	3	???	_	_	donor
+3	donor	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	Bruce	_	_	NNP	_	2	???	_	_	Vento
+2	Vento	_	_	NNP	_	0	ROOT	_	_	ROOT
+3	-LRB-	_	_	-LRB-	_	4	???	_	_	D.
+4	D.	_	_	NNP	_	2	???	_	_	Vento
+5	-RRB-	_	_	-RRB-	_	4	???	_	_	D.
+6	,	_	_	,	_	2	???	_	_	Vento
+7	the	_	_	DT	_	8	???	_	_	chairman
+8	chairman	_	_	NN	_	2	???	_	_	Vento
+
+1	Il	_	_	NNP	_	4	???	_	_	Ore
+2	Sole	_	_	NNP	_	4	???	_	_	Ore
+3	24	_	_	CD	_	4	???	_	_	Ore
+4	Ore	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	dried	_	_	VBN	_	2	???	_	_	mud
+2	mud	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	stock	_	_	NN	_	0	ROOT	_	_	ROOT
+2	offering	_	_	VBG	_	1	???	_	_	stock
+
+1	annual	_	_	JJ	_	4	???	_	_	audit
+2	million	_	_	CD	_	4	???	_	_	audit
+3	world-wide	_	_	JJ	_	4	???	_	_	audit
+4	audit	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	judgment	_	_	NN	_	0	ROOT	_	_	ROOT
+2	-LCB-	_	_	-LRB-	_	1	???	_	_	judgment
+3	and	_	_	CC	_	1	???	_	_	judgment
+4	-RCB-	_	_	-RRB-	_	1	???	_	_	judgment
+5	respect	_	_	NN	_	1	???	_	_	judgment
+6	for	_	_	IN	_	5	???	_	_	respect
+7	the	_	_	DT	_	8	???	_	_	law
+8	law	_	_	NN	_	6	???	_	_	for
+
+1	1984	_	_	CD	_	0	ROOT	_	_	ROOT
+
+1	Lawyers	_	_	NNP	_	4	???	_	_	Act
+2	'	_	_	POS	_	4	???	_	_	Act
+3	Employment	_	_	NNP	_	4	???	_	_	Act
+4	Act	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	Guenter	_	_	NNP	_	2	???	_	_	Mittag
+2	Mittag	_	_	NNP	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	Mittag
+4	who	_	_	WP	_	5	SUBJ	_	_	has
+5	has	_	_	VBZ	_	2	???	_	_	Mittag
+6	headed	_	_	VBN	_	5	???	_	_	has
+7	affairs	_	_	NNS	_	6	OBJ-DO	_	_	headed
+8	,	_	_	,	_	2	???	_	_	Mittag
+
+1	35,000	_	_	CD	_	2	???	_	_	business
+2	business	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	largest	_	_	JJS	_	3	???	_	_	investor
+2	private	_	_	JJ	_	3	???	_	_	investor
+3	investor	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	other	_	_	JJ	_	4	???	_	_	whistles
+2	bells	_	_	NNS	_	4	???	_	_	whistles
+3	and	_	_	CC	_	4	???	_	_	whistles
+4	whistles	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	regulators	_	_	VBZ	_	0	ROOT	_	_	ROOT
+
+1	New	_	_	JJ	_	4	???	_	_	Order
+2	World	_	_	NN	_	4	???	_	_	Order
+3	Information	_	_	NN	_	4	???	_	_	Order
+4	Order	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	overdressed	_	_	JJ	_	2	???	_	_	singer
+2	singer	_	_	NN	_	0	ROOT	_	_	ROOT
+3	rather	_	_	RB	_	2	???	_	_	singer
+4	than	_	_	IN	_	3	???	_	_	rather
+5	underdressed	_	_	JJ	_	6	???	_	_	dancer
+6	dancer	_	_	NN	_	2	???	_	_	singer
+
+1	A	_	_	DT	_	2	???	_	_	Chase
+2	Chase	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	The	_	_	DT	_	2	???	_	_	Grapes
+2	Grapes	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	San	_	_	NNP	_	3	???	_	_	Giants
+2	Francisco	_	_	NNP	_	3	???	_	_	Giants
+3	Giants	_	_	NNPS	_	0	ROOT	_	_	ROOT
+
+1	smaller	_	_	JJR	_	3	???	_	_	allies
+2	NATO	_	_	NNP	_	3	???	_	_	allies
+3	allies	_	_	NNS	_	0	ROOT	_	_	ROOT
+4	,	_	_	,	_	3	???	_	_	allies
+5	some	_	_	DT	_	6	???	_	_	of
+6	of	_	_	IN	_	8	SUBJ	_	_	do
+7	whom	_	_	WP	_	6	???	_	_	of
+8	do	_	_	VBP	_	3	???	_	_	allies
+9	n't	_	_	RB	_	8	???	_	_	do
+10	have	_	_	VB	_	8	???	_	_	do
+11	staffs	_	_	NNS	_	10	OBJ-DO	_	_	have
+
+1	``	_	_	``	_	2	???	_	_	Boheme
+2	Boheme	_	_	NNP	_	0	ROOT	_	_	ROOT
+3	''	_	_	''	_	2	???	_	_	Boheme
+4	and	_	_	CC	_	2	???	_	_	Boheme
+5	``	_	_	``	_	2	???	_	_	Boheme
+6	Turandot	_	_	NNP	_	2	???	_	_	Boheme
+7	''	_	_	''	_	2	???	_	_	Boheme
+
+1	combined	_	_	VBN	_	3	???	_	_	deficit
+2	public	_	_	JJ	_	3	???	_	_	deficit
+3	deficit	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	American	_	_	JJ	_	2	???	_	_	Way
+2	Way	_	_	NN	_	0	ROOT	_	_	ROOT
+3	of	_	_	IN	_	2	???	_	_	Way
+4	Buying	_	_	NN	_	3	???	_	_	of
+
+1	Cie.	_	_	NNP	_	4	???	_	_	Mixte
+2	de	_	_	IN	_	4	???	_	_	Mixte
+3	Navigation	_	_	NNP	_	4	???	_	_	Mixte
+4	Mixte	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	Chancellor	_	_	NNP	_	0	ROOT	_	_	ROOT
+2	of	_	_	IN	_	1	???	_	_	Chancellor
+3	the	_	_	DT	_	4	???	_	_	Exchequer
+4	Exchequer	_	_	NNP	_	2	???	_	_	of
+
+1	operating	_	_	VBG	_	2	???	_	_	profit
+2	profit	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	Snoopy	_	_	NNP	_	2	???	_	_	's
+2	's	_	_	POS	_	4	???	_	_	Bouquet
+3	Love	_	_	NNP	_	4	???	_	_	Bouquet
+4	Bouquet	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	even	_	_	RB	_	3	???	_	_	industrialists
+2	some	_	_	DT	_	3	???	_	_	industrialists
+3	industrialists	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	continental	_	_	JJ	_	2	???	_	_	Europe
+2	Europe	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	former	_	_	JJ	_	5	???	_	_	commissioner
+2	Kentucky	_	_	NNP	_	5	???	_	_	commissioner
+3	state	_	_	NN	_	5	???	_	_	commissioner
+4	securities	_	_	NNS	_	5	???	_	_	commissioner
+5	commissioner	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	Thomas	_	_	NNP	_	2	???	_	_	Jeffersons
+2	Jeffersons	_	_	NNPS	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	4	???	_	_	or
+4	or	_	_	CC	_	2	???	_	_	Jeffersons
+5	St.	_	_	NNP	_	6	???	_	_	Augustines
+6	Augustines	_	_	NNPS	_	4	???	_	_	or
+7	or	_	_	CC	_	4	???	_	_	or
+8	Michelangelos	_	_	NNPS	_	7	???	_	_	or
+
+1	Messiah	_	_	NNP	_	0	ROOT	_	_	ROOT
+2	:	_	_	:	_	1	???	_	_	Messiah
+3	Story	_	_	NNP	_	1	???	_	_	Messiah
+
+
+
+1	Douglas	_	_	NNP	_	3	???	_	_	Kass
+2	A.	_	_	NN	_	3	???	_	_	Kass
+3	Kass	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	Red	_	_	NNP	_	2	???	_	_	Cross
+2	Cross	_	_	NNP	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	Cross
+4	Salvation	_	_	NNP	_	5	???	_	_	Army
+5	Army	_	_	NNP	_	3	???	_	_	,
+6	,	_	_	,	_	3	???	_	_	,
+7	military	_	_	JJ	_	8	???	_	_	units
+8	units	_	_	NNS	_	6	???	_	_	,
+9	,	_	_	,	_	6	???	_	_	,
+10	police	_	_	NNS	_	9	???	_	_	,
+11	,	_	_	,	_	9	???	_	_	,
+12	fire	_	_	NN	_	13	???	_	_	departments
+13	departments	_	_	NNS	_	11	???	_	_	,
+14	,	_	_	,	_	11	???	_	_	,
+15	rescue	_	_	NN	_	16	???	_	_	units
+16	units	_	_	NNS	_	14	???	_	_	,
+17	and	_	_	CC	_	14	???	_	_	,
+18	individual	_	_	JJ	_	19	???	_	_	citizens
+19	citizens	_	_	NNS	_	17	???	_	_	and
+
+1	Permian	_	_	NNP	_	3	???	_	_	operations
+2	Corp.	_	_	NNP	_	3	???	_	_	operations
+3	operations	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	wider	_	_	JJR	_	3	???	_	_	spread
+2	geographic	_	_	JJ	_	3	???	_	_	spread
+3	spread	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	Older	_	_	NNP	_	6	???	_	_	Act
+2	Americans	_	_	NNP	_	6	???	_	_	Act
+3	Freedom	_	_	NNP	_	6	???	_	_	Act
+4	to	_	_	TO	_	3	???	_	_	Freedom
+5	Work	_	_	NNP	_	4	???	_	_	to
+6	Act	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	pervasive	_	_	JJ	_	3	???	_	_	irregularities
+2	billing	_	_	NN	_	3	???	_	_	irregularities
+3	irregularities	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	Dun	_	_	NNP	_	4	???	_	_	director
+2	&	_	_	CC	_	4	???	_	_	director
+3	Bradstreet	_	_	NNP	_	4	???	_	_	director
+4	director	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	Securities	_	_	NNP	_	4	???	_	_	Commission
+2	and	_	_	CC	_	4	???	_	_	Commission
+3	Exchange	_	_	NNP	_	4	???	_	_	Commission
+4	Commission	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	trade	_	_	NN	_	2	???	_	_	clearing
+2	clearing	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	chief	_	_	JJ	_	3	???	_	_	officer
+2	operating	_	_	VBG	_	3	???	_	_	officer
+3	officer	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	Kind	_	_	NNP	_	4	???	_	_	Coronets
+2	Hearts	_	_	NNPS	_	4	???	_	_	Coronets
+3	and	_	_	CC	_	4	???	_	_	Coronets
+4	Coronets	_	_	NNPS	_	0	ROOT	_	_	ROOT
+
+1	smaller	_	_	JJR	_	3	???	_	_	allies
+2	NATO	_	_	NNP	_	3	???	_	_	allies
+3	allies	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	galvanized	_	_	JJ	_	3	???	_	_	sheet
+2	coated	_	_	VBN	_	3	???	_	_	sheet
+3	sheet	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	associated	_	_	VBN	_	3	???	_	_	work
+2	tax	_	_	NN	_	3	???	_	_	work
+3	work	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	customer	_	_	NN	_	5	???	_	_	representatives
+2	service	_	_	NN	_	5	???	_	_	representatives
+3	and	_	_	CC	_	5	???	_	_	representatives
+4	loan	_	_	NN	_	5	???	_	_	representatives
+5	representatives	_	_	NNS	_	0	ROOT	_	_	ROOT
+

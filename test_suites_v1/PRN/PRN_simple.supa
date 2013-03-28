@@ -1,0 +1,1636 @@
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	US$
+2	US$	_	_	$	_	0	ROOT	_	_	ROOT
+3	-RRB-	_	_	-RRB-	_	2	???	_	_	US$
+
+1	,	_	_	,	_	3	???	_	_	says
+2	Foot	_	_	NNP	_	3	SUBJ	_	_	says
+3	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+4	0_NULL	_	_	-NONE-	_	3	???	_	_	says
+5	,	_	_	,	_	3	???	_	_	says
+
+1	--	_	_	:	_	2	???	_	_	one
+2	one	_	_	CD	_	0	ROOT	_	_	ROOT
+3	--	_	_	:	_	2	???	_	_	one
+
+1	,	_	_	,	_	2	???	_	_	for
+2	for	_	_	IN	_	0	ROOT	_	_	ROOT
+3	its	_	_	PRP$	_	4	???	_	_	part
+4	part	_	_	NN	_	2	???	_	_	for
+5	,	_	_	,	_	2	???	_	_	for
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	Mo
+2	R.	_	_	NNP	_	4	???	_	_	Mo
+3	,	_	_	,	_	4	???	_	_	Mo
+4	Mo	_	_	NNP	_	0	ROOT	_	_	ROOT
+5	.	_	_	.	_	4	???	_	_	Mo
+6	-RRB-	_	_	-RRB-	_	4	???	_	_	Mo
+
+1	--	_	_	:	_	3	???	_	_	as
+2	such	_	_	JJ	_	3	???	_	_	as
+3	as	_	_	IN	_	0	ROOT	_	_	ROOT
+4	growth	_	_	NN	_	3	???	_	_	as
+5	--	_	_	:	_	3	???	_	_	as
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	seems
+2	every	_	_	DT	_	3	???	_	_	Japanese
+3	Japanese	_	_	NN	_	4	SUBJ	_	_	seems
+4	seems	_	_	VBZ	_	0	ROOT	_	_	ROOT
+5	-RRB-	_	_	-RRB-	_	4	???	_	_	seems
+
+1	--	_	_	:	_	2	???	_	_	awarding
+2	awarding	_	_	VBG	_	0	ROOT	_	_	ROOT
+3	point	_	_	NN	_	2	OBJ-DO	_	_	awarding
+4	--	_	_	:	_	2	???	_	_	awarding
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	except
+2	except	_	_	IN	_	0	ROOT	_	_	ROOT
+3	for	_	_	IN	_	2	???	_	_	except
+4	the	_	_	DT	_	3	???	_	_	for
+5	-RRB-	_	_	-RRB-	_	2	???	_	_	except
+
+1	,	_	_	,	_	2	???	_	_	as
+2	as	_	_	RB	_	0	ROOT	_	_	ROOT
+3	amended	_	_	VBN	_	2	???	_	_	as
+4	,	_	_	,	_	2	???	_	_	as
+
+1	,	_	_	,	_	5	???	_	_	goes
+2	''	_	_	''	_	5	???	_	_	goes
+3	the	_	_	DT	_	4	???	_	_	voice
+4	voice	_	_	NN	_	5	SUBJ	_	_	goes
+5	goes	_	_	VBZ	_	0	ROOT	_	_	ROOT
+6	on	_	_	RP	_	5	???	_	_	goes
+7	,	_	_	,	_	5	???	_	_	goes
+
+1	,	_	_	,	_	2	???	_	_	said
+2	said	_	_	VBD	_	0	ROOT	_	_	ROOT
+3	Negus	_	_	NNP	_	2	SUBJ	_	_	said
+4	,	_	_	,	_	2	???	_	_	said
+
+1	--	_	_	:	_	3	???	_	_	said
+2	which	_	_	WDT	_	3	SUBJ	_	_	said
+3	said	_	_	VBD	_	0	ROOT	_	_	ROOT
+4	0_NULL	_	_	-NONE-	_	3	???	_	_	said
+5	Coleman	_	_	NNP	_	6	SUBJ	_	_	wanted
+6	wanted	_	_	VBD	_	4	???	_	_	0_NULL
+7	--	_	_	:	_	3	???	_	_	said
+
+1	Shapiro	_	_	NNP	_	2	SUBJ	_	_	continued
+2	continued	_	_	VBD	_	0	ROOT	_	_	ROOT
+3	0_NULL	_	_	-NONE-	_	2	???	_	_	continued
+
+1	,	_	_	,	_	2	???	_	_	then
+2	then	_	_	RB	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	then
+
+1	,	_	_	,	_	3	???	_	_	said
+2	Maxwell	_	_	NNP	_	3	SUBJ	_	_	said
+3	said	_	_	VBD	_	0	ROOT	_	_	ROOT
+4	0_NULL	_	_	-NONE-	_	3	???	_	_	said
+5	,	_	_	,	_	3	???	_	_	said
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	called
+2	called	_	_	VBN	_	0	ROOT	_	_	ROOT
+3	-RRB-	_	_	-RRB-	_	2	???	_	_	called
+
+1	that	_	_	DT	_	2	SUBJ	_	_	is
+2	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	is
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	though
+2	though	_	_	IN	_	0	ROOT	_	_	ROOT
+3	probably	_	_	RB	_	4	???	_	_	romanticized
+4	romanticized	_	_	VBN	_	2	???	_	_	though
+5	-RRB-	_	_	-RRB-	_	2	???	_	_	though
+
+1	,	_	_	,	_	3	???	_	_	says
+2	''	_	_	''	_	3	???	_	_	says
+3	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+4	the	_	_	DT	_	5	???	_	_	kicker
+5	kicker	_	_	NN	_	3	SUBJ	_	_	says
+6	,	_	_	,	_	3	???	_	_	says
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	equal
+2	equal	_	_	JJ	_	0	ROOT	_	_	ROOT
+3	-RRB-	_	_	-RRB-	_	2	???	_	_	equal
+
+1	,	_	_	,	_	4	???	_	_	wrote
+2	''	_	_	''	_	4	???	_	_	wrote
+3	Leval	_	_	NNP	_	4	SUBJ	_	_	wrote
+4	wrote	_	_	VBD	_	0	ROOT	_	_	ROOT
+5	,	_	_	,	_	4	???	_	_	wrote
+6	``	_	_	``	_	4	???	_	_	wrote
+
+1	--	_	_	:	_	2	???	_	_	welcomed
+2	welcomed	_	_	VBN	_	0	ROOT	_	_	ROOT
+3	--	_	_	:	_	2	???	_	_	welcomed
+
+1	--	_	_	:	_	2	???	_	_	days
+2	days	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	,	_	_	,	_	4	???	_	_	says
+2	the	_	_	DT	_	3	???	_	_	IRS
+3	IRS	_	_	NNP	_	4	SUBJ	_	_	says
+4	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+5	0_NULL	_	_	-NONE-	_	4	???	_	_	says
+
+1	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	Siegal	_	_	NNP	_	1	SUBJ	_	_	says
+
+1	-LRB-	_	_	-LRB-	_	6	???	_	_	$
+2	Kodansha	_	_	NNP	_	6	???	_	_	$
+3	,	_	_	,	_	6	???	_	_	$
+4	pages	_	_	NNS	_	6	???	_	_	$
+5	,	_	_	,	_	6	???	_	_	$
+6	$	_	_	$	_	0	ROOT	_	_	ROOT
+7	-RRB-	_	_	-RRB-	_	6	???	_	_	$
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	AMT
+2	AMT	_	_	NNP	_	0	ROOT	_	_	ROOT
+3	-RRB-	_	_	-RRB-	_	2	???	_	_	AMT
+
+1	--	_	_	:	_	7	???	_	_	must
+2	players	_	_	NNS	_	7	SUBJ	_	_	must
+3	,	_	_	,	_	4	???	_	_	for
+4	for	_	_	IN	_	7	???	_	_	must
+5	example	_	_	NN	_	4	???	_	_	for
+6	,	_	_	,	_	4	???	_	_	for
+7	must	_	_	MD	_	0	ROOT	_	_	ROOT
+8	wear	_	_	VB	_	7	???	_	_	must
+9	ties	_	_	NNS	_	8	OBJ-DO	_	_	wear
+10	when	_	_	WRB	_	8	???	_	_	wear
+11	on	_	_	IN	_	10	???	_	_	when
+12	the	_	_	DT	_	13	???	_	_	road
+13	road	_	_	NN	_	11	???	_	_	on
+
+1	--	_	_	:	_	2	???	_	_	important
+2	important	_	_	JJ	_	0	ROOT	_	_	ROOT
+3	--	_	_	:	_	2	???	_	_	important
+
+1	-LRB-	_	_	-LRB-	_	3	???	_	_	Accused
+2	``	_	_	``	_	3	???	_	_	Accused
+3	Accused	_	_	NNP	_	0	ROOT	_	_	ROOT
+4	''	_	_	''	_	3	???	_	_	Accused
+5	-RRB-	_	_	-RRB-	_	3	???	_	_	Accused
+
+1	-LCB-	_	_	-LRB-	_	2	???	_	_	price
+2	price	_	_	NN	_	0	ROOT	_	_	ROOT
+3	-RCB-	_	_	-RRB-	_	2	???	_	_	price
+
+1	-LCB-	_	_	-LRB-	_	2	???	_	_	new
+2	new	_	_	JJ	_	0	ROOT	_	_	ROOT
+3	-RCB-	_	_	-RRB-	_	2	???	_	_	new
+
+1	--	_	_	:	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	the	_	_	DT	_	4	???	_	_	deficit
+4	deficit	_	_	NN	_	2	???	_	_	and
+5	--	_	_	:	_	2	???	_	_	and
+
+1	--	_	_	:	_	4	???	_	_	officer
+2	also	_	_	RB	_	4	???	_	_	officer
+3	a	_	_	DT	_	4	???	_	_	officer
+4	officer	_	_	NN	_	0	ROOT	_	_	ROOT
+5	--	_	_	:	_	4	???	_	_	officer
+
+1	,	_	_	,	_	3	???	_	_	says
+2	''	_	_	''	_	3	???	_	_	says
+3	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+4	Saito	_	_	NNP	_	3	SUBJ	_	_	says
+5	,	_	_	,	_	3	???	_	_	says
+6	``	_	_	``	_	3	???	_	_	says
+
+1	--	_	_	:	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	stadiums	_	_	NNS	_	4	SUBJ	_	_	would
+4	would	_	_	MD	_	2	???	_	_	and
+5	remain	_	_	VB	_	4	???	_	_	would
+6	full	_	_	JJ	_	5	???	_	_	remain
+7	--	_	_	:	_	2	???	_	_	and
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	U.S.A
+2	U.S.A	_	_	NNP	_	0	ROOT	_	_	ROOT
+3	.	_	_	.	_	2	???	_	_	U.S.A
+4	-RRB-	_	_	-RRB-	_	2	???	_	_	U.S.A
+
+1	,	_	_	,	_	3	???	_	_	level
+2	the	_	_	DT	_	3	???	_	_	level
+3	level	_	_	NN	_	0	ROOT	_	_	ROOT
+4	,	_	_	,	_	3	???	_	_	level
+
+1	,	_	_	,	_	3	???	_	_	Thatcher
+2	especially	_	_	RB	_	3	???	_	_	Thatcher
+3	Thatcher	_	_	NNP	_	0	ROOT	_	_	ROOT
+4	,	_	_	,	_	3	???	_	_	Thatcher
+
+1	,	_	_	,	_	2	???	_	_	yes
+2	yes	_	_	UH	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	yes
+
+1	--	_	_	:	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	could	_	_	MD	_	2	???	_	_	and
+4	produce	_	_	VB	_	3	???	_	_	could
+5	a	_	_	DT	_	6	???	_	_	crunch
+6	crunch	_	_	NN	_	4	OBJ-DO	_	_	produce
+7	--	_	_	:	_	2	???	_	_	and
+
+1	,	_	_	,	_	3	???	_	_	says
+2	he	_	_	PRP	_	3	SUBJ	_	_	says
+3	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+4	0_NULL	_	_	-NONE-	_	3	???	_	_	says
+5	,	_	_	,	_	3	???	_	_	says
+6	``	_	_	``	_	3	???	_	_	says
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	simply
+2	simply	_	_	RB	_	0	ROOT	_	_	ROOT
+3	-RRB-	_	_	-RRB-	_	2	???	_	_	simply
+
+1	--	_	_	:	_	8	???	_	_	for
+2	if	_	_	JJ	_	8	???	_	_	for
+3	not	_	_	RB	_	8	???	_	_	for
+4	for	_	_	IN	_	8	???	_	_	for
+5	money	_	_	NN	_	4	???	_	_	for
+6	,	_	_	,	_	8	???	_	_	for
+7	then	_	_	RB	_	8	???	_	_	for
+8	for	_	_	IN	_	0	ROOT	_	_	ROOT
+9	recognition	_	_	NN	_	8	???	_	_	for
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	perceived	_	_	VBN	_	2	???	_	_	or
+4	-RRB-	_	_	-RRB-	_	2	???	_	_	or
+
+1	--	_	_	:	_	3	???	_	_	north
+2	miles	_	_	NNS	_	3	???	_	_	north
+3	north	_	_	RB	_	0	ROOT	_	_	ROOT
+4	and	_	_	CC	_	3	???	_	_	north
+5	miles	_	_	NNS	_	6	???	_	_	inland
+6	inland	_	_	RB	_	4	???	_	_	and
+7	--	_	_	:	_	3	???	_	_	north
+
+1	-LRB-	_	_	-LRB-	_	5	???	_	_	Slay
+2	``	_	_	``	_	5	???	_	_	Slay
+3	Hollywood	_	_	NNP	_	5	???	_	_	Slay
+4	You	_	_	PRP	_	5	SUBJ	_	_	Slay
+5	Slay	_	_	VBP	_	0	ROOT	_	_	ROOT
+6	Me	_	_	PRP	_	5	OBJ-DO	_	_	Slay
+7	''	_	_	''	_	5	???	_	_	Slay
+8	-RRB-	_	_	-RRB-	_	5	???	_	_	Slay
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	a	_	_	DT	_	4	???	_	_	tendency
+4	tendency	_	_	NN	_	2	???	_	_	and
+5	-RRB-	_	_	-RRB-	_	2	???	_	_	and
+
+1	after	_	_	IN	_	0	ROOT	_	_	ROOT
+2	the	_	_	DT	_	3	???	_	_	line
+3	line	_	_	NN	_	1	???	_	_	after
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	Symbol
+2	NYSE	_	_	NNP	_	4	???	_	_	Symbol
+3	;	_	_	:	_	4	???	_	_	Symbol
+4	Symbol	_	_	NN	_	0	ROOT	_	_	ROOT
+5	-RRB-	_	_	-RRB-	_	4	???	_	_	Symbol
+
+1	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	Napolitan	_	_	NNP	_	1	SUBJ	_	_	says
+3	,	_	_	,	_	1	???	_	_	says
+
+
+
+1	--	_	_	:	_	3	???	_	_	bonds
+2	even	_	_	JJ	_	3	???	_	_	bonds
+3	bonds	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	-LRB-	_	_	-LRB-	_	5	???	_	_	darling
+2	``	_	_	``	_	5	???	_	_	darling
+3	diamond	_	_	NN	_	5	???	_	_	darling
+4	,	_	_	,	_	5	???	_	_	darling
+5	darling	_	_	NN	_	0	ROOT	_	_	ROOT
+6	''	_	_	''	_	5	???	_	_	darling
+7	-RRB-	_	_	-RRB-	_	5	???	_	_	darling
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	for
+2	offices	_	_	NNS	_	4	???	_	_	for
+3	,	_	_	,	_	4	???	_	_	for
+4	for	_	_	IN	_	0	ROOT	_	_	ROOT
+5	example	_	_	NN	_	4	???	_	_	for
+6	-RRB-	_	_	-RRB-	_	4	???	_	_	for
+
+1	,	_	_	,	_	4	???	_	_	said
+2	''	_	_	''	_	4	???	_	_	said
+3	Nadeau	_	_	NNP	_	4	SUBJ	_	_	said
+4	said	_	_	VBD	_	0	ROOT	_	_	ROOT
+5	0_NULL	_	_	-NONE-	_	4	???	_	_	said
+
+1	,	_	_	,	_	2	???	_	_	says
+2	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+3	0_NULL	_	_	-NONE-	_	2	???	_	_	says
+4	D'Arcy	_	_	NNP	_	2	SUBJ	_	_	says
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	quack
+2	quack	_	_	UH	_	0	ROOT	_	_	ROOT
+3	-RRB-	_	_	-RRB-	_	2	???	_	_	quack
+
+1	--	_	_	:	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	free	_	_	JJ	_	2	???	_	_	and
+4	--	_	_	:	_	2	???	_	_	and
+
+1	--	_	_	:	_	2	???	_	_	for
+2	for	_	_	IN	_	0	ROOT	_	_	ROOT
+3	example	_	_	NN	_	2	???	_	_	for
+4	,	_	_	,	_	2	???	_	_	for
+5	women	_	_	NNS	_	2	???	_	_	for
+6	--	_	_	:	_	2	???	_	_	for
+
+1	as	_	_	IN	_	0	ROOT	_	_	ROOT
+2	Watson	_	_	NNP	_	3	SUBJ	_	_	put
+3	put	_	_	VBD	_	1	???	_	_	as
+4	it	_	_	PRP	_	3	OBJ-DO	_	_	put
+
+1	for	_	_	IN	_	0	ROOT	_	_	ROOT
+2	one	_	_	CD	_	1	???	_	_	for
+3	,	_	_	,	_	1	???	_	_	for
+
+1	-LCB-	_	_	-LRB-	_	3	???	_	_	Pact
+2	Warsaw	_	_	NNP	_	3	???	_	_	Pact
+3	Pact	_	_	NNP	_	0	ROOT	_	_	ROOT
+4	-RCB-	_	_	-RRB-	_	3	???	_	_	Pact
+
+1	,	_	_	,	_	3	???	_	_	at
+2	then	_	_	RB	_	3	???	_	_	at
+3	at	_	_	IN	_	0	ROOT	_	_	ROOT
+4	the	_	_	DT	_	5	???	_	_	University
+5	University	_	_	NNP	_	3	???	_	_	at
+6	,	_	_	,	_	3	???	_	_	at
+
+1	,	_	_	,	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	RISC	_	_	NNP	_	2	???	_	_	or
+4	,	_	_	,	_	2	???	_	_	or
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	some	_	_	DT	_	4	SUBJ	_	_	would
+4	would	_	_	MD	_	2	???	_	_	and
+5	say	_	_	VB	_	4	???	_	_	would
+6	thereafter	_	_	RB	_	7	???	_	_	well
+7	well	_	_	RB	_	5	???	_	_	say
+8	-RRB-	_	_	-RRB-	_	2	???	_	_	and
+
+1	--	_	_	:	_	5	???	_	_	unless
+2	at	_	_	IN	_	5	???	_	_	unless
+3	value	_	_	NN	_	2	???	_	_	at
+4	,	_	_	,	_	5	???	_	_	unless
+5	unless	_	_	IN	_	0	ROOT	_	_	ROOT
+6	the	_	_	DT	_	7	???	_	_	issuer
+7	issuer	_	_	NN	_	8	SUBJ	_	_	goes
+8	goes	_	_	VBZ	_	5	???	_	_	unless
+9	bust	_	_	NN	_	8	OBJ-DO	_	_	goes
+10	--	_	_	:	_	5	???	_	_	unless
+
+1	-LCB-	_	_	-LRB-	_	3	???	_	_	operator
+2	cable	_	_	NN	_	3	???	_	_	operator
+3	operator	_	_	NN	_	0	ROOT	_	_	ROOT
+4	-RCB-	_	_	-RRB-	_	3	???	_	_	operator
+
+1	-LCB-	_	_	-LRB-	_	2	???	_	_	price-earnings
+2	price-earnings	_	_	NNS	_	0	ROOT	_	_	ROOT
+3	-RCB-	_	_	-RRB-	_	2	???	_	_	price-earnings
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	and
+4	after	_	_	IN	_	2	???	_	_	and
+5	a	_	_	DT	_	6	???	_	_	loss
+6	loss	_	_	NN	_	4	???	_	_	after
+7	yesterday	_	_	NN	_	4	???	_	_	after
+8	,	_	_	,	_	2	???	_	_	and
+9	losses	_	_	NNS	_	2	???	_	_	and
+10	-RRB-	_	_	-RRB-	_	2	???	_	_	and
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	c.i.f
+2	c.i.f	_	_	JJ	_	0	ROOT	_	_	ROOT
+3	.	_	_	.	_	2	???	_	_	c.i.f
+4	-RRB-	_	_	-RRB-	_	2	???	_	_	c.i.f
+
+1	but	_	_	CC	_	0	ROOT	_	_	ROOT
+2	less	_	_	JJR	_	1	???	_	_	but
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	done
+2	``	_	_	``	_	4	???	_	_	done
+3	a	_	_	DT	_	4	???	_	_	done
+4	done	_	_	VBN	_	0	ROOT	_	_	ROOT
+5	,	_	_	,	_	6	???	_	_	but
+6	but	_	_	CC	_	4	???	_	_	done
+7	good	_	_	JJ	_	6	???	_	_	but
+8	''	_	_	''	_	4	???	_	_	done
+9	-RRB-	_	_	-RRB-	_	4	???	_	_	done
+
+1	--	_	_	:	_	2	???	_	_	many
+2	many	_	_	JJ	_	0	ROOT	_	_	ROOT
+
+1	,	_	_	,	_	3	???	_	_	believes
+2	he	_	_	PRP	_	3	SUBJ	_	_	believes
+3	believes	_	_	VBZ	_	0	ROOT	_	_	ROOT
+4	0_NULL	_	_	-NONE-	_	3	???	_	_	believes
+
+1	-LRB-	_	_	-LRB-	_	3	???	_	_	is
+2	``	_	_	``	_	3	???	_	_	is
+3	is	_	_	NNS	_	0	ROOT	_	_	ROOT
+4	this	_	_	DT	_	3	SUBJ	_	_	is
+5	something	_	_	NN	_	3	???	_	_	is
+6	''	_	_	''	_	3	???	_	_	is
+7	-RRB-	_	_	-RRB-	_	3	???	_	_	is
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	is	_	_	VBZ	_	2	???	_	_	and
+4	-RRB-	_	_	-RRB-	_	2	???	_	_	and
+
+1	,	_	_	,	_	5	???	_	_	impact
+2	much	_	_	RB	_	5	???	_	_	impact
+3	less	_	_	JJR	_	2	???	_	_	much
+4	the	_	_	DT	_	5	???	_	_	impact
+5	impact	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	--	_	_	:	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	longevity	_	_	NN	_	2	???	_	_	and
+4	--	_	_	:	_	2	???	_	_	and
+
+1	--	_	_	:	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	patient	_	_	JJ	_	2	???	_	_	and
+4	--	_	_	:	_	2	???	_	_	and
+
+1	--	_	_	:	_	2	???	_	_	to
+2	to	_	_	TO	_	0	ROOT	_	_	ROOT
+3	fans	_	_	NNS	_	2	???	_	_	to
+4	,	_	_	,	_	2	???	_	_	to
+5	at	_	_	IN	_	2	???	_	_	to
+6	least	_	_	JJS	_	5	???	_	_	at
+7	--	_	_	:	_	2	???	_	_	to
+
+1	-LRB-	_	_	-LRB-	_	3	???	_	_	parent
+2	French	_	_	JJ	_	3	???	_	_	parent
+3	parent	_	_	NN	_	0	ROOT	_	_	ROOT
+4	-RRB-	_	_	-RRB-	_	3	???	_	_	parent
+
+1	--	_	_	:	_	3	???	_	_	and
+2	directly	_	_	RB	_	3	???	_	_	and
+3	and	_	_	CC	_	0	ROOT	_	_	ROOT
+4	through	_	_	IN	_	3	???	_	_	and
+5	funds	_	_	NNS	_	4	???	_	_	through
+6	--	_	_	:	_	3	???	_	_	and
+
+1	,	_	_	,	_	2	???	_	_	but
+2	but	_	_	CC	_	0	ROOT	_	_	ROOT
+3	at	_	_	IN	_	2	???	_	_	but
+4	prices	_	_	NNS	_	3	???	_	_	at
+
+1	-LRB-	_	_	-LRB-	_	5	???	_	_	Walk
+2	``	_	_	``	_	5	???	_	_	Walk
+3	the	_	_	DT	_	4	???	_	_	Undead
+4	Undead	_	_	NN	_	5	SUBJ	_	_	Walk
+5	Walk	_	_	VBP	_	0	ROOT	_	_	ROOT
+6	''	_	_	''	_	5	???	_	_	Walk
+7	Oct.	_	_	NNP	_	5	???	_	_	Walk
+8	-RRB-	_	_	-RRB-	_	5	???	_	_	Walk
+
+1	--	_	_	:	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	in	_	_	IN	_	2	???	_	_	or
+4	our	_	_	PRP$	_	5	???	_	_	case
+5	case	_	_	NN	_	3	???	_	_	in
+6	descending	_	_	VBG	_	2	???	_	_	or
+7	--	_	_	:	_	2	???	_	_	or
+
+1	,	_	_	,	_	5	???	_	_	until
+2	but	_	_	CC	_	5	???	_	_	until
+3	probably	_	_	RB	_	5	???	_	_	until
+4	not	_	_	RB	_	5	???	_	_	until
+5	until	_	_	IN	_	0	ROOT	_	_	ROOT
+6	year	_	_	NN	_	5	???	_	_	until
+
+1	,	_	_	,	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	at	_	_	IN	_	5	???	_	_	very
+4	least	_	_	JJS	_	3	???	_	_	at
+5	very	_	_	RB	_	2	???	_	_	or
+6	much	_	_	JJ	_	5	???	_	_	very
+
+1	usually	_	_	RB	_	2	???	_	_	on
+2	on	_	_	IN	_	0	ROOT	_	_	ROOT
+3	amounts	_	_	NNS	_	2	???	_	_	on
+
+1	--	_	_	:	_	3	???	_	_	is
+2	what	_	_	WP	_	3	SUBJ	_	_	is
+3	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+4	good	_	_	JJ	_	3	???	_	_	is
+5	,	_	_	,	_	3	???	_	_	is
+6	what	_	_	WP	_	7	SUBJ	_	_	is
+7	is	_	_	VBZ	_	3	???	_	_	is
+8	not	_	_	RB	_	7	???	_	_	is
+9	good	_	_	JJ	_	7	???	_	_	is
+
+1	but	_	_	CC	_	0	ROOT	_	_	ROOT
+2	not	_	_	RB	_	3	???	_	_	to
+3	to	_	_	TO	_	1	???	_	_	but
+4	enable	_	_	VB	_	3	???	_	_	to
+
+1	--	_	_	:	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	fear	_	_	VBP	_	2	???	_	_	or
+4	--	_	_	:	_	2	???	_	_	or
+
+1	and	_	_	CC	_	0	ROOT	_	_	ROOT
+2	just	_	_	RB	_	3	???	_	_	with
+3	with	_	_	IN	_	1	???	_	_	and
+4	words	_	_	NNS	_	3	???	_	_	with
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	Ill
+2	R.	_	_	NNP	_	4	???	_	_	Ill
+3	,	_	_	,	_	4	???	_	_	Ill
+4	Ill	_	_	NNP	_	0	ROOT	_	_	ROOT
+5	.	_	_	.	_	4	???	_	_	Ill
+6	-RRB-	_	_	-RRB-	_	4	???	_	_	Ill
+
+1	,	_	_	,	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	RISC	_	_	NNP	_	2	???	_	_	or
+4	,	_	_	,	_	2	???	_	_	or
+
+1	,	_	_	,	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	almost	_	_	RB	_	4	???	_	_	tenth
+4	tenth	_	_	NN	_	2	???	_	_	or
+
+1	,	_	_	,	_	3	???	_	_	through
+2	often	_	_	RB	_	3	???	_	_	through
+3	through	_	_	IN	_	0	ROOT	_	_	ROOT
+4	cross-licensing	_	_	NN	_	3	???	_	_	through
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	U.S.A
+2	U.S.A	_	_	NNP	_	0	ROOT	_	_	ROOT
+3	.	_	_	.	_	2	???	_	_	U.S.A
+4	-RRB-	_	_	-RRB-	_	2	???	_	_	U.S.A
+
+1	,	_	_	,	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	threatens	_	_	VBZ	_	2	???	_	_	or
+4	,	_	_	,	_	2	???	_	_	or
+
+1	he	_	_	PRP	_	2	SUBJ	_	_	says
+2	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+
+1	-LCB-	_	_	-LRB-	_	2	???	_	_	except
+2	except	_	_	IN	_	0	ROOT	_	_	ROOT
+3	-RCB-	_	_	-RRB-	_	2	???	_	_	except
+
+1	--	_	_	:	_	3	???	_	_	against
+2	%	_	_	NN	_	3	???	_	_	against
+3	against	_	_	IN	_	0	ROOT	_	_	ROOT
+4	boosts	_	_	NNS	_	3	???	_	_	against
+5	--	_	_	:	_	3	???	_	_	against
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	management	_	_	NN	_	4	???	_	_	bonuses
+4	bonuses	_	_	NNS	_	2	???	_	_	and
+5	-RRB-	_	_	-RRB-	_	2	???	_	_	and
+
+1	,	_	_	,	_	4	???	_	_	metaphor
+2	not	_	_	RB	_	4	???	_	_	metaphor
+3	your	_	_	PRP$	_	4	???	_	_	metaphor
+4	metaphor	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	its
+2	its	_	_	PRP$	_	0	ROOT	_	_	ROOT
+3	-RRB-	_	_	-RRB-	_	2	???	_	_	its
+
+1	,	_	_	,	_	3	???	_	_	in
+2	''	_	_	''	_	3	???	_	_	in
+3	in	_	_	IN	_	0	ROOT	_	_	ROOT
+4	the	_	_	DT	_	5	???	_	_	definition
+5	definition	_	_	NN	_	3	???	_	_	in
+6	,	_	_	,	_	3	???	_	_	in
+
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	incompetent	_	_	JJ	_	1	???	_	_	how
+3	at	_	_	IN	_	1	???	_	_	how
+4	evaluation	_	_	NN	_	3	???	_	_	at
+
+1	,	_	_	,	_	2	???	_	_	among
+2	among	_	_	IN	_	0	ROOT	_	_	ROOT
+3	them	_	_	PRP	_	2	???	_	_	among
+4	strips	_	_	NNS	_	2	???	_	_	among
+5	,	_	_	,	_	2	???	_	_	among
+6	according	_	_	VBG|IN	_	2	???	_	_	among
+7	to	_	_	TO	_	6	???	_	_	according
+8	Hammond	_	_	NNP	_	7	???	_	_	to
+
+1	-LRB-	_	_	-LRB-	_	3	???	_	_	well
+2	as	_	_	RB	_	3	???	_	_	well
+3	well	_	_	RB	_	0	ROOT	_	_	ROOT
+4	as	_	_	IN	_	3	???	_	_	well
+5	publications	_	_	NNS	_	3	???	_	_	well
+6	-RRB-	_	_	-RRB-	_	3	???	_	_	well
+
+1	--	_	_	:	_	5	???	_	_	honest
+2	her	_	_	PRP$	_	3	???	_	_	name
+3	name	_	_	NN	_	5	???	_	_	honest
+4	,	_	_	,	_	5	???	_	_	honest
+5	honest	_	_	JJ	_	0	ROOT	_	_	ROOT
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	reached	_	_	VBD	_	2	???	_	_	and
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	Mass.
+2	D.	_	_	NNP	_	4	???	_	_	Mass.
+3	,	_	_	,	_	4	???	_	_	Mass.
+4	Mass.	_	_	NNP	_	0	ROOT	_	_	ROOT
+5	-RRB-	_	_	-RRB-	_	4	???	_	_	Mass.
+6	,	_	_	,	_	4	???	_	_	Mass.
+
+1	--	_	_	:	_	5	???	_	_	paid
+2	twice	_	_	RB	_	5	???	_	_	paid
+3	what	_	_	WP	_	5	OBJ-DO	_	_	paid
+4	Lang	_	_	NNP	_	5	SUBJ	_	_	paid
+5	paid	_	_	VBD	_	0	ROOT	_	_	ROOT
+6	--	_	_	:	_	5	???	_	_	paid
+
+1	,	_	_	,	_	4	???	_	_	famously
+2	perhaps	_	_	RB	_	4	???	_	_	famously
+3	most	_	_	RBS	_	4	???	_	_	famously
+4	famously	_	_	RB	_	0	ROOT	_	_	ROOT
+5	,	_	_	,	_	4	???	_	_	famously
+
+1	,	_	_	,	_	5	???	_	_	says
+2	'	_	_	''	_	5	???	_	_	says
+3	``	_	_	``	_	5	???	_	_	says
+4	Sagan	_	_	NNP	_	5	SUBJ	_	_	says
+5	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+6	,	_	_	,	_	5	???	_	_	says
+
+1	perhaps	_	_	RB	_	2	???	_	_	soon
+2	soon	_	_	RB	_	0	ROOT	_	_	ROOT
+
+1	the	_	_	DT	_	4	???	_	_	deleted
+2	-LCB-	_	_	-LRB-	_	4	???	_	_	deleted
+3	expletive	_	_	NN	_	4	SUBJ	_	_	deleted
+4	deleted	_	_	VBN	_	0	ROOT	_	_	ROOT
+5	-RCB-	_	_	-RRB-	_	4	???	_	_	deleted
+
+1	,	_	_	,	_	3	???	_	_	treacherous
+2	often	_	_	RB	_	3	???	_	_	treacherous
+3	treacherous	_	_	JJ	_	0	ROOT	_	_	ROOT
+4	,	_	_	,	_	3	???	_	_	treacherous
+
+1	-LRB-	_	_	-LRB-	_	3	???	_	_	for
+2	1973-75	_	_	CD	_	3	???	_	_	for
+3	for	_	_	IN	_	0	ROOT	_	_	ROOT
+4	example	_	_	NN	_	3	???	_	_	for
+5	-RRB-	_	_	-RRB-	_	3	???	_	_	for
+
+1	,	_	_	,	_	2	???	_	_	for
+2	for	_	_	IN	_	0	ROOT	_	_	ROOT
+3	instance	_	_	NN	_	2	???	_	_	for
+4	in	_	_	IN	_	2	???	_	_	for
+5	crash	_	_	NN	_	4	???	_	_	in
+6	,	_	_	,	_	2	???	_	_	for
+
+1	--	_	_	:	_	3	???	_	_	even
+2	perhaps	_	_	RB	_	3	???	_	_	even
+3	even	_	_	RB	_	0	ROOT	_	_	ROOT
+4	more	_	_	JJR	_	3	???	_	_	even
+5	than	_	_	IN	_	3	???	_	_	even
+6	Michael	_	_	NNP	_	7	SUBJ	_	_	wanted
+7	wanted	_	_	VBD	_	5	???	_	_	than
+8	his	_	_	PRP$	_	9	???	_	_	convertible
+9	convertible	_	_	NN	_	7	OBJ-DO	_	_	wanted
+
+1	--	_	_	:	_	3	???	_	_	for
+2	especially	_	_	RB	_	3	???	_	_	for
+3	for	_	_	IN	_	0	ROOT	_	_	ROOT
+4	people	_	_	NNS	_	3	???	_	_	for
+
+1	-LRB-	_	_	-LRB-	_	3	???	_	_	decision
+2	Ridley	_	_	NNP	_	3	???	_	_	decision
+3	decision	_	_	NN	_	0	ROOT	_	_	ROOT
+4	-RRB-	_	_	-RRB-	_	3	???	_	_	decision
+
+1	--	_	_	:	_	4	???	_	_	for
+2	notes	_	_	NNS	_	4	???	_	_	for
+3	,	_	_	,	_	4	???	_	_	for
+4	for	_	_	IN	_	0	ROOT	_	_	ROOT
+5	the	_	_	DT	_	6	???	_	_	folks
+6	folks	_	_	NNS	_	7	SUBJ	_	_	wo
+7	wo	_	_	MD	_	4	???	_	_	for
+8	n't	_	_	RB	_	7	???	_	_	wo
+9	look	_	_	VB	_	7	???	_	_	wo
+10	--	_	_	:	_	4	???	_	_	for
+
+1	--	_	_	:	_	3	???	_	_	else
+2	who	_	_	WP	_	3	???	_	_	else
+3	else	_	_	RB	_	0	ROOT	_	_	ROOT
+4	?	_	_	.	_	3	???	_	_	else
+
+1	--	_	_	:	_	2	???	_	_	but
+2	but	_	_	CC	_	0	ROOT	_	_	ROOT
+3	not	_	_	RB	_	2	???	_	_	but
+4	the	_	_	DT	_	5	???	_	_	federal
+5	federal	_	_	JJ	_	2	???	_	_	but
+6	--	_	_	:	_	2	???	_	_	but
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	Beat
+2	Beat	_	_	NN	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	Beat
+4	BEAT	_	_	NN	_	2	???	_	_	Beat
+5	!	_	_	.	_	2	???	_	_	Beat
+6	-RRB-	_	_	-RRB-	_	2	???	_	_	Beat
+
+1	five	_	_	CD	_	2	SUBJ	_	_	were
+2	were	_	_	VBD	_	0	ROOT	_	_	ROOT
+3	closed	_	_	JJ	_	2	???	_	_	were
+4	,	_	_	,	_	2	???	_	_	were
+5	damage	_	_	NN	_	6	SUBJ	_	_	appears
+6	appears	_	_	VBZ	_	2	???	_	_	were
+7	cosmetic	_	_	JJ	_	6	???	_	_	appears
+8	,	_	_	,	_	2	???	_	_	were
+
+1	,	_	_	,	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	individual	_	_	JJ	_	2	???	_	_	or
+4	investor	_	_	NN	_	2	???	_	_	or
+5	,	_	_	,	_	2	???	_	_	or
+
+1	,	_	_	,	_	2	???	_	_	say
+2	say	_	_	VB	_	0	ROOT	_	_	ROOT
+
+1	''	_	_	''	_	4	???	_	_	as
+2	--	_	_	:	_	4	???	_	_	as
+3	such	_	_	JJ	_	4	???	_	_	as
+4	as	_	_	IN	_	0	ROOT	_	_	ROOT
+5	trading	_	_	NN	_	4	???	_	_	as
+6	--	_	_	:	_	4	???	_	_	as
+7	``	_	_	``	_	4	???	_	_	as
+
+1	--	_	_	:	_	2	???	_	_	but
+2	but	_	_	CC	_	0	ROOT	_	_	ROOT
+3	no	_	_	RB	_	2	???	_	_	but
+4	longer	_	_	JJR	_	3	???	_	_	no
+5	surreptitiously	_	_	RB	_	2	???	_	_	but
+6	--	_	_	:	_	2	???	_	_	but
+
+1	-LCB-	_	_	-LRB-	_	3	???	_	_	enterprises
+2	state	_	_	NN	_	3	???	_	_	enterprises
+3	enterprises	_	_	NNS	_	0	ROOT	_	_	ROOT
+4	-RCB-	_	_	-RRB-	_	3	???	_	_	enterprises
+
+1	,	_	_	,	_	4	???	_	_	surprising
+2	even	_	_	RB	_	4	???	_	_	surprising
+3	occasionally	_	_	RB	_	4	???	_	_	surprising
+4	surprising	_	_	JJ	_	0	ROOT	_	_	ROOT
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	imaging
+2	magnetic	_	_	JJ	_	4	???	_	_	imaging
+3	resonance	_	_	NN	_	4	???	_	_	imaging
+4	imaging	_	_	NN	_	0	ROOT	_	_	ROOT
+5	-RRB-	_	_	-RRB-	_	4	???	_	_	imaging
+
+1	--	_	_	:	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	quietly	_	_	RB	_	2	???	_	_	and
+4	--	_	_	:	_	2	???	_	_	and
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	to
+2	say	_	_	UH	_	4	???	_	_	to
+3	,	_	_	,	_	4	???	_	_	to
+4	to	_	_	TO	_	0	ROOT	_	_	ROOT
+5	%	_	_	NN	_	4	???	_	_	to
+6	-RRB-	_	_	-RRB-	_	4	???	_	_	to
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	sleazy	_	_	JJ	_	2	???	_	_	and
+4	-RRB-	_	_	-RRB-	_	2	???	_	_	and
+
+1	-LRB-	_	_	-LRB-	_	6	???	_	_	were
+2	ballooning	_	_	NN	_	6	???	_	_	were
+3	;	_	_	:	_	6	???	_	_	were
+4	the	_	_	DT	_	5	???	_	_	Montgolfier
+5	Montgolfier	_	_	NNP	_	6	SUBJ	_	_	were
+6	were	_	_	VBD	_	0	ROOT	_	_	ROOT
+7	balloonists	_	_	NNS	_	6	OBJ-DO	_	_	were
+8	-RRB-	_	_	-RRB-	_	6	???	_	_	were
+
+1	--	_	_	:	_	3	???	_	_	equivalent
+2	,	_	_	,	_	3	???	_	_	equivalent
+3	equivalent	_	_	JJ	_	0	ROOT	_	_	ROOT
+
+1	,	_	_	,	_	2	???	_	_	but
+2	but	_	_	CC	_	0	ROOT	_	_	ROOT
+3	not	_	_	RB	_	2	???	_	_	but
+4	much	_	_	RB	_	3	???	_	_	not
+5	,	_	_	,	_	2	???	_	_	but
+
+1	--	_	_	:	_	3	???	_	_	is
+2	that	_	_	DT	_	3	SUBJ	_	_	is
+3	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+4	,	_	_	,	_	3	???	_	_	is
+5	can	_	_	MD	_	3	???	_	_	is
+6	the	_	_	DT	_	7	???	_	_	network
+7	network	_	_	NN	_	5	SUBJ	_	_	can
+8	alone	_	_	RB	_	7	???	_	_	network
+9	make	_	_	VB	_	5	???	_	_	can
+10	a	_	_	DT	_	11	???	_	_	profit
+11	profit	_	_	NN	_	9	OBJ-DO	_	_	make
+
+1	,	_	_	,	_	2	???	_	_	if
+2	if	_	_	IN	_	0	ROOT	_	_	ROOT
+3	any	_	_	DT	_	2	???	_	_	if
+4	,	_	_	,	_	2	???	_	_	if
+
+1	but	_	_	CC	_	0	ROOT	_	_	ROOT
+2	apparently	_	_	RB	_	1	???	_	_	but
+3	eagerly	_	_	RB	_	1	???	_	_	but
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	now	_	_	RB	_	2	???	_	_	and
+4	the	_	_	DT	_	5	???	_	_	governor
+5	governor	_	_	NN	_	2	???	_	_	and
+6	!	_	_	.	_	2	???	_	_	and
+7	-RRB-	_	_	-RRB-	_	2	???	_	_	and
+
+1	,	_	_	,	_	0	ROOT	_	_	ROOT
+2	''	_	_	''	_	1	???	_	_	,
+3	he	_	_	PRP	_	4	SUBJ	_	_	says
+4	says	_	_	VBZ	_	1	???	_	_	,
+5	,	_	_	,	_	1	???	_	_	,
+6	``	_	_	``	_	1	???	_	_	,
+
+1	--	_	_	:	_	3	???	_	_	in
+2	basically	_	_	RB	_	3	???	_	_	in
+3	in	_	_	IN	_	0	ROOT	_	_	ROOT
+4	half	_	_	DT	_	3	???	_	_	in
+5	--	_	_	:	_	3	???	_	_	in
+
+1	--	_	_	:	_	4	???	_	_	regarding
+2	at	_	_	IN	_	4	???	_	_	regarding
+3	least	_	_	JJS	_	2	???	_	_	at
+4	regarding	_	_	VBG	_	0	ROOT	_	_	ROOT
+5	apples	_	_	NNS	_	4	OBJ-DO	_	_	regarding
+6	--	_	_	:	_	4	???	_	_	regarding
+
+1	--	_	_	:	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	still	_	_	RB	_	2	???	_	_	and
+4	does	_	_	VBZ	_	2	???	_	_	and
+5	--	_	_	:	_	2	???	_	_	and
+
+1	,	_	_	,	_	2	???	_	_	says
+2	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+3	0_NULL	_	_	-NONE-	_	2	???	_	_	says
+4	Minna	_	_	NNP	_	2	SUBJ	_	_	says
+5	,	_	_	,	_	2	???	_	_	says
+6	``	_	_	``	_	2	???	_	_	says
+
+1	--	_	_	:	_	6	???	_	_	investigator
+2	that	_	_	DT	_	6	???	_	_	investigator
+3	is	_	_	VBZ	_	2	???	_	_	that
+4	,	_	_	,	_	6	???	_	_	investigator
+5	an	_	_	DT	_	6	???	_	_	investigator
+6	investigator	_	_	NN	_	0	ROOT	_	_	ROOT
+7	--	_	_	:	_	6	???	_	_	investigator
+
+1	''	_	_	''	_	3	???	_	_	says
+2	Durkin	_	_	NNP	_	3	SUBJ	_	_	says
+3	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+4	0_NULL	_	_	-NONE-	_	3	???	_	_	says
+5	,	_	_	,	_	3	???	_	_	says
+6	``	_	_	``	_	3	???	_	_	says
+
+1	--	_	_	:	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	therefore	_	_	RB	_	2	???	_	_	and
+4	disappointments	_	_	NNS	_	2	???	_	_	and
+5	--	_	_	:	_	2	???	_	_	and
+
+1	--	_	_	:	_	5	???	_	_	was
+2	the	_	_	DT	_	3	???	_	_	chairman
+3	chairman	_	_	NN	_	5	???	_	_	was
+4	who	_	_	WP	_	5	SUBJ	_	_	was
+5	was	_	_	VBD	_	0	ROOT	_	_	ROOT
+6	derided	_	_	VBN	_	5	???	_	_	was
+7	when	_	_	WRB	_	6	???	_	_	derided
+8	GE	_	_	NNP	_	9	SUBJ	_	_	brought
+9	brought	_	_	VBD	_	7	???	_	_	when
+10	him	_	_	PRP	_	9	OBJ-DO	_	_	brought
+11	in	_	_	RP	_	9	???	_	_	brought
+12	--	_	_	:	_	5	???	_	_	was
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	in
+2	in	_	_	IN	_	0	ROOT	_	_	ROOT
+3	itself	_	_	PRP	_	2	???	_	_	in
+4	a	_	_	DT	_	5	???	_	_	innovation
+5	innovation	_	_	NN	_	2	???	_	_	in
+6	-RRB-	_	_	-RRB-	_	2	???	_	_	in
+
+1	,	_	_	,	_	4	???	_	_	until
+2	at	_	_	IN	_	4	???	_	_	until
+3	least	_	_	JJS	_	2	???	_	_	at
+4	until	_	_	IN	_	0	ROOT	_	_	ROOT
+5	its	_	_	PRP$	_	6	???	_	_	rivals
+6	rivals	_	_	NNS	_	7	SUBJ	_	_	catch
+7	catch	_	_	VB	_	4	???	_	_	until
+8	up	_	_	RB	_	7	???	_	_	catch
+9	,	_	_	,	_	4	???	_	_	until
+
+1	,	_	_	,	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	drinking	_	_	NN	_	2	???	_	_	or
+4	cup	_	_	NN	_	2	???	_	_	or
+5	,	_	_	,	_	2	???	_	_	or
+
+1	,	_	_	,	_	4	???	_	_	indicted
+2	though	_	_	IN	_	4	???	_	_	indicted
+3	not	_	_	RB	_	4	???	_	_	indicted
+4	indicted	_	_	VBN	_	0	ROOT	_	_	ROOT
+5	,	_	_	,	_	4	???	_	_	indicted
+
+1	,	_	_	,	_	5	???	_	_	said
+2	'	_	_	''	_	5	???	_	_	said
+3	''	_	_	''	_	5	???	_	_	said
+4	he	_	_	PRP	_	5	SUBJ	_	_	said
+5	said	_	_	VBD	_	0	ROOT	_	_	ROOT
+6	,	_	_	,	_	5	???	_	_	said
+
+1	--	_	_	:	_	2	???	_	_	in
+2	in	_	_	IN	_	0	ROOT	_	_	ROOT
+3	this	_	_	DT	_	4	???	_	_	case
+4	case	_	_	NN	_	2	???	_	_	in
+5	,	_	_	,	_	2	???	_	_	in
+6	of	_	_	IN	_	2	???	_	_	in
+
+1	,	_	_	,	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	therefore	_	_	RB	_	2	???	_	_	and
+4	behind	_	_	IN	_	2	???	_	_	and
+5	Gorbachev	_	_	NNP	_	4	???	_	_	behind
+6	,	_	_	,	_	2	???	_	_	and
+
+1	,	_	_	,	_	3	???	_	_	of
+2	French	_	_	JJ	_	3	???	_	_	of
+3	of	_	_	IN	_	0	ROOT	_	_	ROOT
+4	course	_	_	NN	_	3	???	_	_	of
+5	,	_	_	,	_	3	???	_	_	of
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	Del.
+2	R.	_	_	NNP	_	4	???	_	_	Del.
+3	,	_	_	,	_	4	???	_	_	Del.
+4	Del.	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	-LCB-	_	_	-LRB-	_	0	ROOT	_	_	ROOT
+2	growing	_	_	VBG	_	1	???	_	_	-LCB-
+3	-RCB-	_	_	-RRB-	_	1	???	_	_	-LCB-
+
+1	,	_	_	,	_	3	???	_	_	prices
+2	``	_	_	``	_	3	???	_	_	prices
+3	prices	_	_	NNS	_	0	ROOT	_	_	ROOT
+4	,	_	_	,	_	3	???	_	_	prices
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	after
+2	after	_	_	IN	_	0	ROOT	_	_	ROOT
+3	an	_	_	DT	_	4	???	_	_	years
+4	years	_	_	NNS	_	2	???	_	_	after
+5	,	_	_	,	_	7	???	_	_	should
+6	it	_	_	PRP	_	7	SUBJ	_	_	should
+7	should	_	_	MD	_	2	???	_	_	after
+8	be	_	_	VB	_	7	???	_	_	should
+9	noted	_	_	VBN	_	8	???	_	_	be
+10	-RRB-	_	_	-RRB-	_	2	???	_	_	after
+
+1	,	_	_	,	_	2	???	_	_	but
+2	but	_	_	CC	_	0	ROOT	_	_	ROOT
+3	later	_	_	RBR	_	2	???	_	_	but
+4	pro-life	_	_	JJ	_	2	???	_	_	but
+5	,	_	_	,	_	2	???	_	_	but
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	economic
+2	i.e.	_	_	FW	_	4	???	_	_	economic
+3	,	_	_	,	_	4	???	_	_	economic
+4	economic	_	_	JJ	_	0	ROOT	_	_	ROOT
+5	-RRB-	_	_	-RRB-	_	4	???	_	_	economic
+
+1	--	_	_	:	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	could	_	_	MD	_	2	???	_	_	or
+4	n't	_	_	RB	_	2	???	_	_	or
+5	--	_	_	:	_	2	???	_	_	or
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	and
+4	if	_	_	IN	_	2	???	_	_	and
+5	so	_	_	RB	_	4	???	_	_	if
+6	,	_	_	,	_	4	???	_	_	if
+7	to	_	_	TO	_	4	???	_	_	if
+8	whom	_	_	WP	_	7	???	_	_	to
+9	-RRB-	_	_	-RRB-	_	2	???	_	_	and
+
+1	--	_	_	:	_	4	???	_	_	must
+2	indeed	_	_	RB	_	4	???	_	_	must
+3	,	_	_	,	_	4	???	_	_	must
+4	must	_	_	MD	_	0	ROOT	_	_	ROOT
+5	--	_	_	:	_	4	???	_	_	must
+
+1	,	_	_	,	_	5	???	_	_	year
+2	its	_	_	PRP$	_	3	???	_	_	level
+3	level	_	_	NN	_	5	???	_	_	year
+4	this	_	_	DT	_	5	???	_	_	year
+5	year	_	_	NN	_	0	ROOT	_	_	ROOT
+6	,	_	_	,	_	5	???	_	_	year
+
+1	,	_	_	,	_	2	???	_	_	except
+2	except	_	_	IN	_	0	ROOT	_	_	ROOT
+3	to	_	_	TO	_	2	???	_	_	except
+4	avert	_	_	VB	_	3	???	_	_	to
+5	the	_	_	DT	_	6	???	_	_	death
+6	death	_	_	NN	_	4	OBJ-DO	_	_	avert
+
+1	--	_	_	:	_	3	???	_	_	Can
+2	``	_	_	``	_	3	???	_	_	Can
+3	Can	_	_	MD	_	0	ROOT	_	_	ROOT
+4	the	_	_	DT	_	5	???	_	_	System
+5	System	_	_	NN	_	3	SUBJ	_	_	Can
+6	Survive	_	_	VB	_	3	???	_	_	Can
+7	Reform	_	_	NN	_	6	OBJ-DO	_	_	Survive
+8	?	_	_	.	_	3	???	_	_	Can
+9	''	_	_	''	_	3	???	_	_	Can
+10	--	_	_	:	_	3	???	_	_	Can
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	in
+2	in	_	_	IN	_	0	ROOT	_	_	ROOT
+3	this	_	_	DT	_	4	???	_	_	case
+4	case	_	_	NN	_	2	???	_	_	in
+5	,	_	_	,	_	2	???	_	_	in
+6	the	_	_	DT	_	7	???	_	_	Samovar
+7	Samovar	_	_	NNP	_	2	???	_	_	in
+8	-RRB-	_	_	-RRB-	_	2	???	_	_	in
+
+1	--	_	_	:	_	6	???	_	_	to
+2	in	_	_	IN	_	6	???	_	_	to
+3	some	_	_	DT	_	4	???	_	_	cases
+4	cases	_	_	NNS	_	2	???	_	_	in
+5	,	_	_	,	_	6	???	_	_	to
+6	to	_	_	TO	_	0	ROOT	_	_	ROOT
+7	demand	_	_	VB	_	6	???	_	_	to
+8	--	_	_	:	_	6	???	_	_	to
+
+1	,	_	_	,	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	simply	_	_	RB	_	2	???	_	_	or
+4	genes	_	_	NNS	_	2	???	_	_	or
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	try
+2	try	_	_	VB	_	0	ROOT	_	_	ROOT
+3	-RRB-	_	_	-RRB-	_	2	???	_	_	try
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	1982
+2	1982	_	_	CD	_	0	ROOT	_	_	ROOT
+3	-RRB-	_	_	-RRB-	_	2	???	_	_	1982
+
+1	,	_	_	,	_	9	???	_	_	tall
+2	this	_	_	DT	_	3	???	_	_	time
+3	time	_	_	NN	_	9	???	_	_	tall
+4	concrete	_	_	NN	_	9	???	_	_	tall
+5	,	_	_	,	_	9	???	_	_	tall
+6	this	_	_	DT	_	7	???	_	_	time
+7	time	_	_	NN	_	9	???	_	_	tall
+8	feet	_	_	NNS	_	9	???	_	_	tall
+9	tall	_	_	JJ	_	0	ROOT	_	_	ROOT
+
+1	or	_	_	CC	_	0	ROOT	_	_	ROOT
+2	sufficient	_	_	JJ	_	1	???	_	_	or
+
+1	but	_	_	CC	_	0	ROOT	_	_	ROOT
+2	only	_	_	RB	_	1	???	_	_	but
+3	for	_	_	IN	_	1	???	_	_	but
+4	storage	_	_	NN	_	3	???	_	_	for
+
+1	but	_	_	CC	_	0	ROOT	_	_	ROOT
+2	near	_	_	RB	_	3	???	_	_	much
+3	much	_	_	RB	_	1	???	_	_	but
+
+1	,	_	_	,	_	3	???	_	_	not
+2	if	_	_	IN	_	3	???	_	_	not
+3	not	_	_	RB	_	0	ROOT	_	_	ROOT
+4	impossible	_	_	JJ	_	3	???	_	_	not
+5	,	_	_	,	_	3	???	_	_	not
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	older
+2	older	_	_	JJR	_	0	ROOT	_	_	ROOT
+3	-RRB-	_	_	-RRB-	_	2	???	_	_	older
+
+1	-LRB-	_	_	-LRB-	_	3	???	_	_	Put
+2	``	_	_	``	_	3	???	_	_	Put
+3	Put	_	_	VB	_	0	ROOT	_	_	ROOT
+4	the	_	_	DT	_	5	???	_	_	Economy
+5	Economy	_	_	NNP	_	3	OBJ-DO	_	_	Put
+6	,	_	_	,	_	3	???	_	_	Put
+7	''	_	_	''	_	3	???	_	_	Put
+8	page	_	_	NN	_	3	???	_	_	Put
+9	,	_	_	,	_	3	???	_	_	Put
+10	Oct.	_	_	NNP	_	3	???	_	_	Put
+11	-RRB-	_	_	-RRB-	_	3	???	_	_	Put
+
+1	--	_	_	:	_	3	???	_	_	in
+2	Boca	_	_	NNP	_	3	???	_	_	in
+3	in	_	_	IN	_	0	ROOT	_	_	ROOT
+4	February	_	_	NNP	_	3	???	_	_	in
+
+1	--	_	_	:	_	2	???	_	_	though
+2	though	_	_	IN	_	0	ROOT	_	_	ROOT
+3	not	_	_	RB	_	4	???	_	_	inhibit
+4	inhibit	_	_	VB	_	2	???	_	_	though
+5	--	_	_	:	_	2	???	_	_	though
+
+1	,	_	_	,	_	2	???	_	_	EGA
+2	EGA	_	_	NNP	_	0	ROOT	_	_	ROOT
+
+1	--	_	_	:	_	2	???	_	_	at
+2	at	_	_	IN	_	0	ROOT	_	_	ROOT
+3	$	_	_	$	_	2	???	_	_	at
+4	in	_	_	IN	_	2	???	_	_	at
+5	January	_	_	NNP	_	4	???	_	_	in
+6	--	_	_	:	_	2	???	_	_	at
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	Bob
+2	``	_	_	``	_	4	???	_	_	Bob
+3	Maximum	_	_	NNP	_	4	???	_	_	Bob
+4	Bob	_	_	NNP	_	0	ROOT	_	_	ROOT
+5	''	_	_	''	_	4	???	_	_	Bob
+6	-RRB-	_	_	-RRB-	_	4	???	_	_	Bob
+
+1	-LRB-	_	_	-LRB-	_	3	???	_	_	in
+2	-RRB-	_	_	-RRB-	_	3	???	_	_	in
+3	in	_	_	IN	_	0	ROOT	_	_	ROOT
+4	profit	_	_	NN	_	3	???	_	_	in
+
+1	--	_	_	:	_	6	???	_	_	and
+2	apparently	_	_	RB	_	6	???	_	_	and
+3	well	_	_	RB	_	4	???	_	_	above
+4	above	_	_	RB	_	6	???	_	_	and
+5	shipments	_	_	NNS	_	4	???	_	_	above
+6	and	_	_	CC	_	0	ROOT	_	_	ROOT
+7	a	_	_	DT	_	8	???	_	_	cry
+8	cry	_	_	NN	_	6	???	_	_	and
+
+1	this	_	_	DT	_	2	???	_	_	time
+2	time	_	_	NN	_	3	???	_	_	on
+3	on	_	_	IN	_	0	ROOT	_	_	ROOT
+4	the	_	_	DT	_	5	???	_	_	side
+5	side	_	_	NN	_	3	???	_	_	on
+
+1	typically	_	_	RB	_	3	???	_	_	if
+2	,	_	_	,	_	3	???	_	_	if
+3	if	_	_	IN	_	0	ROOT	_	_	ROOT
+4	a	_	_	DT	_	5	???	_	_	bidder
+5	bidder	_	_	NN	_	6	SUBJ	_	_	acquires
+6	acquires	_	_	VBZ	_	3	???	_	_	if
+7	more	_	_	JJR	_	6	OBJ-DO	_	_	acquires
+
+1	--	_	_	:	_	2	???	_	_	for
+2	for	_	_	IN	_	0	ROOT	_	_	ROOT
+3	one	_	_	CD	_	2	???	_	_	for
+4	,	_	_	,	_	2	???	_	_	for
+5	sanctions	_	_	NNS	_	2	???	_	_	for
+
+1	--	_	_	:	_	4	???	_	_	room
+2	not	_	_	RB	_	4	???	_	_	room
+3	the	_	_	DT	_	4	???	_	_	room
+4	room	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	--	_	_	:	_	5	???	_	_	hiding
+2	in	_	_	IN	_	5	???	_	_	hiding
+3	effect	_	_	NN	_	2	???	_	_	in
+4	,	_	_	,	_	5	???	_	_	hiding
+5	hiding	_	_	VBG	_	0	ROOT	_	_	ROOT
+6	the	_	_	DT	_	7	???	_	_	nature
+7	nature	_	_	NN	_	5	OBJ-DO	_	_	hiding
+
+1	--	_	_	:	_	4	???	_	_	anyway
+2	symbolically	_	_	RB	_	4	???	_	_	anyway
+3	,	_	_	,	_	4	???	_	_	anyway
+4	anyway	_	_	RB	_	0	ROOT	_	_	ROOT
+5	--	_	_	:	_	4	???	_	_	anyway
+
+1	--	_	_	:	_	3	???	_	_	Do
+2	``	_	_	``	_	3	???	_	_	Do
+3	Do	_	_	VBP	_	0	ROOT	_	_	ROOT
+4	you	_	_	PRP	_	3	SUBJ	_	_	Do
+5	really	_	_	RB	_	3	???	_	_	Do
+6	need	_	_	VB	_	3	???	_	_	Do
+7	money	_	_	NN	_	6	OBJ-DO	_	_	need
+8	?	_	_	.	_	3	???	_	_	Do
+9	Have	_	_	VBP	_	3	???	_	_	Do
+10	you	_	_	PRP	_	9	SUBJ	_	_	Have
+11	told	_	_	VBN	_	9	???	_	_	Have
+12	investors	_	_	NNS	_	11	OBJ-DO	_	_	told
+13	what	_	_	WP	_	14	SUBJ	_	_	is
+14	is	_	_	VBZ	_	11	???	_	_	told
+15	happening	_	_	VBG	_	14	???	_	_	is
+16	?	_	_	.	_	9	???	_	_	Have
+17	What	_	_	WP	_	18	???	_	_	about
+18	about	_	_	IN	_	3	???	_	_	Do
+19	your	_	_	PRP$	_	20	???	_	_	record
+20	record	_	_	NN	_	18	???	_	_	about
+21	?	_	_	.	_	18	???	_	_	about
+22	--	_	_	:	_	3	???	_	_	Do
+
+1	--	_	_	:	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	in	_	_	IN	_	2	???	_	_	and
+4	price	_	_	NN	_	3	???	_	_	in
+5	--	_	_	:	_	2	???	_	_	and
+
+1	--	_	_	:	_	2	???	_	_	in
+2	in	_	_	IN	_	0	ROOT	_	_	ROOT
+3	this	_	_	DT	_	4	???	_	_	case
+4	case	_	_	NN	_	2	???	_	_	in
+5	the	_	_	DT	_	6	???	_	_	Exchange
+6	Exchange	_	_	NNP	_	2	???	_	_	in
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	if	_	_	IN	_	6	???	_	_	how
+4	so	_	_	RB	_	3	???	_	_	if
+5	,	_	_	,	_	6	???	_	_	how
+6	how	_	_	WRB	_	2	???	_	_	and
+7	-RRB-	_	_	-RRB-	_	2	???	_	_	and
+
+1	--	_	_	:	_	4	???	_	_	perhaps
+2	murders	_	_	NNS	_	4	???	_	_	perhaps
+3	,	_	_	,	_	4	???	_	_	perhaps
+4	perhaps	_	_	RB	_	0	ROOT	_	_	ROOT
+
+1	,	_	_	,	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	how	_	_	WRB	_	4	???	_	_	many
+4	many	_	_	JJ	_	2	???	_	_	and
+5	,	_	_	,	_	2	???	_	_	and
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	possibly	_	_	RB	_	2	???	_	_	and
+4	all	_	_	DT	_	5	???	_	_	misrepresentations
+5	misrepresentations	_	_	NNS	_	2	???	_	_	and
+6	-RRB-	_	_	-RRB-	_	2	???	_	_	and
+
+1	--	_	_	:	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	even	_	_	RB	_	2	???	_	_	or
+4	a	_	_	DT	_	5	???	_	_	target
+5	target	_	_	NN	_	2	???	_	_	or
+6	--	_	_	:	_	2	???	_	_	or
+
+1	presumably	_	_	RB	_	2	???	_	_	off-season
+2	off-season	_	_	NN	_	0	ROOT	_	_	ROOT
+
+1	--	_	_	:	_	5	???	_	_	as
+2	not	_	_	RB	_	5	???	_	_	as
+3	papers	_	_	NNS	_	5	???	_	_	as
+4	,	_	_	,	_	5	???	_	_	as
+5	as	_	_	IN	_	0	ROOT	_	_	ROOT
+6	attorneys	_	_	NNS	_	7	SUBJ	_	_	maintained
+7	maintained	_	_	VBD	_	5	???	_	_	as
+
+1	,	_	_	,	_	2	???	_	_	but
+2	but	_	_	CC	_	0	ROOT	_	_	ROOT
+3	more	_	_	RBR	_	6	???	_	_	often
+4	and	_	_	CC	_	6	???	_	_	often
+5	more	_	_	RBR	_	6	???	_	_	often
+6	often	_	_	RB	_	2	???	_	_	but
+7	as	_	_	IN	_	2	???	_	_	but
+8	investments	_	_	NNS	_	7	???	_	_	as
+
+1	,	_	_	,	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	``	_	_	``	_	2	???	_	_	or
+4	one	_	_	NN	_	2	???	_	_	or
+5	,	_	_	,	_	2	???	_	_	or
+6	''	_	_	''	_	2	???	_	_	or
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	would
+2	the	_	_	DT	_	3	???	_	_	sequester
+3	sequester	_	_	NN	_	4	SUBJ	_	_	would
+4	would	_	_	MD	_	0	ROOT	_	_	ROOT
+5	have	_	_	VB	_	4	???	_	_	would
+6	been	_	_	VBN	_	5	???	_	_	have
+7	larger	_	_	JJR	_	6	???	_	_	been
+8	.	_	_	.	_	4	???	_	_	would
+9	-RRB-	_	_	-RRB-	_	4	???	_	_	would
+
+1	,	_	_	,	_	5	???	_	_	recalls
+2	'	_	_	''	_	5	???	_	_	recalls
+3	''	_	_	''	_	5	???	_	_	recalls
+4	he	_	_	PRP	_	5	SUBJ	_	_	recalls
+5	recalls	_	_	VBZ	_	0	ROOT	_	_	ROOT
+6	,	_	_	,	_	5	???	_	_	recalls
+7	``	_	_	``	_	5	???	_	_	recalls
+
+1	--	_	_	:	_	3	???	_	_	oppression
+2	``	_	_	``	_	3	???	_	_	oppression
+3	oppression	_	_	NN	_	0	ROOT	_	_	ROOT
+4	''	_	_	''	_	3	???	_	_	oppression
+5	--	_	_	:	_	3	???	_	_	oppression
+
+1	or	_	_	CC	_	0	ROOT	_	_	ROOT
+2	,	_	_	,	_	1	???	_	_	or
+3	at	_	_	IN	_	1	???	_	_	or
+4	least	_	_	JJS	_	3	???	_	_	at
+5	,	_	_	,	_	1	???	_	_	or
+6	part	_	_	NN	_	1	???	_	_	or
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	though
+2	though	_	_	IN	_	0	ROOT	_	_	ROOT
+3	not	_	_	RB	_	2	???	_	_	though
+4	,	_	_	,	_	6	???	_	_	admit
+5	I	_	_	PRP	_	6	SUBJ	_	_	admit
+6	admit	_	_	VBP	_	2	???	_	_	though
+7	,	_	_	,	_	6	???	_	_	admit
+8	to	_	_	TO	_	2	???	_	_	though
+9	put	_	_	VB	_	8	???	_	_	to
+10	any	_	_	DT	_	11	???	_	_	wife
+11	wife	_	_	NN	_	9	OBJ-DO	_	_	put
+12	-RRB-	_	_	-RRB-	_	2	???	_	_	though
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	and
+4	hence	_	_	RB	_	2	???	_	_	and
+5	,	_	_	,	_	2	???	_	_	and
+6	a	_	_	DT	_	7	???	_	_	TRO
+7	TRO	_	_	NN	_	2	???	_	_	and
+8	-RRB-	_	_	-RRB-	_	2	???	_	_	and
+
+1	,	_	_	,	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	Oakes	_	_	NNP	_	4	SUBJ	_	_	went
+4	went	_	_	VBD	_	2	???	_	_	and
+5	,	_	_	,	_	2	???	_	_	and
+
+1	--	_	_	:	_	3	???	_	_	to
+2	perhaps	_	_	RB	_	3	???	_	_	to
+3	to	_	_	TO	_	0	ROOT	_	_	ROOT
+4	the	_	_	DT	_	5	???	_	_	death
+5	death	_	_	NN	_	3	???	_	_	to
+
+1	No	_	_	DT	_	2	???	_	_	details
+2	details	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	Take
+2	``	_	_	``	_	4	???	_	_	Take
+3	Classics	_	_	NNS	_	4	SUBJ	_	_	Take
+4	Take	_	_	VBP	_	0	ROOT	_	_	ROOT
+5	the	_	_	DT	_	6	???	_	_	Stage
+6	Stage	_	_	NN	_	4	OBJ-DO	_	_	Take
+7	,	_	_	,	_	4	???	_	_	Take
+8	''	_	_	''	_	4	???	_	_	Take
+9	Arts	_	_	NNS	_	4	???	_	_	Take
+10	-RRB-	_	_	-RRB-	_	4	???	_	_	Take
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	but
+2	but	_	_	CC	_	0	ROOT	_	_	ROOT
+3	now	_	_	RB	_	2	???	_	_	but
+4	,	_	_	,	_	2	???	_	_	but
+5	thanks	_	_	NNS	_	2	???	_	_	but
+6	,	_	_	,	_	2	???	_	_	but
+7	all	_	_	DT	_	2	???	_	_	but
+8	-RRB-	_	_	-RRB-	_	2	???	_	_	but
+
+1	not	_	_	RB	_	3	???	_	_	hundreds
+2	the	_	_	DT	_	3	???	_	_	hundreds
+3	hundreds	_	_	NNS	_	0	ROOT	_	_	ROOT
+
+1	but	_	_	CC	_	0	ROOT	_	_	ROOT
+2	only	_	_	RB	_	3	???	_	_	if
+3	if	_	_	IN	_	1	???	_	_	but
+4	all	_	_	DT	_	5	???	_	_	challenges
+5	challenges	_	_	NNS	_	6	SUBJ	_	_	are
+6	are	_	_	VBP	_	3	???	_	_	if
+7	exhausted	_	_	VBN	_	6	???	_	_	are
+
+1	-LRB-	_	_	-LRB-	_	0	ROOT	_	_	ROOT
+2	a.k.a	_	_	JJ	_	4	???	_	_	Palm
+3	.	_	_	.	_	4	???	_	_	Palm
+4	Palm	_	_	NNP	_	1	???	_	_	-LRB-
+5	-RRB-	_	_	-RRB-	_	1	???	_	_	-LRB-
+
+1	--	_	_	:	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	at	_	_	IN	_	2	???	_	_	and
+4	the	_	_	DT	_	5	???	_	_	moment
+5	moment	_	_	NN	_	3	???	_	_	at
+6	we	_	_	PRP	_	7	SUBJ	_	_	're
+7	're	_	_	VBP	_	2	???	_	_	and
+8	--	_	_	:	_	2	???	_	_	and
+
+1	,	_	_	,	_	3	???	_	_	by
+2	``	_	_	``	_	3	???	_	_	by
+3	by	_	_	IN	_	0	ROOT	_	_	ROOT
+4	way	_	_	NN	_	3	???	_	_	by
+5	,	_	_	,	_	3	???	_	_	by
+
+1	,	_	_	,	_	2	???	_	_	VGA
+2	VGA	_	_	NNP	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	VGA
+
+1	-LRB-	_	_	-LRB-	_	10	???	_	_	plus
+2	sandwich	_	_	NN	_	10	???	_	_	plus
+3	,	_	_	,	_	10	???	_	_	plus
+4	salad	_	_	NN	_	10	???	_	_	plus
+5	,	_	_	,	_	10	???	_	_	plus
+6	beans	_	_	NNS	_	10	???	_	_	plus
+7	and	_	_	CC	_	10	???	_	_	plus
+8	pudding	_	_	NN	_	10	???	_	_	plus
+9	,	_	_	,	_	10	???	_	_	plus
+10	plus	_	_	CC	_	0	ROOT	_	_	ROOT
+11	coffee	_	_	NN	_	10	???	_	_	plus
+
+1	,	_	_	,	_	2	???	_	_	or
+2	or	_	_	CC	_	0	ROOT	_	_	ROOT
+3	processing	_	_	NN	_	5	???	_	_	guaranteeing
+4	and	_	_	CC	_	5	???	_	_	guaranteeing
+5	guaranteeing	_	_	NN	_	2	???	_	_	or
+6	,	_	_	,	_	2	???	_	_	or
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	ones
+2	not	_	_	RB	_	4	???	_	_	ones
+3	the	_	_	DT	_	4	???	_	_	ones
+4	ones	_	_	NNS	_	0	ROOT	_	_	ROOT
+5	-RRB-	_	_	-RRB-	_	4	???	_	_	ones
+
+1	,	_	_	,	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	not	_	_	RB	_	2	???	_	_	and
+4	profit	_	_	NN	_	2	???	_	_	and
+5	,	_	_	,	_	2	???	_	_	and
+
+1	--	_	_	:	_	2	???	_	_	much
+2	much	_	_	RB	_	0	ROOT	_	_	ROOT
+3	so	_	_	IN	_	2	???	_	_	much
+4	,	_	_	,	_	2	???	_	_	much
+5	,	_	_	,	_	2	???	_	_	much
+6	that	_	_	IN	_	2	???	_	_	much
+7	some	_	_	DT	_	8	???	_	_	employees
+8	employees	_	_	NNS	_	9	SUBJ	_	_	have
+9	have	_	_	VBP	_	6	???	_	_	that
+10	resisted	_	_	VBN	_	9	???	_	_	have
+
+1	--	_	_	:	_	0	ROOT	_	_	ROOT
+2	unheard	_	_	JJ	_	6	???	_	_	ago
+3	of	_	_	RP	_	2	???	_	_	unheard
+4	a	_	_	DT	_	5	???	_	_	years
+5	years	_	_	NNS	_	6	???	_	_	ago
+6	ago	_	_	RB	_	1	???	_	_	--
+7	--	_	_	:	_	1	???	_	_	--
+
+1	as	_	_	IN	_	0	ROOT	_	_	ROOT
+2	Austin	_	_	NNP	_	3	SUBJ	_	_	puts
+3	puts	_	_	VBZ	_	1	???	_	_	as
+4	it	_	_	PRP	_	3	OBJ-DO	_	_	puts
+5	,	_	_	,	_	1	???	_	_	as
+
+1	--	_	_	:	_	3	???	_	_	is
+2	that	_	_	DT	_	3	SUBJ	_	_	is
+3	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+4	unflaky	_	_	JJ	_	3	???	_	_	is
+5	--	_	_	:	_	3	???	_	_	is
+
+1	--	_	_	:	_	4	???	_	_	for
+2	machines	_	_	NNS	_	4	???	_	_	for
+3	,	_	_	,	_	4	???	_	_	for
+4	for	_	_	IN	_	0	ROOT	_	_	ROOT
+5	example	_	_	NN	_	4	???	_	_	for
+6	--	_	_	:	_	4	???	_	_	for
+
+1	--	_	_	:	_	3	???	_	_	crotchety
+2	even	_	_	RB	_	3	???	_	_	crotchety
+3	crotchety	_	_	JJ	_	0	ROOT	_	_	ROOT
+4	--	_	_	:	_	3	???	_	_	crotchety
+
+1	-LRB-	_	_	-LRB-	_	3	???	_	_	program
+2	Series	_	_	NN	_	3	???	_	_	program
+3	program	_	_	NN	_	0	ROOT	_	_	ROOT
+4	-RRB-	_	_	-RRB-	_	3	???	_	_	program
+
+1	--	_	_	:	_	3	???	_	_	is
+2	that	_	_	DT	_	3	SUBJ	_	_	is
+3	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+4	,	_	_	,	_	3	???	_	_	is
+5	prices	_	_	NNS	_	3	???	_	_	is
+
+1	,	_	_	,	_	3	???	_	_	%
+2	say	_	_	VB	_	3	???	_	_	%
+3	%	_	_	NN	_	0	ROOT	_	_	ROOT
+4	,	_	_	,	_	3	???	_	_	%
+
+1	,	_	_	,	_	3	???	_	_	involved
+2	also	_	_	RB	_	3	???	_	_	involved
+3	involved	_	_	VBN	_	0	ROOT	_	_	ROOT
+
+1	-LCB-	_	_	-LRB-	_	2	???	_	_	widely
+2	widely	_	_	RB	_	0	ROOT	_	_	ROOT
+3	-RCB-	_	_	-RRB-	_	2	???	_	_	widely
+
+1	-LRB-	_	_	-LRB-	_	4	???	_	_	features
+2	The	_	_	DT	_	3	???	_	_	commercial
+3	commercial	_	_	NN	_	4	SUBJ	_	_	features
+4	features	_	_	NNS	_	0	ROOT	_	_	ROOT
+5	,	_	_	,	_	6	???	_	_	among
+6	among	_	_	IN	_	4	???	_	_	features
+7	others	_	_	NNS	_	6	???	_	_	among
+8	,	_	_	,	_	6	???	_	_	among
+9	the	_	_	DT	_	10	???	_	_	voice
+10	voice	_	_	NN	_	4	OBJ-DO	_	_	features
+11	.	_	_	.	_	4	???	_	_	features
+12	-RRB-	_	_	-RRB-	_	4	???	_	_	features
+
+1	Part	_	_	NN	_	0	ROOT	_	_	ROOT
+2	-RCB-	_	_	-RRB-	_	1	???	_	_	Part
+
+1	--	_	_	:	_	6	???	_	_	deal
+2	in	_	_	IN	_	6	???	_	_	deal
+3	this	_	_	DT	_	4	???	_	_	case
+4	case	_	_	NN	_	2	???	_	_	in
+5	the	_	_	DT	_	6	???	_	_	deal
+6	deal	_	_	NN	_	0	ROOT	_	_	ROOT
+7	--	_	_	:	_	6	???	_	_	deal
+
+1	,	_	_	,	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	probably	_	_	RB	_	2	???	_	_	and
+4	afterward	_	_	RB	_	2	???	_	_	and
+5	,	_	_	,	_	2	???	_	_	and
+
+1	,	_	_	,	_	2	???	_	_	though
+2	though	_	_	IN	_	0	ROOT	_	_	ROOT
+3	lesser	_	_	JJR	_	2	???	_	_	though
+4	,	_	_	,	_	2	???	_	_	though
+
+1	--	_	_	:	_	4	???	_	_	to
+2	though	_	_	IN	_	4	???	_	_	to
+3	necessarily	_	_	RB	_	4	???	_	_	to
+4	to	_	_	TO	_	0	ROOT	_	_	ROOT
+5	end	_	_	VB	_	4	???	_	_	to
+6	his	_	_	PRP$	_	7	???	_	_	influence
+7	influence	_	_	NN	_	5	OBJ-DO	_	_	end
+
+1	literally	_	_	RB	_	2	???	_	_	government-business
+2	government-business	_	_	NN	_	0	ROOT	_	_	ROOT
+3	,	_	_	,	_	2	???	_	_	government-business
+
+1	--	_	_	:	_	5	???	_	_	etiquette
+2	indeed	_	_	RB	_	5	???	_	_	etiquette
+3	,	_	_	,	_	5	???	_	_	etiquette
+4	an	_	_	DT	_	5	???	_	_	etiquette
+5	etiquette	_	_	NN	_	0	ROOT	_	_	ROOT
+6	--	_	_	:	_	5	???	_	_	etiquette
+
+1	--	_	_	:	_	3	???	_	_	for
+2	``	_	_	``	_	3	???	_	_	for
+3	for	_	_	IN	_	0	ROOT	_	_	ROOT
+4	examination	_	_	NN	_	3	???	_	_	for
+5	only	_	_	RB	_	3	???	_	_	for
+6	''	_	_	''	_	3	???	_	_	for
+7	--	_	_	:	_	3	???	_	_	for
+
+1	,	_	_	,	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	quietly	_	_	RB	_	2	???	_	_	and
+4	,	_	_	,	_	2	???	_	_	and
+
+1	--	_	_	:	_	2	???	_	_	rather
+2	rather	_	_	RB	_	0	ROOT	_	_	ROOT
+3	than	_	_	IN	_	2	???	_	_	rather
+4	the	_	_	DT	_	5	???	_	_	government
+5	government	_	_	NN	_	2	???	_	_	rather
+6	--	_	_	:	_	2	???	_	_	rather
+
+1	,	_	_	,	_	2	???	_	_	among
+2	among	_	_	IN	_	0	ROOT	_	_	ROOT
+3	pilots	_	_	NNS	_	2	???	_	_	among
+4	at	_	_	IN	_	2	???	_	_	among
+5	least	_	_	JJS	_	4	???	_	_	at
+6	,	_	_	,	_	2	???	_	_	among
+
+1	--	_	_	:	_	2	???	_	_	and
+2	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	slightly	_	_	RB	_	2	???	_	_	and
+

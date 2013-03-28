@@ -1,0 +1,46 @@
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	many	_	_	JJ	_	1	???	_	_	how
+
+1	just	_	_	RB	_	2	???	_	_	how
+2	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+3	powerful	_	_	JJ	_	2	???	_	_	how
+
+1	how	_	_	WRB	_	3	???	_	_	and
+2	wide	_	_	JJ	_	3	???	_	_	and
+3	and	_	_	CC	_	0	ROOT	_	_	ROOT
+4	deep	_	_	JJ	_	3	???	_	_	and
+
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	incompetent	_	_	JJ	_	1	???	_	_	how
+3	at	_	_	IN	_	1	???	_	_	how
+4	risk	_	_	NN	_	7	???	_	_	evaluation
+5	assessment	_	_	NN	_	7	???	_	_	evaluation
+6	and	_	_	CC	_	7	???	_	_	evaluation
+7	evaluation	_	_	NN	_	3	???	_	_	at
+
+1	How	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	interestingly	_	_	RB	_	1	???	_	_	How
+3	clever	_	_	JJ	_	1	???	_	_	How
+4	of	_	_	IN	_	1	???	_	_	How
+5	Robert	_	_	NNP	_	6	???	_	_	Goldberg
+6	Goldberg	_	_	NNP	_	4	???	_	_	of
+
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	serious	_	_	JJ	_	1	???	_	_	how
+
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	``	_	_	``	_	1	???	_	_	how
+3	belle	_	_	FW	_	1	???	_	_	how
+4	''	_	_	''	_	1	???	_	_	how
+
+1	However	_	_	RB	_	3	???	_	_	and
+2	flawed	_	_	JJ	_	3	???	_	_	and
+3	and	_	_	CC	_	0	ROOT	_	_	ROOT
+4	short-lived	_	_	JJ	_	3	???	_	_	and
+
+1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
+2	deep	_	_	RB	_	1	???	_	_	how
+
+1	exactly	_	_	RB	_	2	???	_	_	what
+2	what	_	_	WP	_	0	ROOT	_	_	ROOT
+

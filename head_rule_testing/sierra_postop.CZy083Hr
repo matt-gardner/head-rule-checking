@@ -1,0 +1,162 @@
+(ROOT
+  (DEPS
+    (2__many__JJ
+      1__how__WRB
+      ???)
+    (1__how__WRB
+      0__ROOT__
+      ROOT))
+  (WHADJP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (JJ__2__many__JJ 2__many__JJ)))
+
+(ROOT
+  (DEPS
+    (1__just__RB
+      2__how__WRB
+      ???)
+    (3__powerful__JJ
+      2__how__WRB
+      ???)
+    (2__how__WRB
+      0__ROOT__
+      ROOT))
+  (WHADJP__2__how__WRB (RB__1__just__RB 1__just__RB) (WRB__2__how__WRB 2__how__WRB) (JJ__3__powerful__JJ 3__powerful__JJ)))
+
+(ROOT
+  (DEPS
+    (1__how__WRB
+      3__and__CC
+      ???)
+    (2__wide__JJ
+      3__and__CC
+      ???)
+    (4__deep__JJ
+      3__and__CC
+      ???)
+    (3__and__CC
+      0__ROOT__
+      ROOT))
+  (WHADJP__3__and__CC (WRB__1__how__WRB 1__how__WRB) (JJ__2__wide__JJ 2__wide__JJ)
+    (CC__3__and__CC 3__and__CC)
+    (JJ__4__deep__JJ 4__deep__JJ)))
+
+(ROOT
+  (DEPS
+    (2__incompetent__JJ
+      1__how__WRB
+      ???)
+    (3__at__IN
+      1__how__WRB
+      ???)
+    (7__evaluation__NN
+      3__at__IN
+      ???)
+    (4__risk__NN
+      7__evaluation__NN
+      ???)
+    (5__assessment__NN
+      7__evaluation__NN
+      ???)
+    (6__and__CC
+      7__evaluation__NN
+      ???)
+    (1__how__WRB
+      0__ROOT__
+      ROOT))
+  (WHADJP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (JJ__2__incompetent__JJ 2__incompetent__JJ)
+    (PP__3__at__IN (IN__3__at__IN 3__at__IN)
+      (NP__7__evaluation__NN (NN__4__risk__NN 4__risk__NN) (NN__5__assessment__NN 5__assessment__NN)
+        (CC__6__and__CC 6__and__CC)
+        (NN__7__evaluation__NN 7__evaluation__NN)))))
+
+(ROOT
+  (DEPS
+    (2__interestingly__RB
+      1__How__WRB
+      ???)
+    (3__clever__JJ
+      1__How__WRB
+      ???)
+    (4__of__IN
+      1__How__WRB
+      ???)
+    (6__Goldberg__NNP
+      4__of__IN
+      ???)
+    (5__Robert__NNP
+      6__Goldberg__NNP
+      ???)
+    (1__How__WRB
+      0__ROOT__
+      ROOT))
+  (WHADJP__1__How__WRB (WRB__1__How__WRB 1__How__WRB) (RB__2__interestingly__RB 2__interestingly__RB) (JJ__3__clever__JJ 3__clever__JJ)
+    (PP__4__of__IN (IN__4__of__IN 4__of__IN)
+      (NP__6__Goldberg__NNP (NNP__5__Robert__NNP 5__Robert__NNP) (NNP__6__Goldberg__NNP 6__Goldberg__NNP)))))
+
+(ROOT
+  (DEPS
+    (2__serious__JJ
+      1__how__WRB
+      ???)
+    (1__how__WRB
+      0__ROOT__
+      ROOT))
+  (WHADJP__1__how__WRB
+    (WHADVP__1__how__WRB (WRB__1__how__WRB 1__how__WRB))
+    (JJ__2__serious__JJ 2__serious__JJ)))
+
+(ROOT
+  (DEPS
+    (2__``__``
+      1__how__WRB
+      ???)
+    (3__belle__FW
+      1__how__WRB
+      ???)
+    (4__''__''
+      1__how__WRB
+      ???)
+    (1__how__WRB
+      0__ROOT__
+      ROOT))
+  (WHADJP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (``__2__``__`` 2__``__``)
+    (ADJP__3__belle__FW (FW__3__belle__FW 3__belle__FW))
+    (''__4__''__'' 4__''__'')))
+
+(ROOT
+  (DEPS
+    (1__However__RB
+      3__and__CC
+      ???)
+    (2__flawed__JJ
+      3__and__CC
+      ???)
+    (4__short-lived__JJ
+      3__and__CC
+      ???)
+    (3__and__CC
+      0__ROOT__
+      ROOT))
+  (WHADJP__3__and__CC (RB__1__However__RB 1__However__RB) (JJ__2__flawed__JJ 2__flawed__JJ)
+    (CC__3__and__CC 3__and__CC)
+    (JJ__4__short-lived__JJ 4__short-lived__JJ)))
+
+(ROOT
+  (DEPS
+    (2__deep__RB
+      1__how__WRB
+      ???)
+    (1__how__WRB
+      0__ROOT__
+      ROOT))
+  (WHADJP__1__how__WRB (WRB__1__how__WRB 1__how__WRB) (RB__2__deep__RB 2__deep__RB)))
+
+(ROOT
+  (DEPS
+    (1__exactly__RB
+      2__what__WP
+      ???)
+    (2__what__WP
+      0__ROOT__
+      ROOT))
+  (WHADJP__2__what__WP (RB__1__exactly__RB 1__exactly__RB) (WP__2__what__WP 2__what__WP)))
+

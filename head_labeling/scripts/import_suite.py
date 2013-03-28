@@ -85,7 +85,7 @@ class ExpansionData(object):
 
 
 if __name__ == '__main__':
-    base = 'input_files/'
+    base = '../input_files/'
     for category in categories:
         cat_base = base + category + '/' + category
         grouped_file = cat_base + '_tagAsParent_rules_grouped.txt'

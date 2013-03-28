@@ -1,0 +1,947 @@
+(ROOT
+  (DEPS
+    (2__,__,
+      1__Albuquerque__NNP
+      ???)
+    (3__N.M.__NNP
+      1__Albuquerque__NNP
+      ???)
+    (4__,__,
+      1__Albuquerque__NNP
+      ???)
+    (1__Albuquerque__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__1__Albuquerque__NNP (NNP__1__Albuquerque__NNP 1__Albuquerque__NNP) (,__2__,__, 2__,__,) (NNP__3__N.M.__NNP 3__N.M.__NNP) (,__4__,__, 4__,__,)))
+
+(ROOT
+  (DEPS
+    (2__of__IN
+      1__University__NNP
+      ???)
+    (3__Vermont__NNP
+      2__of__IN
+      ???)
+    (1__University__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__1__University__NNP (NNP__1__University__NNP 1__University__NNP)
+    (PP__2__of__IN (IN__2__of__IN 2__of__IN)
+      (NP__3__Vermont__NNP (NNP__3__Vermont__NNP 3__Vermont__NNP)))))
+
+(ROOT
+  (DEPS
+    (2__Groton__NNP
+      1__West__NNP
+      ???)
+    (3__,__,
+      1__West__NNP
+      ???)
+    (4__Mass.__NNP
+      1__West__NNP
+      ???)
+    (5__,__,
+      1__West__NNP
+      ???)
+    (1__West__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__1__West__NNP (NNP__1__West__NNP 1__West__NNP) (NNP__2__Groton__NNP 2__Groton__NNP) (,__3__,__, 3__,__,) (NNP__4__Mass.__NNP 4__Mass.__NNP) (,__5__,__, 5__,__,)))
+
+(ROOT
+  (DEPS
+    (2__Union__NNP
+      1__National__NNP
+      ???)
+    (3__of__IN
+      1__National__NNP
+      ???)
+    (4__Mineworkers__NNPS
+      3__of__IN
+      ???)
+    (1__National__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__1__National__NNP (NNP__1__National__NNP 1__National__NNP) (NNP__2__Union__NNP 2__Union__NNP)
+    (PP__3__of__IN (IN__3__of__IN 3__of__IN)
+      (NP__4__Mineworkers__NNPS (NNPS__4__Mineworkers__NNPS 4__Mineworkers__NNPS)))))
+
+(ROOT
+  (DEPS
+    (2__of__IN
+      1__quality__NN
+      ???)
+    (3__life__NN
+      2__of__IN
+      ???)
+    (1__quality__NN
+      0__ROOT__
+      ROOT))
+  (NAC__1__quality__NN (NN__1__quality__NN 1__quality__NN)
+    (PP__2__of__IN (IN__2__of__IN 2__of__IN)
+      (NP__3__life__NN (NN__3__life__NN 3__life__NN)))))
+
+(ROOT
+  (DEPS
+    (2__13__CD
+      1__Friday__NNP
+      ???)
+    (1__Friday__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-TMP__1__Friday__NNP (NNP__1__Friday__NNP 1__Friday__NNP) (CD__2__13__CD 2__13__CD)))
+
+(ROOT
+  (DEPS
+    (2__,__,
+      1__Monday__NNP
+      ???)
+    (3__October__NNP
+      1__Monday__NNP
+      ???)
+    (4__23__CD
+      1__Monday__NNP
+      ???)
+    (5__,__,
+      1__Monday__NNP
+      ???)
+    (6__1989__CD
+      1__Monday__NNP
+      ???)
+    (7__,__,
+      1__Monday__NNP
+      ???)
+    (1__Monday__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-TMP__1__Monday__NNP (NNP__1__Monday__NNP 1__Monday__NNP) (,__2__,__, 2__,__,) (NNP__3__October__NNP 3__October__NNP) (CD__4__23__CD 4__23__CD) (,__5__,__, 5__,__,) (CD__6__1989__CD 6__1989__CD) (,__7__,__, 7__,__,)))
+
+(ROOT
+  (DEPS
+    (2__,__,
+      1__Albuquerque__NNP
+      ???)
+    (3__N.M.__NNP
+      1__Albuquerque__NNP
+      ???)
+    (1__Albuquerque__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__1__Albuquerque__NNP (NNP__1__Albuquerque__NNP 1__Albuquerque__NNP) (,__2__,__, 2__,__,) (NNP__3__N.M.__NNP 3__N.M.__NNP)))
+
+(ROOT
+  (DEPS
+    (2__National__NNP
+      1__First__NNP
+      ???)
+    (3__Bank__NNP
+      1__First__NNP
+      ???)
+    (4__of__IN
+      1__First__NNP
+      ???)
+    (6__River__NNP
+      4__of__IN
+      ???)
+    (5__Toms__NNP
+      6__River__NNP
+      ???)
+    (1__First__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__1__First__NNP (NNP__1__First__NNP 1__First__NNP) (NNP__2__National__NNP 2__National__NNP) (NNP__3__Bank__NNP 3__Bank__NNP)
+    (PP__4__of__IN (IN__4__of__IN 4__of__IN)
+      (NP__6__River__NNP (NNP__5__Toms__NNP 5__Toms__NNP) (NNP__6__River__NNP 6__River__NNP)))))
+
+(ROOT
+  (DEPS
+    (2__the__DT
+      1__Friday__NNP
+      ???)
+    (3__13th__JJ
+      1__Friday__NNP
+      ???)
+    (1__Friday__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-TMP__1__Friday__NNP (NNP__1__Friday__NNP 1__Friday__NNP) (DT__2__the__DT 2__the__DT) (JJ__3__13th__JJ 3__13th__JJ)))
+
+(ROOT
+  (DEPS
+    (2__v.__CC
+      1__Dirks__NNS
+      ???)
+    (3__SEC__NNP
+      2__v.__CC
+      ???)
+    (1__Dirks__NNS
+      0__ROOT__
+      ROOT))
+  (NAC__1__Dirks__NNS
+    (NAC__1__Dirks__NNS (NNS__1__Dirks__NNS 1__Dirks__NNS))
+    (PP__2__v.__CC (CC__2__v.__CC 2__v.__CC)
+      (NP__3__SEC__NNP (NNP__3__SEC__NNP 3__SEC__NNP)))))
+
+(ROOT
+  (DEPS
+    (2__Springs__NNPS
+      1__Colorado__NNP
+      ???)
+    (3__,__,
+      1__Colorado__NNP
+      ???)
+    (4__Colo.__NNP
+      1__Colorado__NNP
+      ???)
+    (5__,__,
+      1__Colorado__NNP
+      ???)
+    (1__Colorado__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__1__Colorado__NNP (NNP__1__Colorado__NNP 1__Colorado__NNP) (NNPS__2__Springs__NNPS 2__Springs__NNPS) (,__3__,__, 3__,__,) (NNP__4__Colo.__NNP 4__Colo.__NNP) (,__5__,__, 5__,__,)))
+
+(ROOT
+  (DEPS
+    (3__gallon__NN
+      1__nine-cent__JJ
+      ???)
+    (2__a__DT
+      3__gallon__NN
+      ???)
+    (1__nine-cent__JJ
+      0__ROOT__
+      ROOT))
+  (NAC__1__nine-cent__JJ
+    (NP__1__nine-cent__JJ (JJ__1__nine-cent__JJ 1__nine-cent__JJ))
+    (NP-ADV__3__gallon__NN (DT__2__a__DT 2__a__DT) (NN__3__gallon__NN 3__gallon__NN))))
+
+(ROOT
+  (DEPS
+    (2__of__IN
+      1__secretary__NN
+      ???)
+    (3__state__NN
+      2__of__IN
+      ???)
+    (1__secretary__NN
+      0__ROOT__
+      ROOT))
+  (NAC__1__secretary__NN
+    (NP__1__secretary__NN (NN__1__secretary__NN 1__secretary__NN))
+    (PP__2__of__IN (IN__2__of__IN 2__of__IN)
+      (NP__3__state__NN (NN__3__state__NN 3__state__NN)))))
+
+(ROOT
+  (DEPS
+    (1__British__JJ
+      2__Chancellor__NNP
+      ???)
+    (3__of__IN
+      2__Chancellor__NNP
+      ???)
+    (5__Exchequer__NNP
+      3__of__IN
+      ???)
+    (4__the__DT
+      5__Exchequer__NNP
+      ???)
+    (2__Chancellor__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__2__Chancellor__NNP (JJ__1__British__JJ 1__British__JJ) (NNP__2__Chancellor__NNP 2__Chancellor__NNP)
+    (PP__3__of__IN (IN__3__of__IN 3__of__IN)
+      (NP__5__Exchequer__NNP (DT__4__the__DT 4__the__DT) (NNP__5__Exchequer__NNP 5__Exchequer__NNP)))))
+
+(ROOT
+  (DEPS
+    (2__Plains__NNP
+      1__White__NNP
+      ???)
+    (3__,__,
+      1__White__NNP
+      ???)
+    (4__N.Y.__NNP
+      1__White__NNP
+      ???)
+    (1__White__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__1__White__NNP (NNP__1__White__NNP 1__White__NNP) (NNP__2__Plains__NNP 2__Plains__NNP) (,__3__,__, 3__,__,) (NNP__4__N.Y.__NNP 4__N.Y.__NNP)))
+
+(ROOT
+  (DEPS
+    (2__1__CD
+      1__Sept.__NNP
+      ???)
+    (3__,__,
+      1__Sept.__NNP
+      ???)
+    (4__1991__CD
+      1__Sept.__NNP
+      ???)
+    (5__,__,
+      1__Sept.__NNP
+      ???)
+    (1__Sept.__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-TMP__1__Sept.__NNP (NNP__1__Sept.__NNP 1__Sept.__NNP) (CD__2__1__CD 2__1__CD) (,__3__,__, 3__,__,) (CD__4__1991__CD 4__1991__CD) (,__5__,__, 5__,__,)))
+
+(ROOT
+  (DEPS
+    (2__With__IN
+      1__Americans__NNPS
+      ???)
+    (3__Disabilities__NNPS
+      2__With__IN
+      ???)
+    (1__Americans__NNPS
+      0__ROOT__
+      ROOT))
+  (NAC__1__Americans__NNPS (NNPS__1__Americans__NNPS 1__Americans__NNPS)
+    (PP__2__With__IN (IN__2__With__IN 2__With__IN)
+      (NP__3__Disabilities__NNPS (NNPS__3__Disabilities__NNPS 3__Disabilities__NNPS)))))
+
+(ROOT
+  (DEPS
+    (2__Institutes__NNPS
+      1__National__NNP
+      ???)
+    (3__of__IN
+      1__National__NNP
+      ???)
+    (4__Health__NNP
+      3__of__IN
+      ???)
+    (1__National__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__1__National__NNP (NNP__1__National__NNP 1__National__NNP) (NNPS__2__Institutes__NNPS 2__Institutes__NNPS)
+    (PP__3__of__IN (IN__3__of__IN 3__of__IN)
+      (NP__4__Health__NNP (NNP__4__Health__NNP 4__Health__NNP)))))
+
+(ROOT
+  (DEPS
+    (1__American__JJ
+      2__Way__NN
+      ???)
+    (3__of__IN
+      2__Way__NN
+      ???)
+    (4__Buying__VBG
+      3__of__IN
+      ???)
+    (2__Way__NN
+      0__ROOT__
+      ROOT))
+  (NAC-TTL__2__Way__NN (JJ__1__American__JJ 1__American__JJ) (NN__2__Way__NN 2__Way__NN)
+    (PP__3__of__IN (IN__3__of__IN 3__of__IN)
+      (NP__4__Buying__VBG (VBG__4__Buying__VBG 4__Buying__VBG)))))
+
+(ROOT
+  (DEPS
+    (1__Group__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__1__Group__NNP (NNP__1__Group__NNP 1__Group__NNP)))
+
+(ROOT
+  (DEPS
+    (1__the__DT
+      2__federal__JJ
+      ???)
+    (2__federal__JJ
+      0__ROOT__
+      ROOT))
+  (NAC__2__federal__JJ (DT__1__the__DT 1__the__DT) (JJ__2__federal__JJ 2__federal__JJ)))
+
+(ROOT
+  (DEPS
+    (2__3,000__CD
+      1__$__$
+      ???)
+    (__*U*__-NONE-
+      1__$__$
+      ???)
+    (4__month__NN
+      1__$__$
+      ???)
+    (3__a__DT
+      4__month__NN
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (NAC__1__$__$
+    (NP__1__$__$ ($__1__$__$ 1__$__$) (CD__2__3,000__CD 2__3,000__CD) (-NONE-____*U*__-NONE- __*U*__-NONE-))
+    (ADVP__4__month__NN (DT__3__a__DT 3__a__DT) (NN__4__month__NN 4__month__NN))))
+
+(ROOT
+  (DEPS
+    (2__of__IN
+      1__Group__NNP
+      ???)
+    (3__Seven__NNP
+      2__of__IN
+      ???)
+    (5__G-7__NNP
+      1__Group__NNP
+      ???)
+    (4__-LRB-__-LRB-
+      5__G-7__NNP
+      ???)
+    (6__-RRB-__-RRB-
+      5__G-7__NNP
+      ???)
+    (1__Group__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__1__Group__NNP
+    (NAC__1__Group__NNP
+      (NAC__1__Group__NNP (NNP__1__Group__NNP 1__Group__NNP))
+      (PP__2__of__IN (IN__2__of__IN 2__of__IN)
+        (NP__3__Seven__NNP (NNP__3__Seven__NNP 3__Seven__NNP))))
+    (PRN__5__G-7__NNP (-LRB-__4__-LRB-__-LRB- 4__-LRB-__-LRB-)
+      (NAC__5__G-7__NNP (NNP__5__G-7__NNP 5__G-7__NNP))
+      (-RRB-__6__-RRB-__-RRB- 6__-RRB-__-RRB-))))
+
+(ROOT
+  (DEPS
+    (1__the__DT
+      2__University__NNP
+      ???)
+    (3__of__IN
+      2__University__NNP
+      ???)
+    (5__California__NNP
+      3__of__IN
+      ???)
+    (4__Southern__NNP
+      5__California__NNP
+      ???)
+    (2__University__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__2__University__NNP (DT__1__the__DT 1__the__DT) (NNP__2__University__NNP 2__University__NNP)
+    (PP__3__of__IN (IN__3__of__IN 3__of__IN)
+      (NP__5__California__NNP (NNP__4__Southern__NNP 4__Southern__NNP) (NNP__5__California__NNP 5__California__NNP)))))
+
+(ROOT
+  (DEPS
+    (1__``__``
+      4__Bureaucrat__NN
+      ???)
+    (2__My__PRP$
+      4__Bureaucrat__NN
+      ???)
+    (3__Favorite__JJ
+      4__Bureaucrat__NN
+      ???)
+    (5__''__''
+      4__Bureaucrat__NN
+      ???)
+    (4__Bureaucrat__NN
+      0__ROOT__
+      ROOT))
+  (NAC-TTL__4__Bureaucrat__NN (``__1__``__`` 1__``__``) (PRP$__2__My__PRP$ 2__My__PRP$) (JJ__3__Favorite__JJ 3__Favorite__JJ) (NN__4__Bureaucrat__NN 4__Bureaucrat__NN) (''__5__''__'' 5__''__'')))
+
+(ROOT
+  (DEPS
+    (1__Nearby__JJ
+      2__Pasadena__NNP
+      ???)
+    (3__,__,
+      2__Pasadena__NNP
+      ???)
+    (4__Texas__NNP
+      2__Pasadena__NNP
+      ???)
+    (5__,__,
+      2__Pasadena__NNP
+      ???)
+    (2__Pasadena__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__2__Pasadena__NNP (JJ__1__Nearby__JJ 1__Nearby__JJ) (NNP__2__Pasadena__NNP 2__Pasadena__NNP) (,__3__,__, 3__,__,) (NNP__4__Texas__NNP 4__Texas__NNP) (,__5__,__, 5__,__,)))
+
+(ROOT
+  (DEPS
+    (2__,__,
+      1__Moonachie__NNP
+      ???)
+    (3__N.J.__NNP
+      1__Moonachie__NNP
+      ???)
+    (4__,__,
+      1__Moonachie__NNP
+      ???)
+    (1__Moonachie__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__1__Moonachie__NNP
+    (NP__1__Moonachie__NNP (NNP__1__Moonachie__NNP 1__Moonachie__NNP))
+    (,__2__,__, 2__,__,)
+    (NP__3__N.J.__NNP (NNP__3__N.J.__NNP 3__N.J.__NNP))
+    (,__4__,__, 4__,__,)))
+
+(ROOT
+  (DEPS
+    (2__per__IN
+      1__six-cent__JJ
+      ???)
+    (3__dollar__NN
+      2__per__IN
+      ???)
+    (1__six-cent__JJ
+      0__ROOT__
+      ROOT))
+  (NAC__1__six-cent__JJ (JJ__1__six-cent__JJ 1__six-cent__JJ)
+    (PP__2__per__IN (IN__2__per__IN 2__per__IN)
+      (NP__3__dollar__NN (NN__3__dollar__NN 3__dollar__NN)))))
+
+(ROOT
+  (DEPS
+    (1__the__DT
+      2__Bill__NNP
+      ???)
+    (2__Bill__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__2__Bill__NNP (DT__1__the__DT 1__the__DT) (NNP__2__Bill__NNP 2__Bill__NNP)))
+
+(ROOT
+  (DEPS
+    (1__Dirks__NNS
+      0__ROOT__
+      ROOT))
+  (NAC__1__Dirks__NNS (NNS__1__Dirks__NNS 1__Dirks__NNS)))
+
+(ROOT
+  (DEPS
+    (2__10,000__CD
+      1__$__$
+      ???)
+    (__*U*__-NONE-
+      1__$__$
+      ???)
+    (3__per__IN
+      1__$__$
+      ???)
+    (4__capita__NN
+      3__per__IN
+      ???)
+    (1__$__$
+      0__ROOT__
+      ROOT))
+  (NAC__1__$__$ ($__1__$__$ 1__$__$) (CD__2__10,000__CD 2__10,000__CD) (-NONE-____*U*__-NONE- __*U*__-NONE-)
+    (PP__3__per__IN (IN__3__per__IN 3__per__IN)
+      (NP__4__capita__NN (NN__4__capita__NN 4__capita__NN)))))
+
+(ROOT
+  (DEPS
+    (2__of__IN
+      1__University__NNP
+      ???)
+    (3__California__NNP
+      2__of__IN
+      ???)
+    (4__Berkeley__NNP
+      1__University__NNP
+      ???)
+    (1__University__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__1__University__NNP (NNP__1__University__NNP 1__University__NNP)
+    (PP__2__of__IN (IN__2__of__IN 2__of__IN)
+      (NP__3__California__NNP (NNP__3__California__NNP 3__California__NNP)))
+    (NP-LOC__4__Berkeley__NNP (NNP__4__Berkeley__NNP 4__Berkeley__NNP))))
+
+(ROOT
+  (DEPS
+    (2__of__IN
+      1__Secretary__NNP
+      ???)
+    (3__State__NNP
+      2__of__IN
+      ???)
+    (4__for__IN
+      1__Secretary__NNP
+      ???)
+    (5__Trade__NNP
+      4__for__IN
+      ???)
+    (6__and__CC
+      5__Trade__NNP
+      ???)
+    (7__Industry__NNP
+      6__and__CC
+      ???)
+    (1__Secretary__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__1__Secretary__NNP
+    (NP__1__Secretary__NNP (NNP__1__Secretary__NNP 1__Secretary__NNP))
+    (PP__2__of__IN (IN__2__of__IN 2__of__IN)
+      (NP__3__State__NNP (NNP__3__State__NNP 3__State__NNP)))
+    (PP__4__for__IN (IN__4__for__IN 4__for__IN)
+      (NP__5__Trade__NNP (NNP__5__Trade__NNP 5__Trade__NNP)
+        (CONJPP__6__and__CC (CC__6__and__CC 6__and__CC)
+          (NNP__7__Industry__NNP 7__Industry__NNP))))))
+
+(ROOT
+  (DEPS
+    (2__Saddle__NNP
+      1__Upper__NNP
+      ???)
+    (3__River__NNP
+      1__Upper__NNP
+      ???)
+    (4__,__,
+      1__Upper__NNP
+      ???)
+    (5__N.J.__NNP
+      1__Upper__NNP
+      ???)
+    (6__,__,
+      1__Upper__NNP
+      ???)
+    (1__Upper__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__1__Upper__NNP (NNP__1__Upper__NNP 1__Upper__NNP) (NNP__2__Saddle__NNP 2__Saddle__NNP) (NNP__3__River__NNP 3__River__NNP) (,__4__,__, 4__,__,) (NNP__5__N.J.__NNP 5__N.J.__NNP) (,__6__,__, 6__,__,)))
+
+(ROOT
+  (DEPS
+    (2__,__,
+      1__Ponce__NNP
+      ???)
+    (3__Puerto__NNP
+      1__Ponce__NNP
+      ???)
+    (4__Rico__NNP
+      1__Ponce__NNP
+      ???)
+    (1__Ponce__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__1__Ponce__NNP (NNP__1__Ponce__NNP 1__Ponce__NNP) (,__2__,__, 2__,__,) (NNP__3__Puerto__NNP 3__Puerto__NNP) (NNP__4__Rico__NNP 4__Rico__NNP)))
+
+(ROOT
+  (DEPS
+    (2__.__.
+      1__U.S.A__NNP
+      ???)
+    (1__U.S.A__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__1__U.S.A__NNP (NNP__1__U.S.A__NNP 1__U.S.A__NNP) (.__2__.__. 2__.__.)))
+
+(ROOT
+  (DEPS
+    (2__Chancellor__NNP
+      1__British__NNP
+      ???)
+    (1__British__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__1__British__NNP (NNP__1__British__NNP 1__British__NNP) (NNP__2__Chancellor__NNP 2__Chancellor__NNP)))
+
+(ROOT
+  (DEPS
+    (2__in__IN
+      1__change__NN
+      ???)
+    (3__strategy__NN
+      2__in__IN
+      ???)
+    (4__or__CC
+      1__change__NN
+      ???)
+    (5__change__NN
+      4__or__CC
+      ???)
+    (6__in__IN
+      5__change__NN
+      ???)
+    (8__expectations__NNS
+      6__in__IN
+      ???)
+    (7__profit__NN
+      8__expectations__NNS
+      ???)
+    (1__change__NN
+      0__ROOT__
+      ROOT))
+  (NAC__1__change__NN
+    (NAC__1__change__NN (NN__1__change__NN 1__change__NN)
+      (PP__2__in__IN (IN__2__in__IN 2__in__IN)
+        (NP__3__strategy__NN (NN__3__strategy__NN 3__strategy__NN))))
+    (CONJPP__4__or__CC (CC__4__or__CC 4__or__CC)
+      (NAC__5__change__NN (NN__5__change__NN 5__change__NN)
+        (PP__6__in__IN (IN__6__in__IN 6__in__IN)
+          (NP__8__expectations__NNS (NN__7__profit__NN 7__profit__NN) (NNS__8__expectations__NNS 8__expectations__NNS)))))))
+
+(ROOT
+  (DEPS
+    (1__the__DT
+      2__Lord__NNP
+      ???)
+    (3__Mayor__NNP
+      2__Lord__NNP
+      ???)
+    (4__of__IN
+      2__Lord__NNP
+      ???)
+    (5__London__NNP
+      4__of__IN
+      ???)
+    (2__Lord__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__2__Lord__NNP (DT__1__the__DT 1__the__DT) (NNP__2__Lord__NNP 2__Lord__NNP) (NNP__3__Mayor__NNP 3__Mayor__NNP)
+    (PP__4__of__IN (IN__4__of__IN 4__of__IN)
+      (NP__5__London__NNP (NNP__5__London__NNP 5__London__NNP)))))
+
+(ROOT
+  (DEPS
+    (2__,__,
+      1__Hannibal__NNP
+      ???)
+    (3__Ohio__NNP
+      1__Hannibal__NNP
+      ???)
+    (5__and__CC
+      1__Hannibal__NNP
+      ???)
+    (4__,__,
+      5__and__CC
+      ???)
+    (6__Jackson__NNP
+      5__and__CC
+      ???)
+    (7__,__,
+      6__Jackson__NNP
+      ???)
+    (8__Tenn.__NNP
+      6__Jackson__NNP
+      ???)
+    (9__,__,
+      6__Jackson__NNP
+      ???)
+    (1__Hannibal__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__1__Hannibal__NNP
+    (NAC__1__Hannibal__NNP (NNP__1__Hannibal__NNP 1__Hannibal__NNP) (,__2__,__, 2__,__,) (NNP__3__Ohio__NNP 3__Ohio__NNP))
+    (CONJPP__5__and__CC (,__4__,__, 4__,__,)
+      (CC__5__and__CC 5__and__CC)
+      (NAC__6__Jackson__NNP (NNP__6__Jackson__NNP 6__Jackson__NNP) (,__7__,__, 7__,__,) (NNP__8__Tenn.__NNP 8__Tenn.__NNP) (,__9__,__, 9__,__,)))))
+
+(ROOT
+  (DEPS
+    (1__6__CD
+      2__a.m.__NN
+      ???)
+    (3__to__TO
+      2__a.m.__NN
+      ???)
+    (5__p.m.__NN
+      3__to__TO
+      ???)
+    (4__8__CD
+      5__p.m.__NN
+      ???)
+    (2__a.m.__NN
+      0__ROOT__
+      ROOT))
+  (NAC__2__a.m.__NN (CD__1__6__CD 1__6__CD) (NN__2__a.m.__NN 2__a.m.__NN)
+    (PP__3__to__TO (TO__3__to__TO 3__to__TO)
+      (NP__5__p.m.__NN (CD__4__8__CD 4__8__CD) (NN__5__p.m.__NN 5__p.m.__NN)))))
+
+(ROOT
+  (DEPS
+    (1__TWO__CD
+      2__BIRDS__NNS
+      ???)
+    (3__with__IN
+      2__BIRDS__NNS
+      ???)
+    (5__stone__NN
+      3__with__IN
+      ???)
+    (4__one__CD
+      5__stone__NN
+      ???)
+    (2__BIRDS__NNS
+      0__ROOT__
+      ROOT))
+  (NAC__2__BIRDS__NNS (CD__1__TWO__CD 1__TWO__CD) (NNS__2__BIRDS__NNS 2__BIRDS__NNS)
+    (PP__3__with__IN (IN__3__with__IN 3__with__IN)
+      (NP__5__stone__NN (CD__4__one__CD 4__one__CD) (NN__5__stone__NN 5__stone__NN)))))
+
+(ROOT
+  (DEPS
+    (1__former__JJ
+      2__U.S.__NNP
+      ???)
+    (3__attorney__NN
+      2__U.S.__NNP
+      ???)
+    (4__in__IN
+      2__U.S.__NNP
+      ???)
+    (5__Washington__NNP
+      4__in__IN
+      ???)
+    (2__U.S.__NNP
+      0__ROOT__
+      ROOT))
+  (NAC__2__U.S.__NNP (JJ__1__former__JJ 1__former__JJ) (NNP__2__U.S.__NNP 2__U.S.__NNP) (NN__3__attorney__NN 3__attorney__NN)
+    (PP-LOC__4__in__IN (IN__4__in__IN 4__in__IN)
+      (NP__5__Washington__NNP (NNP__5__Washington__NNP 5__Washington__NNP)))))
+
+(ROOT
+  (DEPS
+    (1__Retired__VBN
+      2__army__NN
+      ???)
+    (3__Chief__NNP
+      2__army__NN
+      ???)
+    (4__of__IN
+      2__army__NN
+      ???)
+    (5__Staff__NNP
+      4__of__IN
+      ???)
+    (2__army__NN
+      0__ROOT__
+      ROOT))
+  (NAC__2__army__NN (VBN__1__Retired__VBN 1__Retired__VBN) (NN__2__army__NN 2__army__NN) (NNP__3__Chief__NNP 3__Chief__NNP)
+    (PP__4__of__IN (IN__4__of__IN 4__of__IN)
+      (NP__5__Staff__NNP (NNP__5__Staff__NNP 5__Staff__NNP)))))
+
+(ROOT
+  (DEPS
+    (2__,__,
+      1__Vancouver__NNP
+      ???)
+    (3__British__NNP
+      1__Vancouver__NNP
+      ???)
+    (4__Columbia__NNP
+      1__Vancouver__NNP
+      ???)
+    (5__,__,
+      1__Vancouver__NNP
+      ???)
+    (1__Vancouver__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__1__Vancouver__NNP (NNP__1__Vancouver__NNP 1__Vancouver__NNP) (,__2__,__, 2__,__,) (NNP__3__British__NNP 3__British__NNP) (NNP__4__Columbia__NNP 4__Columbia__NNP) (,__5__,__, 5__,__,)))
+
+(ROOT
+  (DEPS
+    (1__the__DT
+      2__Washington__NNP
+      ???)
+    (3__,__,
+      2__Washington__NNP
+      ???)
+    (4__D.C.__NNP
+      2__Washington__NNP
+      ???)
+    (5__,__,
+      2__Washington__NNP
+      ???)
+    (2__Washington__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__2__Washington__NNP (DT__1__the__DT 1__the__DT) (NNP__2__Washington__NNP 2__Washington__NNP) (,__3__,__, 3__,__,) (NNP__4__D.C.__NNP 4__D.C.__NNP) (,__5__,__, 5__,__,)))
+
+(ROOT
+  (DEPS
+    (__*__-NONE-
+      1__Leave__VB
+      SUBJ)
+    (2__It__PRP
+      1__Leave__VB
+      OBJ-DO)
+    (1__Leave__VB
+      5__Show__NN
+      ???)
+    (3__to__TO
+      1__Leave__VB
+      ???)
+    (4__Beaver__NNP
+      3__to__TO
+      ???)
+    (5__Show__NN
+      0__ROOT__
+      ROOT))
+  (NAC-TTL__5__Show__NN
+    (S-TTL__1__Leave__VB
+      (NP-SBJ____*__-NONE- (-NONE-____*__-NONE- __*__-NONE-))
+      (VP__1__Leave__VB (VB__1__Leave__VB 1__Leave__VB)
+        (NP__2__It__PRP (PRP__2__It__PRP 2__It__PRP))
+        (PP__3__to__TO (TO__3__to__TO 3__to__TO)
+          (NP__4__Beaver__NNP (NNP__4__Beaver__NNP 4__Beaver__NNP)))))
+    (NN__5__Show__NN 5__Show__NN)))
+
+(ROOT
+  (DEPS
+    (2__That__WDT
+      3__Make__VBP
+      SUBJ)
+    (4__Sense__NN
+      3__Make__VBP
+      OBJ-DO)
+    (3__Make__VBP
+      1__Cars__NNS
+      ???)
+    (1__Cars__NNS
+      0__ROOT__
+      ROOT))
+  (NAC-TTL__1__Cars__NNS (NNS__1__Cars__NNS 1__Cars__NNS)
+    (SBAR__3__Make__VBP
+      (S__3__Make__VBP
+        (NP-SBJ__2__That__WDT
+          (WHNP__2__That__WDT (WDT__2__That__WDT 2__That__WDT)))
+        (VP__3__Make__VBP (VBP__3__Make__VBP 3__Make__VBP)
+          (NP__4__Sense__NN (NN__4__Sense__NN 4__Sense__NN)))))))
+
+(ROOT
+  (DEPS
+    (1__FORMER__JJ
+      3__AMBASSADOR__NN
+      ???)
+    (2__CANADIAN__JJ
+      3__AMBASSADOR__NN
+      ???)
+    (4__to__TO
+      3__AMBASSADOR__NN
+      ???)
+    (6__U.S.__NNP
+      4__to__TO
+      ???)
+    (5__the__DT
+      6__U.S.__NNP
+      ???)
+    (3__AMBASSADOR__NN
+      0__ROOT__
+      ROOT))
+  (NAC__3__AMBASSADOR__NN (JJ__1__FORMER__JJ 1__FORMER__JJ) (JJ__2__CANADIAN__JJ 2__CANADIAN__JJ) (NN__3__AMBASSADOR__NN 3__AMBASSADOR__NN)
+    (PP__4__to__TO (TO__4__to__TO 4__to__TO)
+      (NP__6__U.S.__NNP (DT__5__the__DT 5__the__DT) (NNP__6__U.S.__NNP 6__U.S.__NNP)))))
+
+(ROOT
+  (DEPS
+    (2__Francisco-based__JJ
+      1__San__NNP
+      ???)
+    (1__San__NNP
+      0__ROOT__
+      ROOT))
+  (NAC-LOC__1__San__NNP (NNP__1__San__NNP 1__San__NNP) (JJ__2__Francisco-based__JJ 2__Francisco-based__JJ)))
+

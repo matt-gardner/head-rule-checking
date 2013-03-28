@@ -1,0 +1,31 @@
+(ROOT
+  (CONJP (RB 1__as) (RB 2__well) (IN 3__as)))
+
+(ROOT
+  (CONJP (RB 1__rather) (IN 2__than)))
+
+(ROOT
+  (CONJP (RB 1__Not) (RB 2__only)))
+
+(ROOT
+  (CONJP (CC 1__but)
+    (RB 2__also)))
+
+(ROOT
+  (CONJP (IN 1__if) (RB 2__not)))
+
+(ROOT
+  (CONJP (RB 1__not) (JJ 2__only)))
+
+(ROOT
+  (CONJP (RB 1__not) (TO 2__to) (VB 3__mention)))
+
+(ROOT
+  (CONJP (IN 1__along) (IN 2__with)))
+
+(ROOT
+  (CONJP (IN 1__in) (NN 2__addition) (TO 3__to)))
+
+(ROOT
+  (CONJP (IN 1__if)))
+

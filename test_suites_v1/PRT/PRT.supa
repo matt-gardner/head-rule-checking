@@ -1,0 +1,22 @@
+1	up	_	_	RP	_	0	ROOT	_	_	ROOT
+
+1	down	_	_	IN	_	0	ROOT	_	_	ROOT
+
+1	away	_	_	RB	_	0	ROOT	_	_	ROOT
+
+1	out	_	_	JJ	_	0	ROOT	_	_	ROOT
+
+1	on	_	_	RP	_	3	???	_	_	off
+2	and	_	_	CC	_	3	???	_	_	off
+3	off	_	_	RP	_	0	ROOT	_	_	ROOT
+
+1	better	_	_	RBR	_	0	ROOT	_	_	ROOT
+
+1	down	_	_	VBP	_	0	ROOT	_	_	ROOT
+
+1	best	_	_	RBS	_	0	ROOT	_	_	ROOT
+
+1	put	_	_	VBN	_	0	ROOT	_	_	ROOT
+
+1	back	_	_	NN	_	0	ROOT	_	_	ROOT
+

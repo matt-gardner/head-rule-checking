@@ -1,0 +1,401 @@
+(WHNP-1 (WDT that))
+
+(WHNP-3 (WP who))
+
+(WHNP-1 (-NONE- 0))
+
+(WHNP-1 (IN that))
+
+(WHNP-1 (DT that))
+
+(WHNP-1 (WP$ whose) (NN spokesman))
+
+(WHNP-20 (WP$ whose) (NNS addresses))
+
+(WHNP-41
+  (WHNP (WP What))
+  (PP (-NONE- *ICH*-1)))
+
+(WHNP (WDT what) (NN kind))
+
+(WHNP-1
+  (WHNP (DT all))
+  (WHPP (IN of)
+    (WHNP (WDT which))))
+
+(WHNP (WRB how) (JJ much))
+
+(WHNP-1
+  (NP (DT some))
+  (WHPP (IN of)
+    (WHNP (WDT which))))
+
+(WHNP-3 (WDT whatever) (NNS losses))
+
+(WHNP-1
+  (NP (WP$ whose) (JJ net) (NN income))
+  (PP-TMP (IN for)
+    (NP (DT the) (NN quarter))))
+
+(WHNP-2 (WP$ whose) (JJ reckless) (NN career))
+
+(WHNP-46 (WP What) (NN sector))
+
+(WHNP-54 (WP$ whose) (JJ sassy) (NNS retorts))
+
+(WHNP-2
+  (WHADJP (WRB how) (JJ many))
+  (NNS investors))
+
+(WHNP-2 (WRB how) (RB much))
+
+(WHNP (WP$ whose) (NN world) (NN dominance))
+
+(WHNP-1 (DT both)
+  (WHPP (IN of)
+    (WHNP (WDT which))))
+
+(WHNP-2
+  (WHADJP (WRB how) (JJ much))
+  (NN money))
+
+(WHNP-1 (RB exactly) (WP what))
+
+(WHNP-3 (WP what) (NNS changes))
+
+(WHNP (CD two))
+
+(WHNP-1 (WP what) (RB exactly))
+
+(WHNP (JJS most))
+
+(WHNP-1 (WP$ whose)
+  (NP (NN father)))
+
+(WHNP
+  (WHADVP (WRB how) (JJ many))
+  (NNS shares))
+
+(WHNP-188
+  (WHNP (WP what))
+  (ADVP (RB exactly)))
+
+(WHNP-1
+  (WHNP (WP$ whose) (JJ total) (NN return))
+  (PRN (-LRB- -LRB-)
+    (NP
+      (NP (JJ bond-price) (NNS changes))
+      (CC plus)
+      (NP (NN interest)))
+    (-RRB- -RRB-)))
+
+(WHNP-1 (WDT whatever) (JJ nostalgic) (NNS notions))
+
+(WHNP-3
+  (WHNP (WDT which))
+  (NP (PRP itself)))
+
+(WHNP (DT the) (NN interest))
+
+(WHNP-1 (WP$ whose) (NNS price\/earnings) (NN ratio))
+
+(WHNP (WP what) (DT an) (JJ efficient) (NN reaction))
+
+(WHNP-1 (WP$ whose) (NN brokerage) (NNS licenses))
+
+(WHNP-1 (RB just) (WDT what) (NN law))
+
+(WHNP (DT the) (RBS most) (JJ recent))
+
+(WHNP-1 (CD one)
+  (WHPP (IN of)
+    (WHNP (WP whom))))
+
+(WHNP-3 (WDT which) (JJ identical) (NN drug))
+
+(WHNP-1 (DT the) (NN bulk)
+  (WHPP (IN of)
+    (WHNP (WDT which))))
+
+(WHNP-3 (WP$ whose) (NNS savings)
+  (CC and)
+  (NN loan))
+
+(WHNP-1 (WP$ whose) (NNP New) (NNP York) (NN firm))
+
+(WHNP-2
+  (WHNP (WP$ whose) (NN family) (NN company))
+  (, ,)
+  (NP (NNP Advance) (NNPS Publications) (NNP Inc.))
+  (, ,))
+
+(WHNP-1 (WP$ whose) (JJ American) (JJ depositary) (NNS receipts))
+
+(WHNP-1 (WDT whatever) (NN deterrent) (NN effect))
+
+(WHNP-1
+  (WHADVP (WRB how) (JJ much))
+  (NN time))
+
+(WHNP
+  (QP (IN about) ($ $) (CD 34) (CD million))
+  (-NONE- *U*))
+
+(WHNP-1 (WDT which) (NN anti-abortion) (NNS forces))
+
+(WHNP (WP$ whose)
+  (ADJP ($ $) (JJ 240-a-share))
+  (NN offer))
+
+(WHNP-1 (WP$ whose) (JJ last) (JJ big) (NN campaign))
+
+(WHNP-2
+  (WHNP (-NONE- 0))
+  (SBAR (-NONE- *ICH*-4)))
+
+(WHNP (JJ many))
+
+(WHNP (WP$ whose) (NNS sales)
+  (CC and)
+  (NN market) (NN share))
+
+(WHNP-3 (WP What) (JJ few) (NNS comments))
+
+(WHNP-1
+  (WHNP (WDT what) (NNS ways))
+  (PP (IN of)
+    (NP (NN escape)))
+  (ADJP (-NONE- *ICH*-2)))
+
+(WHNP-3
+  (WHNP
+    (WHNP (WP$ whose) (NN book))
+    (PP (IN on)
+      (NP (NNP East) (NNP Germany))))
+  (, ,)
+  (VP (VBN entitled)
+    (S
+      (NP-SBJ (-NONE- *))
+      (`` ``)
+      (NP-TTL-PRD (DT The) (NNP Unloved) (NNP Country))))
+  (, ,) ('' ''))
+
+(WHNP-5 (WP$ whose) (NNP Brooke) (NNP Partners))
+
+(WHNP-1 (WP what)
+  (PP (-NONE- *ICH*-2)))
+
+(WHNP-1 (WDT which) (NN gene)
+  (CC or)
+  (NNS genes))
+
+(WHNP-1 (WP what) (DT an) (NN issue))
+
+(WHNP-3 (WP$ whose) (JJ new) (VBN syndicated) (NN program))
+
+(WHNP-1 (WP$ whose) (NNP California) (NN district))
+
+(WHNP-1
+  (WHADJP (WRB how) (JJ many))
+  (JJ important) (NNS people))
+
+(WHNP-1 (WP$ whose) (NNP Transol) (NNPS Investments) (NNP Ltd.) (NN unit))
+
+(WHNP-1
+  (WHNP
+    (WHADVP (WRB how) (JJ many))
+    (NNS shares))
+  (ADJP (JJ outstanding))
+  (PP (-NONE- *ICH*-2)))
+
+(WHNP (RB exactly) (WRB how) (RB much))
+
+(WHNP-1 (WP$ whose) (JJ worth))
+
+(WHNP-1 (WP$ whose) (CD 1988) (NNS sales))
+
+(WHNP (WP what)
+  (NP (DT a) (NN coup)))
+
+(WHNP-1 (WP$ whose) (`` ``) (JJ little) (NN girl))
+
+(WHNP-1 (WP what) (NN tax) (NNS changes))
+
+(WHNP-1 (NNP Benson)
+  (CC &)
+  (NNP Hedges) (NN cigarette) (NN brand))
+
+(WHNP-2 (WP$ whose) (NNS films)
+  (CC and)
+  (NNS records))
+
+(WHNP-1 (WRB how) (JJ many) (NNP Jaguar) (NNS shares))
+
+(WHNP-1
+  (WHNP (WP$ whose)
+    (ADJP ($ $) (JJ 240-a-share))
+    (NN offer))
+  (PP (IN for)
+    (NP (NNP UAL)))
+  (PP-TMP (IN in)
+    (NP (NNP August))))
+
+(WHNP-1 (WRB Where))
+
+(WHNP-2 (WP$ whose)
+  (NP (NNP Lloyd) (POS 's))
+  (NN membership))
+
+(WHNP-2
+  (WHADJP (WRB how) (JJ many))
+  (NNS warrants)
+  (CC and)
+  (NNS options))
+
+(WHNP (NN part))
+
+(WHNP-1 (WP$ whose) (NNP Utah) (NNS experiments))
+
+(WHNP-1
+  (WHNP (WP what))
+  (S (-NONE- *ICH*-2)))
+
+(WHNP
+  (QP (CD 6.5) (CD million)))
+
+(WHNP-1 (WP$ whose) (NNS pitchers)
+  (CC and)
+  (NN home-run) (NNS hitters))
+
+(WHNP-2
+  (WHNP (WP$ whose) (JJ new) (NN novel))
+  (, ,)
+  (NP (`` ``)
+    (NP-TTL (NNP Majestic))
+    ('' '')
+    (PRN (-LRB- -LRB-)
+      (NP (NNP Putnam))
+      (, ,)
+      (NP (CD 317) (NNS pages))
+      (, ,)
+      (NP ($ $) (CD 18.95) (-NONE- *U*))
+      (-RRB- -RRB-))))
+
+(WHNP-1 (WRB How) (JJ many) (NN government) (NNS programs)
+  (CC and)
+  (NNS policies))
+
+(WHNP-1 (WP what) (JJ red) (NN tape))
+
+(WHNP-1
+  (WHADJP (WRB how) (JJ many))
+  (NN company) (NN mail) (NNS rooms))
+
+(WHNP-1 (WP$ whose) (NNP Della) (NNP Femina) (NNP McNamee) (NNP WCRS) (NN agency))
+
+(WHNP (WP$ whose) (CD four) (JJ 30-second) (NN TV) (NNS ads))
+
+(WHNP-1 (VBP that))
+
+(WHNP-1
+  (ADVP (RB exactly))
+  (WP what))
+
+(WHNP-1 (WP What) (JJR more))
+
+(WHNP-1
+  (WHADVP (WRB how))
+  (JJ much) (NN supply))
+
+(WHNP-2 (WP$ whose) (VBN combined) (NNS holdings))
+
+(WHNP (WP$ whose) (JJ recent) (JJ hostile) (NN tender) (NN offer))
+
+(WHNP-2 (WP$ whose)
+  (NX
+    (NX (NN ignorance))
+    (CC and)
+    (NX (JJ intellectual) (NN incompetence))))
+
+(WHNP-1
+  (NP (WP$ whose) (VBG holding) (NN company))
+  (, ,)
+  (NP (NNP CS) (NNP First) (NNP Boston) (NNP Group))
+  (, ,))
+
+(WHNP-5 (JJS most)
+  (WHPP (IN of)
+    (WHNP (WDT which))))
+
+(WHNP (PRP it))
+
+(WHNP-1 (WRB How) (JJ many) (NNS shares))
+
+(WHNP-1 (WP what) (NN kind)
+  (PP (IN of)
+    (NP (NN policy))))
+
+(WHNP (WP$ whose) (NNP High) (NNP Technology) (NNP Holding) (NNP Co.))
+
+(WHNP-2 (WP$ whose) (JJR larger) (NNS structures))
+
+(WHNP-1 (WP$ whose) (JJ sole) (NN interest)
+  (CC and)
+  (NN responsibility))
+
+(WHNP (NNS details))
+
+(WHNP-2 (WP$ whose) (JJ lenient) (`` ``) (JJ multiple-use) ('' '') (NN philosophy))
+
+(WHNP-1
+  (WHNP (WDT what) (NN kind))
+  (PP (IN of)
+    (NP (NN man)))
+  (SBAR (-NONE- *ICH*-6)))
+
+(WHNP-1 (WP$ whose) (VBG declining) (NN profitability))
+
+(WHNP-1
+  (WHADJP (WRB how) (JJ much))
+  (JJR less))
+
+(WHNP-1 (RB precisely) (WRB how) (JJ much))
+
+(WHNP-2 (WDT whatever) (JJ regular) (NN investment) (NN sum))
+
+(WHNP-1
+  (QP (RB nearly) (JJ double))
+  (WP what))
+
+(WHNP-1
+  (NP (WDT which) (NNS partnerships))
+  (PRN (-LRB- -LCB-)
+    (PP (IN with)
+      (NP (NNS magazines)))
+    (-RRB- -RCB-)))
+
+(WHNP (DT a) (WDT which))
+
+(WHNP-1 (WP$ whose) (JJS largest) (NN client))
+
+(WHNP (WDT which)
+  (PRN (, ,)
+    (PP (IN if)
+      (NP (DT any)))
+    (, ,))
+  (NN version))
+
+(WHNP-1 (CC neither)
+  (WHPP (IN of)
+    (WHNP (WP whom))))
+
+(WHNP-1 (WP$ whose) (NN research)
+  (CC and)
+  (NN development))
+
+(WHNP-1
+  (WHADJP (WRB how) (JJ many))
+  (JJR more) (NNS times))
+
+(WHNP-1 (WP what) (RB possible) (JJ good))
+

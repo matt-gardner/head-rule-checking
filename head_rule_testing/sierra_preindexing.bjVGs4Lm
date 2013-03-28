@@ -1,0 +1,831 @@
+(QP ($ $) (CD 1.5) (CD billion))
+
+(QP (CD 9.8) (CD billion))
+
+(QP (RB about) (CD 60))
+
+(QP (IN About) (CD 160))
+
+(QP (JJR fewer) (IN than) (CD 100))
+
+(QP (RB almost) ($ $) (CD 100) (CD million))
+
+(QP (IN about) ($ $) (CD 370) (CD million))
+
+(QP (CD three) (TO to) (CD six))
+
+(QP (IN at) (JJS least) (CD 100))
+
+(QP (# #) (CD 100) (CD million))
+
+(QP (JJR more) (IN than) ($ $) (CD 1.2) (CD billion))
+
+(QP (RB as) (JJ many) (IN as) (CD 12))
+
+(QP (RB roughly) (CD 145) (CD million))
+
+(QP (RB about) ($ $) (CD 70))
+
+(QP (RBR more) (IN than) (CD 30))
+
+(QP (IN about) (CD two) (CD million))
+
+(QP (DT every) (CD two))
+
+(QP (CD 1) (NN %) (TO to) (CD 2) (NN %))
+
+(QP (IN about) ($ $) (CD 120,000))
+
+(QP ($ $) (CD 60) (TO to) ($ $) (CD 80))
+
+(QP ($ $) (CD 2) (CD million) (TO to) ($ $) (CD 3) (CD million))
+
+(QP (CD 8) (CD 11\/16) (NN %) (TO to) (CD 8) (CD 9\/16) (NN %))
+
+(QP (CC or)
+  (JJR less))
+
+(QP (CD 500) (NNS times))
+
+(QP (IN up) (TO to) (CD 10))
+
+(QP (JJR more) (IN than) (CD four) (CD million))
+
+(QP (RB as) (JJ much) (IN as) ($ $) (CD 400) (CD million))
+
+(QP (JJR more) (IN than) ($ $) (CD 10,000))
+
+(QP (CD three)
+  (CC or)
+  (CD four))
+
+(QP (CC or)
+  (RB so))
+
+(QP (RB well) (IN over) (CD 9))
+
+(QP (IN at) (JJS least) ($ $) (CD 33) (CD million))
+
+(QP (DT some) ($ $) (CD 38.3) (CD billion))
+
+(QP (RB nearly) (DT a) (JJ third))
+
+(QP (JJ only) (CD one))
+
+(QP (CD one) (IN in) (CD four))
+
+(QP (IN between) (CD 20) (NN %)
+  (CC and)
+  (CD 25) (NN %))
+
+(QP (CC or)
+  (CD two))
+
+(QP (IN up) (TO to) ($ $) (CD 500) (CD million))
+
+(QP (RBR more) (IN than) ($ $) (CD 75) (CD million))
+
+(QP ($ $) (CD 600) (CD million)
+  (CC or)
+  (JJR more))
+
+(QP (RB as) (JJ many) (IN as) (CD 45) (CD million))
+
+(QP (IN between) ($ $) (CD 190) (CD million)
+  (CC and)
+  ($ $) (CD 195) (CD million))
+
+(QP (RB only) (RB about) (CD 2))
+
+(QP (RB nearly) (NN half))
+
+(QP (IN between) ($ $) (CD 35)
+  (CC and)
+  ($ $) (CD 55))
+
+(QP (CD one)
+  (CC or)
+  (JJR more))
+
+(QP (JJR more) (IN than) (PDT half))
+
+(QP ($ $) (CD 10,000) (TO to) ($ $) (CD 1) (CD million))
+
+(QP (JJR less) (IN than) (DT a))
+
+(QP (RB nearly) (RB double))
+
+(QP ($ $) (CD 15,015,000))
+
+(QP (RB as) (RB much) (IN as) (CD 50))
+
+(QP (RB almost) (DT half))
+
+(QP (IN between) (CD 2,520)
+  (CC and)
+  (CD 6,881))
+
+(QP (RB as) (JJ low) (IN as) ($ $) (CD 145))
+
+(QP (CD four) (JJR more))
+
+(QP (RB as) (RB much) (IN as) ($ $) (CD 50) (CD million))
+
+(QP (RB No) (JJR fewer) (IN than) (CD 24))
+
+(QP (JJR more) (IN than) (NN half))
+
+(QP (CD 5,000)
+  (CC or)
+  (RB so))
+
+(QP (IN about) (DT a))
+
+(QP (RB only) (PDT half))
+
+(QP (RB about) (# #) (CD 20) (CD billion))
+
+(QP (RB about) (JJ one-third))
+
+(QP (RB only) (CD two) (IN of) (CD six))
+
+(QP (RB only) (CD 1) (NN %) (TO to) (CD 5) (NN %))
+
+(QP (RB close) (TO to) ($ $) (CD 100) (CD million))
+
+(QP (RB about) (CD eight) (TO to) (CD 10))
+
+(QP (IN about) (PDT half))
+
+(QP (RBR more) (IN than) (DT a))
+
+(QP (IN about) (# #) (CD 15) (CD billion))
+
+(QP (IN about) (NN half))
+
+(QP (CD 9) (NN %)
+  (CC and)
+  (CD 14) (NN %))
+
+(QP (CD three) (TO to) (CD five) (NNS times))
+
+(QP (CD 15) (NN %)
+  (CC or)
+  (JJR more))
+
+(QP (RBR more) (IN than) (CD 1.6) (CD million))
+
+(QP (RB about) (CD five) (NNS times))
+
+(QP (IN about) ($ $) (CD 45) (TO to) ($ $) (CD 50))
+
+(QP (CD 9) (CD 3\/4) (NN %) (TO to) (CD 10) (NN %))
+
+(QP (RB up) (TO to) (CD 150,000))
+
+(QP (CD 7.71) (NN %) (TO to) (CD 7.73))
+
+(QP (CD 7))
+
+(QP (JJR more) (IN than) (CD 10) (NNS times))
+
+(QP (DT a) (JJ third))
+
+(QP (RB almost) (DT a) (NN tenth))
+
+(QP (RB only) ($ $) (CD 36) (TO to) ($ $) (CD 45))
+
+(QP (TO to) (CD 7.10))
+
+(QP (JJR More) (IN than) (NNS two-thirds))
+
+(QP (CC or)
+  (RBR more))
+
+(QP (IN up) (TO to) (CD 20) (CD million))
+
+(QP (JJ several) (CD hundred) (CD million))
+
+(QP (DT some) (CD 100) (CD million))
+
+(QP (CD two) (NN dozen))
+
+(QP ($ $) (CD 6)
+  (CC or)
+  ($ $) (CD 7))
+
+(QP (NNS hundreds) (IN of) (NNS thousands))
+
+(QP (IN between) (CD five) (CD million)
+  (CC and)
+  (CD six) (CD million))
+
+(QP (VBN estimated) ($ $) (CD 470) (CD million))
+
+(QP (RB up) (TO to) ($ $) (CD 67,000))
+
+(QP ($ $) (CD 50,000)
+  (CC or)
+  (JJR less))
+
+(QP (JJR more) (IN than) (RB double))
+
+(QP (CD 14) (NNS cents) (TO to) (CD 18))
+
+(QP (RB roughly) ($ $) (CD 2) (CD billion) (TO to) ($ $) (CD 4) (CD billion))
+
+(QP (RB approximately) (NNS two-thirds))
+
+(QP ($ $) (CD 15) (CD million)
+  (CC and)
+  ($ $) (CD 30) (CD million))
+
+(QP-1 (IN about) (RB half))
+
+(QP (DT A) (NN total) (IN of) (CD 139))
+
+(QP (IN About) (CD 10) (NN %) (TO to) (CD 15) (NN %))
+
+(QP (JJR less) (IN than) (DT an) (NN eighth))
+
+(QP (RB well) (IN over) (CD 10) (CD million))
+
+(QP (IN about) ($ $) (CD 80) (CD million) (TO to) ($ $) (CD 90) (CD million))
+
+(QP (JJ several) (NNS billions))
+
+(QP (DT some) ($ $) (CD 400,000))
+
+(QP (CD 19) (IN out) (IN of) (CD 20))
+
+(QP (IN up) (TO to) ($ $) (CD 18,000))
+
+(QP (CD 28) (CD million) (TO to) (CD 29) (CD million))
+
+(QP (IN at) (JJS least) (PDT half))
+
+(QP (RB as) (JJ much) (IN as) (CD 40) (NN %))
+
+(QP (RB as) (RB much) (IN as) ($ $) (CD 100))
+
+(QP (DT all)
+  (CC but)
+  (CD eight))
+
+(QP (IN about) (CD 50) (TO to) (CD 55))
+
+(QP (IN at) (JJS least) (DT another))
+
+(QP (DT a) (JJ mere) (CD 0.7))
+
+(QP (JJR More) (IN than) (CD three) (IN in) (CD five))
+
+(QP (IN at) (JJS least) (CD three) (CD million))
+
+(QP (IN about) (NNS two-thirds))
+
+(QP (DT no) (JJR more) (IN than) (CD 4))
+
+(QP (RB just) (IN over) ($ $) (CD 9) (CD billion))
+
+(QP (RB roughly) (# #) (CD 70,000))
+
+(QP (RB triple))
+
+(QP (IN about) (CD 4) (CD 1\/4) (NNS times))
+
+(QP (JJ minimum) ($ $) (CD 5,000))
+
+(QP (RB some) (CD two) (NN dozen))
+
+(QP (RBR More) (IN than) (PDT half))
+
+(QP (RB Only) (CD five) (IN of) (DT the) (CD 40))
+
+(QP (RBR less) (IN than) ($ $) (CD 1,600))
+
+(QP ($ $) (CD 1) (NN trillion-plus))
+
+(QP (RB just) (IN about) (DT all))
+
+(QP (DT a) (NN dozen))
+
+(QP (DT all)
+  (CC but)
+  (IN about) (CD 30))
+
+(QP (SYM FFr) (CD 27.68) (CD billion))
+
+(QP (CD 1) (CD billion) (JJ Swedish))
+
+(QP (IN at) (JJS least) (NN half))
+
+(QP (JJR more) (IN than) (CD three) (NN dozen))
+
+(QP (RP about) (CD 11))
+
+(QP (CD 1.5) (JJ million-gallon))
+
+(QP (CD One) (CD hundred)
+  (CC and)
+  (CD ninety) (CD two))
+
+(QP (IN at) (JJS least) (JJ several))
+
+(QP (RB close) (TO to) (CD 12) (CD million))
+
+(QP (IN about) (CD four) (NNS times))
+
+(QP (RB anywhere) (IN from) (CD 50,000) (TO to) (CD 100,000))
+
+(QP (JJ further) (IN than) (CD 12))
+
+(QP (IN at) (JJS least) ($ $) (CD 300))
+
+(QP (RB twice) (RB as) (JJ large))
+
+(QP (RB somewhere) (IN between) ($ $) (CD 135)
+  (CC and)
+  ($ $) (CD 150))
+
+(QP (IN about) (PDT half) (DT a) (NN dozen))
+
+(QP (RBR more) (IN than) (NN one-fourth))
+
+(QP (IN over) (DT a) (NN dozen))
+
+(QP (DT no) (JJR more) (IN than) ($ $) (CD 60) (CD million))
+
+(QP (RBR more) (IN than) (VB double))
+
+(QP (RBR more) (IN than) (JJ double))
+
+(QP (PDT half) (DT a) (NN dozen))
+
+(QP (IN about) ($ US$) (CD 386,000) (TO to) ($ US$) (CD 2.7) (CD million))
+
+(QP (JJ consolidated) (NN loan))
+
+(QP ($ $) (CD 50) (CD million)
+  (CC or)
+  (RB so))
+
+(QP (CD three) (TO to) (CD 3) (CD 1\/2))
+
+(QP (# #) (CD 10.44))
+
+(QP (# #) (, 2) (CD billion))
+
+(QP (RB only) (RB about) (DT a))
+
+(QP (DT a) (JJ negative) ($ $) (CD 400) (CD million))
+
+(QP (NN dozen)
+  (CC or)
+  (RB so))
+
+(QP (RB just) (DT a) (RB bit) (JJR more))
+
+(QP (`` ``)
+  (NP-ADV (DT a) (JJ good) (NN deal))
+  (JJR more) ('' '') (IN than) ($ $) (CD 1) (CD billion))
+
+(QP (JJ only) (IN about) (DT a) (NN third))
+
+(QP (IN at) (JJS least) (DT a) (NN dozen))
+
+(QP (# #) (CD 130) (CD million) (TO to) (# #) (CD 135) (CD million))
+
+(QP (RB just) (JJR more) (IN than) ($ $) (CD 2.6) (CD billion))
+
+(QP (CD five)
+  (CC or)
+  (CD six) (CD thousand))
+
+(QP (DT an) (NN hour)
+  (CC and)
+  (CD 15))
+
+(QP (RB as) (JJ much) (IN as) (CD 25) (NN %) (TO to) (CD 30) (NN %))
+
+(QP (DT some) (CD four) (NN dozen))
+
+(QP (CD four)
+  (CC or)
+  (CD five) (JJR more))
+
+(QP (NN total) ($ $) (CD 33) (CD million))
+
+(QP (RBR closer) (TO to) (CD 20))
+
+(QP (IN at) (RBS least))
+
+(QP (RB anywhere) (IN between) (CD 8.5) (TO to) (CD 10) (NNS times))
+
+(QP (RB nearly) (CD five) (NNS times) (RB as) (JJ much))
+
+(QP (IN between) (CD 12) (CD 5\/8) (NN %) (TO to) (CD 12) (CD 3\/4) (NN %))
+
+(QP (JJR more) (IN than) (IN about) (CD 22))
+
+(QP (NNS two-thirds))
+
+(QP (IN between) (CD 95) (NNS cents)
+  (CC and)
+  ($ $) (CD 1.05))
+
+(QP=1 (IN about) (CD 10) (NN %))
+
+(QP (IN up) (TO to) (CD 10) (NNS times))
+
+(QP (CD three)
+  (CC and)
+  (CD four) (NNS times))
+
+(QP (RB not) (RB just) (CD one)
+  (CC but)
+  (CD two))
+
+(QP (CD 25) (NN %) (TO to) (CD 30) (NN %)
+  (CC or)
+  (RB so))
+
+(QP (DT a) (JJ little) (NN bit) (JJR more))
+
+(QP (DT an) (VBN estimated) (CD 10,000) (TO to) (CD 15,000))
+
+(QP (RB only) (CD three) (IN of) (RB about) (DT a) (NN dozen))
+
+(QP ($ $) (JJ 11.75-a-share) (, ,)
+  (CC or)
+  ($ $) (CD 190) (CD million))
+
+(QP (NN close) (TO to) (CD 25))
+
+(QP (RB almost) (IN as) (JJ much))
+
+(QP (DT a) (CD million) (NNS times))
+
+(QP (DT all) (IN but) (CD two))
+
+(QP (IN up) (TO to) (DT an) (JJ additional) (CD one) (CD million))
+
+(QP (PDT half))
+
+(QP (JJ total) ($ $) (CD 63) (CD million))
+
+(QP (IN as) (RB much) (IN as) (# #) (CD 300) (CD million))
+
+(QP (CD 40) (IN of)
+  (NP (NNP India) (POS 's))
+  (CD 42))
+
+(QP (DT a) (NN dozen)
+  (CC or)
+  (JJR more))
+
+(QP (RB about) (CD three) (NNS times) (IN as) (JJ many))
+
+(QP (IN between) (CD 13) (CD 1\/4) (NN %)
+  (CC and)
+  (CD 13) (CD 1\/2))
+
+(QP (CC and)
+  (DT a) (NN half))
+
+(QP (JJS less) (IN than) ($ $) (CD 1.25))
+
+(QP (DT a) (NN maximum) (IN of) ($ $) (CD 10,000))
+
+(QP (IN at) (JJS least) (DT a) (JJ few) (JJR more))
+
+(QP (DT no) (JJR more) (IN than) (CD 2) (CD 1\/2))
+
+(QP (DT the) (JJ third) (NN quarter))
+
+(QP (RB slightly) (JJR more) (IN than) (NNS two-thirds))
+
+(QP (IN at) (JJS least) (DT the) (JJ next) (CD six))
+
+(QP (IN about) (DT a) (CD million))
+
+(QP (RB only) (IN about) (PDT half))
+
+(QP
+  (ADVP (IN at) (JJS least))
+  (DT the) (JJ next) (CD six))
+
+(QP (DT a) (NN couple) (CD hundred) (CD thousand))
+
+(QP (`` ``) (IN at) (JJS least) ('' '') ($ $) (CD 1.3) (CD million))
+
+(QP (RB only) (RB about) (DT a) (JJ third))
+
+(QP (IN between) (CD 13) (CD 1\/4) (NN %)
+  (CC and)
+  (CD 13) (CD 1\/2) (NN %))
+
+(QP (JJR less) (IN than) (PDT half) (DT the) ($ $) (CD 64.1) (CD million))
+
+(QP (IN between) ($ $) (CD 500,000)
+  (CC and)
+  ($ $) (CD 1.5) (CD million))
+
+(QP (JJ as) (RB much) (IN as) (CD 15))
+
+(QP (RB just) (RP about) (DT all))
+
+(QP (RB about) (CD 8) (CD 1\/2) (NNS times))
+
+(QP (RB only) (IN about) (CD 8) (NN %) (TO to) (CD 10) (NN %))
+
+(QP (DT a) (CD million)
+  (CC or)
+  (JJR more))
+
+(QP (DT a) (NN couple) (IN of) (NN dozen))
+
+(QP (RBR about) (JJ three-fourths))
+
+(QP ($ $) (CD 700) (JJ million-plus))
+
+(QP (CC and)
+  (IN up))
+
+(QP (IN between) (# #) (CD 8)
+  (CC and)
+  (# #) (CD 10))
+
+(QP (JJ double)
+  (CC or)
+  (RB even) (JJ triple))
+
+(QP
+  (NP-ADV (DT all) (DT the) (NN way))
+  (IN up) (TO to) (CD 6))
+
+(QP (RB only) (RB about) (CD 4) (CD 1\/2))
+
+(QP (RB as) (JJ long) (IN as) (CD 10)
+  (CC or)
+  (CD 11))
+
+(QP (CD three)
+  (CC and)
+  (DT a) (NN half))
+
+(QP (JJR more) (IN than) (CD three) (NNS times) (IN as) (JJ many))
+
+(QP (IN in) (NN excess) (IN of) (CD 4))
+
+(QP (IN about) (PDT half) (DT a))
+
+(QP (JJR fewer) (IN than) (CD one) (IN of) (DT every) (CD five))
+
+(QP
+  (NP (CD 7) (NN %))
+  (CC and)
+  (NP (CD 8) (NN %)))
+
+(QP (RB about) (RB slightly) (JJR more) (IN than) (CD 80) (CD million))
+
+(QP (JJR more) (IN than) (# #) (CD 1.6) (CD billion))
+
+(QP (JJR less) (IN than) (DT a) (NN third) (IN of))
+
+(QP (RB only) (CD 12)
+  (CC or)
+  (RB so))
+
+(QP (DT all) (IN but) (DT a) (NN dozen))
+
+(QP (RB nearly) (DT a) (CD million))
+
+(QP (RB Only) (RB about) (DT a) (NN quarter))
+
+(QP (JJR more) (IN than) (DT a) (CD million))
+
+(QP (IN at) (JJS least) (DT a) (CD 41) (NN %))
+
+(QP
+  (ADVP (IN at) (JJS least))
+  (CD 0.26))
+
+(QP (RB almost) (RB twice) (IN as) (JJ many))
+
+(QP (IN up) (TO to) (DT an) (JJ additional) ($ $) (CD 86) (CD million))
+
+(QP (RB well) (RB over) ($ $) (CD 100))
+
+(QP (IN between) (CD one)
+  (CC and)
+  (CD two) (NNS times))
+
+(QP (IN about) (SYM FFr) (CD 1) (CD billion))
+
+(QP (JJR more) (IN than) (RB twice) (DT the) ($ $) (CD 13.5) (CD million))
+
+(QP (DT all)
+  (CC but)
+  ($ $) (CD 40,000))
+
+(QP (DT a) (PDT half))
+
+(QP (RB only) (RB about) ($ $) (CD 150) (CD million))
+
+(QP (IN at) (JJS least) (CD one) (JJR more))
+
+(QP (CD five) (NNS times) (IN as) (JJ much))
+
+(QP (JJ more) (IN than) (CD three) (NNS times))
+
+(QP (# #) (CD 80) (CD million)
+  (CC and)
+  (# #) (CD 90) (CD million))
+
+(QP (CD 20) (NN %)
+  (CC or)
+  (RB so))
+
+(QP (IN between) (CD 7) (CD 3\/4) (NN %)
+  (CC and)
+  (CD 8) (NN %))
+
+(QP (DT no) (RBR more) (IN than) (CD 10))
+
+(QP (IN about) (NN half) (IN of) (DT the) ($ $) (CD 3) (CD billion))
+
+(QP (NNS SKr1.5) (CD billion))
+
+(QP (RBR more) (IN than) (DT a) (NN dozen))
+
+(QP (RB only) (CD two)
+  (CC or)
+  (CD three))
+
+(QP (IN nearer)
+  (CC or)
+  (IN above) (# #) (CD 2) (CD billion))
+
+(QP (DT half) (RB as) (JJ much))
+
+(QP (CD 10) (NNS cents) (TO to) (CD 20) (NNS cents))
+
+(QP (DT a) (DT half) (NN dozen))
+
+(QP (IN from) (CD 30) (NNS cents) (TO to) ($ $) (CD 25))
+
+(QP (JJR More) (IN than) (RB twice) (IN as) (JJ many))
+
+(QP (IN at) (JJS least) (DT another) (CD 500,000))
+
+(QP (RB about) ($ $) (CD 43.3) (CD million)
+  (CC and)
+  ($ $) (CD 28.6) (CD million))
+
+(QP (RBR more))
+
+(QP (RB as) (JJ much) (IN as) (DT a))
+
+(QP (RBR more) (IN than) (CD three) (NNS times) (IN as) (JJ many))
+
+(QP (RBR more) (IN than) (RB twice))
+
+(QP (DT the) (JJ next) (CD two) (TO to) (CD three))
+
+(QP (IN about) ($ $) (CD 650) (CD million)
+  (CC or)
+  (JJR more))
+
+(QP (VBN estimated) ($ $) (CD 5) (CD million) (TO to) ($ $) (CD 6) (CD million))
+
+(QP (NN half) (IN as) (JJ much))
+
+(QP (RB sometimes) (JJR more) (IN than) (RB once))
+
+(QP (DT A) (NN quarter) (IN of) (DT a) (CD million))
+
+(QP (RB as) (JJ little) (IN as) (# #) (CD 1.3) (CD billion))
+
+(QP (IN about) (CD 20) (NNS times) (JJR more))
+
+(QP (IN between) (CD 2,000) (NNP Hong) (NNP Kong) (NNS dollars)
+  (PRN (-LRB- -LRB-)
+    (NP ($ US$) (CD 256.18) (-NONE- *U*_SKIP))
+    (-RRB- -RRB-))
+  (CC and)
+  ($ HK$) (CD 6,499))
+
+(QP (NN one) (JJR more))
+
+(QP (RB anywhere) (IN from) (NN one-fourth) (TO to) (NN one-half))
+
+(QP (DT the) (JJ next) (CD three)
+  (CC or)
+  (CD four)
+  (CC or)
+  (CD five)
+  (CC or)
+  (CD six))
+
+(QP (RB somewhere) (IN between) (CD one)
+  (CC and)
+  (CD two) (CD billion))
+
+(QP (JJ close) (TO to) ($ $) (CD 10,000))
+
+(QP (DT no) (JJR more) (IN than) (PDT half))
+
+(QP (CD 1) (NN %)
+  (CC or)
+  (CD 2))
+
+(QP (JJR more) (IN than) (DT a) (JJ third))
+
+(QP (JJ close) (TO to) ($ $) (CD 850) (CD million))
+
+(QP (RB up) (TO to) (NN half))
+
+(QP (RB only) ($ $) (CD 50) (-NONE- *U*_SKIP) (TO to) ($ $) (CD 100))
+
+(QP (JJS most) (IN of) (DT the) (JJ past) (CD 30))
+
+(QP (JJ only) (CD 5) (NN %) (TO to) (CD 6) (NN %))
+
+(QP (RB just) (DT a) (RB little) (JJR more) (IN than) (DT a) (NN third))
+
+(QP (JJ next) (CD two) (TO to) (CD five))
+
+(QP (IN at) (JJS least))
+
+(QP (NN close) (TO to) ($ $) (CD 100) (CD million))
+
+(QP (NN close) (TO to) (CD 12) (CD million))
+
+(QP (RB much) (IN of))
+
+(QP (RBR more) (IN than) (CD 50) (NNS times))
+
+(QP (RB only) (RB about) (NN one-third))
+
+(QP (RP up) (TO to) (CD 25))
+
+(QP (CD 60) (NN %) (JJR more))
+
+(QP (RB only) (DT a) (JJ few) (CD hundred))
+
+(QP ($ $) (CD 300) (-NONE- *U*_SKIP) (TO to) ($ $) (CD 400))
+
+(QP (RB as) (JJ much) (IN as) (JJ one-third))
+
+(QP (JJ 2.5-ton) (TO to) (JJ 4.2-ton))
+
+(QP (JJR More) (IN than)
+  (NP (NN one-third)))
+
+(QP (RB as) (JJ little) (IN as) ($ $) (CD 89) (TO to) ($ $) (CD 109))
+
+(QP (RB just) (IN about) (RB as))
+
+(QP (DT Half))
+
+(QP (DT a) (JJ few) (CD hundred) (CD million))
+
+(QP (DT another) (CD three) (TO to) (CD four))
+
+(QP (IN about) (DT a) (NN dozen) (JJR more))
+
+(QP (RB roughly) (CD 25) (TO to) (CD 30) (NNS times))
+
+(QP (IN at) (JJS least) (CD 15) (NN %) (TO to) (CD 20) (NN %))
+
+(QP (IN out) (IN of) (CD 10))
+
+(QP (RB perhaps) (CD 7) (NN %)
+  (CC or)
+  (CD 8) (JJ %))
+
+(QP (NNS closes) (TO to) ($ $) (CD 15) (CD billion))
+
+(QP (CD five) (NNS times) (RBR more))
+
+(QP (RB off) (CD 1\/8) (TO to) (RB up) (CD 3\/8))
+
+(QP (-NONE- *ICH*-1_SKIP))
+
+(QP (JJ close) (TO to))
+
+(QP (DT no) (RBR more) (IN than) (CD 2) (CD 1\/2))
+
+(QP (RB well) (IN over) (PDT half) (DT a) (CD billion))
+
+(QP ($ $) (CD 2.06) (NNS billions))
+
+(QP (IN from) (CD 500,000) (TO to) (CD 3.5) (CD million))
+
+(QP (VBN estimated) (CD 70))
+
+(QP (RB as) (JJ much) (IN as) (CD six) (NNS times))
+
+(QP (RB as) (JJ little) ($ $) (CD 3))
+

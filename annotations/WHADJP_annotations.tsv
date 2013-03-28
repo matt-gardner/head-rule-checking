@@ -1,0 +1,7 @@
+index	pattern	head_index
+1	(WHADJP WRB JJ)	1
+2	(WHADJP RB WRB JJ)	2
+4	(WHADJP WRB JJ PP)	1
+5	(WHADJP WRB RB JJ PP)	1
+7	(WHADJP WRB `` ADJP '')	1
+9	(WHADJP WRB RB)	1

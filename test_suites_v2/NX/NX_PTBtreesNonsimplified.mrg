@@ -1,0 +1,834 @@
+(ROOT
+  (NX
+    (NX (NN 1__president))
+    (CONJPP (CC 2__and)
+      (NX (NN 3__chief) (VBG 4__operating) (NN 5__officer)))))
+
+(ROOT
+  (NX (NN 1__president)))
+
+(ROOT
+  (NX (NNS 1__patents)))
+
+(ROOT
+  (NX (JJ 1__promotional) (NN 2__effort)))
+
+(ROOT
+  (NX (NN 1__fast-food) (NNS 2__restaurants)))
+
+(ROOT
+  (NX (JJ 1__public) (NNS 2__elevators)))
+
+(ROOT
+  (NX (NN 1__chief) (NN 2__designer)))
+
+(ROOT
+  (NX (NNP 1__World) (NNP 2__Bank)))
+
+(ROOT
+  (NX
+    (NX (NNS 1__patents))
+    (CONJPP (, 2__,)
+      (NX (NNS 3__copyrights))
+      (CONJPP (CC 4__and)
+        (NX (JJ 5__other) (JJ 6__intellectual-property) (NNS 7__rights))))))
+
+(ROOT
+  (NX-TTL (NNP 1__CAT)))
+
+(ROOT
+  (NX
+    (NX (NN 1__chairman))
+    (PP (-NONE- __*RNR*-1))))
+
+(ROOT
+  (NX (-NONE- __*ICH*-1)))
+
+(ROOT
+  (NX (JJ 1__chief) (NN 2__executive) (NN 3__officer)))
+
+(ROOT
+  (NX (JJ 1__chief) (JJ 2__executive) (NN 3__officer)))
+
+(ROOT
+  (NX (NNP 1__International) (NNP 2__Monetary) (NNP 3__Fund)))
+
+(ROOT
+  (NX
+    (NX (NN 1__heart))
+    (CONJPP (, 2__,)
+      (NX (NN 3__brain))
+      (CONJPP (, 4__,)
+        (NX (NNS 5__nerves))
+        (CONJPP (CC 6__and)
+          (NX (NN 7__blood) (NNS 8__vessels)))))))
+
+(ROOT
+  (NX (JJ 1__independent) (NN 2__TV) (NNS 3__stations)))
+
+(ROOT
+  (NX
+    (NX (NNP 1__Lee) (NNP 2__Hamilton))
+    (PRN (-LRB- 3__-LRB-)
+      (NP (NNP 4__D.))
+      (, 5__,)
+      (NP-LOC (NNP 6__Ind.))
+      (-RRB- 7__-RRB-))))
+
+(ROOT
+  (NX (NNP 1__Mitsubishi) (NN 2__consultant)))
+
+(ROOT
+  (NX
+    (NX (JJ 1__personal) (NNS 2__values))
+    (CONJPP (, 3__,)
+      (CC 4__or)
+      (NX
+        (NX (NN 5__lack))
+        (PP (IN 6__of)
+          (NP (PRP 7__them)))))))
+
+(ROOT
+  (NX-TTL
+    (NP (NNP 1__Story))
+    (PP (IN 2__of)
+      (NP (NNP 3__Women)))))
+
+(ROOT
+  (NX-TTL (NNP 1__Learning) (NNPS 2__Materials)))
+
+(ROOT
+  (NX (NNS 1__personnel) (NN 2__training)))
+
+(ROOT
+  (NX (CD 1__13.9) (NN 2__rating)))
+
+(ROOT
+  (NX
+    (ADJP (RB 1__relatively) (JJ 2__poor))
+    (NN 3__performance)))
+
+(ROOT
+  (NX (NN 1__glass) (NN 2__industry) (NN 3__executive)))
+
+(ROOT
+  (NX (NN 1__chief) (VBG 2__operating) (NN 3__officer)))
+
+(ROOT
+  (NX
+    (NX (NN 1__royalty))
+    (, 2__,)
+    (CC 3__or)
+    (NX
+      (NX (NN 4__percentage))
+      (PP (IN 5__of)
+        (NP (NNS 6__sales))))
+    (, 7__,)))
+
+(ROOT
+  (NX (DT 1__a) (NN 2__vicar)))
+
+(ROOT
+  (NX
+    (NX
+      (NX (NN 1__chairman))
+      (PP (-NONE- __*RNR*-1)))
+    (CC 2__and)
+    (NX
+      (NX (JJ 3__chief) (JJ 4__executive) (NN 5__officer))
+      (PP (-NONE- __*RNR*-1)))
+    (PP (IN 6__of)
+      (NP (NNP 7__General) (NNP 8__Public) (NNP 9__Utilities) (NNP 10__Corp.)))))
+
+(ROOT
+  (NX (NNP 1__Foreign) (NNP 2__Investment) (NNP 3__Review) (NNP 4__Board)))
+
+(ROOT
+  (NX-TTL (FW 1__Kindertotenlieder)))
+
+(ROOT
+  (NX (VBN 1__alleged) (NNS 2__scams)))
+
+(ROOT
+  (NX
+    (NX (JJ 1__dilutive) (NNS 2__equivalents))
+    (ADJP (JJ 3__outstanding))))
+
+(ROOT
+  (NX (NNPS 1__Congressmen)))
+
+(ROOT
+  (NX (JJ 1__other) (JJ 2__intellectual-property) (NNS 3__rights)))
+
+(ROOT
+  (NX (JJ 1__old) (NNP 2__Washington) (NN 3__hand)))
+
+(ROOT
+  (NX (JJ 1__late) (CD 2__1970s)))
+
+(ROOT
+  (NX (NNP 1__Bloomingdale) (POS 2__'s)))
+
+(ROOT
+  (NX
+    (NX (NNS 1__theaters))
+    (CONJPP (, 2__,)
+      (NX (NNS 3__buses))
+      (CONJPP (, 4__,)
+        (NX (JJ 5__public) (NNS 6__elevators))
+        (CONJPP (, 7__,)
+          (NX (NNS 8__hospitals))
+          (CONJPP (CC 9__and)
+            (NX (NN 10__fast-food) (NNS 11__restaurants))))))))
+
+(ROOT
+  (NX (RB 1__hardly) (NNS 2__knowns)))
+
+(ROOT
+  (NX (NNP 1__Social) (NNP 2__Security) (NN 3__number)))
+
+(ROOT
+  (NX
+    (NX (CD 1__35,000) (JJ 2__residential)
+      (NX (-NONE- __*RNR*-3)))
+    (CC 3__and)
+    (NX (CD 4__35,000) (NN 5__business)
+      (NX (-NONE- __*RNR*-3)))
+    (NX (NNS 6__policyholders))))
+
+(ROOT
+  (NX (`` 1__``)
+    (NX-TTL (NNP 2__Mrs.) (NNP 3__Buckles))
+    ('' 4__'')
+    (CC 5__and)
+    (`` 6__``)
+    (NX-TTL (NNP 7__Patsy))))
+
+(ROOT
+  (NX
+    (NX (NN 1__revenue))
+    (CC 2__and)))
+
+(ROOT
+  (NX-TTL
+    (S-NOM
+      (NP-SBJ (-NONE- __*))
+      (VP (VBG 1__Kissing)
+        (NP (NN 2__Nature))
+        (NP-CLR (NN 3__Good-bye))))))
+
+(ROOT
+  (NX (`` 1__``)
+    (NX (FW 2__machikin))
+    (, 3__,) ('' 4__'')
+    (SBAR
+      (S
+        (NP-SBJ
+          (WHNP (WDT 5__which)))
+        (VP (VBP 6__lend)
+          (PP-CLR (TO 7__to)
+            (NP (JJ 8__small) (NNS 9__companies))))))))
+
+(ROOT
+  (NX (NN 1__investment) (NN 2__banking) (NNS 3__activities)))
+
+(ROOT
+  (NX (NNP 1__FEMA) (NNS 2__personnel)))
+
+(ROOT
+  (NX (NNP 1__Philip) (NNP 2__Kurland)
+    (PP (IN 3__of)
+      (NP
+        (NP (DT 4__the) (NNP 5__University))
+        (PP (IN 6__of)
+          (NP (NNP 7__Chicago)))))))
+
+(ROOT
+  (NX
+    (NP (NNS 1__doctors) (POS 2__'))
+    (NNS 3__offices)))
+
+(ROOT
+  (NX (NN 1__respect)
+    (PP (IN 2__for)
+      (NP (DT 3__the) (NN 4__law)))))
+
+(ROOT
+  (NX
+    (NX (NN 1__name))
+    (, 2__,)
+    (NX (NNP 3__Social) (NNP 4__Security) (NN 5__number))
+    (, 6__,)
+    (NX (NN 7__passport) (NN 8__number))))
+
+(ROOT
+  (NX (PRP$ 1__their) (NNS 2__riders)))
+
+(ROOT
+  (NX (DT 1__an) (JJ 2__active) (NN 3__bell-ringer)))
+
+(ROOT
+  (NX (CD 1__1.8400) (NNS 2__marks)))
+
+(ROOT
+  (NX (CD 1__seven) (NNP 2__Ohio)
+    (NX (-NONE- __*ICH*-2))))
+
+(ROOT
+  (NX (VBG 1__controlling) (NNS 2__shareholders)))
+
+(ROOT
+  (NX
+    (NX ($ 1__$) (CD 2__1.50) (-NONE- __*U*))
+    (NP-ADV (DT 3__a) (NN 4__share))))
+
+(ROOT
+  (NX ($ 1__$) (CD 2__1.50) (-NONE- __*U*)))
+
+(ROOT
+  (NX (NN 1__stock) (JJ 2__mutual) (NN 3__fund)))
+
+(ROOT
+  (NX
+    (ADJP (RB 1__thinly) (VBN 2__stretched))
+    (NNS 3__resources)))
+
+(ROOT
+  (NX
+    (NX (NN 1__transformation))
+    (PP (IN 2__of)
+      (NP (PRP$ 3__their) (NN 4__industry)))
+    (PP-TMP (IN 5__over)
+      (NP (DT 6__the) (JJ 7__past) (CD 8__10) (NNS 9__years)))))
+
+(ROOT
+  (NX (JJS 1__largest) (NN 2__lender)))
+
+(ROOT
+  (NX
+    (NP (NN 1__silicon) (NNS 2__wafers))
+    (SBAR
+      (S
+        (NP-SBJ (-NONE- __*))
+        (VP (TO 5__to)
+          (VP (VB 6__fabricate)
+            (NP (NNS 7__chips))
+            (PP-MNR
+              (WHPP (IN 3__with)
+                (WHNP (WDT 4__which))))))))))
+
+(ROOT
+  (NX
+    (NP (DT 1__the) (CD 2__12) (NNS 3__months))
+    (VP (VBN 4__ended)
+      (NP (-NONE- __*))
+      (PP-TMP (IN 5__in)
+        (NP (NNP 6__June))))))
+
+(ROOT
+  (NX-TTL (FW 1__Libera) (FW 2__me)))
+
+(ROOT
+  (NX
+    (QP ($ 1__$) (CD 2__304) (CD 3__million))
+    (-NONE- __*U*)))
+
+(ROOT
+  (NX
+    (NX
+      (NP (NNS 1__doctors) (POS 2__'))
+      (NNS 3__offices))
+    (CONJPP (, 4__,)
+      (NX (NNS 5__clinics))
+      (CONJPP (, 6__,)
+        (CC 7__and)
+        (NX (NN 8__health) (NNS 9__centers))))))
+
+(ROOT
+  (NX (JJ 1__common)))
+
+(ROOT
+  (NX-TTL
+    (NP (DT 1__The) (NNP 2__Insider) (POS 3__'s))
+    (NNP 4__Japan)))
+
+(ROOT
+  (NX-TTL (`` 1__``)
+    (NP (JJ 2__Rural) (NN 3__Enterprise))
+    (: 4__:)
+    (NP
+      (NP (JJ 5__Tough) (NNP 6__Row))
+      (SBAR
+        (S
+          (NP-SBJ (-NONE- __*))
+          (VP (TO 8__To)
+            (VP (VB 9__Hoe)
+              (NP
+                (WHNP (-NONE- 7__0_NULL))))))))))
+
+(ROOT
+  (NX (JJ 1__western-style) (NN 2__hat)
+    (CC 3__and)
+    (NNS 4__boots)))
+
+(ROOT
+  (NX-TTL
+    (NP
+      (NP (NN 1__Battle))
+      (PP (IN 2__for)
+        (NP (NN 3__Justice))))
+    (: 4__:)
+    (SBAR
+      (WHADVP (WRB 5__How))
+      (S
+        (NP-SBJ (DT 6__the) (NNP 7__Bork) (NN 8__Nomination))
+        (VP (VBD 9__Shook)
+          (NP (NNP 10__America)))))))
+
+(ROOT
+  (NX
+    (NX (JJ 1__same) (NN 2__pay))
+    (, 3__,)
+    (NX (JJ 4__same) (NNS 5__hours))))
+
+(ROOT
+  (NX
+    (NX
+      (ADJP (CD 1__4) (NN 2__%))
+      (NN 3__pay) (NN 4__increase))
+    (CONJPP (CC 5__and)
+      (NP
+        (ADJP (CD 6__8) (NN 7__%))
+        (NN 8__bonus)))))
+
+(ROOT
+  (NX (RB 1__early) (CD 2__'80s)))
+
+(ROOT
+  (NX (NN 1__cash) (NN 2__tender) (NN 3__offer) (NNS 4__prices)))
+
+(ROOT
+  (NX (NNP 1__Federal) (NNP 2__Home) (NNP 3__Loan) (NNP 4__Mortgage) (NNP 5__Corp.)))
+
+(ROOT
+  (NX (NNP 1__National) (NNP 2__Companies)
+    (CC 3__and)
+    (NNP 4__Securities) (NNP 5__Commission)))
+
+(ROOT
+  (NX (NNP 1__Ben) (NNP 2__Franklin) (NNPS 3__Stores) (NNP 4__Inc.)))
+
+(ROOT
+  (NX (NNP 1__Micronic) (JJ 2__hand-held) (NN 3__computer) (NNS 4__subsidiaries)))
+
+(ROOT
+  (NX
+    (NX (NNS 1__amplifiers))
+    (CONJPP (CC 2__and)
+      (NX (NNS 3__receivers))
+      (CONJPP (CC 4__and)
+        (NX (NN 5__software) (NNS 6__players))))))
+
+(ROOT
+  (NX (NN 1__trade)
+    (NX (-NONE- __*RNR*-2))))
+
+(ROOT
+  (NX (DT 1__the) (NNP 2__Rev.) (NNP 3__Benjamin) (NNP 4__Weir)))
+
+(ROOT
+  (NX
+    (NX (NNP 1__Joachim) (NNP 2__Hermann))
+    (, 3__,)
+    (NP
+      (NP (NN 4__chief))
+      (PP (IN 5__of)
+        (NP (NN 6__information) (NN 7__policy))))))
+
+(ROOT
+  (NX (NN 1__processing)
+    (CC 2__and)
+    (NN 3__guaranteeing)
+    (NX (-NONE- __*RNR*-3))))
+
+(ROOT
+  (NX (NNP 1__Cie) (. 2__.) (NNP 3__Financiere) (IN 4__de) (NNP 5__Paribas)))
+
+(ROOT
+  (NX
+    (NX (JJR 1__older) (NN 2__son))
+    (: 3__--)
+    (NP
+      (NP (DT 4__a) (NN 5__computer) (NN 6__prodigy))
+      (VP (VBN 7__profiled)
+        (NP (-NONE- __*))
+        (PP-LOC (IN 8__in)
+          (NP (NNP 9__The) (NNP 10__Wall) (NNP 11__Street) (NNP 12__Journal)))
+        (PP-TMP (IN 13__in)
+          (NP (CD 14__1981)))
+        (, 15__,)
+        (SBAR-TMP
+          (S
+            (NP-SBJ (PRP 17__he))
+            (VP (VBD 18__was)
+              (NP-PRD (CD 19__13))
+              (ADVP-TMP
+                (WHADVP (WRB 16__when))))))))
+    (: 20__--)))
+
+(ROOT
+  (NX-TTL (NNP 1__American) (NNP 2__Way) (IN 3__of) (NNP 4__Buying)))
+
+(ROOT
+  (NX
+    (ADJP (CD 1__4) (NN 2__%))
+    (NN 3__pay) (NN 4__increase)))
+
+(ROOT
+  (NX (VBG 1__meeting)))
+
+(ROOT
+  (NX-TTL (`` 1__``)
+    (NP (DT 2__The) (NN 3__Rise)
+      (CONJPP (CC 4__and)
+        (NN 5__Fall)))
+    (PP (IN 6__of)
+      (NP (DT 7__the) (NNP 8__Third) (NNP 9__Reich)))
+    (, 10__,) ('' 11__'')))
+
+(ROOT
+  (NX (JJR 1__older) (NN 2__son)))
+
+(ROOT
+  (NX (NN 1__readiness)
+    (S
+      (NP-SBJ (-NONE- __*))
+      (VP (TO 2__to)
+        (VP (VB 3__embark)
+          (PP-CLR (IN 4__on)
+            (NP (JJ 5__foreign) (NNS 6__visits))))))))
+
+(ROOT
+  (NX-TTL (DT 1__The) (NNP 2__Long) (NNP 3__Goodbye)))
+
+(ROOT
+  (NX
+    (UCP (NN 1__rescue)
+      (CONJPP (CC 2__and)
+        (JJ 3__medical)))
+    (NNS 4__supplies)))
+
+(ROOT
+  (NX (VBN 1__proposed) (NN 2__consent) (NNS 3__fees)))
+
+(ROOT
+  (NX (JJ 1__consequent) (JJR 2__lower) (NNS 3__prices)))
+
+(ROOT
+  (NX (JJ 1__current) (NN 2__account)
+    (NX (-NONE- __*RNR*-2))))
+
+(ROOT
+  (NX
+    (NX (JJ 1__steady) (NN 2__accumulation))
+    (PP (IN 3__of)
+      (NP (JJ 4__personal) (NN 5__power)))
+    (, 6__,)
+    (PP-TMP
+      (ADVP (RB 7__particularly))
+      (IN 8__since)
+      (NP
+        (NP (DT 9__the) (JJ 10__last) (NNP 11__Politburo) (NN 12__reshuffle))
+        (PP-TMP (IN 13__on)
+          (NP (NNP 14__Sept.) (CD 15__30)))))
+    (, 16__,)))
+
+(ROOT
+  (NX (VBG 1__rising) (NN 2__cost)
+    (PP (-NONE- __*RNR*-1))))
+
+(ROOT
+  (NX (JJS 1__largest) (NN 2__aid) (NN 3__donor)))
+
+(ROOT
+  (NX
+    (NX (NNP 1__Bruce) (NNP 2__Vento))
+    (PRN (-LRB- 3__-LRB-)
+      (NP
+        (NP (NNP 4__D.))
+        (, 5__,)
+        (NP-LOC (NNP 6__Minn.)))
+      (-RRB- 7__-RRB-))
+    (, 8__,)
+    (NP
+      (NP (DT 9__the) (NN 10__chairman))
+      (PP (IN 11__of)
+        (NP
+          (NP (DT 12__the) (NNP 13__Banking) (NNP 14__Committee) (POS 15__'s))
+          (NNP 16__RTC) (NNP 17__Task) (NNP 18__Force))))))
+
+(ROOT
+  (NX-TTL (NNP 1__Il) (NNP 2__Sole) (CD 3__24) (NNP 4__Ore)))
+
+(ROOT
+  (NX (VBN 1__dried) (NN 2__mud)))
+
+(ROOT
+  (NX (NN 1__stock) (VBG 2__offering)))
+
+(ROOT
+  (NX (JJ 1__annual)
+    (ADJP
+      (QP ($ 2__$) (CD 3__18) (CD 4__million))
+      (-NONE- __*U*))
+    (JJ 5__world-wide) (NN 6__audit)))
+
+(ROOT
+  (NX
+    (NX (NN 1__judgment))
+    (-LRB- 2__-LCB-)
+    (CC 3__and)
+    (-RRB- 4__-RCB-)
+    (NX (NN 5__respect)
+      (PP (IN 6__for)
+        (NP (DT 7__the) (NN 8__law))))))
+
+(ROOT
+  (NX-TTL (CD 1__1984)))
+
+(ROOT
+  (NX-TTL (NNP 1__Lawyers) (POS 2__') (NNP 3__Employment) (NNP 4__Act)))
+
+(ROOT
+  (NX
+    (NX (NNP 1__Guenter) (NNP 2__Mittag))
+    (, 3__,)
+    (SBAR
+      (S
+        (NP-SBJ
+          (WHNP (WP 4__who)))
+        (VP (VBZ 5__has)
+          (ADVP-TMP (RB 6__long))
+          (VP (VBN 7__headed)
+            (NP (JJ 8__economic) (NNS 9__affairs))))))
+    (, 10__,)))
+
+(ROOT
+  (NX (CD 1__35,000) (NN 2__business)
+    (NX (-NONE- __*RNR*-3))))
+
+(ROOT
+  (NX (JJS 1__largest) (JJ 2__private) (NN 3__investor)))
+
+(ROOT
+  (NX (JJ 1__other) (NNS 2__bells)
+    (CC 3__and)
+    (NNS 4__whistles)))
+
+(ROOT
+  (NX (VBZ 1__regulators)))
+
+(ROOT
+  (NX-TTL (JJ 1__New) (NN 2__World) (NN 3__Information) (NN 4__Order)))
+
+(ROOT
+  (NX
+    (NX (JJ 1__overdressed) (NN 2__singer))
+    (CONJP (RB 3__rather) (IN 4__than))
+    (NX (JJ 5__underdressed) (NN 6__dancer))))
+
+(ROOT
+  (NX-TTL
+    (NP (DT 1__A) (NNP 2__Wild) (NNP 3__Sheep) (NNP 4__Chase))))
+
+(ROOT
+  (NX (DT 1__The) (NNS 2__Grapes)))
+
+(ROOT
+  (NX (NNP 1__San) (NNP 2__Francisco) (NNPS 3__Giants)))
+
+(ROOT
+  (NX
+    (NX (JJR 1__smaller) (NNP 2__NATO) (NNS 3__allies))
+    (, 4__,)
+    (SBAR
+      (S
+        (NP-SBJ
+          (WHNP
+            (NP (DT 5__some))
+            (WHPP (IN 6__of)
+              (WHNP (WP 7__whom)))))
+        (VP (VBP 8__do) (RB 9__n't)
+          (VP (VB 10__have)
+            (NP
+              (NP (JJ 11__adequate) (NNS 12__staffs))
+              (SBAR
+                (S
+                  (NP-SBJ
+                    (WHNP (-NONE- 13__0_NULL)))
+                  (VP (TO 14__to)
+                    (VP (VB 15__provide)
+                      (NP
+                        (NP (JJ 16__quick) (NNS 17__answers))
+                        (PP (TO 18__to)
+                          (NP
+                            (NP (DT 19__the) (NNS 20__questions))
+                            (VP (VBG 21__being)
+                              (VP (VBN 22__raised)
+                                (NP (-NONE- __*))
+                                (PP (IN 23__by)
+                                  (SBAR-NOM-LGS
+                                    (S
+                                      (NP-SBJ
+                                        (WHNP (WP 24__what)))
+                                      (ADVP (RB 25__generally))
+                                      (VP (VBP 26__are)
+                                        (VP (VBN 27__considered)
+                                          (S
+                                            (NP-SBJ (-NONE- __*-72))
+                                            (NP-PRD
+                                              (NP (DT 28__the)
+                                                (ADJP (RBS 29__most) (JJ 30__complex))
+                                                (NN 31__arms-control) (NNS 32__talks))
+                                              (VP
+                                                (ADVP-TMP (RB 33__ever))
+                                                (VBN 34__attempted)
+                                                (NP (-NONE- __*))))))))))))))))))))))))))
+
+(ROOT
+  (NX (`` 1__``)
+    (NX-TTL (NNP 2__Boheme))
+    ('' 3__'')
+    (CC 4__and)
+    (`` 5__``)
+    (NX-TTL (NNP 6__Turandot))
+    ('' 7__'')))
+
+(ROOT
+  (NX (VBN 1__combined) (JJ 2__public) (NN 3__deficit)))
+
+(ROOT
+  (NX (JJ 1__American) (NN 2__Way)
+    (PP (IN 3__of)
+      (NP (NN 4__Buying)))))
+
+(ROOT
+  (NX (NNP 1__Cie.) (IN 2__de) (NNP 3__Navigation) (NNP 4__Mixte)))
+
+(ROOT
+  (NX (NNP 1__Chancellor)
+    (PP (IN 2__of)
+      (NP (DT 3__the) (NNP 4__Exchequer)))))
+
+(ROOT
+  (NX (VBG 1__operating) (NN 2__profit)))
+
+(ROOT
+  (NX-TTL
+    (NP (NNP 1__Snoopy) (POS 2__'s))
+    (NNP 3__Love) (NNP 4__Bouquet)))
+
+(ROOT
+  (NX (RB 1__even) (DT 2__some) (NNS 3__industrialists)))
+
+(ROOT
+  (NX (JJ 1__continental) (NNP 2__Europe)))
+
+(ROOT
+  (NX (JJ 1__former) (NNP 2__Kentucky) (NN 3__state) (NNS 4__securities) (NN 5__commissioner)))
+
+(ROOT
+  (NX
+    (NX (NNP 1__Thomas) (NNPS 2__Jeffersons))
+    (CONJPP (, 3__,)
+      (CC 4__or)
+      (NX (NNP 5__St.) (NNPS 6__Augustines))
+      (CONJPP (CC 7__or)
+        (NX (NNPS 8__Michelangelos))))))
+
+(ROOT
+  (NX-TTL
+    (NP (NNP 1__Bare-Faced) (NNP 2__Messiah))
+    (: 3__:)
+    (NP
+      (NP (NNP 4__The) (NNP 5__True) (NNP 6__Story))
+      (PP (IN 7__of)
+        (NP (NNP 8__L.) (NNP 9__Ron) (NNP 10__Hubbard))))))
+
+(ROOT
+  (NX (CD 1__35,000) (JJ 2__residential)
+    (NX (-NONE- __*RNR*-3))))
+
+(ROOT
+  (NX (NNP 1__Douglas) (NN 2__A.) (NNP 3__Kass)))
+
+(ROOT
+  (NX
+    (NX (NNP 1__Red) (NNP 2__Cross))
+    (CONJPP (, 3__,)
+      (NX (NNP 4__Salvation) (NNP 5__Army))
+      (CONJPP (, 6__,)
+        (NX (JJ 7__military) (NNS 8__units))
+        (CONJPP (, 9__,)
+          (NX (NNS 10__police))
+          (CONJPP (, 11__,)
+            (NX (NN 12__fire) (NNS 13__departments))
+            (CONJPP (, 14__,)
+              (NX (NN 15__rescue) (NNS 16__units))
+              (CONJPP (CC 17__and)
+                (NX (JJ 18__individual) (NNS 19__citizens))))))))))
+
+(ROOT
+  (NX (NNP 1__Permian) (NNP 2__Corp.) (NNS 3__operations)))
+
+(ROOT
+  (NX (JJR 1__wider) (JJ 2__geographic) (NN 3__spread)))
+
+(ROOT
+  (NX-TTL (NNP 1__Older) (NNP 2__Americans)
+    (NAC (NNP 3__Freedom)
+      (PP (TO 4__to)
+        (NP (NNP 5__Work))))
+    (NNP 6__Act)))
+
+(ROOT
+  (NX
+    (ADJP (RB 1__allegedly) (JJ 2__pervasive))
+    (NN 3__billing) (NNS 4__irregularities)))
+
+(ROOT
+  (NX (NNP 1__Dun)
+    (CC 2__&)
+    (NNP 3__Bradstreet) (NN 4__director)))
+
+(ROOT
+  (NX (NNP 1__Securities)
+    (CC 2__and)
+    (NNP 3__Exchange) (NNP 4__Commission)))
+
+(ROOT
+  (NX (NN 1__trade) (NN 2__clearing)
+    (NX (-NONE- __*RNR*-3))))
+
+(ROOT
+  (NX (JJ 1__chief) (VBG 2__operating) (NN 3__officer)))
+
+(ROOT
+  (NX-TTL (NNP 1__Kind) (NNPS 2__Hearts)
+    (CC 3__and)
+    (NNPS 4__Coronets)))
+
+(ROOT
+  (NX (JJR 1__smaller) (NNP 2__NATO) (NNS 3__allies)))
+
+(ROOT
+  (NX (JJ 1__galvanized) (VBN 2__coated) (NN 3__sheet)))
+
+(ROOT
+  (NX (VBN 1__associated) (NN 2__tax) (NN 3__work)))
+
+(ROOT
+  (NX (NN 1__customer) (NN 2__service)
+    (CC 3__and)
+    (NN 4__loan) (NNS 5__representatives)))
+

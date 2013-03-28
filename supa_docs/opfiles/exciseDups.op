@@ -1,0 +1,5 @@
+% Excise any node with the exact same tag as its only child.
+% Skips over identical (pre-terminal, terminal) pairs, such as (, ,)
+anything=parent with only child (~parent < anything)
+
+excise parent parent

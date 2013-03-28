@@ -1,0 +1,17 @@
+index	pattern	head_index
+1	(INTJ UH)	1
+2	(INTJ RB)	1
+3	(INTJ VB)	1
+4	(INTJ UH .)	1
+5	(INTJ WRB)	1
+9	(INTJ NN , NN)	1
+11	(INTJ UH , UH)	1
+12	(INTJ UH . UH .)	1
+13	(INTJ S)	1
+15	(INTJ VB , VB , VB)	1
+18	(INTJ VB , RB)	1
+20	(INTJ NN .)	1
+21	(INTJ INTJ , INTJ)	1
+22	(INTJ JJ)	1
+24	(INTJ JJ .)	1
+25	(INTJ NNP NNP :)	1

@@ -1,0 +1,32 @@
+(ROOT
+  (PRT (RP 1__up)))
+
+(ROOT
+  (PRT (IN 1__down)))
+
+(ROOT
+  (PRT (RB 1__away)))
+
+(ROOT
+  (PRT (JJ 1__out)))
+
+(ROOT
+  (PRT (RP 1__on)
+    (CONJPP (CC 2__and)
+      (RP 3__off))))
+
+(ROOT
+  (PRT (RBR 1__better)))
+
+(ROOT
+  (PRT (VBP 1__down)))
+
+(ROOT
+  (PRT (RBS 1__best)))
+
+(ROOT
+  (PRT (VBN 1__put)))
+
+(ROOT
+  (PRT|ADVP (NN 1__back)))
+

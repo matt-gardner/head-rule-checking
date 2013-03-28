@@ -1,0 +1,5 @@
+category	num_patterns	num_annotated	%_annotated	num_correct	%_correcttok_count	tok_annotated	%_tok_annotatedtok_correct	%_tok_correct
+ADJP	607	71	0.117	68	0.958	15261	12999	0.852	12958	0.997
+ADVP	305	72	0.236	72	1.000	23564	4686	0.199	4686	1.000
+NAC	51	31	0.608	30	0.968	447	342	0.765	341	0.997
+WHNP	122	66	0.541	42	0.636	9658	7161	0.741	7037	0.983

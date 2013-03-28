@@ -1,0 +1,357 @@
+(ROOT
+  (DEPS
+    (1__uh__UH
+      0__ROOT__
+      ROOT))
+  (INTJ__1__uh__UH (UH__1__uh__UH 1__uh__UH)))
+
+(ROOT
+  (DEPS
+    (1__no__RB
+      0__ROOT__
+      ROOT))
+  (INTJ__1__no__RB (RB__1__no__RB 1__no__RB)))
+
+(ROOT
+  (DEPS
+    (1__say__VB
+      0__ROOT__
+      ROOT))
+  (INTJ__1__say__VB (VB__1__say__VB 1__say__VB)))
+
+(ROOT
+  (DEPS
+    (2__.__.
+      1__Egad__UH
+      ???)
+    (1__Egad__UH
+      0__ROOT__
+      ROOT))
+  (INTJ__1__Egad__UH (UH__1__Egad__UH 1__Egad__UH) (.__2__.__. 2__.__.)))
+
+(ROOT
+  (DEPS
+    (1__Why__WRB
+      0__ROOT__
+      ROOT))
+  (INTJ__1__Why__WRB (WRB__1__Why__WRB 1__Why__WRB)))
+
+(ROOT
+  (DEPS
+    (2__is__VBZ
+      1__that__DT
+      ???)
+    (1__that__DT
+      0__ROOT__
+      ROOT))
+  (INTJ__1__that__DT (DT__1__that__DT 1__that__DT) (VBZ__2__is__VBZ 2__is__VBZ)))
+
+(ROOT
+  (DEPS
+    (2__no__UH
+      1__Oh__UH
+      ???)
+    (1__Oh__UH
+      0__ROOT__
+      ROOT))
+  (INTJ__1__Oh__UH (UH__1__Oh__UH 1__Oh__UH) (UH__2__no__UH 2__no__UH)))
+
+(ROOT
+  (DEPS
+    (2__luck__NN
+      1__Good__JJ
+      ???)
+    (3__.__.
+      1__Good__JJ
+      ???)
+    (1__Good__JJ
+      0__ROOT__
+      ROOT))
+  (INTJ__1__Good__JJ (JJ__1__Good__JJ 1__Good__JJ) (NN__2__luck__NN 2__luck__NN) (.__3__.__. 3__.__.)))
+
+(ROOT
+  (DEPS
+    (2__,__,
+      1__Beat__NN
+      ???)
+    (3__BEAT__NN
+      1__Beat__NN
+      ???)
+    (1__Beat__NN
+      0__ROOT__
+      ROOT))
+  (INTJ__1__Beat__NN (NN__1__Beat__NN 1__Beat__NN) (,__2__,__, 2__,__,) (NN__3__BEAT__NN 3__BEAT__NN)))
+
+(ROOT
+  (DEPS
+    (2__Long__JJ
+      1__So__RB
+      ???)
+    (1__So__RB
+      0__ROOT__
+      ROOT))
+  (INTJ__1__So__RB (RB__1__So__RB 1__So__RB) (JJ__2__Long__JJ 2__Long__JJ)))
+
+(ROOT
+  (DEPS
+    (2__,__,
+      1__aw__UH
+      ???)
+    (3__shucks__UH
+      1__aw__UH
+      ???)
+    (1__aw__UH
+      0__ROOT__
+      ROOT))
+  (INTJ__1__aw__UH (UH__1__aw__UH 1__aw__UH) (,__2__,__, 2__,__,) (UH__3__shucks__UH 3__shucks__UH)))
+
+(ROOT
+  (DEPS
+    (2__!__.
+      1__Wham__UH
+      ???)
+    (3__Bam__UH
+      1__Wham__UH
+      ???)
+    (4__!__.
+      1__Wham__UH
+      ???)
+    (1__Wham__UH
+      0__ROOT__
+      ROOT))
+  (INTJ__1__Wham__UH (UH__1__Wham__UH 1__Wham__UH) (.__2__!__. 2__!__.) (UH__3__Bam__UH 3__Bam__UH) (.__4__!__. 4__!__.)))
+
+(ROOT
+  (DEPS
+    (1__What__WP
+      2__'s__VBZ
+      SUBJ)
+    (3__more__JJR
+      2__'s__VBZ
+      OBJ-DO)
+    (2__'s__VBZ
+      0__ROOT__
+      ROOT))
+  (INTJ__2__'s__VBZ
+    (S__2__'s__VBZ
+      (NP-SBJ__1__What__WP (WP__1__What__WP 1__What__WP))
+      (VP__2__'s__VBZ (VBZ__2__'s__VBZ 2__'s__VBZ)
+        (NP-PRD__3__more__JJR (JJR__3__more__JJR 3__more__JJR))))))
+
+(ROOT
+  (DEPS
+    (2__my__PRP$
+      1__Oh__UH
+      ???)
+    (3__God__NNP
+      1__Oh__UH
+      ???)
+    (1__Oh__UH
+      0__ROOT__
+      ROOT))
+  (INTJ__1__Oh__UH (UH__1__Oh__UH 1__Oh__UH) (PRP$__2__my__PRP$ 2__my__PRP$) (NNP__3__God__NNP 3__God__NNP)))
+
+(ROOT
+  (DEPS
+    (2__,__,
+      1__whack__VB
+      ???)
+    (3__whack__VB
+      1__whack__VB
+      ???)
+    (4__,__,
+      1__whack__VB
+      ???)
+    (5__whack__VB
+      1__whack__VB
+      ???)
+    (1__whack__VB
+      0__ROOT__
+      ROOT))
+  (INTJ__1__whack__VB (VB__1__whack__VB 1__whack__VB) (,__2__,__, 2__,__,) (VB__3__whack__VB 3__whack__VB) (,__4__,__, 4__,__,) (VB__5__whack__VB 5__whack__VB)))
+
+(ROOT
+  (DEPS
+    (2__morning__NN
+      1__Good__JJ
+      ???)
+    (1__Good__JJ
+      0__ROOT__
+      ROOT))
+  (INTJ__1__Good__JJ (JJ__1__Good__JJ 1__Good__JJ) (NN__2__morning__NN 2__morning__NN)))
+
+(ROOT
+  (DEPS
+    (2__Oh__UH
+      1__``__``
+      ???)
+    (3__,__,
+      1__``__``
+      ???)
+    (4__yes__RB
+      1__``__``
+      ???)
+    (5__.__.
+      1__``__``
+      ???)
+    (1__``__``
+      0__ROOT__
+      ROOT))
+  (INTJ__1__``__`` (``__1__``__`` 1__``__``) (UH__2__Oh__UH 2__Oh__UH) (,__3__,__, 3__,__,) (RB__4__yes__RB 4__yes__RB) (.__5__.__. 5__.__.)))
+
+(ROOT
+  (DEPS
+    (2__,__,
+      1__C'mon__VB
+      ???)
+    (3__now__RB
+      1__C'mon__VB
+      ???)
+    (1__C'mon__VB
+      0__ROOT__
+      ROOT))
+  (INTJ__1__C'mon__VB (VB__1__C'mon__VB 1__C'mon__VB) (,__2__,__, 2__,__,) (RB__3__now__RB 3__now__RB)))
+
+(ROOT
+  (DEPS
+    (__*__-NONE-
+      7__known__VBN
+      OBJ-DO)
+    (2__to__TO
+      1__Welcome__UH
+      ???)
+    (4__welter__NN
+      2__to__TO
+      ???)
+    (3__that__DT
+      4__welter__NN
+      ???)
+    (5__of__IN
+      4__welter__NN
+      ???)
+    (6__contradictions__NNS
+      5__of__IN
+      ???)
+    (7__known__VBN
+      4__welter__NN
+      ???)
+    (8__as__IN
+      7__known__VBN
+      ???)
+    (10__Beach__NNP
+      8__as__IN
+      ???)
+    (9__Newport__NNP
+      10__Beach__NNP
+      ???)
+    (11__.__.
+      1__Welcome__UH
+      ???)
+    (1__Welcome__UH
+      0__ROOT__
+      ROOT))
+  (INTJ__1__Welcome__UH (UH__1__Welcome__UH 1__Welcome__UH)
+    (PP__2__to__TO (TO__2__to__TO 2__to__TO)
+      (NP__4__welter__NN
+        (NP__4__welter__NN (DT__3__that__DT 3__that__DT) (NN__4__welter__NN 4__welter__NN))
+        (PP__5__of__IN (IN__5__of__IN 5__of__IN)
+          (NP__6__contradictions__NNS (NNS__6__contradictions__NNS 6__contradictions__NNS)))
+        (VP__7__known__VBN (VBN__7__known__VBN 7__known__VBN)
+          (NP____*__-NONE- (-NONE-____*__-NONE- __*__-NONE-))
+          (PP-CLR__8__as__IN (IN__8__as__IN 8__as__IN)
+            (NP__10__Beach__NNP (NNP__9__Newport__NNP 9__Newport__NNP) (NNP__10__Beach__NNP 10__Beach__NNP))))))
+    (.__11__.__. 11__.__.)))
+
+(ROOT
+  (DEPS
+    (2__.__.
+      1__Quack__NN
+      ???)
+    (1__Quack__NN
+      0__ROOT__
+      ROOT))
+  (INTJ__1__Quack__NN (NN__1__Quack__NN 1__Quack__NN) (.__2__.__. 2__.__.)))
+
+(ROOT
+  (DEPS
+    (2__,__,
+      1__quack__UH
+      ???)
+    (3__quack__UH
+      1__quack__UH
+      ???)
+    (1__quack__UH
+      0__ROOT__
+      ROOT))
+  (INTJ__1__quack__UH
+    (INTJ__1__quack__UH (UH__1__quack__UH 1__quack__UH))
+    (,__2__,__, 2__,__,)
+    (INTJ__3__quack__UH (UH__3__quack__UH 3__quack__UH))))
+
+(ROOT
+  (DEPS
+    (1__right__JJ
+      0__ROOT__
+      ROOT))
+  (INTJ__1__right__JJ (JJ__1__right__JJ 1__right__JJ)))
+
+(ROOT
+  (DEPS
+    (2__,__,
+      1__crunch__NN
+      ???)
+    (3__crunch__NN
+      1__crunch__NN
+      ???)
+    (4__,__,
+      1__crunch__NN
+      ???)
+    (5__crunch__NN
+      1__crunch__NN
+      ???)
+    (6__,__,
+      1__crunch__NN
+      ???)
+    (7__bang__NN
+      1__crunch__NN
+      ???)
+    (8__,__,
+      1__crunch__NN
+      ???)
+    (9__bang__NN
+      1__crunch__NN
+      ???)
+    (10__,__,
+      1__crunch__NN
+      ???)
+    (11__bang__NN
+      1__crunch__NN
+      ???)
+    (1__crunch__NN
+      0__ROOT__
+      ROOT))
+  (INTJ__1__crunch__NN (NN__1__crunch__NN 1__crunch__NN) (,__2__,__, 2__,__,) (NN__3__crunch__NN 3__crunch__NN) (,__4__,__, 4__,__,) (NN__5__crunch__NN 5__crunch__NN) (,__6__,__, 6__,__,) (NN__7__bang__NN 7__bang__NN) (,__8__,__, 8__,__,) (NN__9__bang__NN 9__bang__NN) (,__10__,__, 10__,__,) (NN__11__bang__NN 11__bang__NN)))
+
+(ROOT
+  (DEPS
+    (2__.__.
+      1__Sure__JJ
+      ???)
+    (1__Sure__JJ
+      0__ROOT__
+      ROOT))
+  (INTJ__1__Sure__JJ (JJ__1__Sure__JJ 1__Sure__JJ) (.__2__.__. 2__.__.)))
+
+(ROOT
+  (DEPS
+    (2__HUH__NNP
+      1__UH__NNP
+      ???)
+    (3__:__:
+      1__UH__NNP
+      ???)
+    (1__UH__NNP
+      0__ROOT__
+      ROOT))
+  (INTJ-HLN__1__UH__NNP (NNP__1__UH__NNP 1__UH__NNP) (NNP__2__HUH__NNP 2__HUH__NNP) (:__3__:__: 3__:__:)))
+

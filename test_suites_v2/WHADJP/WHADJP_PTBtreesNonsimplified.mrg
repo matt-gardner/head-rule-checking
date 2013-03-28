@@ -1,0 +1,44 @@
+(ROOT
+  (WHADJP (WRB 1__how) (JJ 2__many)))
+
+(ROOT
+  (WHADJP (RB 1__just) (WRB 2__how) (JJ 3__powerful)))
+
+(ROOT
+  (WHADJP (WRB 1__how) (JJ 2__wide)
+    (CC 3__and)
+    (JJ 4__deep)))
+
+(ROOT
+  (WHADJP (WRB 1__how) (JJ 2__incompetent)
+    (PP (IN 3__at)
+      (NP (NN 4__risk) (NN 5__assessment)
+        (CC 6__and)
+        (NN 7__evaluation)))))
+
+(ROOT
+  (WHADJP (WRB 1__How) (RB 2__interestingly) (JJ 3__clever)
+    (PP (IN 4__of)
+      (NP (NNP 5__Robert) (NNP 6__Goldberg)))))
+
+(ROOT
+  (WHADJP
+    (WHADVP (WRB 1__how))
+    (JJ 2__serious)))
+
+(ROOT
+  (WHADJP (WRB 1__how) (`` 2__``)
+    (ADJP (FW 3__belle))
+    ('' 4__'')))
+
+(ROOT
+  (WHADJP (RB 1__However) (JJ 2__flawed)
+    (CC 3__and)
+    (JJ 4__short-lived)))
+
+(ROOT
+  (WHADJP (WRB 1__how) (RB 2__deep)))
+
+(ROOT
+  (WHADJP (RB 1__exactly) (WP 2__what)))
+

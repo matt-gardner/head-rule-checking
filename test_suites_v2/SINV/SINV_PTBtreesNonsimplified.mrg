@@ -1,0 +1,5426 @@
+(ROOT
+  (SINV (`` 1__``) (, 13__,) ('' 14__'')
+    (VP (VBD 15__said)
+      (S
+        (S-TPC
+          (NP-SBJ (PRP 2__We))
+          (VP (VBP 3__have)
+            (NP
+              (NP (DT 4__no) (JJ 5__useful) (NN 6__information))
+              (PP (IN 7__on)
+                (SBAR (IN 8__whether)
+                  (S
+                    (NP-SBJ (NNS 9__users))
+                    (VP (VBP 10__are)
+                      (PP-PRD (IN 11__at)
+                        (NP (NN 12__risk))))))))))))
+    (NP-SBJ
+      (NP (NNP 16__James) (NNP 17__A.) (NNP 18__Talcott))
+      (PP (IN 19__of)
+        (NP
+          (NP (NNP 20__Boston) (POS 21__'s))
+          (NNP 22__Dana-Farber) (NNP 23__Cancer) (NNP 24__Institute))))
+    (. 25__.)))
+
+(ROOT
+  (SINV (, 21__,)
+    (VP (VBD 22__said)
+      (SBAR (-NONE- 23__0_NULL)
+        (S
+          (S-TPC
+            (SBAR-ADV (IN 1__Although)
+              (S
+                (NP-SBJ
+                  (NP (DT 2__the) (NN 3__purchasing) (NNS 4__managers) (POS 5__'))
+                  (NN 6__index))
+                (VP (VBZ 7__continues)
+                  (S
+                    (NP-SBJ (-NONE- __*-1))
+                    (VP (TO 8__to)
+                      (VP (VB 9__indicate)
+                        (NP (DT 10__a) (VBG 11__slowing) (NN 12__economy))))))))
+            (, 13__,)
+            (NP-SBJ (PRP 14__it))
+            (VP (VBZ 15__is) (RB 16__n't)
+              (VP (VBG 17__signaling)
+                (NP (DT 18__an) (JJ 19__imminent) (NN 20__recession))))))))
+    (NP-SBJ
+      (NP (NNP 24__Robert) (NNP 25__Bretz))
+      (, 26__,)
+      (NP
+        (NP
+          (NP (NN 27__chairman))
+          (PP (IN 28__of)
+            (NP
+              (NP (DT 29__the) (NN 30__association) (POS 31__'s))
+              (NN 32__survey) (NN 33__committee))))
+        (CONJPP (CC 34__and)
+          (NP
+            (NP (NN 35__director))
+            (PP (IN 36__of)
+              (NP (NNS 37__materials) (NN 38__management)))
+            (PP-LOC (IN 39__at)
+              (NP
+                (NP (NNP 40__Pitney) (NNP 41__Bowes) (NNP 42__Inc.))
+                (, 43__,)
+                (NP-LOC
+                  (NP (NNP 44__Stamford))
+                  (, 45__,)
+                  (NP (NNP 46__Conn)))))))))
+    (. 47__.)))
+
+(ROOT
+  (SINV (, 26__,) ('' 27__'')
+    (VP (VBZ 28__says)
+      (SBAR (-NONE- 29__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ
+              (NP (DT 1__The) (NN 2__flow))
+              (PP (IN 3__of)
+                (NP (JJ 4__Japanese) (NNS 5__funds))))
+            (VP (VBZ 6__has)
+              (VP (VBN 7__set)
+                (PP-CLR (IN 8__in)
+                  (NP (NN 9__motion)))
+                (`` 10__``)
+                (NP
+                  (NP (DT 11__a) (NN 12__process))
+                  (SBAR
+                    (S
+                      (NP-SBJ (DT 14__these) (NNS 15__economies))
+                      (VP (MD 16__will)
+                        (VP (VB 17__be)
+                          (VP (VBN 18__knitted)
+                            (NP (-NONE- __*-1))
+                            (PRT (RP 19__together))
+                            (PP (IN 20__by)
+                              (NP-LGS (DT 21__the) (JJ 22__great) (JJ 23__Japanese) (NN 24__investment) (NN 25__machine)))
+                            (ADVP-MNR
+                              (WHADVP (WRB 13__whereby)))))))))))))))
+    (NP-SBJ
+      (NP (NNP 30__Robert) (NNP 31__Hormats))
+      (, 32__,)
+      (NP
+        (NP (NN 33__vice) (NN 34__chairman))
+        (PP (IN 35__of)
+          (NP (NNP 36__Goldman) (NNP 37__Sachs) (NNP 38__International) (NNP 39__Corp)))))
+    (. 40__.)))
+
+(ROOT
+  (SINV
+    (VP (VBD 1__said)
+      (S (-NONE- __*T*-1)))
+    (NP-SBJ
+      (NP (NNP 2__Brenda) (NNP 3__Malizia) (NNP 4__Negus))
+      (, 5__,)
+      (NP
+        (NP (NN 6__editor))
+        (PP (IN 7__of)
+          (NP (NNP 8__Money) (NNP 9__Fund) (NNP 10__Report)))))))
+
+(ROOT
+  (SINV
+    (VP (VBZ 17__says)
+      (S
+        (S-TPC
+          (NP-SBJ (DT 1__The) (NN 2__deal))
+          (VP (VBZ 3__is)
+            (ADVP (RB 4__chiefly))
+            (VP (VBN 5__designed)
+              (NP (-NONE- __*-1))
+              (S-CLR
+                (NP-SBJ (-NONE- __*-3))
+                (VP (TO 6__to)
+                  (VP (VB 7__give)
+                    (NP (NNP 8__Mitsubishi))
+                    (NP
+                      (NP (DT 9__a) (NN 10__window))
+                      (PP-LOC (IN 11__on)
+                        (NP (DT 12__the) (NNP 13__U.S.) (NN 14__glass) (NN 15__industry)))))))))
+          (, 16__,))))
+    (NP-SBJ
+      (NP (NNP 18__Ichiro) (NNP 19__Wakui))
+      (, 20__,)
+      (NP
+        (NP (DT 21__an) (NN 22__executive))
+        (PP-LOC (IN 23__in)
+          (NP
+            (NP
+              (NP (NNP 24__Mitsubishi) (POS 25__'s))
+              (JJ 26__general) (NN 27__merchandise) (NN 28__department))
+            (PP-LOC (IN 29__in)
+              (NP (NNP 30__New) (NNP 31__York)))))))
+    (. 32__.)))
+
+(ROOT
+  (SINV
+    (VP (VBD 8__were)
+      (PP-LOC-PRD
+        (PP-LOC-PRD-TPC (IN 1__On)
+          (NP
+            (NP (DT 2__the) (VBG 3__receiving) (NN 4__end))
+            (PP (IN 5__of)
+              (NP (DT 6__the) (NN 7__message)))))))
+    (NP-SBJ
+      (NP (NNS 9__officials))
+      (PP (IN 10__from)
+        (NP
+          (NP
+            (NP (NNS 11__giants))
+            (PP (IN 12__like)
+              (NP
+                (NP (NNP 13__Du) (NNP 14__Pont))
+                (CONJPP (CC 15__and)
+                  (NP (NNP 16__Maytag))))))
+          (, 17__,)
+          (CONJP (IN 18__along) (IN 19__with))
+          (NP
+            (NP (JJR 20__lesser) (NNS 21__knowns))
+            (PP (IN 22__like)
+              (NP
+                (NP (NNP 23__Trojan) (NNP 24__Steel))
+                (CONJPP (CC 25__and)
+                  (NP (DT 26__the) (NNP 27__Valley) (NNP 28__Queen) (NNP 29__Cheese) (NNP 30__Factory)))))))))
+    (. 31__.)))
+
+(ROOT
+  (SINV
+    (VP (VBD 11__was)
+      (VP
+        (VP-TPC (VBG 1__Leading)
+          (NP
+            (NP (DT 2__the) (NNS 3__gains))
+            (PP (IN 4__for)
+              (NP (NNP 5__Du) (NNP 6__Pont))))
+          (PP-TMP (IN 7__in)
+            (NP (DT 8__the) (JJS 9__latest) (NN 10__quarter))))))
+    (NP-SBJ
+      (NP (PRP$ 12__its) (JJ 13__industrial) (NNS 14__products) (NN 15__segment))
+      (, 16__,)
+      (SBAR
+        (S
+          (NP-SBJ (NN 18__profit))
+          (VP (VBD 19__soared)
+            (PP-DIR (TO 20__to)
+              (NP
+                (QP ($ 21__$) (CD 22__155) (CD 23__million))
+                (-NONE- __*U*)))
+            (PP-DIR (IN 24__from)
+              (NP
+                (QP ($ 25__$) (CD 26__99) (CD 27__million))
+                (-NONE- __*U*))
+              (ADVP-TMP
+                (NP (DT 28__a) (NN 29__year))
+                (RBR 30__earlier)))
+            (ADVP-LOC
+              (WHADVP (WRB 17__where)))))))
+    (. 31__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 22__,)
+    (VP (VBZ 23__says)
+      (SBAR (-NONE- 24__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ (EX 2__There))
+            (VP (VBZ 3__'s)
+              (NP-PRD
+                (NP (DT 4__an) (NN 5__understanding)
+                  (SBAR (IN 12__that)
+                    (S
+                      (NP-SBJ (NNP 13__Japan))
+                      (VP (VBZ 14__has)
+                        (S
+                          (NP-SBJ (-NONE- __*-2))
+                          (VP (TO 15__to)
+                            (VP (VB 16__expand)
+                              (NP
+                                (NP (PRP$ 17__its) (NNS 18__functions))
+                                ('' 19__'')
+                                (PP-LOC (IN 20__in)
+                                  (NP (NNP 21__Asia)))))))))))
+                (PP (IN 6__on)
+                  (NP
+                    (NP (DT 7__the) (NN 8__part))
+                    (PP (IN 9__of)
+                      (NP (DT 10__the) (NNP 11__U.S.)))))))))))
+    (NP-SBJ
+      (NP (NNP 25__J.) (NNP 26__Michael) (NNP 27__Farren))
+      (, 28__,)
+      (NP
+        (NP (NN 29__undersecretary))
+        (PP (IN 30__of)
+          (NP (NN 31__commerce)))
+        (PP (IN 32__for)
+          (NP (NN 33__trade)))))
+    (. 34__.)))
+
+(ROOT
+  (SINV (VBD 1__had)
+    (NP-SBJ (PRP 2__it))
+    (VP (VBN 3__existed)
+      (ADVP-TMP (RB 4__then)))))
+
+(ROOT
+  (SINV (`` 1__``) (, 10__,) ('' 11__'')
+    (VP (VBZ 12__says)
+      (S
+        (S-TPC
+          (NP-SBJ (DT 2__The) (`` 3__`) (NN 4__r) ('' 5__') (NN 6__word))
+          (VP (VBZ 7__is)
+            (VP (VBG 8__looming)
+              (ADVP (RB 9__again)))))))
+    (NP-SBJ (CD 13__one) (NN 14__dealer))
+    (, 15__,)
+    (S-ADV
+      (NP-SBJ (-NONE- __*-2))
+      (VP (VBG 16__referring)
+        (PP-CLR (TO 17__to)
+          (NP
+            (NP (JJ 18__persistent) (NN 19__concern))
+            (PP-LOC (IN 20__among)
+              (NP (DT 21__some) (NN 22__market) (NNS 23__analysts)))
+            (SBAR (IN 24__that)
+              (S
+                (NP-SBJ (DT 25__the) (NNP 26__U.S.) (NN 27__economy))
+                (VP (VBZ 28__is)
+                  (VP (VBG 29__heading)
+                    (PP-DIR (IN 30__toward)
+                      (NP
+                        (NP (DT 31__a) (JJ 32__major) (NN 33__slowdown))
+                        (CONJP (IN 34__if) (RB 35__not))
+                        (NP (DT 36__a) (NN 37__recession))))))))))))
+    (. 38__.)))
+
+(ROOT
+  (SINV
+    (VP (VBD 2__did)
+      (VP (-NONE- __*?*)
+        (ADVP-PRD
+          (ADVP-PRD-TPC (RB 1__So)))))
+    (NP-SBJ
+      (NP (DT 3__the) (NNP 4__Federal) (NNP 5__Reserve) (NNP 6__Board) (POS 7__'s))
+      (JJ 8__industrial-production) (NN 9__index))
+    (. 10__.)))
+
+(ROOT
+  (SINV (-NONE- __*T*-2)))
+
+(ROOT
+  (SINV (MD 1__Should)
+    (NP-SBJ
+      (NP (DT 2__the) (JJ 3__green) (NN 4__light))
+      (SBAR
+        (S
+          (NP-SBJ (NNPS 6__Judges) (NNP 7__Alarcon)
+            (CC 8__and)
+            (NNP 9__Hall))
+          (VP (VB 10__have)
+            (VP (VBN 11__given)
+              (NP
+                (WHNP (-NONE- 5__0_NULL)))
+              (PP-DTV (TO 12__to)
+                (NP
+                  (NP (DT 13__the) (NN 14__fabrication))
+                  (PP (IN 15__of)
+                    (NP (NNS 16__quotations))))))))))
+    (VP (VB 17__become)
+      (NP-PRD (JJ 18__standard) (NN 19__practice)))))
+
+(ROOT
+  (SINV
+    (VP (VBZ 5__is)
+      (ADJP-PRD
+        (ADJP-PRD-TPC (JJ 1__Conspicuous)
+          (PP-MNR (IN 2__by)
+            (NP (PRP$ 3__its) (NN 4__absence))))))
+    (NP-SBJ (NNP 6__California))
+    (. 7__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 2__is)
+      (ADVP-PRD
+        (ADVP-PRD-TPC (RB 1__so))))
+    (NP-SBJ (PRP$ 3__its) (NN 4__balance) (NN 5__sheet))))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__Adds)
+      (S
+        (PP (IN 8__Unlike)
+          (NP
+            (NP (NNS 9__corporations))
+            (PP-LOC (IN 10__in)
+              (NP (DT 11__this) (NN 12__country)))))
+        (, 13__,)
+        (NP-SBJ (NN 14__trading) (NNS 15__companies))
+        (VP (VBP 16__are) (RB 17__n't)
+          (ADJP-PRD
+            (ADJP
+              (ADVP (RB 18__so) (RB 19__much))
+              (JJ 20__interested)
+              (PP (IN 21__in)
+                (NP
+                  (NP (DT 22__a) (JJ 23__high) (NN 24__return))
+                  (PP (IN 25__on)
+                    (NP (NN 26__investment))))))
+            (SBAR (IN 27__as)
+              (S
+                (NP-SBJ (PRP 28__they))
+                (VP (VBP 29__are)
+                  (ADJP-PRD (-NONE- __*?*))
+                  (PP (IN 30__on)
+                    (S-NOM
+                      (NP-SBJ (-NONE- __*))
+                      (VP (VBG 31__increasing)
+                        (NP (NN 32__trade) (NNS 33__flows))))))))))))
+    (NP-SBJ
+      (NP (NNP 2__Mitsui) (POS 3__'s))
+      (NNP 4__Mr.) (NNP 5__Klauser))
+    (: 6__:) (`` 7__``) (. 34__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 19__,) ('' 20__'')
+    (VP (VBZ 21__declares)
+      (S
+        (S-TPC
+          (NP-SBJ (PRP 2__We))
+          (VP (VBP 3__'ve)
+            (VP (VBN 4__got)
+              (S
+                (NP-SBJ (-NONE- __*-1))
+                (VP (TO 5__to)
+                  (VP
+                    (VP (VB 6__get)
+                      (PP-CLR (IN 7__out)
+                        (PP (IN 8__of)
+                          (NP (DT 9__the) (NNP 10__Detroit) (NN 11__mentality)))))
+                    (CONJPP (CC 12__and)
+                      (VP (VB 13__be)
+                        (NP-PRD
+                          (NP (NN 14__part))
+                          (PP (IN 15__of)
+                            (NP (DT 16__the) (NN 17__world) (NN 18__mentality))))))))))))))
+    (NP-SBJ
+      (NP (NNP 22__Charles) (NNP 23__M.) (NNP 24__Jordan))
+      (, 25__,)
+      (NP
+        (NP
+          (NP (NNP 26__GM) (POS 27__'s))
+          (NN 28__vice) (NN 29__president))
+        (PP (IN 30__for)
+          (NP (NN 31__design))))
+      (, 32__,))
+    (PP-LOC (IN 33__in)
+      (S-NOM
+        (NP-SBJ (-NONE- __*-3))
+        (VP (VBG 34__explaining)
+          (NP
+            (NP (PRP$ 35__his) (NN 36__pilgrimage))
+            (PP (TO 37__to)
+              (NP (DT 38__the) (NNP 39__Tokyo) (NNP 40__Show)))))))
+    (. 41__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__Adds)
+      (S
+        (NP-SBJ (PRP 15__We))
+        (VP (VBP 16__have)
+          (NP
+            (NP (DT 17__a) (JJ 18__great) (NN 19__interest))
+            (PP (IN 20__in)
+              (S-NOM
+                (NP-SBJ (-NONE- __*))
+                (VP (VBG 21__making)
+                  (NP
+                    (NP (NNS 22__investments))
+                    (, 23__,)
+                    (PP
+                      (ADVP (RB 24__particularly))
+                      (IN 25__in)
+                      (NP (JJ 26__new) (NNS 27__ventures)))))))))))
+    (NP-SBJ
+      (NP (NNP 2__Takeshi) (NNP 3__Kondo))
+      (, 4__,)
+      (NP
+        (NP (JJ 5__senior) (NN 6__vice) (NN 7__president))
+        (PP (IN 8__of)
+          (NP (NNP 9__C.) (NNP 10__Itoh) (NNP 11__America) (NNP 12__Inc.)))))
+    (: 13__:) (`` 14__``) (. 28__.) ('' 29__'')))
+
+(ROOT
+  (SINV (`` 1__``) (, 23__,) ('' 24__'')
+    (VP (VBD 25__said)
+      (S
+        (S-TPC
+          (NP-SBJ (DT 2__This))
+          (VP (VBZ 3__tells)
+            (NP (PRP 4__you))
+            (SBAR (-NONE- 5__0_NULL)
+              (S
+                (NP-SBJ (NNP 6__AT&T))
+                (VP
+                  (VP (VBZ 7__is)
+                    (ADJP-PRD (JJ 8__serious)
+                      (PP (IN 9__about)
+                        (S-NOM
+                          (NP-SBJ (-NONE- __*-2))
+                          (VP (VBG 10__continuing)
+                            (S
+                              (NP-SBJ (-NONE- __*-3))
+                              (VP (TO 11__to)
+                                (VP (VB 12__manage)
+                                  (NP (PRP$ 13__their) (NN 14__cost) (NN 15__structure))))))))))
+                  (CONJPP (CC 16__and)
+                    (VP (VBZ 17__is)
+                      (VP (VBN 18__committed)
+                        (NP (-NONE- __*-2))
+                        (PP-CLR (TO 19__to)
+                          (NP (JJ 20__20%-a-year) (NNS 21__earnings) (NN 22__growth)))))))))))))
+    (NP-SBJ
+      (NP (NNP 26__Jack) (NNP 27__Grubman))
+      (, 28__,)
+      (NP
+        (NP (DT 29__an) (NN 30__analyst))
+        (PP (IN 31__with)
+          (NP (NNP 32__PaineWebber) (NNP 33__Inc) (. 34__.)))))))
+
+(ROOT
+  (SINV
+    (VP (VBP 2__are)
+      (ADVP-PRD
+        (ADVP-PRD-TPC (RB 1__Here))))
+    (NP-SBJ (DT 3__some) (NNS 4__ideas))
+    (: 5__:)))
+
+(ROOT
+  (SINV (VBZ 1__is)
+    (NP-SBJ
+      (NP (NN 2__development))
+      (PP (IN 3__of)
+        (NP
+          (NP (DT 4__the) (JJ 5__new) (NN 6__company) (POS 7__'s))
+          (JJ 8__initial) (NN 9__machine))))
+    (VP (VBD 10__tied)
+      (NP (-NONE- __*-1))
+      (ADVP-MNR (RB 11__directly))
+      (PP-DIR-CLR (TO 12__to)
+        (NP (NNP 13__Mr.) (NNP 14__Cray))))))
+
+(ROOT
+  (SINV
+    (ADVP (RB 1__Also))
+    (VP (VBD 7__were)
+      (VP
+        (VP-TPC (VBG 2__slowing)
+          (NP
+            (NP (NN 3__growth))
+            (PP-LOC (IN 4__in)
+              (NP (DT 5__the) (NNP 6__U.S.)))))))
+    (NP-SBJ
+      (NP (JJ 8__lackluster) (NNS 9__results))
+      (PP (IN 10__for)
+        (NP
+          (NP
+            (NP (NNP 11__P&G) (POS 12__'s))
+            (NN 13__cooking) (NNS 14__oils))
+          (, 15__,)
+          (SBAR
+            (S
+              (NP-SBJ
+                (WHNP (WDT 16__which)))
+              (VP (VBD 17__had)
+                (NP (DT 18__a) (JJ 19__strong) (JJ 20__year-earlier) (JJ 21__first) (NN 22__quarter))))))))
+    (. 23__.)))
+
+(ROOT
+  (SINV (`` 1__``) ('' 13__'')
+    (VP (VBZ 14__quips)
+      (S
+        (S-TPC
+          (S
+            (NP-SBJ (NN 2__Anything))
+            (VP (VBZ 3__'s)
+              (ADJP-PRD (JJ 4__possible))))
+          (: 5__--)
+          (SBARQ (WRB 6__how) (RP 7__about)
+            (FRAG
+              (NP (DT 8__the) (NNP 9__New) (NNP 10__Guinea) (NNP 11__Fund)))
+            (. 12__?)))))
+    (NP-SBJ
+      (NP (NNP 15__George) (NNP 16__Foot))
+      (, 17__,)
+      (NP
+        (NP (DT 18__a) (VBG 19__managing) (NN 20__partner))
+        (PP-LOC (IN 21__at)
+          (NP
+            (NP (NNP 22__Newgate) (NNP 23__Management) (NNP 24__Associates))
+            (PP (IN 25__of)
+              (NP
+                (NP (NNP 26__Northampton))
+                (, 27__,)
+                (NP (NNP 28__Mass))))))))
+    (. 29__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 9__,) ('' 10__'')
+    (VP (VBZ 11__says)
+      (S
+        (S-TPC
+          (S-NOM-SBJ
+            (NP-SBJ (-NONE- __*))
+            (VP (VBG 2__Being)
+              (NP (DT 3__a) (NN 4__teacher))))
+          (ADVP (RB 5__just))
+          (VP (VBD 6__became)
+            (NP-PRD (PRP$ 7__my) (NN 8__life))))))
+    (NP-SBJ
+      (NP (DT 12__the) (JJ 13__37-year-old) (NNP 14__Mrs.) (NNP 15__Yeargin))
+      (, 16__,)
+      (NP
+        (NP (DT 17__a) (NN 18__teacher))
+        (PP-TMP (IN 19__for)
+          (NP (CD 20__12) (NNS 21__years)))
+        (PP-TMP (IN 22__before)
+          (NP (PRP$ 23__her) (NN 24__dismissal)))))
+    (. 25__.) (`` 26__``)))
+
+(ROOT
+  (SINV (`` 1__``) (, 19__,) ('' 20__') ('' 21__'')
+    (VP (VBZ 22__says)
+      (S
+        (S-TPC
+          (NP-SBJ (PRP 2__You))
+          (VP (MD 3__ca) (RB 4__n't)
+            (VP
+              (VP (VB 5__hire)
+                (NP (JJ 6__competent) (NNPS 7__Americans)))
+              (CONJPP (CC 8__and)
+                (VP (VB 9__say) (, 10__,) (`` 11__`)
+                  (S
+                    (NP-SBJ (-NONE- __*))
+                    (VP (VB 12__Let)
+                      (S
+                        (NP-SBJ (PRP 13__them))
+                        (VP (VB 14__run)
+                          (NP (RB 15__only) (PRP$ 16__their) (JJ 17__own) (NN 18__show)))))))))))))
+    (NP-SBJ
+      (NP (NNP 23__Vladimir) (NNP 24__Pucik))
+      (, 25__,)
+      (SBAR
+        (S
+          (NP-SBJ
+            (WHNP (WP 26__who)))
+          (VP (VBD 27__headed)
+            (NP
+              (NP (DT 28__the) (NN 29__study))
+              (VP (VBN 30__run)
+                (NP (-NONE- __*))
+                (PP (IN 31__with)
+                  (NP
+                    (NP (NNP 32__Egon) (NNP 33__Zehnder) (NNP 34__International))
+                    (, 35__,)
+                    (NP (DT 36__a) (NN 37__search) (NN 38__firm))))))))))
+    (. 39__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 5__is)
+      (PP-LOC-PRD
+        (PP-LOC-PRD-TPC (IN 1__Within)
+          (NP (PRP$ 2__its) (VBG 3__sheltering) (NNS 4__walls)))))
+    (NP-SBJ
+      (NP
+        (NP
+          (NP (DT 6__a) (NN 7__microcosm))
+          (PP (IN 8__of)
+            (NP (DT 9__a) (CD 10__thousand) (NNS 11__years)))
+          (PP (IN 12__in)
+            (NP (NN 13__garden) (NN 14__design))))
+        (: 15__...)
+        (NP
+          (NP
+            (NP (DT 16__a)
+              (NX
+                (NX (NN 17__rose) (NN 18__garden))
+                (, 19__,)
+                (NX (NN 20__herb) (NN 21__garden))
+                (, 22__,)
+                (NX (JJ 23__serpentine) (NN 24__garden))))
+            (, 25__,)
+            (NP (NN 26__flower) (NNS 27__fields))
+            (, 28__,)
+            (NP (DT 29__an) (NN 30__apple) (NN 31__orchard))
+            (: 32__...))
+          (VP (VBN 33__organized)
+            (NP (-NONE- __*))
+            (PP-CLR (IN 34__in)
+              (NP
+                (NP (DT 35__a) (NN 36__patchwork))
+                (PP (IN 37__of)
+                  (NP (JJ 38__50-by-50-foot) (NNS 39__squares)))))
+            (S-PRP-CLR
+              (NP-SBJ (-NONE- __*))
+              (VP (TO 40__to)
+                (VP (VB 41__form)
+                  (NP (`` 42__`) (NNS 43__rooms) ('' 44__')))))))))))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__Says)
+      (S
+        (NP-SBJ (PRP 6__We))
+        (VP (VBP 7__recognize)
+          (SBAR (IN 8__that)
+            (S
+              (NP-SBJ (PRP 9__we))
+              (VP (MD 10__may)
+                (ADVP-TMP (RB 11__no) (RBR 12__longer))
+                (VP (VBP 13__have)
+                  (NP
+                    (NP (RB 14__as) (JJ 15__high) (DT 16__a) (NN 17__priority))
+                    (PP-LOC (IN 18__in)
+                      (NP (NN 19__church) (NN 20__life)
+                        (CC 21__and)
+                        (NN 22__experience)))))))))))
+    (NP-SBJ (NNP 2__Mr.) (NNP 3__Baldwin))
+    (, 4__,) (`` 5__``) (. 23__.) ('' 24__'')))
+
+(ROOT
+  (SINV (VBP 1__do)
+    (NP-SBJ (PRP 2__we))
+    (VP (VB 3__have)
+      (NP
+        (NP (DT 4__the) (NN 5__space))
+        (CONJPP (CC 6__or)
+          (NP (DT 7__the) (NN 8__time)))))))
+
+(ROOT
+  (SINV (`` 1__``)
+    (VP (VBZ 20__says)
+      (S
+        (S-TPC
+          (NP-SBJ (NNS 2__People))
+          (VP (VBP 3__are)
+            (VP (VBG 4__looking)
+              (S
+                (NP-SBJ (-NONE- __*-1))
+                (VP (TO 5__to)
+                  (VP (VB 6__stake)
+                    (NP (PRP$ 7__their) (NNS 8__claims)))))
+              ('' 9__'')
+              (ADVP-TMP (RB 10__now))
+              (SBAR-TMP (RB 11__before)
+                (S
+                  (NP-SBJ
+                    (NP (DT 12__the) (NN 13__number))
+                    (PP (IN 14__of)
+                      (NP (JJ 15__available) (NNS 16__nations))))
+                  (VP (VBZ 17__runs)
+                    (PRT (RP 18__out)))))))
+          (, 19__,))))
+    (NP-SBJ
+      (NP (NNP 21__Michael) (NNP 22__Porter))
+      (, 23__,)
+      (NP
+        (NP (DT 24__an) (NN 25__analyst))
+        (PP-LOC (IN 26__at)
+          (NP
+            (NP (NNP 27__Smith) (NNP 28__Barney) (, 29__,) (NNP 30__Harris) (NNP 31__Upham)
+              (CC 32__&)
+              (NNP 33__Co.))
+            (, 34__,)
+            (NP (NNP 35__New) (NNP 36__York))))))
+    (. 37__.)))
+
+(ROOT
+  (SINV
+    (NP-SBJ=1 (JJ 1__unsecured) (NN 2__pollution-control) (NNS 3__bonds))
+    (PP-DIR=2 (TO 4__to)
+      (NP (JJ 5__Baa-1)))
+    (PP-DIR=4 (IN 6__from)
+      (NP (JJ 7__single-A-3)))))
+
+(ROOT
+  (SINV (`` 1__``) (, 8__,) ('' 9__'')
+    (VP (VBD 10__said)
+      (S
+        (S-TPC
+          (NP-SBJ (PRP 2__I))
+          (VP (VBP 3__'m)
+            (ADJP-PRD (JJ 4__ecstatic)
+              (PP (IN 5__about)
+                (NP (DT 6__the) (NN 7__change))))))))
+    (NP-SBJ
+      (NP (NNP 11__Mr.) (NNP 12__Vila))
+      (, 13__,)
+      (SBAR
+        (WHNP (WP$ 14__whose) (JJ 15__new) (VBN 16__syndicated) (NN 17__program))
+        (S
+          (NP-SBJ (-NONE- __*-3))
+          (VP (VBZ 18__is)
+            (VP (VBN 19__called)
+              (S
+                (NP-SBJ (-NONE- __*-1))
+                (`` 20__``)
+                (NP-TTL-PRD
+                  (NP (NNP 21__Home) (NNP 22__Again))
+                  (PP (IN 23__with)
+                    (NP (NNP 24__Bob) (NNP 25__Vila))))))))))
+    (. 26__.) ('' 27__'')))
+
+(ROOT
+  (SINV-TPC
+    (VP (VBD 7__were)
+      (VP
+        (VP-TPC (VBG 1__Offsetting)
+          (NP
+            (NP (DT 2__the) (JJR 3__lower) (NN 4__stake))
+            (PP (IN 5__in)
+              (NP (NNP 6__Lyondell)))))))
+    (NP-SBJ
+      (NP (JJR 8__higher) (JJ 9__crude) (NN 10__oil) (NNS 11__prices))
+      (CONJPP (, 12__,)
+        (NP (JJ 13__increased) (JJ 14__natural) (NN 15__gas) (NNS 16__volumes))
+        (CONJPP (CC 17__and)
+          (NP (JJR 18__higher) (NN 19__coke) (NNS 20__prices)))))))
+
+(ROOT
+  (SINV
+    (PP-TMP
+      (ADVP (RB 1__Only))
+      (IN 2__at)
+      (NP
+        (NP (DT 3__the) (NN 4__moment))
+        (PP (IN 5__of)
+          (NP (NN 6__maximum) (NN 7__roll)))))
+    (VBD 8__did)
+    (NP-SBJ (PRP 9__I))
+    (VP (VBP 10__grasp)
+      (SBAR-NOM
+        (S
+          (NP-SBJ
+            (WHNP (WP 11__what)))
+          (VP (VBD 12__was)
+            (VP (VBG 13__going)
+              (PRT (RP 14__on)))))))
+    (. 15__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 24__,) ('' 25__'')
+    (VP (VBZ 26__says)
+      (FRAG
+        (FRAG-TPC
+          (SBAR
+            (S
+              (NP-SBJ (NN 3__anyone))
+              (VP (MD 4__would)
+                (VP (VB 5__want)
+                  (S
+                    (NP-SBJ (-NONE- __*-2))
+                    (VP (TO 6__to)
+                      (VP (VB 7__close)
+                        (NP (PRP 8__themselves))
+                        (PRT (RP 9__off))
+                        (-LRB- 10__-LCB-)
+                        (PP-CLR (IN 11__from)
+                          (NP (JJ 12__direct) (NN 13__mail)))
+                        (-RRB- 14__-RCB-)
+                        (ADVP-PRP
+                          (WHADVP (WRB 2__Why))))))))))
+          (, 15__,)
+          (ADVP-TMP (FW 16__a) (FW 17__priori))
+          (, 18__,)
+          (VP (VBZ 19__does) (RB 20__n't)
+            (VP (VB 21__make)
+              (NP (DT 22__any) (NN 23__sense)))))))
+    (NP-SBJ
+      (NP (NNP 27__Michael) (NNP 28__Bronner))
+      (PP (IN 29__of)
+        (NP
+          (NP (NNP 30__Bronner) (NNP 31__Slosberg) (NNPS 32__Associates))
+          (, 33__,)
+          (NP (DT 34__a) (NNP 35__Boston) (NN 36__directmail) (NN 37__firm)))))
+    (. 38__.)))
+
+(ROOT
+  (SINV (`` 1__``) (. 6__?) ('' 7__'')
+    (VP (VBZ 8__asks)
+      (SBARQ
+        (SBARQ-TPC
+          (S
+            (NP-SBJ
+              (WHNP (WP 2__Who)))
+            (VP (VBZ 3__'s)
+              (ADVP (RB 4__really))
+              (VP (VBG 5__lying)))))))
+    (NP-SBJ (DT 9__a) (JJ 10__female) (NN 11__voice))
+    (. 12__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 7__is)
+      (PP-LOC-PRD
+        (PP-LOC-PRD-TPC (IN 1__At)
+          (NP
+            (NP (DT 2__the) (NN 3__core))
+            (PP (IN 4__of)
+              (NP
+                (NP (PRP 5__it))
+                (NP (DT 6__all))))))))
+    (NP-SBJ
+      (NP (DT 8__a) (NN 9__love))
+      (PP (IN 10__for)
+        (NP (NNS 11__plants))))
+    (. 12__.) ('' 13__'')))
+
+(ROOT
+  (SINV (, 3__,)
+    (VP (VBZ 4__says)
+      (SBAR (-NONE- 5__0_NULL)
+        (FRAG
+          (FRAG-TPC
+            (NP-PRD (NN 1__Technology) (NNS 2__stocks))))))
+    (NP-SBJ (NNP 6__Mr.) (NNP 7__Goldman))
+    (. 8__.)))
+
+(ROOT
+  (SINV (`` 1__``) (. 4__?) ('' 5__'')
+    (VP (VBZ 6__says)
+      (S
+        (S-TPC
+          (NP-SBJ (-NONE- __*))
+          (VP (VB 2__Remember)
+            (NP (NNP 3__Pinocchio))))))
+    (NP-SBJ (DT 7__a) (JJ 8__female) (NN 9__voice))
+    (. 10__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 12__,) ('' 13__'')
+    (VP (VBZ 14__says)
+      (S
+        (S-TPC
+          (NP-SBJ (DT 2__All) (DT 3__the) (`` 4__``) (NN 5__sogo-shosha) ('' 6__''))
+          (VP (VBP 7__are)
+            (VP (VBG 8__looking)
+              (PP-CLR (IN 9__for)
+                (NP (JJ 10__new) (NN 11__business))))))))
+    (NP-SBJ
+      (NP (NNP 15__Arthur) (NNP 16__Klauser))
+      (, 17__,)
+      (NP
+        (NP (NN 18__adviser))
+        (PP (TO 19__to)
+          (NP
+            (NP (DT 20__the) (NN 21__president))
+            (PP (IN 22__of)
+              (NP (NNP 23__Mitsui) (, 24__,) (NNP 25__U.S.A.))))))
+      (, 26__,))
+    (S
+      (NP-SBJ (-NONE- __*-2))
+      (VP (VBG 27__using)
+        (NP
+          (NP (DT 28__the) (NNP 29__Japanese) (NN 30__term))
+          (PP (IN 31__for)
+            (NP
+              (NP (DT 32__the) (JJS 33__largest))
+              (PP (IN 34__of)
+                (NP (DT 35__the) (JJ 36__global) (VBG 37__trading) (NNS 38__houses))))))))
+    (. 39__.)))
+
+(ROOT
+  (SINV (, 21__,) ('' 22__'')
+    (VP (VBZ 23__says)
+      (SBAR (-NONE- 24__0_NULL)
+        (S
+          (S-TPC
+            (SBAR-ADV
+              (S
+                (NP-SBJ
+                  (WHNP (WP 1__What)))
+                (VP (VBZ 2__'s)
+                  (NP-PRD (JJR 3__more)))))
+            (, 4__,)
+            (NP-SBJ
+              (NP (DT 5__the) (NNS 6__losses))
+              (SBAR
+                (S
+                  (NP-SBJ
+                    (NP (PRP 8__they))
+                    (CONJPP (CC 9__and)
+                      (NP (DT 10__the) (NNS 11__others))))
+                  (VP (VBD 12__caused)
+                    (NP
+                      (WHNP (-NONE- 7__0_NULL)))))))
+            (`` 13__``)
+            (VP (VBP 14__are)
+              (SBAR-NOM-PRD
+                (ADVP (RB 15__just))
+                (S
+                  (NP-SBJ (PRP 17__we))
+                  (VP (VBP 18__are)
+                    (VP (VBG 19__stumbling)
+                      (PP-CLR (IN 20__over)
+                        (NP
+                          (WHNP (WP 16__what)))))))))))))
+    (NP-SBJ (NNP 25__Mr.) (NNP 26__Stapf))
+    (, 27__,)
+    (S-ADV
+      (NP-SBJ (-NONE- __*-4))
+      (VP (VBG 28__adding)
+        (SBAR (IN 29__that)
+          (S
+            (NP-SBJ
+              (NP (DT 30__the) (NN 31__majority))
+              (PP (IN 32__of)
+                (NP (NNS 33__misdeeds))))
+            (ADVP (RB 34__probably))
+            (VP (VBP 35__go)
+              (S-CLR
+                (NP-SBJ (-NONE- __*-6))
+                (ADJP-PRD (JJ 36__undetected))))))))
+    (. 37__.)))
+
+(ROOT
+  (SINV (`` 1__``) ('' 20__'')
+    (VP (VBZ 21__asks)
+      (SBARQ
+        (SBARQ-TPC
+          (SQ
+            (NP-SBJ
+              (WHNP (WP 2__Who)))
+            (VP (VBZ 3__wants)
+              (S
+                (NP-SBJ (-NONE- __*-2))
+                (VP (TO 4__to)
+                  (VP (VB 5__be)
+                    (NP-PRD
+                      (NP (DT 6__a) (JJ 7__public) (NN 8__shareholder))
+                      (VP (VBG 9__investing)
+                        (PP-CLR (IN 10__in)
+                          (NP
+                            (NP (DT 11__a) (NN 12__company))
+                            (VP (VBN 13__controlled)
+                              (NP (-NONE- __*))
+                              (PP (IN 14__by)
+                                (NP-LGS
+                                  (NP (DT 15__the) (NNS 16__pilots) (POS 17__'))
+                                  (NN 18__union)))))))))))))
+          (. 19__?))))
+    (NP-SBJ
+      (NP (NNP 22__Candace) (NNP 23__Browning))
+      (, 24__,)
+      (NP
+        (NP (DT 25__an) (NN 26__analyst))
+        (PP-LOC (IN 27__at)
+          (NP (NNP 28__Wertheim) (NNP 29__Schroeder)
+            (CC 30__&)
+            (NNP 31__Co)))))
+    (. 32__.)))
+
+(ROOT
+  (SINV (, 5__,)
+    (VP (VBZ 6__says)
+      (SBAR (-NONE- 7__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ (-NONE- __*))
+            (ADVP (RB 1__Even))
+            (VP (VB 2__expect)
+              (NP (VBN 3__stolen) (NNS 4__bases)))))))
+    (NP-SBJ (DT 8__the)
+      (ADJP (JJ 9__wiry)
+        (CONJPP (CC 10__and)
+          (JJ 11__fit)))
+      (NNP 12__Mr.) (NNP 13__Campaneris))))
+
+(ROOT
+  (SINV (CC 1__Nor)
+    (VBD 2__did)
+    (NP-SBJ (PRP 3__they))
+    (VP (VB 4__return)
+      (NP
+        (NP (PRP$ 5__his) (NN 6__house)
+          (CC 7__and)
+          (NNS 8__contents))
+        (, 9__,)
+        (SBAR
+          (S
+            (NP-SBJ (PRP 11__he))
+            (VP (VBZ 12__values)
+              (NP
+                (WHNP (WDT 10__which)))
+              (PP-CLR (IN 13__at)
+                (NP
+                  (QP (RB 14__about) ($ 15__$) (CD 16__44,000))
+                  (-NONE- __*U*))))))))
+    (. 17__.)))
+
+(ROOT
+  (SINV (CC 1__Nor)
+    (VBZ 2__is)
+    (NP-SBJ (NNP 3__CBS))
+    (NP-PRD
+      (NP (DT 4__a) (NN 5__shoo-in))
+      (SBAR
+        (S
+          (NP-SBJ
+            (WHNP (-NONE- 6__0_NULL)))
+          (VP (TO 7__to)
+            (VP (VB 8__get)
+              (NP (JJ 9__blockbuster) (NNS 10__ratings)))))))
+    (. 11__.)))
+
+(ROOT
+  (SINV
+    (VP (VBP 3__are)
+      (ADJP-PRD
+        (ADJP-PRD-TPC (RBR 1__More) (JJ 2__important))))
+    (SBAR-NOM-SBJ
+      (S
+        (NP-SBJ (NNP 5__LSI))
+        (VP (VBZ 6__calls)
+          (S
+            (NP-SBJ
+              (WHNP (WP 4__what)))
+            (NP-PRD (`` 7__``)
+              (NP (JJ 8__psychological) (NNS 9__anchors))
+              ('' 10__'') (: 11__--)
+              (NP
+                (NP (DT 12__a) (JJ 13__few) (JJ 14__focal) (NNS 15__points))
+                (VP (VBN 16__calculated)
+                  (NP (-NONE- __*))
+                  (S-PRP
+                    (NP-SBJ (-NONE- __*-3))
+                    (VP (TO 17__to)
+                      (VP (VB 18__appeal)
+                        (PP-CLR (TO 19__to)
+                          (NP (DT 20__the) (NN 21__jury)))
+                        (PP-LOC (IN 22__on)
+                          (NP (DT 23__a) (NN 24__gut) (NN 25__level)))))))))))))
+    (. 26__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 15__is)
+      (PP-LOC-PRD
+        (PP-LOC-PRD-TPC (IN 1__Among)
+          (NP
+            (NP (DT 2__the) (NNS 3__things))
+            (SBAR
+              (S
+                (NP-SBJ (PRP 5__I))
+                (VP (VBD 6__learned)
+                  (NP
+                    (WHNP (-NONE- 4__0_NULL)))
+                  (S-ADV
+                    (NP-SBJ (-NONE- __*-4))
+                    (VP (VBG 7__covering)
+                      (NP (DT 8__the) (NNP 9__World) (NNP 10__Series))
+                      (NP-TMP (DT 11__these) (IN 12__past) (JJ 13__few) (NNS 14__weeks)))))))))))
+    (SBAR-SBJ (IN 16__that)
+      (S
+        (NP-SBJ
+          (NP (DT 17__the) (NNP 18__Richter) (NN 19__scale))
+          (, 20__,)
+          (SBAR
+            (S
+              (NP-SBJ
+                (WHNP (WDT 21__which)))
+              (VP (VBZ 22__measures)
+                (NP (NNS 23__earthquakes)))))
+          (, 24__,))
+        (VP (VBZ 25__is) (RB 26__n't)
+          (PP-PRD (IN 27__like)
+            (NP
+              (NP (DT 28__the) (CD 29__one))
+              (PP-LOC (IN 30__in)
+                (NP (PRP$ 31__your) (NN 32__bathroom))))))))
+    (. 33__.)))
+
+(ROOT
+  (SINV (VBD 1__were)
+    (NP-SBJ (PRP 2__they))
+    (ADJP-PRD (RB 3__not) (JJ 4__able)
+      (S
+        (NP-SBJ (-NONE- __*-1))
+        (VP (TO 5__to)
+          (VP (VB 6__send)
+            (PRT (RP 7__out))
+            (NP
+              (NP (NNS 8__mailings))
+              (VP
+                (VP (VBG 9__describing)
+                  (NP (DT 10__the) (JJS 11__latest) (NN 12__threat)))
+                (CONJPP (CC 13__and)
+                  (VP (VBG 14__asking)
+                    (PP-CLR (IN 15__for)
+                      (NP
+                        (NP (NN 16__money))
+                        (SBAR
+                          (S
+                            (NP-SBJ (-NONE- __*))
+                            (VP (TO 18__to)
+                              (VP (VB 19__fight)
+                                (NP (PRP 20__it))
+                                (ADVP-MNR
+                                  (WHADVP (-NONE- 17__0_NULL)))))))))))))))))))
+
+(ROOT
+  (SINV
+    (ADVP-TMP (RB 1__Now))
+    (VBZ 2__comes)
+    (NP-SBJ (NN 3__word)
+      (SBAR (IN 4__that)
+        (S
+          (NP-SBJ
+            (NP (NNP 5__IRS) (NNS 6__regulations))
+            (VP (VBG 7__being)
+              (VP (VBN 8__drafted)
+                (NP (-NONE- __*)))))
+          (VP (MD 9__could)
+            (VP (VB 10__put)
+              (NP (NNS 11__companies))
+              (PP-PUT (IN 12__in)
+                (NP
+                  (NP (NN 13__violation))
+                  (PP (IN 14__of)
+                    (NP (DT 15__the) (NN 16__tax) (NN 17__code)))))
+              (SBAR-ADV (IN 18__if)
+                (S
+                  (NP-SBJ (PRP 19__they))
+                  (VP
+                    (VP (VBP 20__make)
+                      (NP (NNS 21__loans))
+                      (PP-CLR (TO 22__to)
+                        (NP (NN 23__retiree) (NNS 24__shareholders)
+                          (CC 25__and)
+                          (NNS 26__directors))))
+                    (CONJPP (CC 27__but)
+                      (VP (VBP 28__do) (RB 29__n't)
+                        (VP (VB 30__make)
+                          (S
+                            (NP-SBJ (PRP 31__them))
+                            (ADJP-PRD (JJ 32__available)
+                              (PP (TO 33__to)
+                                (NP
+                                  (NP (JJ 34__other) (JJ 35__former) (NNS 36__workers))
+                                  (SBAR
+                                    (S
+                                      (NP-SBJ
+                                        (WHNP (WP 37__who)))
+                                      (ADVP-TMP (RB 38__usually))
+                                      (VP (VBD 39__earned)
+                                        (NP (JJR 40__less))))))))))))))))))))
+    (. 41__.)))
+
+null
+(ROOT
+  (SINV-TPC (CC 1__Nor)
+    (VBP 2__are)
+    (NP-SBJ (PRP 3__you))
+    (ADJP-PRD (JJ 4__free)
+      (S
+        (NP-SBJ (-NONE- __*-2))
+        (VP (TO 5__to)
+          (VP (VB 6__reprint)
+            (NP (JJ 7__such) (NN 8__material))))))))
+
+(ROOT
+  (SINV
+    (VP (VBD 1__Said)
+      (SBAR (-NONE- 2__0_NULL)
+        (S
+          (NP-SBJ (PRP 18__It) (DT 19__all))
+          (VP (VBZ 20__starts)
+            (ADVP (RB 21__all) (RB 22__over))
+            (ADVP-TMP (RB 23__again))
+            ('' 24__'')
+            (NP-TMP (NN 25__today))))))
+    (NP-SBJ
+      (NP (NNP 3__Earl) (NNP 4__Ellis))
+      (, 5__,)
+      (NP
+        (NP (DT 6__a) (NNP 7__Jacobson) (NN 8__partner))
+        (SBAR
+          (S
+            (NP-SBJ
+              (WHNP (WP 9__who)))
+            (VP (VBD 10__got)
+              (VP (VBN 11__involved)
+                (NP (-NONE- __*-3))
+                (PP-CLR (IN 12__in)
+                  (NP (DT 13__the) (NNP 14__UAL) (NN 15__action)))))))))
+    (, 16__,) (`` 17__``) (. 26__.)))
+
+(ROOT
+  (SINV
+    (VP (VBP 2__are)
+      (ADVP-LOC-PRD
+        (ADVP-LOC-PRD-TPC (RB 1__Here))))
+    (NP-SBJ
+      (NP (NN 3__price) (NNS 4__trends))
+      (PP-LOC (IN 5__on)
+        (NP
+          (NP (DT 6__the) (NN 7__world) (POS 8__'s))
+          (JJ 9__major) (NN 10__stock) (NNS 11__markets))))
+    (, 12__,)
+    (SBAR-ADV (IN 13__as)
+      (S
+        (NP-SBJ (-NONE- __*))
+        (VP (VBN 14__calculated)
+          (NP (-NONE- __*-2))
+          (PP (IN 15__by)
+            (NP-LGS
+              (NP (NNP 16__Morgan) (NNP 17__Stanley) (NNP 18__Capital) (NNP 19__International) (NNP 20__Perspective))
+              (, 21__,)
+              (NP-LOC (NNP 22__Geneva)))))))
+    (. 23__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__Says)
+      (SBAR (-NONE- 2__0_NULL)
+        (S
+          (S-NOM-SBJ
+            (NP-SBJ (-NONE- __*))
+            (VP (VBG 11__prosecuting)
+              (NP (NNP 12__Mrs.) (NNP 13__Yeargin))))
+          (VP (VBZ 14__is) (`` 15__``)
+            (NP-PRD
+              (NP (DT 16__a) (NN 17__way))
+              (SBAR (IN 18__for)
+                (S
+                  (NP-SBJ (NNS 20__administrators))
+                  (VP (TO 21__to)
+                    (VP
+                      (VP (VB 22__protect)
+                        (NP (PRP 23__themselves))
+                        (ADVP-MNR
+                          (WHADVP (-NONE- 19__0_NULL))))
+                      (CC 24__and)
+                      (VP (VB 25__look)
+                        (SBAR-PRD (IN 26__like)
+                          (S
+                            (NP-SBJ (PRP 27__they))
+                            (VP (VBP 28__take)
+                              (NP (NN 29__cheating))
+                              (ADVP-MNR (RB 30__seriously))
+                              (ADVP-MNR
+                                (WHADVP (-NONE- 19__0_NULL)))))))
+                      (, 31__,)
+                      (SBAR-TMP
+                        (PP (IN 33__in)
+                          (NP (NN 34__fact)))
+                        (S
+                          (NP-SBJ (PRP 35__they))
+                          (VP (VBP 36__do) (RB 37__n't)
+                            (VP (VB 38__take)
+                              (NP (PRP 39__it))
+                              (ADVP-MNR (RB 40__seriously))
+                              (ADVP (IN 41__at) (DT 42__all))
+                              (ADVP-TMP
+                                (WHADVP (WRB 32__when))))))))))))))))
+    (NP-SBJ
+      (NP
+        (NP (DT 3__the) (NN 4__organization) (POS 5__'s))
+        (NN 6__founder))
+      (, 7__,)
+      (NP (NNP 8__John) (NNP 9__Cannell))
+      (, 10__,))
+    (. 43__.) ('' 44__'')))
+
+(ROOT
+  (SINV
+    (VP (VBD 21__asked)
+      (SBARQ
+        (SBARQ-TPC
+          (SQ (VBZ 2__has)
+            (NP-SBJ
+              (NP (PRP 3__it))
+              (SBAR (-NONE- __*EXP*-1)))
+            (VP (VBN 4__taken)
+              (NP (NNS 5__people))
+              (ADVP-TMP-CLR (RB 6__so) (RB 7__long))
+              (SBAR (IN 8__for)
+                (S
+                  (NP-SBJ (NNS 9__people))
+                  (VP (TO 10__to)
+                    (VP (VB 11__understand)
+                      (SBAR (-NONE- 12__0_NULL)
+                        (S
+                          (NP-SBJ (JJ 13__pediatric) (NNP 14__AIDS))
+                          (VP (VBZ 15__is)
+                            (NP-PRD (DT 16__a) (JJ 17__major) (NN 18__problem)))))))))
+              (ADVP-PRP
+                (WHADVP (WRB 1__Why)))))
+          (. 19__?) ('' 20__''))))
+    (NP-SBJ
+      (NP (NNP 22__Helen) (NNP 23__Kushnick))
+      (, 24__,)
+      (SBAR
+        (S
+          (NP-SBJ
+            (WHNP
+              (WHNP (WP$ 25__whose) (NN 26__son))
+              (NP (NNP 27__Samuel))))
+          (VP (VBD 28__died)
+            (ADVP-TMP
+              (NP (CD 29__six) (NNS 30__years))
+              (RB 31__ago))
+            (PP (IN 32__at)
+              (NP (NN 33__age) (CD 34__three)))
+            (, 35__,)
+            (S-ADV
+              (NP-SBJ (-NONE- __*-5))
+              (NP-PRD
+                (NP (NN 36__victim))
+                (PP (IN 37__of)
+                  (NP (DT 38__a) (JJ 39__tainted) (NN 40__transfusion)))))))))
+    (. 41__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__Says)
+      (SBAR (-NONE- 2__0_NULL)
+        (S
+          (NP-SBJ (DT 14__The) (`` 15__``) (NNS 16__markets))
+          (VP (VBP 17__are)
+            (VP (VBN 18__headed)
+              (NP (-NONE- __*-1))
+              (PP-CLR (IN 19__for)
+                (NP
+                  (NP (NN 20__growth))
+                  (ADJP
+                    (ADJP
+                      (ADJP (JJ 21__unheard) (IN 22__of))
+                      (CONJPP (CC 23__and)
+                        (ADJP (JJ 24__unseen))))
+                    (ADVP-TMP (RB 25__before))))))))))
+    (NP-SBJ
+      (NP (NNP 3__M.J.) (NNP 4__Pherwani))
+      (, 5__,)
+      (NP
+        (NP (NN 6__chairman))
+        (PP (IN 7__of)
+          (NP
+            (NP (DT 8__the) (NNP 9__Unit) (NNP 10__Trust))
+            (PP (IN 11__of)
+              (NP (NNP 12__India)))))))
+    (: 13__:) (. 26__.) ('' 27__'')))
+
+(ROOT
+  (SINV
+    (VP (VBZ 2__'s)
+      (ADVP-LOC-PRD
+        (ADVP-LOC-PRD-TPC (RB 1__Here))))
+    (SBAR-NOM-SBJ
+      (S
+        (NP-SBJ (-NONE- __*))
+        (VP (TO 4__to)
+          (VP (VB 5__interpret)
+            (NP (DT 6__a) (JJ 7__standard) (NN 8__deviation) (NN 9__figure))
+            (ADVP-MNR
+              (WHADVP (WRB 3__how)))))))))
+
+(ROOT
+  (SINV (`` 1__``) (, 14__,) ('' 15__'')
+    (VP (VBD 16__said)
+      (S
+        (S-TPC
+          (NP-SBJ (PRP 2__We))
+          (VP (VBP 3__have) (RB 4__n't)
+            (VP (VBN 5__benefited)
+              (NP (DT 6__the) (NN 7__shareholder))
+              (ADVP
+                (ADVP (RB 8__as) (RB 9__much))
+                (SBAR (IN 10__as)
+                  (S
+                    (NP-SBJ (PRP 11__we))
+                    (VP (VBP 12__need)
+                      (S
+                        (NP-SBJ (-NONE- __*-2))
+                        (VP (TO 13__to)
+                          (VP (-NONE- __*?*)))))))))))))
+    (NP-SBJ
+      (NP (NNP 17__Edgar) (NNP 18__Woolard) (NNP 19__Jr.))
+      (, 20__,)
+      (NP
+        (NP (NNP 21__Du) (NNP 22__Pont) (POS 23__'s))
+        (NN 24__chairman)
+        (CC 25__and)
+        (NN 26__chief) (NN 27__executive) (NN 28__officer))
+      (, 29__,))
+    (PP-LOC (IN 30__in)
+      (NP (DT 31__an) (NN 32__interview)))
+    (SBAR-TMP
+      (NP-ADV (JJ 33__several) (NNS 34__months))
+      (IN 35__before)
+      (S
+        (NP-SBJ (PRP 36__he))
+        (VP (VBD 37__entered)
+          (NP (PRP$ 38__his) (JJ 39__current) (NN 40__position))
+          (PP-TMP (IN 41__in)
+            (NP (NNP 42__April))))))
+    (. 43__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__Says)
+      (S (`` 6__``)
+        (NP-SBJ (NN 7__Everybody) (RB 8__else))
+        (VP (VBD 9__had)
+          (VP
+            (VP (VBN 10__brought)
+              (PRT (RP 11__in))
+              (NP (DT 12__the) (NNS 13__wagons)))
+            (CONJPP (CC 14__and)
+              (VP (VBN 15__made)
+                (NP (PRP$ 16__their) (NN 17__deal))))))))
+    (NP-SBJ (CD 2__one) (NN 3__city) (NN 4__official))
+    (: 5__:) (. 18__.)))
+
+(ROOT
+  (SINV (, 4__,)
+    (PP (IN 5__of)
+      (NP (NN 6__course)))
+    (, 7__,)
+    (VP (VBZ 8__goes)
+      (PP-CLR
+        (PP-TPC-CLR (IN 1__With)
+          (NP (DT 2__that) (NN 3__authority)))))
+    (NP-SBJ (DT 9__an) (JJ 10__unambiguous) (NN 11__accountability))
+    (. 12__.)))
+
+(ROOT
+  (SINV (`` 1__``) ('' 6__'')
+    (VP (VBZ 7__growls)
+      (FRAG
+        (FRAG-TPC (NNS 2__Babies) (, 3__,) (NNS 4__kiddies) (, 5__,))))
+    (NP-SBJ
+      (NP (PRP$ 8__their) (NN 9__manager))
+      (: 10__--)
+      (NP
+        (NP (DT 11__a) (NN 12__fellow))
+        (VP (VBN 13__named)
+          (S
+            (NP-SBJ (-NONE- __*-2))
+            (NP-PRD (NNP 14__Earl) (NNP 15__Weaver))))
+        (, 16__,)
+        (SBAR (, 18__,)
+          (S
+            (S
+              (PP-TMP (IN 19__in)
+                (NP (DT 20__a) (JJ 21__different) (NN 22__time)))
+              (, 23__,)
+              (NP-SBJ
+                (WHNP (WP 17__who)))
+              (VP (VBD 24__handled)
+                (NP (CD 25__four) (NNP 26__World) (NNP 27__Series) (NNS 28__teams))))
+            (CC 29__and)
+            (ADVP-TMP (RB 30__now))
+            (S
+              (NP-SBJ
+                (WHNP (WP 17__who)))
+              (VP (VBZ 31__handles)
+                (NP (DT 32__the) (NNP 33__Gold) (NNP 34__Coast) (NNPS 35__Suns))))))))
+    (. 36__.)))
+
+(ROOT
+  (SINV (CC 1__Nor)
+    (VBZ 2__has)
+    (NP-SBJ (NNP 3__Beijing))
+    (VP (VBN 4__hinted)
+      (PP-CLR (TO 5__to)
+        (NP (PRP$ 6__its) (NNS 7__citizens)))
+      (SBAR (IN 8__that)
+        (S
+          (NP-SBJ (PRP 9__it))
+          (VP (MD 10__will)
+            (VP (VB 11__publish)
+              (NP
+                (NP (DT 12__the) (NNS 13__identities))
+                (PP (IN 14__of)
+                  (NP
+                    (NP (DT 15__those))
+                    (VP (VBN 16__killed)
+                      (NP (-NONE- __*)))))))))))
+    (. 17__.)))
+
+(ROOT
+  (SINV
+    (VP (VBD 12__said)
+      (S
+        (S-TPC (`` 1__``)
+          (NP-SBJ
+            (NP (DT 2__The) (JJ 3__last) (NN 4__thing))
+            (SBAR
+              (S
+                (NP-SBJ (NNS 6__markets))
+                (VP (VBP 7__like)
+                  (NP
+                    (WHNP (-NONE- 5__0_NULL)))))))
+          (VP (VBZ 8__is)
+            (NP-PRD (NN 9__uncertainty)))
+          (, 10__,) ('' 11__'')))
+      (PP-CLR (IN 24__of)
+        (NP
+          (NP (DT 25__the) (NNS 26__resignations))
+          (PP (IN 27__of)
+            (NP
+              (NP
+                (NAC (NNP 28__Chancellor)
+                  (PP (IN 29__of)
+                    (NP (DT 30__the) (NNP 31__Exchequer))))
+                (NNP 32__Nigel) (NNP 33__Lawson))
+              (CONJPP (CC 34__and)
+                (NP (JJ 35__chief) (JJ 36__economic) (NN 37__adviser) (NNP 38__Sir) (NNP 39__Alan) (NNP 40__Walters))))))))
+    (NP-SBJ
+      (NP (NNP 13__Ian) (NNP 14__Harwood))
+      (, 15__,)
+      (NP
+        (NP (JJ 16__chief) (NN 17__economist))
+        (PP-LOC (IN 18__at)
+          (NP (NNP 19__S.G.) (NNP 20__Warburg)
+            (CC 21__&)
+            (NNP 22__Co.))))
+      (, 23__,))
+    (. 41__.)))
+
+(ROOT
+  (SINV (CC 1__But)
+    (, 21__,)
+    (VP (VBZ 22__says)
+      (SBAR (-NONE- 23__0_NULL)
+        (S
+          (S-TPC
+            (SBAR-TMP (RB 2__once)
+              (S
+                (NP-SBJ (DT 3__a) (NN 4__franchisee))
+                (VP (VBZ 5__agrees)
+                  (PP-CLR (TO 6__to)
+                    (NP (DT 7__a) (JJ 8__promotional) (NN 9__program))))))
+            (, 10__,)
+            (NP-SBJ (DT 11__the) (NN 12__franchiser))
+            (VP (MD 13__can)
+              (VP (VB 14__demand)
+                (NP (JJ 15__full) (NN 16__participation))
+                (PP-TMP (TO 17__to)
+                  (NP (DT 18__the) (JJ 19__very) (NN 20__end)))))))))
+    (NP-SBJ
+      (NP (NNP 24__Lew) (NNP 25__Rudnick))
+      (, 26__,)
+      (NP
+        (NP (DT 27__a) (NN 28__principal))
+        (PP (IN 29__of)
+          (NP
+            (NP (NNP 30__Rudnick)
+              (CONJPP (CC 31__&)
+                (NNP 32__Wolfe)))
+            (, 33__,)
+            (NP
+              (NP (DT 34__a) (NNP 35__Chicago) (NN 36__law) (NN 37__firm))
+              (PP (IN 38__with)
+                (NP (NN 39__franchise) (NN 40__industry) (NNS 41__clients))))))))
+    (. 42__.)))
+
+(ROOT
+  (SINV (CC 1__But)
+    (VP (VBZ 3__lies)
+      (ADVP-LOC-TPC (RB 2__therein)))
+    (NP-SBJ
+      (NP
+        (NP (DT 4__another) (NN 5__aspect))
+        (PP (IN 6__of)
+          (NP (NN 7__investment) (NN 8__risk))))
+      (: 9__:)
+      (NP
+        (NP (DT 10__the) (NN 11__hazard))
+        (PP (IN 12__of)
+          (S-NOM
+            (NP-SBJ (-NONE- __*))
+            (VP
+              (VP (VBG 13__shaping)
+                (NP (PRP$ 14__your) (NN 15__portfolio))
+                (S-PRP
+                  (NP-SBJ (-NONE- __*-2))
+                  (VP (TO 16__to)
+                    (VP (VB 17__avoid)
+                      (NP
+                        (NP
+                          (QP (CD 18__one)
+                            (CONJPP (CC 19__or)
+                              (JJR 20__more)))
+                          (NNS 21__types))
+                        (PP (IN 22__of)
+                          (NP (NN 23__risk))))))))
+              (CONJPP (CC 24__and)
+                (VP (VBG 25__being)
+                  (VP (JJ 26__blind-sided)
+                    (NP (-NONE- __*-2))
+                    (PP (IN 27__by)
+                      (NP-LGS (NNS 28__others)))))))))))
+    (. 29__.)))
+
+(ROOT
+  (SINV (VBD 1__had)
+    (NP-SBJ (PRP 2__it))
+    (RB 3__not)
+    (VP (VBN 4__been)
+      (PP-PRD (IN 5__for)
+        (NP
+          (NP (DT 6__a) (NN 7__drop))
+          (PP-LOC (IN 8__in)
+            (NP
+              (NP (JJ 9__civilian) (NN 10__aircraft) (NNS 11__bookings))
+              (, 12__,)
+              (NP
+                (NP (DT 13__a) (NN 14__category))
+                (SBAR
+                  (S
+                    (NP-SBJ
+                      (WHNP (WDT 15__that)))
+                    (VP (VBZ 16__is)
+                      (VP (VBG 17__showing)
+                        (NP (NNS 18__declines))
+                        (PP-TMP
+                          (ADVP (RB 19__only))
+                          (IN 20__after)
+                          (NP
+                            (NP (DT 21__a) (JJ 22__huge) (NN 23__surge))
+                            (NP-TMP (RBR 24__earlier) (DT 25__this) (NN 26__year))))))))))))))))
+
+(ROOT
+  (SINV
+    (ADVP (RB 1__Thus))
+    (VBP 2__have)
+    (NP-SBJ
+      (NP (NNP 3__Charles) (NNP 4__Colson))
+      (CONJPP (CC 5__and)
+        (NP (NNP 6__Jeb) (NNP 7__Magruder))))
+    (VP (VBN 8__launched)
+      (NP (JJ 9__successful) (JJ 10__post-Watergate) (NNS 11__careers))
+      (PP-CLR (IN 12__at)
+        (NP (DT 13__the) (NN 14__pulpit))))
+    (. 15__.)))
+
+(ROOT
+  (SINV (CC 1__Nor)
+    (MD 2__will)
+    (NP-SBJ
+      (NP (NNS 3__students))
+      (PP (IN 4__from)
+        (NP (JJ 5__racial-minority) (NNS 6__groups)))
+      (SBAR
+        (S
+          (NP-SBJ
+            (WHNP (WP 7__who)))
+          (VP (VBP 8__are)
+            (VP (VBN 9__admitted)
+              (NP (-NONE- __*-1))
+              (PP (IN 10__through)
+                (NP (DT 11__the) (JJ 12__new) (NN 13__category))))))))
+    (VP (VB 14__be)
+      (VP (VBN 15__counted)
+        (NP (-NONE- __*-3))
+        (PP-CLR (IN 16__against)
+          (NP
+            (NP (DT 17__the) (NN 18__affirmative-action) (`` 19__``) (NN 20__target) ('' 21__''))
+            (PP (IN 22__for)
+              (NP (PRP$ 23__their) (NN 24__group)))))))
+    (. 25__.)))
+
+(ROOT
+  (SINV
+    (ADVP (JJR 1__Worse))
+    (, 2__,)
+    (VP (VBZ 3__says)
+      (S
+        (S
+          (NP-SBJ (NN 10__Someone))
+          (VP (MD 11__will)
+            (VP (VB 12__get)
+              (NP (DT 13__a) (NN 14__heart) (NN 15__attack)))))
+        (CONJPP (CC 16__and)
+          (S
+            (NP-SBJ (DT 17__that))
+            (VP (MD 18__will)
+              (VP (VB 19__be)
+                (NP-PRD
+                  (NP (DT 20__the) (NN 21__end))
+                  (PP (IN 22__of)
+                    (NP (DT 23__the) (JJ 24__whole) (NN 25__story))))))))))
+    (NP-SBJ (NN 4__baseball) (NN 5__author) (NNP 6__Lawrence) (NNP 7__Ritter))
+    (, 8__,) (`` 9__``) (. 26__.) ('' 27__'')))
+
+(ROOT
+  (SINV (, 24__,)
+    (VP (VBZ 25__says)
+      (SBAR (-NONE- 26__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ (NNP 1__Sotheby) (POS 2__'s))
+            (VP (VBZ 3__is)
+              (VP (VBG 4__offering)
+                (NP (JJ 5__such) (NNS 6__deals))
+                (SBAR-PRP (IN 7__because)
+                  (S
+                    (NP-SBJ (PRP 8__it))
+                    (VP (VBZ 9__'s)
+                      (NP-PRD
+                        (NP (DT 10__an) (NN 11__art) (NNS 12__sellers) (POS 13__'))
+                        (NN 14__market))
+                      (, 15__,)
+                      (SBAR-LOC
+                        (ADVP (IN 16__at) (JJS 17__least))
+                        (S
+                          (NP-SBJ (DT 19__the) (JJS 20__best) (NNS 21__works))
+                          (VP (VBP 22__are)
+                            (VP (VBN 23__concerned)
+                              (NP (-NONE- __*-1))
+                              (ADVP-LOC
+                                (WHADVP (WRB 18__where))))))))))))))))
+    (NP-SBJ
+      (NP (NNP 27__Ralph) (NNP 28__Lerner))
+      (, 29__,)
+      (NP
+        (NP (DT 30__an) (NN 31__attorney)
+          (CONJPP (CC 32__and)
+            (NN 33__author)))
+        (PP (IN 34__of)
+          (NP
+            (NP (DT 35__the) (NN 36__book))
+            (`` 37__``)
+            (NP-TTL (NN 38__Art) (NN 39__Law))))))
+    (. 40__.) ('' 41__'')))
+
+(ROOT
+  (SINV
+    (SBAR-ADV (IN 1__If)
+      (S
+        (NP-SBJ (PRP 2__you))
+        (VP (VBP 3__start)
+          (S
+            (NP-SBJ (-NONE- __*-1))
+            (VP (VBG 4__saving)
+              (PP-PRP (IN 5__for)
+                (NP
+                  (NP (PRP$ 6__your) (NN 7__child) (POS 8__'s))
+                  (NN 9__eduction)))))
+          (PP-TMP (IN 10__on)
+            (NP (NNP 11__Jan.) (CD 12__1) (, 13__,) (CD 14__1990))))))
+    (, 15__,)
+    (VP (VBZ 17__'s)
+      (ADVP-LOC-PRD
+        (ADVP-LOC-PRD-TPC (RB 16__here))))
+    (NP-SBJ
+      (NP (DT 18__the) (JJ 19__monthly) (NN 20__sum))
+      (SBAR
+        (S
+          (NP-SBJ (PRP 22__you))
+          (VP (MD 23__will)
+            (VP (VB 24__need)
+              (S
+                (NP-SBJ (-NONE- __*-3))
+                (VP (TO 25__to)
+                  (VP (VB 26__invest)
+                    (NP
+                      (WHNP (-NONE- 21__0_NULL))))))
+              (S-PRP
+                (NP-SBJ (-NONE- __*-3))
+                (VP (TO 27__to)
+                  (VP (VB 28__pay)
+                    (PP-CLR (IN 29__for)
+                      (NP
+                        (NP (CD 30__four) (NNS 31__years))
+                        (PP-LOC (IN 32__at)
+                          (NP
+                            (NP (NNP 33__Yale))
+                            (CONJPP (, 34__,)
+                              (NP (NNP 35__Notre) (NNP 36__Dame))
+                              (CONJPP (CC 37__and)
+                                (NP
+                                  (NP (NNP 38__University))
+                                  (PP (IN 39__of)
+                                    (NP (NNP 40__Minnesota))))))))))))))))))
+    (. 41__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__snorts)
+      (S (-NONE- __*T*-1)))
+    (NP-SBJ (DT 2__the) (NN 3__narrator))
+    (PP-MNR (IN 4__with)
+      (NP (DT 5__a) (JJ 6__Texas) (NN 7__twang)))))
+
+(ROOT
+  (SINV (`` 1__``) (, 6__,) ('' 7__'')
+    (VP (VBZ 8__cries)
+      (PRT (RP 9__out))
+      (S
+        (S-TPC
+          (NP-SBJ (NN 2__Ski) (NN 3__school))
+          (VP (VBZ 4__is)
+            (ADJP-PRD (JJ 5__great))))))
+    (NP-SBJ
+      (NP (DT 10__a) (NN 11__tot))
+      (, 12__,)
+      (VP (VBN 13__bundled)
+        (NP (-NONE- __*))
+        (PP-CLR (IN 14__in)
+          (NP (DT 15__a) (NN 16__snowsuit)))))
+    (SBAR-TMP (IN 17__as)
+      (S
+        (NP-SBJ (PRP 18__he))
+        (VP (VBZ 19__plows)
+          (PP-DIR (RB 20__down)
+            (NP (DT 21__a) (NN 22__bunny) (NN 23__slope))))))
+    (. 24__.)))
+
+(ROOT
+  (SINV
+    (CONJP (RB 1__Not) (RB 2__only))
+    (VBZ 3__does)
+    (NP-SBJ (PRP$ 4__your) (NN 5__product))
+    (VP (VB 6__have)
+      (S
+        (NP-SBJ (-NONE- __*-1))
+        (VP (TO 7__to)
+          (VP (VB 8__be)
+            (ADJP-PRD (JJ 9__excellent))))))))
+
+(ROOT
+  (SINV (, 17__,)
+    (VP (VBD 18__said)
+      (S
+        (S-TPC
+          (NP-SBJ
+            (NP (VBG 1__Shrinking) (NN 2__profit) (NNS 3__margins))
+            (PP-LOC (IN 4__in)
+              (NP (NN 5__chemical)
+                (CC 6__and)
+                (NN 7__refining)
+                (CC 8__and)
+                (NN 9__marketing) (NNS 10__sectors))))
+          (VP (VBD 11__accounted)
+            (PP-CLR (IN 12__for)
+              (NP
+                (NP (JJS 13__most))
+                (PP (IN 14__of)
+                  (NP (DT 15__the) (NN 16__decline)))))))))
+    (NP-SBJ (NNP 19__Chairman) (NNP 20__C.J.) (NNP 21__Silas))
+    (PP-LOC (IN 22__in)
+      (NP (DT 23__a) (NN 24__statement)))
+    (. 25__.)))
+
+(ROOT
+  (SINV (VBZ 1__is)
+    (NP-SBJ
+      (NP (NN 2__pollution))
+      (CONJPP (, 3__,)
+        (NP (NN 4__water))
+        (CONJPP (CC 5__and)
+          (NP (DT 6__an) (JJ 7__adequate) (NN 8__labor) (NN 9__market)))))
+    (NP-PRD (-NONE- __*?*))))
+
+(ROOT
+  (SINV (VBD 1__did)
+    (NP-SBJ
+      (NP (NN 2__anticipation))
+      (PP (IN 3__of)
+        (NP
+          (NP (DT 4__a) (NN 5__report))
+          (PP (IN 6__on)
+            (NP
+              (NP (DT 7__the) (NN 8__economy) (POS 9__'s))
+              (JJ 10__third-quarter) (NN 11__performance))))))))
+
+(ROOT
+  (SINV
+    (VP (VBD 8__said)
+      (FRAG
+        (FRAG-TPC
+          (NP (`` 1__``) (DT 2__A) (JJ 3__crude) (JJ 4__obnoxious) (NN 5__hick) (, 6__,) ('' 7__'')))))
+    (NP-SBJ (CD 9__one) (NN 10__writer))))
+
+(ROOT
+  (SINV
+    (ADVP (RB 1__Perhaps))
+    (VP (VBD 4__was)
+      (ADJP-PRD
+        (ADJP-PRD-TPC (RBS 2__most) (JJ 3__dramatic))))
+    (NP-SBJ
+      (NP (DT 5__the) (NN 6__performance))
+      (PP (IN 7__of)
+        (NP
+          (NP (DT 8__the) (JJ 9__metropolitan) (NNP 10__New) (NNP 11__York) (NN 12__real-estate) (NN 13__market))
+          (, 14__,)
+          (SBAR
+            (S
+              (NP-SBJ
+                (WHNP (WDT 15__which)))
+              (VP (VBD 16__was)
+                (VP (VBG 17__booming)
+                  (SBAR-TMP (IN 18__until)
+                    (S
+                      (NP-SBJ (PRP 19__I))
+                      (VP (VBD 20__entered)
+                        (NP (PRP 21__it))
+                        (PP-TMP (IN 22__in)
+                          (NP
+                            (NP (JJ 23__late) (CD 24__1988))
+                            (, 25__,)
+                            (SBAR
+                              (S
+                                (NP-SBJ (PRP 29__it))
+                                (VP (VBD 30__posted)
+                                  (NP
+                                    (NP (DT 31__the) (JJ 32__first) (JJ 33__negative) (JJ 34__compound) (JJ 35__annual) (NN 36__growth) (NN 37__rate))
+                                    (PP-TMP (IN 38__in)
+                                      (NP (NNS 39__years))))
+                                  (PP-TMP
+                                    (WHPP (IN 26__at)
+                                      (WHNP (WDT 27__which) (NN 28__time)))))))))))))))))))
+    (. 40__.)))
+
+(ROOT
+  (SINV
+    (NP-TMP (NNP 4__Wednesday))
+    (VP (VBD 5__was)
+      (PP-PRD (IN 1__Among)
+        (NP (JJ 2__other) (NNS 3__winners))))
+    (NP-SBJ
+      (NP (NNP 6__Nippon) (NNP 7__Shokubai))
+      (, 8__,)
+      (SBAR
+        (S
+          (NP-SBJ
+            (WHNP (WDT 9__which)))
+          (VP (VBD 10__was)
+            (ADVP-PRD (IN 11__up)
+              (NP (CD 12__80)))
+            (PP-CLR (IN 13__at)
+              (NP (CD 14__2,410)))))))
+    (. 15__.)))
+
+(ROOT
+  (SINV
+    (VP (VBD 8__was)
+      (VP
+        (VP-TPC (VBG 1__Corresponding)
+          (PP-CLR (TO 2__to)
+            (NP
+              (NP (DT 3__the) (NN 4__fall))
+              (PP-LOC (IN 5__in)
+                (NP (NN 6__profit) (NNS 7__rates))))))))
+    (PRN (: 9__--)
+      (PP-TMP (IN 10__in)
+        (NP (DT 11__the) (JJ 12__early) (NNS 13__1980s)))
+      (: 14__--))
+    (NP-SBJ
+      (NP (DT 15__the) (NN 16__drop))
+      (PP-LOC (IN 17__in)
+        (NP
+          (NP
+            (NP (DT 18__the) (NN 19__number))
+            (VP (VBN 20__arrived)
+              (PP-CLR (IN 21__at)
+                (NP (-NONE- __*)))
+              (SBAR-ADV (IN 22__if)
+                (S
+                  (NP-SBJ (PRP 23__you))
+                  (VP (VBP 24__divide)
+                    (NP
+                      (NP (DT 25__the) (NN 26__market) (NN 27__value))
+                      (PP (IN 28__of)
+                        (NP (NNS 29__firms))))
+                    (PP-CLR (IN 30__by)
+                      (NP
+                        (NP (DT 31__the) (NN 32__replacement) (NNS 33__costs))
+                        (PP (IN 34__of)
+                          (NP (PRP$ 35__their) (NNS 36__assets))))))))))
+          (, 37__,)
+          (NP
+            (NP (DT 38__the) (JJ 39__famous) (NNP 40__Q) (NN 41__ratio))
+            (VP (VBN 42__associated)
+              (NP (-NONE- __*))
+              (PP-CLR (IN 43__with)
+                (NP (NNP 44__Prof.) (NNP 45__James) (NNP 46__Tobin))))))))
+    (. 47__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 22__,)
+    (VP (VBD 23__said)
+      (SBAR (-NONE- 24__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ (PRP 2__I))
+            (VP (VBP 3__am) (RB 4__not)
+              (ADJP-PRD (JJ 5__aware)
+                (SBAR (IN 6__that)
+                  (S
+                    (NP-SBJ (EX 7__there))
+                    (VP (VBZ 8__is)
+                      (NP-PRD
+                        (NP (NN 9__anything))
+                        (CONJPP (CC 10__but)
+                          (NP
+                            (NP (JJ 11__bipartisan) (NN 12__agreement))
+                            (PP (IN 13__for)
+                              (NP
+                                (NP (DT 14__the) (JJ 15__general) (NN 16__outline))
+                                ('' 17__'')
+                                (PP (IN 18__of)
+                                  (NP (DT 19__the) (JJ 20__revenue-raising) (NN 21__plan)))))))))))))))))
+    (NP-SBJ
+      (NP (DT 25__a) (NN 26__spokesman))
+      (PP (IN 27__for)
+        (NP (DT 28__the) (NN 29__governor))))
+    (, 30__,)
+    (PP-TMP (IN 31__after)
+      (NP
+        (NP (DT 32__a) (NNP 33__Monday) (NN 34__meeting))
+        (PP (IN 35__with)
+          (NP (JJ 36__legislative) (NNS 37__leaders)))
+        (PP (IN 38__over)
+          (NP (DT 39__the) (JJ 40__quake-relief) (NN 41__question)))))
+    (. 42__.)))
+
+(ROOT
+  (SINV
+    (ADVP (RB 1__Also))
+    (VP (VBP 4__are)
+      (PP-PRD
+        (PP-PRD-TPC (IN 2__for)
+          (NP (NN 3__sale)))))
+    (NP-SBJ
+      (NP
+        (NP (NNP 5__Buckingham) (NNP 6__Wile) (NNP 7__Co.))
+        (, 8__,)
+        (SBAR
+          (S
+            (NP-SBJ
+              (WHNP (WDT 9__which)))
+            (VP (VBZ 10__distributes)
+              (NP (NNP 11__Cutty) (NNP 12__Sark) (JJ 13__blended) (NN 14__whiskey))
+              (PP-LOC (IN 15__in)
+                (NP (DT 16__the) (NNP 17__U.S.))))))
+        (, 18__,))
+      (CONJPP (CC 19__and)
+        (NP
+          (NP
+            (NP (NNP 20__Whitbread) (POS 21__'s))
+            (NNP 22__Atlas) (NNP 23__Peak) (NNPS 24__Vineyards))
+          (PP-LOC (IN 25__in)
+            (NP
+              (NP (NNP 26__California) (POS 27__'s))
+              (NNP 28__Napa) (NNP 29__Valley))))))
+    (. 30__.)))
+
+(ROOT
+  (SINV
+    (VP (VBN 1__Wanted)
+      (NP (-NONE- __*-2)))
+    (: 2__:)
+    (NP-SBJ (CD 3__one) (NN 4__people))))
+
+(ROOT
+  (SINV
+    (VP (VBD 5__were)
+      (PP-LOC-PRD
+        (PP-LOC-PRD-TPC (IN 1__Among)
+          (NP (DT 2__the) (JJS 3__biggest) (NNS 4__winners)))))
+    (NP-SBJ (NN 6__brokerage-house) (NNS 7__stocks))
+    (, 8__,)
+    (S-ADV
+      (NP-SBJ (-NONE- __*-2))
+      (VP (VBG 9__responding)
+        (PP-CLR (TO 10__to)
+          (NP (JJ 11__heavy) (NN 12__trading) (NN 13__volume)))))
+    (. 14__.)))
+
+(ROOT
+  (SINV
+    (ADVP-LOC (RB 1__Here))
+    (, 2__,)
+    (PP-LOC (IN 3__in)
+      (NP
+        (NP (DT 4__an) (NN 5__area))
+        (ADJP
+          (ADJP (JJR 6__smaller))
+          (PP (IN 7__than)
+            (NP (DT 8__a) (NN 9__city) (NN 10__block))))))
+    (, 11__,)
+    (VP (VBD 12__lay)
+      (S
+        (NP-SBJ (-NONE- __*-5))
+        (VP (VBN 13__buried)
+          (NP (-NONE- __*-6)))))
+    (NP-SBJ
+      (NP (NNS 14__traces))
+      (PP (IN 15__of)
+        (NP
+          (NP
+            (NP (JJ 16__countless) (JJ 17__weird) (NNS 18__creatures))
+            (SBAR
+              (S
+                (NP-SBJ
+                  (WHNP (WDT 19__that)))
+                (VP (VBD 20__had)
+                  (VP (VBN 21__frolicked)
+                    (ADVP-TMP
+                      (NP
+                        (QP (RBR 22__more) (IN 23__than) (CD 24__500) (CD 25__million))
+                        (NNS 26__years))
+                      (RB 27__ago)))))))
+          (: 28__--)
+          (NP
+            (NP (NNS 29__creatures))
+            (SBAR
+              (S
+                (NP-SBJ
+                  (WHNP (WP$ 30__whose) (JJ 31__anatomical) (NN 32__variety)))
+                (VP
+                  (ADVP (RB 33__far))
+                  (VBD 34__exceeded)
+                  (SBAR-NOM
+                    (S
+                      (NP-SBJ
+                        (WHNP (WP 35__what)))
+                      (VP (MD 36__can)
+                        (VP (VB 37__be)
+                          (VP (VBN 38__found)
+                            (NP (-NONE- __*-1))
+                            (PP-LOC (IN 39__in)
+                              (NP (PDT 40__all)
+                                (NP (DT 41__the) (NN 42__world) (POS 43__'s))
+                                (NNS 44__oceans)))
+                            (NP-TMP (NN 45__today))))))))))))))
+    (. 46__.)))
+
+(ROOT
+  (SINV (-LRB- 1__-LRB-) (`` 2__``) (, 16__,) ('' 17__'')
+    (VP (VBZ 18__says)
+      (S
+        (S-TPC
+          (NP-SBJ (PRP 3__I))
+          (VP (VBP 4__defy)
+            (S
+              (NP-SBJ (PRP 5__you))
+              (VP (TO 6__to)
+                (VP (VB 7__come)
+                  (ADVP (RB 8__up))
+                  (PP (IN 9__with)
+                    (NP
+                      (NP (CD 10__one) (JJ 11__major) (NN 12__accomplishment))
+                      (PP (IN 13__of)
+                        (NP (NNP 14__David) (NNP 15__Dinkins))))))))))))
+    (NP-SBJ (NNP 19__Mr.) (NNP 20__Giuliani))
+    (. 21__.) (-RRB- 22__-RRB-)))
+
+(ROOT
+  (SINV
+    (VP (VBD 14__wrote)
+      (SBARQ
+        (SBARQ-TPC (`` 1__``) (VBZ 6__does)
+          (SQ
+            (NP-SBJ (PRP 7__he))
+            (VP (VB 8__think)
+              (SBAR (-NONE- 9__0_NULL)
+                (S
+                  (NP-SBJ (PRP 10__he))
+                  (VP (VBZ 11__is)
+                    (NP-PRD
+                      (WHNP
+                        (WHNP (WP 2__Who))
+                        (PP (IN 3__in)
+                          (NP (DT 4__the) (NN 5__hell))))))))))
+          (. 12__?) ('' 13__''))))
+    (NP-SBJ (DT 15__a) (JJ 16__third))))
+
+(ROOT
+  (SINV (CC 1__And)
+    (ADVP (RB 2__neither))
+    (MD 3__can)
+    (NP-SBJ (PRP$ 4__your) (NN 5__pilot))
+    (VP (-NONE- __*?*))
+    (. 6__.)))
+
+(ROOT
+  (SINV (MD 1__will)
+    (NP-SBJ (PRP 2__it))
+    (ADVP-TMP (RB 3__ever))
+    (VP (-NONE- __*?*))))
+
+(ROOT
+  (SINV (RB 1__So)
+    (VP (VBZ 3__'s)
+      (ADVP-LOC-PRD
+        (ADVP-LOC-PRD-TPC (RB 2__here))))
+    (NP-SBJ
+      (NP (DT 4__a) (NN 5__rundown))
+      (PP (IN 6__of)
+        (NP
+          (NP (DT 7__the)
+            (ADJP (RBS 8__most) (JJ 9__common))
+            (NNS 10__types))
+          (PP (IN 11__of)
+            (NP (NN 12__market) (NNS 13__orders)))
+          (VP (VBN 14__permitted)
+            (NP (-NONE- __*))
+            (PP (IN 15__by)
+              (NP-LGS (DT 16__the) (NN 17__stock)
+                (CC 18__and)
+                (NN 19__commodity) (NNS 20__exchanges)))))))
+    (. 21__.)))
+
+(ROOT
+  (SINV (CC 1__But)
+    (`` 2__``) (, 14__,) ('' 15__'')
+    (VP (VBZ 16__says)
+      (S
+        (S-TPC
+          (NP-SBJ (DT 3__the) (NNP 4__Soviet) (NNP 5__Union))
+          (VP (VBZ 6__has)
+            (NP
+              (NP (NNS 7__areas))
+              (SBAR
+                (S
+                  (NP-SBJ (PRP 9__it))
+                  (VP (VBZ 10__is) (RB 11__n't)
+                    (PP-LOC-PRD (IN 12__behind)
+                      (NP (NNP 13__Japan)))
+                    (ADVP-LOC
+                      (WHADVP (WRB 8__where)))))))))))
+    (NP-SBJ
+      (NP (NNP 17__Mikhail) (NNP 18__Shapovalov))
+      (PP (IN 19__of)
+        (NP
+          (NP (DT 20__the) (NNP 21__Soviet) (NNP 22__Ministry))
+          (PP (IN 23__of)
+            (NP (NNP 24__Foreign) (NNP 25__Economic) (NNP 26__Relations))))))
+    (. 27__.)))
+
+(ROOT
+  (SINV (, 4__,)
+    (PP-LOC (IN 5__among)
+      (NP (JJ 6__other) (NNS 7__things)))
+    (, 8__,)
+    (VP (VBD 9__were)
+      (VP
+        (VP-TPC (VBG 1__Fueling)
+          (NP (DT 2__the) (NN 3__growth)))))
+    (NP-SBJ
+      (NP (JJ 10__higher-than-expected) (NNS 11__prices))
+      (PP (IN 12__for)
+        (NP (JJ 13__certain) (NN 14__building) (NNS 15__products))))
+    (. 16__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 17__,)
+    (VP (VBZ 18__says)
+      (SBAR (-NONE- 19__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ
+              (NP (DT 2__The) (NN 3__threat))
+              (PP (IN 4__of)
+                (NP (NN 5__bankruptcy))))
+            (VP (VBZ 6__is)
+              (NP-PRD
+                (NP (DT 7__a) (JJ 8__legitimate) (NN 9__tool))
+                ('' 10__'')
+                (SBAR
+                  (S
+                    (NP-SBJ (-NONE- __*))
+                    (VP (TO 12__to)
+                      (VP (VB 13__extract)
+                        (NP (NN 14__money))
+                        (PP-CLR (IN 15__from)
+                          (NP (NNP 16__KKR)))
+                        (ADVP-MNR
+                          (WHADVP (-NONE- 11__0_NULL)))))))))))))
+    (NP-SBJ (CD 20__one) (JJ 21__big) (NNP 22__SCI) (NNP 23__TV) (NN 24__holder))))
+
+(ROOT
+  (SINV
+    (VP (VBD 6__were)
+      (NP-PRD
+        (NP-PRD-TPC
+          (NP (NNS 1__Issues))
+          (VP (VBN 2__discussed)
+            (NP (-NONE- __*))
+            (PP-LOC (IN 3__in)
+              (NP (DT 4__this) (NN 5__context)))))))
+    (NP-SBJ
+      (NP
+        (NP (DT 7__an) (NN 8__increase))
+        (PP-LOC (IN 9__in)
+          (NP (DT 10__the) (JJ 11__minimum) (NN 12__wage))))
+      (CONJPP (CC 13__and)
+        (NP
+          (NP (DT 14__an) (NN 15__increase))
+          (PP-LOC (IN 16__in)
+            (NP (JJ 17__child-care) (NN 18__spending))))))
+    (. 19__.)))
+
+(ROOT
+  (SINV
+    (SBAR-TMP (IN 1__As)
+      (S
+        (NP-SBJ
+          (NP (NNP 2__Mr.) (NNP 3__Noriega) (POS 4__'s))
+          (JJ 5__political) (NNS 6__troubles))
+        (VP (VBD 7__grew))))
+    (, 8__,)
+    (ADVP-CLR (RB 9__so))
+    (VBD 10__did)
+    (NP-SBJ
+      (NP
+        (NP (PRP$ 11__his) (NNS 12__offers))
+        (PP (IN 13__of)
+          (NP (NN 14__assistance)))
+        (PP (TO 15__to)
+          (NP (DT 16__the) (NNPS 17__Contras))))
+      (, 18__,)
+      (NP (DT 19__an) (JJ 20__apparent) (NN 21__attempt)
+        (S
+          (NP-SBJ (-NONE- __*))
+          (VP (TO 22__to)
+            (VP (VB 23__curry)
+              (NP (JJR 24__more) (NN 25__favor))
+              (PP-LOC (IN 26__in)
+                (NP (NNP 27__Washington))))))))
+    (. 28__.)))
+
+(ROOT
+  (SINV (, 22__,) ('' 23__'')
+    (VP (VBD 24__said)
+      (SBAR (-NONE- 25__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ (NNP 1__RU-486))
+            (`` 2__``)
+            (VP
+              (ADVP (RB 3__probably))
+              (VBZ 4__represents)
+              (NP
+                (NP (DT 5__a) (JJ 6__technical) (NN 7__advance))
+                (PP-LOC (IN 8__in)
+                  (NP
+                    (NP (DT 9__an) (NN 10__area))
+                    (SBAR
+                      (S
+                        (NP-SBJ (NN 12__none))
+                        (VP (VBZ 13__is)
+                          (VP (VBN 14__needed)
+                            (NP (-NONE- __*-487))
+                            (PRN (, 15__,)
+                              (CC 16__or)
+                              (ADVP
+                                (ADVP (IN 17__at) (JJS 18__least))
+                                (RB 19__not) (RB 20__very) (JJ 21__much)))
+                            (ADVP-LOC
+                              (WHADVP (WRB 11__where)))))))))))))))
+    (NP-SBJ
+      (NP (NNP 26__Phillip) (NNP 27__Stubblefield))
+      (, 28__,)
+      (NP
+        (NP (NN 29__president))
+        (PP (IN 30__of)
+          (NP (DT 31__the) (NNP 32__National) (NNP 33__Abortion) (NNP 34__Federation))))
+      (, 35__,))
+    (PP-LOC (IN 36__at)
+      (NP (DT 37__a) (JJ 38__reproductive) (NN 39__health) (NN 40__conference)))
+    (PP-TMP (IN 41__in)
+      (NP (CD 42__1986)))
+    (. 43__.)))
+
+(ROOT
+  (SINV
+    (VP (MD 2__would)
+      (VP (-NONE- __*?*)
+        (ADVP-PRD
+          (ADVP-PRD-TPC (RB 1__So)))))
+    (NP-SBJ (DT 3__the) (NNP 4__Little) (NNP 5__Tramp))
+    (, 6__,)
+    (PP (IN 7__for)
+      (NP (DT 8__that) (NN 9__matter)))
+    (. 10__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 9__,) ('' 10__'')
+    (VP (VBD 11__said)
+      (FRAG
+        (FRAG-TPC
+          (NP
+            (NP (NNS 2__Options) (NNS 3__traders))
+            (, 4__,)
+            (NP (NN 5__arbitrage) (NNS 6__traders))
+            (: 7__--)
+            (NP (NN 8__everyone))))))
+    (NP-SBJ (NNP 12__Mr.) (NNP 13__Bates))
+    (, 14__,)
+    (S-ADV
+      (NP-SBJ (-NONE- __*-2))
+      (VP (VBG 15__cooling)
+        (PRT (RP 16__down))
+        (PP (IN 17__with)
+          (NP
+            (NP (DT 18__a) (NN 19__carton))
+            (PP (IN 20__of)
+              (NP (NN 21__apple) (NN 22__juice)))))
+        (PP-TMP (IN 23__after)
+          (NP (DT 24__the) (NN 25__close)))
+        (NP-TMP (NN 26__yesterday))))
+    (. 27__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 3__is)
+      (ADJP-PRD
+        (ADJP-PRD-TPC (RB 1__equally) (JJ 2__striking))))
+    (NP-SBJ
+      (NP (DT 4__the) (NN 5__dominance))
+      (PP (IN 6__of)
+        (NP
+          (NP (NNP 7__Alaska))
+          (CONJPP (, 8__,)
+            (NP (NNP 9__Pennsylvania))
+            (CONJPP (CC 10__and)
+              (NP (NNP 11__West) (NNP 12__Virginia)))))))
+    (PP-PRP (IN 13__because) (IN 14__of)
+      (NP
+        (NP (PRP$ 15__their) (NN 16__power))
+        (ADVP-LOC (RB 17__elsewhere)
+          (PP (IN 18__in)
+            (NP (DT 19__the) (NNS 20__appropriations) (NN 21__process))))))))
+
+(ROOT
+  (SINV
+    (SBAR-ADV (IN 1__If)
+      (S
+        (NP-SBJ (PRP 2__it))
+        (VP (VBZ 3__does) (RB 4__not)
+          (ADVP (RB 5__quite))
+          (VP (VB 6__have)
+            (NP
+              (NP (NNP 7__Chandler) (POS 8__'s))
+              (JJ 9__special) (NN 10__magic))))))
+    (: 11__--)
+    (INTJ (RB 12__well))
+    (, 13__,)
+    (PP-TMP (IN 14__at)
+      (NP (DT 15__the) (NN 16__end)))
+    (, 17__,)
+    (CC 18__neither)
+    (VBD 19__did)
+    (NP-SBJ (NNP 20__Chandler))
+    (VP (-NONE- __*?*))
+    (. 21__.)))
+
+(ROOT
+  (SINV
+    (SINV
+      (VP (VBP 8__are)
+        (ADVP-PRD
+          (ADVP-PRD-TPC (RB 1__Soon)
+            (S
+              (NP-SBJ (-NONE- __*-3))
+              (VP (TO 2__to)
+                (VP (VB 3__feel)
+                  (NP-PRD
+                    (NP (DT 4__the) (NN 5__glare))
+                    (PP (IN 6__of)
+                      (NP (NN 7__attention))))))))))
+      (NP-SBJ
+        (NP
+          (NP (NNS 9__lawyers))
+          (ADVP-LOC (RB 10__elsewhere)
+            (PP (IN 11__in)
+              (NP (DT 12__the) (NN 13__state)))))
+        (CONJPP (, 14__,)
+          (NP (NNS 15__doctors))
+          (CONJPP (, 16__,)
+            (NP (NNS 17__dentists))
+            (CONJPP (, 18__,)
+              (CC 19__and)
+              (NP (NNS 20__accountants)))))))
+    (, 21__,)
+    (VP (VBZ 22__says))
+    (NP-SBJ
+      (NP (NNP 23__Frederick) (NNP 24__G.) (NNP 25__Hicks))
+      (, 26__,)
+      (NP
+        (NP (NN 27__director))
+        (PP (IN 28__of)
+          (NP
+            (NP (DT 29__the) (JJ 30__tax-department) (NN 31__division))
+            (SBAR
+              (S
+                (NP-SBJ
+                  (WHNP (WDT 32__that)))
+                (VP (VBZ 33__develops)
+                  (NP (DT 34__the) (JJ 35__computer-matching) (NNS 36__programs)))))))))
+    (. 37__.)))
+
+(ROOT
+  (SINV (VBP 1__are)
+    (NP-SBJ
+      (NP (JJ 2__Democratic) (NNS 3__members))
+      (PP (IN 4__of)
+        (NP (NNP 5__Congress))))))
+
+(ROOT
+  (SINV
+    (PP-TMP (RB 1__Not) (IN 2__since)
+      (NP (DT 3__the) (JJ 4__late) (NNS 5__1970s)))
+    (VP (VBZ 6__has))
+    (NP-SBJ (DT 7__the) (NN 8__horn))
+    (VP (VBN 9__been)
+      (PP-PRD
+        (PP (RB 10__so) (IN 11__up)
+          (PP (IN 12__for)
+            (NP (NNS 13__grabs))))
+        (SBAR-ADV (IN 14__as)
+          (S
+            (NP-SBJ (PRP 15__it))
+            (VP (VBZ 16__has)
+              (VP
+                (ADVP-TMP (RB 17__suddenly))
+                (VBN 18__become)
+                (PP-TMP (IN 19__in)
+                  (NP (RB 20__just) (DT 21__the) (JJ 22__past) (JJ 23__few) (NNS 24__weeks)))
+                (PP-PRD (-NONE- __*?*))))))))
+    (. 25__.)))
+
+(ROOT
+  (SINV (VB 1__come)
+    (NP-SBJ (CD 2__1997))))
+
+(ROOT
+  (SINV
+    (ADVP (RB 1__Still))
+    (, 2__,)
+    (VP (VBZ 3__says)
+      (S
+        (NP-SBJ (PRP 8__We))
+        (VP (VBP 9__need)
+          (S
+            (NP-SBJ (-NONE- __*-3))
+            (VP (TO 10__to)
+              (VP (VB 11__educate)
+                (NP (NNS 12__people))
+                (SBAR (IN 13__that)
+                  (S
+                    (NP-SBJ (PRP 14__they))
+                    (VP (VBP 15__need)
+                      (S
+                        (NP-SBJ (-NONE- __*-4))
+                        (VP (TO 16__to)
+                          (VP (VB 17__get)
+                            (PP-DIR (TO 18__to)
+                              (NP (DT 19__a) (NN 20__phone)))
+                            (ADVP-MNR
+                              (ADVP (RB 21__somehow))
+                              (, 22__,)
+                              (NP-ADV (DT 23__some) (NN 24__way))
+                              (, 25__,))
+                            (S-PRP
+                              (NP-SBJ (-NONE- __*-5))
+                              (VP (TO 26__to)
+                                (VP (VB 27__let)
+                                  (S
+                                    (NP-SBJ (NN 28__someone))
+                                    (VP (VB 29__know)
+                                      (SBAR
+                                        (S
+                                          (NP-SBJ (PRP$ 31__their) (NN 32__status))
+                                          (VP (VBZ 33__is)
+                                            (NP-PRD
+                                              (WHNP (WP 30__what)))))))))))))))))))))))
+    (NP-SBJ (NNP 4__Mr.) (NNP 5__Lee))
+    (: 6__:) (`` 7__``) (. 34__.) ('' 35__'')))
+
+(ROOT
+  (SINV (`` 1__``) (: 22__...) (. 23__?) ('' 24__'')
+    (VP (VBD 25__wrote)
+      (FRAG
+        (WHNP (WP 2__What))
+        (PP (IN 3__about)
+          (NP
+            (NP
+              (NP (DT 4__those) (NNS 5__institutions))
+              (SBAR
+                (S
+                  (NP-SBJ
+                    (WHNP (WDT 6__that)))
+                  (VP (VBP 7__are)
+                    (VP (VBN 8__supposed)
+                      (S
+                        (NP-SBJ (-NONE- __*-2))
+                        (VP (TO 9__to)
+                          (VP (VB 10__be)
+                            (NP-PRD
+                              (NP (DT 11__the) (NN 12__bedrock))
+                              (PP (IN 13__of)
+                                (NP (NN 14__society))))))))))))
+            (, 15__,)
+            (NP
+              (NP (DT 16__the) (NNS 17__banks))
+              (CONJPP (CC 18__and)
+                (NP (DT 19__the) (NN 20__bar) (NN 21__association))))))))
+    (NP-SBJ
+      (NP (DT 26__a) (NN 27__columnist))
+      (PP (IN 28__for)
+        (NP
+          (NP (DT 29__the) (NNP 30__Tribune-Democrat))
+          (, 31__,)
+          (NP
+            (NP (DT 32__a) (NN 33__newspaper))
+            (PP-LOC (IN 34__in)
+              (NP (JJ 35__nearby) (NNP 36__Johnstown))))
+          (, 37__,))))
+    (SBAR-TMP
+      (ADVP (RB 38__shortly))
+      (IN 39__after)
+      (S
+        (NP-SBJ (DT 40__the) (NN 41__scandal))
+        (VP (VBD 42__became)
+          (ADJP-PRD (JJ 43__public)))))
+    (. 44__.)))
+
+(ROOT
+  (SINV
+    (ADVP-TMP (RB 1__Never) (RB 2__once))
+    (VBD 3__did)
+    (NP-SBJ (PRP 4__she))
+    (VP
+      (VP (VB 5__gasp)
+        (PP-CLR (IN 6__for)
+          (NP (NN 7__air))))
+      (CONJPP (CC 8__or)
+        (VP (VB 9__mop)
+          (NP (PRP$ 10__her) (NN 11__brow)))))
+    (. 12__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 14__,) ('' 15__'')
+    (VP (VBD 16__said)
+      (S
+        (S-TPC
+          (NP-SBJ (PRP 2__We))
+          (VP (VBP 3__'re)
+            (VP (JJ 4__shocked)
+              (PP (IN 5__by)
+                (NP (PRP 6__it)))))
+          (, 7__,)
+          (SBAR (IN 8__because)
+            (S
+              (NP-SBJ (PRP 9__it))
+              (VP (VBZ 10__'s)
+                (VP (VBN 11__worked)
+                  (ADVP (RB 12__so) (RB 13__fast)))))))))
+    (NP-SBJ
+      (NP (NNP 17__Dr.) (NNP 18__Thomas) (NNP 19__E.) (NNP 20__Starzl))
+      (, 21__,)
+      (NP
+        (NP (NN 22__director))
+        (PP (IN 23__of)
+          (NP (DT 24__the)
+            (NAC (NNP 25__University)
+              (PP (IN 26__of)
+                (NP (NNP 27__Pittsburgh))))
+            (NNP 28__Transplantation) (NNP 29__Program))))
+      (, 30__,))
+    (PP-LOC (IN 31__at)
+      (NP (DT 32__a) (NN 33__news) (NN 34__conference)))
+    (ADVP-LOC (RB 35__here))
+    (NP-TMP (NN 36__yesterday))
+    (. 37__.)))
+
+(ROOT
+  (SINV (, 2__,)
+    (ADVP (RB 3__perhaps))
+    (, 4__,)
+    (VP (VBD 5__was)
+      (ADJP-PRD
+        (ADJP-PRD-TPC (JJ 1__Typical))))
+    (NP-SBJ
+      (NP (DT 6__the) (NN 7__situation))
+      (PP-LOC (IN 8__at)
+        (NP
+          (NP (NNP 9__New) (NNP 10__United) (NNP 11__Motor) (NNP 12__Manufacturing) (NNP 13__Inc.))
+          (, 14__,)
+          (NP
+            (NP (DT 15__the) (NNP 16__General) (NNPS 17__Motors) (JJ 18__Corp.-Toyota) (NN 19__joint-venture) (NN 20__auto) (NN 21__plant))
+            (PP-LOC (IN 22__in)
+              (NP
+                (NP (NNP 23__Fremont))
+                (, 24__,)
+                (ADVP-LOC
+                  (NP
+                    (QP (IN 25__about) (CD 26__35))
+                    (NNS 27__miles))
+                  (RB 28__south)
+                  (PP (IN 29__of)
+                    (NP (NNP 30__Oakland))))))))))
+    (. 31__.)))
+
+(ROOT
+  (SINV (`` 1__``) (`` 30__``)
+    (VP (VBZ 31__says)
+      (S
+        (S-TPC
+          (ADVP-TMP (DT 2__All) (RB 3__too) (RB 4__often))
+          (NP-SBJ (DT 5__this))
+          (VP (MD 6__will)
+            (ADVP (RB 7__merely))
+            (VP (VB 8__be)
+              (NP-PRD
+                (NP (DT 9__a) (NN 10__statement))
+                (PP (IN 11__on)
+                  (NP (DT 12__the) (NN 13__solicitation)))
+                (PP (JJ 14__such) (IN 15__as) (, 16__,)
+                  (S (`` 17__`)
+                    (S
+                      (NP-SBJ (-NONE- __*))
+                      (VP (VBP 18__Do) (RB 19__n't)
+                        (VP (VB 20__smoke))))
+                    (. 21__!) ('' 22__')
+                    (CC 23__or)
+                    (`` 24__`)
+                    (S
+                      (NP-SBJ (-NONE- __*))
+                      (VP (VB 25__Wear)
+                        (NP (NN 26__suntan) (NN 27__lotion))))
+                    (, 28__,) ('' 29__')))))))))
+    (NP-SBJ
+      (NP (NNP 32__William) (NNP 33__Webster))
+      (, 34__,)
+      (NP
+        (NP (NN 35__attorney) (NN 36__general))
+        (PP (IN 37__of)
+          (NP (NNP 38__Missouri)))))
+    (. 39__.)))
+
+(ROOT
+  (SINV (RB 1__so)
+    (VP (VBP 2__are)
+      (ADJP-PRD (-NONE- __*?*)))
+    (NP-SBJ
+      (NP (CD 3__99-cent) (NNS 4__specials))
+      (PP (IN 5__on)
+        (NP
+          (NP (NNS 6__sandwiches))
+          (VP
+            (ADVP (RB 7__normally))
+            (VBN 8__priced)
+            (NP (-NONE- __*))
+            (ADVP-CLR (RB 9__twice) (IN 10__as) (JJ 11__high))))))))
+
+(ROOT
+  (SINV (CC 1__But)
+    (PP (IN 2__with)
+      (NP (NN 3__growth)))
+    (VBP 4__come)
+    (NP-SBJ (NN 5__growing) (NNS 6__pains))))
+
+(ROOT
+  (SINV (RB 1__Not)
+    (PP-PRD (VBN|IN 2__included)
+      (PP (IN 3__on)
+        (NP (DT 4__the) (JJ 5__most-likely-successor) (NN 6__list))))
+    (VBP 7__are)
+    (NP-SBJ
+      (NP
+        (NP (NNP 8__Joni) (NNP 9__Evans))
+        (, 10__,)
+        (VP (VBN 11__recruited)
+          (NP (-NONE- __*))
+          (ADVP-TMP
+            (NP (CD 12__two) (NNS 13__years))
+            (IN 14__ago))
+          (S-PRP
+            (NP-SBJ (-NONE- __*))
+            (VP (TO 15__to)
+              (VP (VB 16__be)
+                (NP-PRD
+                  (NP (NN 17__publisher))
+                  (PP (IN 18__of)
+                    (NP (NN 19__adult) (NN 20__trade) (NNS 21__books)))
+                  (PP (IN 22__for)
+                    (NP (NNP 23__Random) (NNP 24__House)))))))))
+      (CONJPP (, 25__,)
+        (CC 26__and)
+        (NP
+          (NP (NNP 27__Sonny) (NNP 28__Mehta))
+          (, 29__,)
+          (NP
+            (NP (NN 30__president))
+            (PP (IN 31__of)
+              (NP (DT 32__the) (JJ 33__prestigious) (NNP 34__Alfred) (NNP 35__A.) (NNP 36__Knopf) (NN 37__unit)))))))
+    (. 38__.)))
+
+(ROOT
+  (SINV
+    (SINV (CC 1__But)
+      (PP (IN 2__with)
+        (NP (NN 3__growth)))
+      (VBP 4__come)
+      (NP-SBJ (NN 5__growing) (NNS 6__pains)))
+    (, 7__,)
+    (CC 8__and)
+    (SINV
+      (ADVP-TMP (RB 9__never))
+      (VBZ 10__has)
+      (NP-SBJ (DT 11__this))
+      (VP (VBN 12__been)
+        (ADJP-PRD
+          (ADJP (JJR 13__clearer))
+          (PP (IN 19__than)
+            (ADVP-TMP (RB 20__now))))
+        (PP-LOC (IN 14__on)
+          (NP (DT 15__the) (JJ 16__Indian) (NN 17__capital) (NN 18__market)))))
+    (. 21__.)))
+
+null
+(ROOT
+  (SINV
+    (PP (IN 1__As)
+      (PP (IN 2__for)
+        (NP
+          (NP (NNP 3__Mr.) (NNP 4__Sala) (POS 5__'s))
+          (NNS 6__qualifications))))
+    (, 7__,) (`` 8__``) (, 33__,) ('' 34__'')
+    (VP (VBZ 35__says)
+      (S
+        (S-TPC
+          (NP-SBJ
+            (NP (DT 9__the) (JJ 10__snooty) (NNS 11__attorneys))
+            (PP (IN 12__for)
+              (NP
+                (NP (DT 13__the) (NN 14__state))
+                (PP (IN 15__of)
+                  (NP (NNP 16__New) (NNP 17__York))))))
+          (VP (VBD 18__decided)
+            (SBAR (-NONE- 19__0_NULL)
+              (S
+                (NP-SBJ (NNP 20__Mr.) (NNP 21__Sala))
+                (VP (VBD 22__was) (RB 23__n't)
+                  (ADJP-PRD (VBD 24__qualified)))))
+            (SBAR-PRP (IN 25__because)
+              (S
+                (NP-SBJ (PRP 26__he))
+                (VP (VBD 27__did) (RB 28__n't)
+                  (VP (VB 29__have)
+                    (NP (DT 30__a) (NNP 31__Harvard) (NN 32__degree))))))))))
+    (NP-SBJ (NNP 36__Mr.) (NNP 37__Manion))
+    (. 38__.)))
+
+(ROOT
+  (SINV
+    (ADVP (RB 1__Also))
+    (NP-TMP (NN 3__yesterday))
+    (VP (VBD 4__were)
+      (ADJP-PRD
+        (ADJP-PRD-TPC (JJ 2__closed))))
+    (NP-SBJ
+      (NP
+        (NP (DT 5__the) (NN 6__company) (POS 7__'s))
+        (NNP 8__Santa) (NNP 9__Teresa) (NN 10__software-development) (NN 11__lab))
+      (CONJPP (CC 12__and)
+        (NP (DT 13__the) (NNP 14__Almaden) (NN 15__research) (NN 16__center))))
+    (. 17__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 10__says)
+      (S
+        (S-TPC (`` 1__``)
+          (S
+            (NP-SBJ (PRP 2__I))
+            (VP (VBP 3__agree)))
+          (, 4__,)
+          (S
+            (NP-SBJ (PRP 5__it))
+            (VP (VBZ 6__'s)
+              (ADJP-PRD (JJ 7__ridiculous))))
+          (, 8__,) ('' 9__''))))
+    (NP-SBJ (NNP 11__Mr.) (NNP 12__Boren))))
+
+(ROOT
+  (SINV (, 8__,) ('' 9__'')
+    (VP (VBZ 10__says)
+      (S
+        (S-TPC
+          (NP-SBJ (PRP 1__It))
+          (VP (MD 2__could)
+            (VP (VB 3__lose)
+              (NP
+                (NP (DT 4__some))
+                (PP (IN 5__of)
+                  (NP (PRP$ 6__its) (NN 7__dynamism)))))))))
+    (NP-SBJ
+      (NP (NNP 11__Mr.) (NNP 12__Mushkat))
+      (, 13__,)
+      (NP
+        (NP (DT 14__a) (NN 15__director))
+        (PP (IN 16__of)
+          (NP
+            (NP (NNP 17__Baring) (NNPS 18__Securities)
+              (PRN (-LRB- 19__-LRB-) (NNP 20__Hong) (NNP 21__Kong) (-RRB- 22__-RRB-))
+              (NNP 23__Ltd.))
+            (, 24__,)
+            (NP
+              (NP (DT 25__a) (NN 26__unit))
+              (PP (IN 27__of)
+                (NP
+                  (NP (NNP 28__Britain) (POS 29__'s))
+                  (NNPS 30__Barings) (NNP 31__PLC))))))))
+    (. 32__.) (`` 33__``)))
+
+(ROOT
+  (SINV
+    (VP (VBD 5__were)
+      (VP
+        (VP-TPC (VBN 1__Downgraded)
+          (NP (-NONE- __*-1))
+          (PP (IN 2__by)
+            (NP-LGS (NNP 3__Moody) (POS 4__'s))))))
+    (NP-SBJ
+      (NP (NNP 6__Houston) (NNP 7__Lighting) (POS 8__'s))
+      (NX
+        (NX (JJ 9__first-mortgage) (NNS 10__bonds))
+        (CONJPP (CC 11__and)
+          (NX (JJ 12__secured) (JJ 13__pollution-control) (NNS 14__bonds)))))
+    (PP-DIR (TO 15__to)
+      (NP (JJ 16__single-A-3)))
+    (PP-DIR (IN 17__from)
+      (NP (JJ 18__single-A-2)))))
+
+(ROOT
+  (SINV (CC 1__And)
+    (, 9__,) ('' 10__'')
+    (VP (VBZ 11__says)
+      (SBAR (-NONE- 12__0_NULL)
+        (S
+          (S-TPC
+            (ADVP-TMP (RB 2__then))
+            (, 3__,) (`` 4__``)
+            (NP-SBJ (PRP 5__he))
+            (VP (MD 6__wo) (RB 7__n't)
+              (VP (VB 8__panic)))))))
+    (NP-SBJ
+      (NP (NNP 13__J.) (NNP 14__Bruce) (NNP 15__Johnston))
+      (, 16__,)
+      (NP
+        (NP (DT 17__a) (JJ 18__former) (NNP 19__USX) (NN 20__executive))
+        (CC 21__and)
+        (ADVP-TMP (RB 22__now))
+        (NP
+          (NP (DT 23__a) (NN 24__labor)
+            (CC 25__and)
+            (NN 26__benefit) (NN 27__consultant))
+          (PP (IN 28__with)
+            (NP
+              (NP (NNP 29__Adler) (NNP 30__Cohen)
+                (CC 31__&)
+                (NNP 32__Grigsby))
+              (PP-LOC (IN 33__in)
+                (NP (NNP 34__Pittsburgh))))))))
+    (. 35__.)))
+
+(ROOT
+  (SINV (, 8__,) ('' 9__'')
+    (VP (VBD 10__said)
+      (S
+        (S-TPC
+          (NP-SBJ (DT 1__The) (NN 2__news))
+          (VP (MD 3__could) (RB 4__n't)
+            (VP (VB 5__have)
+              (VP (VBN 6__been)
+                (ADJP-PRD (JJR 7__better))))))))
+    (NP-SBJ
+      (NP (NNP 11__Linda) (NNP 12__Kristiansen))
+      (, 13__,)
+      (NP (DT 14__a) (NNP 15__Dean) (NNP 16__Witter) (NNP 17__Reynolds) (NN 18__analyst))
+      (, 19__,))
+    (PP-LOC (IN 20__in)
+      (NP (DT 21__an) (NN 22__interview)))
+    (. 23__.)))
+
+(ROOT
+  (SINV (, 20__,) ('' 21__'')
+    (VP (VBD 22__said)
+      (SBAR (-NONE- 23__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ (DT 1__That))
+            (VP (VBZ 2__'s)
+              (SBAR-PRD (`` 4__``)
+                (S
+                  (NP-SBJ (PRP 5__we))
+                  (VP (VBP 6__have)
+                    (VP (VBN 7__been)
+                      (VP (VBG 8__working)
+                        (ADVP-MNR (RB 9__hard))
+                        (S-PRP
+                          (NP-SBJ (-NONE- __*-3))
+                          (VP (TO 10__to)
+                            (VP (VB 11__develop)
+                              (NP
+                                (NP (DT 12__a) (JJ 13__single) (, 14__,)
+                                  (ADJP (RBR 15__more) (VBN 16__unified))
+                                  (NN 17__presence))
+                                (PP-LOC (IN 18__in)
+                                  (NP (NNP 19__Europe)))))))
+                        (ADVP-PRP
+                          (WHADVP (WRB 3__why)))))))))))))
+    (NP-SBJ
+      (NP (NNP 24__A.J.C.) (NNP 25__Smith))
+      (, 26__,)
+      (NP
+        (NP (NNP 27__Marsh)
+          (CC 28__&)
+          (NNP 29__McLennan) (POS 30__'s))
+        (NN 31__president))
+      (, 32__,))
+    (PP-LOC (IN 33__at)
+      (NP (DT 34__a) (NNP 35__London) (NN 36__news) (NN 37__conference)))
+    (NP-TMP (NN 38__yesterday))
+    (. 39__.)))
+
+(ROOT
+  (SINV (, 10__,) ('' 11__'')
+    (VP (VBZ 12__says)
+      (SBAR (-NONE- 13__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ (PRP 1__They))
+            (VP
+              (VP (VBD 2__were) (RB 3__n't)
+                (VP (VBN 4__fired)
+                  (NP (-NONE- __*-2))))
+              (CC 5__but)
+              (ADVP (RB 6__instead))
+              (`` 7__``)
+              (VP (VBD 8__were)
+                (VP (VBN 9__neglected)
+                  (NP (-NONE- __*-2)))))))))
+    (NP-SBJ
+      (NP (NNP 14__Kouji) (NNP 15__Hori))
+      (, 16__,)
+      (NP
+        (NP (DT 17__the) (JJ 18__personnel) (NN 19__manager))
+        (PP-LOC (IN 20__at)
+          (NP (DT 21__the) (NNP 22__Nissan) (NNP 23__Technical) (NNP 24__Center)))))))
+
+(ROOT
+  (SINV
+    (VP (VBG 1__Following))
+    (VBP 2__are)
+    (NP-SBJ
+      (NP (NNS 3__excerpts))
+      (PP (IN 4__from)
+        (NP
+          (NP (DT 5__the) (JJ 6__electronic) (NN 7__traffic))
+          (NP-TMP (DT 8__that) (NN 9__night)))))
+    (. 10__.)))
+
+(ROOT
+  (SINV
+    (PP-TMP (IN 5__in)
+      (NP (CD 6__1989)))
+    (VP (VBD 7__was)
+      (VP
+        (VP-TPC (VBG 1__Leading)
+          (NP (NNP 2__EC) (NN 3__growth) (NNS 4__forecasts)))))
+    (NP-SBJ
+      (NP (NNP 8__Ireland))
+      (, 9__,)
+      (VP (VBN 10__seen)
+        (S
+          (NP-SBJ (-NONE- __*))
+          (VP (VBG 11__growing)
+            (NP-EXT (CD 12__5) (NN 13__%))
+            (PP (IN 14__at)
+              (NP (JJ 15__constant) (NNS 16__prices)))))))
+    (. 17__.)))
+
+(ROOT
+  (SINV (VBZ 1__Promises)
+    (NP-SBJ (NNP 2__Feng-hsiung) (NNP 3__Hsu))
+    (: 4__:) (`` 5__``)
+    (S
+      (PP-TMP (IN 6__In)
+        (NP (CD 7__three) (NNS 8__years)))
+      (NP-SBJ (PRP 9__we))
+      (VP (MD 10__'ll)
+        (VP (VB 11__mount)
+          (NP (DT 12__a) (JJR 13__better) (NN 14__challenge)))))
+    (. 15__.) ('' 16__'')))
+
+(ROOT
+  (SINV
+    (ADVP-TMP (RB 1__Now))
+    (VP (VBZ 3__comes)
+      (ADVP-CLR
+        (ADVP-CLR-TPC (RB 2__along))))
+    (NP-SBJ (NNP 4__Stephen) (NNP 5__Jay) (NNP 6__Gould))
+    (S-PRP
+      (NP-SBJ (-NONE- __*-2))
+      (VP (TO 7__to)
+        (VP (VB 8__dash)
+          (NP (DT 9__this) (JJ 10__flattering) (NN 11__illusion)))))
+    (. 12__.)))
+
+(ROOT
+  (SINV
+    (PP-LOC (IN 5__in)
+      (NP (JJ 6__many) (NNS 7__cases)))
+    (VP (VBP 8__are)
+      (ADJP-PRD
+        (ADJP-PRD-TPC (RBR 1__More) (JJ 2__important)
+          (PP (IN 3__than)
+            (NP (NN 4__money))))))
+    (NP-SBJ
+      (NP (NNS 9__waivers))
+      (SBAR
+        (S
+          (NP-SBJ (NNP 11__California))
+          (VP (VBZ 12__is)
+            (VP (VBG 13__seeking)
+              (NP
+                (WHNP (-NONE- 10__0_NULL)))))))
+      (PP (IN 14__on)
+        (NP
+          (NP (JJ 15__current) (NNS 16__restrictions))
+          (VP (VBG 17__covering)
+            (NP (JJ 18__federal) (NN 19__highway) (NNS 20__funds)))
+          (, 21__,)
+          (PP (JJ 22__such) (IN 23__as)
+            (NP
+              (NP (DT 24__a)
+                (ADJP
+                  (QP ($ 25__$) (CD 26__100) (CD 27__million))
+                  (-NONE- __*U*))
+                (NN 28__cap))
+              (PP (IN 29__on)
+                (SBAR-NOM
+                  (S
+                    (NP-SBJ (DT 32__any) (JJ 33__single) (NN 34__state))
+                    (VP (MD 35__can)
+                      (VP (VB 36__receive)
+                        (NP
+                          (WHNP (WRB 30__how) (JJ 31__much)))
+                        (PP-MNR (IN 37__in)
+                          (NP (NN 38__emergency) (NNS 39__funds)))
+                        (PP-TMP (IN 40__in)
+                          (NP (DT 41__a) (NN 42__year)))))))))))))
+    (. 43__.)))
+
+null
+(ROOT
+  (SINV (VBD 1__was)
+    (NP-SBJ
+      (NP (NNP 2__Mussolini))
+      (, 3__,)
+      (SBAR
+        (S
+          (NP-SBJ
+            (WHNP (WP 4__who)))
+          (VP (VBD 5__was)
+            (ADVP-TMP (RB 6__never))
+            (ADJP-PRD (JJ 7__able)
+              (S
+                (NP-SBJ (-NONE- __*-3))
+                (VP (TO 8__to)
+                  (VP (VB 9__influence)
+                    (NP
+                      (NP (NN 10__business) (NNS 11__giants))
+                      (PP (JJ 12__such) (IN 13__as)
+                        (NP (NNP 14__Pirelli)
+                          (CONJPP (CC 15__and)
+                            (NNP 16__Fiat)))))))))))))
+    (PP-LOC-PRD (-NONE- __*?*))))
+
+(ROOT
+  (SINV
+    (ADVP-TMP (RB 1__First))
+    (VP (VBZ 2__comes)
+      (S-CLR
+        (NP-SBJ (-NONE- __*-2))
+        (VP (TO 5__to)
+          (VP (VB 6__drive)
+            (PRT (RP 7__down))
+            (NP
+              (NP
+                (NP (DT 8__the) (NN 9__currency) (POS 10__'s))
+                (NN 11__value))
+              (SBAR
+                (S
+                  (NP-SBJ
+                    (WHNP (WDT 12__that)))
+                  (VP (VBD 13__was)
+                    (VP (VBN 14__pushed)
+                      (NP (-NONE- __*-1))
+                      (PRT (RP 15__up))
+                      (PP (IN 16__by)
+                        (NP-LGS (JJ 17__tax-rate) (NN 18__reduction))))))))))))
+    (NP-SBJ (JJ 3__monetary) (NN 4__expansion))
+    (. 19__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 14__,)
+    (VP (VBD 15__said)
+      (SBAR (-NONE- 16__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ (EX 2__There))
+            (VP (VBZ 3__'s)
+              (NP-PRD
+                (NP (DT 4__a) (JJ 5__bottomless) (NN 6__pit))
+                (PP (IN 7__of)
+                  (NP
+                    (NP (NN 8__dollar) (NN 9__demand))
+                    ('' 10__'')
+                    (PP (IN 11__by)
+                      (NP (JJ 12__Japanese) (NNS 13__investors)))))))))))
+    (NP-SBJ
+      (NP (NNP 17__Graham) (NNP 18__Beale))
+      (, 19__,)
+      (NP
+        (NP (VBG 20__managing) (NN 21__director))
+        (PP (IN 22__of)
+          (NP (JJ 23__foreign) (NN 24__exchange)))
+        (PP-LOC (IN 25__at)
+          (NP
+            (NP (NNP 26__Hongkong)
+              (CC 27__&)
+              (NNP 28__Shanghai) (NNP 29__Banking) (NNP 30__Corp.))
+            (PP-LOC (IN 31__in)
+              (NP (NNP 32__New) (NNP 33__York)))))))
+    (, 34__,)
+    (S-ADV
+      (NP-SBJ (-NONE- __*-2))
+      (VP (VBG 35__adding)
+        (SBAR (IN 36__that)
+          (S
+            (NP-SBJ
+              (ADJP (RB 37__purely) (JJ 38__speculative))
+              (NN 39__demand))
+            (VP (MD 40__would) (RB 41__n't)
+              (VP (VB 42__hold)
+                (NP (DT 43__the) (NN 44__dollar))
+                (PP-LOC-CLR (IN 45__at)
+                  (NP (PRP$ 46__its) (JJ 47__recent) (NNS 48__levels)))
+                (PP (IN 49__against)
+                  (NP (DT 50__the) (JJ 51__Japanese) (NN 52__currency)))))))))
+    (. 53__.)))
+
+(ROOT
+  (SINV (CC 1__Nor)
+    (VBP 2__do)
+    (NP-SBJ (PRP 3__we))
+    (VP (VB 4__see)
+      (NP
+        (NP (DT 5__any) (NN 6__reason))
+        (SBAR
+          (S
+            (NP-SBJ (-NONE- __*))
+            (VP (TO 8__to)
+              (VP (VB 9__believe)
+                (SBAR (IN 10__that)
+                  (S
+                    (NP-SBJ
+                      (NP (DT 11__a) (JJ 12__metropolitan) (NNP 13__Washington))
+                      (SBAR
+                        (S
+                          (NP-SBJ
+                            (WHNP (WDT 14__that)))
+                          (VP (VBZ 15__has)
+                            (VP (VBN 16__gotten)
+                              (ADJP-PRD (JJ 17__fat)
+                                (CONJPP (CC 18__and)
+                                  (JJ 19__rich)
+                                  (CONJPP (CC 20__and)
+                                    (JJ 21__lazy))))
+                              (PP-LOC (IN 22__in)
+                                (NP
+                                  (NP (DT 23__the) (NN 24__shadow))
+                                  (PP (IN 25__of)
+                                    (NP (DT 26__the) (JJ 27__federal) (NN 28__colossus))))))))))
+                    (VP (MD 29__will)
+                      (VP (VB 30__change)
+                        (NP-EXT (RB 31__much))
+                        (PP (IN 32__on)
+                          (NP (PRP$ 33__its) (JJ 34__own) (NN 35__initiative)))))))
+                (ADVP-PRP
+                  (WHADVP (-NONE- 7__0_NULL)))))))))
+    (. 36__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 16__,) ('' 17__'')
+    (VP (VBD 18__quipped)
+      (S
+        (S-TPC
+          (NP-SBJ (-NONE- __*-5))
+          (VP (VBP 2__Think)
+            (SBAR (-NONE- 3__0_NULL)
+              (S
+                (NP-SBJ (PRP 4__I))
+                (VP (MD 5__'ll)
+                  (VP
+                    (VP (VB 6__redo)
+                      (NP (PRP$ 7__my) (NN 8__image)))
+                    (: 9__--)
+                    (VP (VB 10__get)
+                      (S
+                        (NP-SBJ (DT 11__this))
+                        (VP (VBN 12__changed)
+                          (NP (-NONE- __*-4))
+                          (PP-CLR (TO 13__to)
+                            (NP (DT 14__a) (NN 15__glove))))))))))))))
+    (NP-SBJ (DT 19__the) (JJ 20__big) (JJ 21__first) (NN 22__baseman))
+    (NP-TMP (NNP 23__Saturday) (NN 24__night))
+    (, 25__,)
+    (S-ADV
+      (NP-SBJ (-NONE- __*-2))
+      (VP (VBG 26__fingering)
+        (NP
+          (NP (DT 27__the) (JJ 28__gold) (NN 29__bat))
+          (SBAR
+            (S
+              (NP-SBJ (PRP 31__he))
+              (VP (VBZ 32__wears)
+                (NP
+                  (WHNP (-NONE- 30__0_NULL)))
+                (PP-MNR (IN 33__on)
+                  (NP (DT 34__a) (NN 35__neck) (NN 36__chain)))))))))
+    (. 37__.)))
+
+(ROOT
+  (SINV (CC 1__Nor)
+    (VBD 2__was)
+    (NP-SBJ (RB 3__there))
+    (NP-PRD
+      (NP (DT 4__a) (NN 5__shortage))
+      (PP (IN 6__of)
+        (NP (NNS 7__customers)))
+      (PP-LOC (IN 8__in)
+        (NP
+          (NP (DT 9__the) (NN 10__area))
+          (, 11__,)
+          (NP
+            (NP (DT 12__the) (JJ 13__residential) (NNP 14__Inwood) (NN 15__section))
+            (PP (IN 16__of)
+              (NP (JJ 17__northern) (NNP 18__Manhattan)))))))
+    (. 19__.)))
+
+null
+(ROOT
+  (SINV
+    (ADVP-TMP (RB 1__Only) (RB 2__recently))
+    (SINV (VBZ 3__has)
+      (NP-SBJ (PRP 4__it))
+      (VP (VBN 5__been)
+        (VP
+          (ADVP-MNR (RB 6__attractively))
+          (VBN 7__redesigned)
+          (NP (-NONE- __*-1)))))
+    (CC 8__and)
+    (SINV
+      (NP-SBJ=1 (PRP$ 9__its) (JJ 10__editorial) (NN 11__product))
+      (VP=3 (VBN 12__improved)
+        (NP (-NONE- __*-2))))
+    (. 13__.)))
+
+(ROOT
+  (SINV-TPC
+    (SBAR-ADV (RB 1__Just) (IN 2__as)
+      (S
+        (NP-SBJ (DT 3__the) (CD 4__1980s) (NN 5__bull) (NN 6__market))
+        (VP (VBD 7__transformed)
+          (NP (DT 8__the) (NNP 9__U.S.) (NNS 10__securities) (NN 11__business)))))
+    (, 12__,)
+    (ADVP (RB 13__so) (RB 14__too))
+    (VP (MD 15__will)
+      (VP (-NONE- __*?*)))
+    (NP-SBJ
+      (NP (DT 16__the) (RBR 17__more) (JJ 18__difficult) (NN 19__environment))
+      (PP (IN 20__of)
+        (NP (DT 21__the) (CD 22__1990s))))))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__Says)
+      (S
+        (NP-SBJ (DT 10__The) (NN 11__incentive) (NN 12__pay) (NN 13__thing))
+        (VP (VBZ 14__has)
+          (VP (VBN 15__opened)
+            (PRT (RP 16__up))
+            (NP
+              (NP (DT 17__a) (NN 18__can))
+              (PP (IN 19__of)
+                (NP (NNS 20__worms))))))))
+    (NP-SBJ
+      (NP (NNP 2__Gayle) (NNP 3__Key))
+      (, 4__,)
+      (NP (DT 5__a) (NN 6__mathematics) (NN 7__teacher))
+      (, 8__,))
+    (`` 9__``) (. 21__.)))
+
+(ROOT
+  (SINV ('' 18__'')
+    (VP (VBD 19__said)
+      (SBAR (-NONE- 20__0_NULL)
+        (S
+          (S-TPC
+            (ADVP (RB 1__Still))
+            (, 2__,) (`` 3__``)
+            (NP-SBJ
+              (NP (RB 4__Much) (RBR 5__less) (-LRB- 6__-LCB-) (NN 7__index-arbitrage) (NN 8__activity) (-RRB- 9__-RCB-))
+              (PP (IN 14__than)
+                (PP-LOC (IN 15__in)
+                  (NP (DT 16__the) (NNP 17__U.S.)))))
+            (VP (VBZ 10__is)
+              (VP (VBN 11__done)
+                (NP (-NONE- __*-161))
+                (PP-LOC (IN 12__over)
+                  (NP (RB 13__here)))))))))
+    (NP-SBJ
+      (NP (NNP 21__Richard) (NNP 22__Barfield))
+      (, 23__,)
+      (NP
+        (NP (NN 24__chief) (NN 25__investment) (NN 26__manager))
+        (PP-LOC (IN 27__at)
+          (NP
+            (NP (NNP 28__Standard) (NNP 29__Life) (NNP 30__Assurance) (NNP 31__Co.))
+            (, 32__,)
+            (SBAR
+              (S
+                (NP-SBJ
+                  (WHNP (WDT 33__which)))
+                (VP (VBZ 34__manages)
+                  (NP
+                    (NP
+                      (QP (IN 35__about) (# 36__#) (CD 37__15) (CD 38__billion))
+                      (-NONE- __*U*))
+                    (PRN (-LRB- 39__-LRB-)
+                      (NP
+                        (QP ($ 40__$) (CD 41__23.72) (CD 42__billion))
+                        (-NONE- __*U*))
+                      (-RRB- 43__-RRB-))
+                    (PP (IN 44__in)
+                      (NP (NNP 45__United) (NNP 46__Kingdom) (JJ 47__institutional) (NNS 48__funds)))))))))))
+    (. 49__.)))
+
+(ROOT
+  (SINV
+    (VP (VBD 7__was)
+      (ADJP-PRD
+        (ADJP-PRD-TPC (RB 1__also) (JJ 2__inherent)
+          (PP (IN 3__in)
+            (NP (DT 4__all) (NN 5__metal) (NNS 6__markets))))))
+    (NP-SBJ
+      (NP (DT 8__a) (JJ 9__sympathetic) (NN 10__reaction))
+      (PP (TO 11__to)
+        (NP (NNS 12__stocks))))))
+
+(ROOT
+  (SINV (CC 1__Nor)
+    (VBP 2__are)
+    (NP-SBJ
+      (NP (DT 3__any))
+      (PP (IN 4__of)
+        (NP (DT 5__these) (JJ 6__inefficient) (NNS 7__monoliths))))
+    (ADJP-PRD (JJ 8__likely)
+      (S
+        (NP-SBJ (-NONE- __*-1))
+        (VP (TO 9__to)
+          (VP (VB 10__be)
+            (VP (VBN 11__allowed)
+              (S
+                (NP-SBJ (-NONE- __*-2))
+                (VP (TO 12__to)
+                  (VP (VB 13__go)
+                    (ADJP-PRD (JJ 14__bankrupt))))))))))
+    (. 15__.)))
+
+(ROOT
+  (SINV
+    (ADVP (DT 1__neither))
+    (VBD 2__was)
+    (NP-SBJ (NNP 3__NBC) (NNP 4__News))
+    (VP (-NONE- __*?*))))
+
+(ROOT
+  (SINV
+    (CONJP (RB 1__Not) (RB 2__only))
+    (SINV (VBZ 3__is)
+      (NP-SBJ
+        (NP (NN 4__development))
+        (PP (IN 5__of)
+          (NP
+            (NP (DT 6__the) (JJ 7__new) (NN 8__company) (POS 9__'s))
+            (JJ 10__initial) (NN 11__machine))))
+      (VP (VBD 12__tied)
+        (NP (-NONE- __*-1))
+        (ADVP-MNR (RB 13__directly))
+        (PP-DIR-CLR (TO 14__to)
+          (NP (NNP 15__Mr.) (NNP 16__Cray)))))
+    (, 17__,)
+    (SINV
+      (VP (VBZ 19__is)
+        (ADVP-PRD
+          (ADVP-PRD-TPC (RB 18__so))))
+      (NP-SBJ (PRP$ 20__its) (NN 21__balance) (NN 22__sheet)))
+    (. 23__.)))
+
+(ROOT
+  (SINV
+    (ADVP-TMP (RB 1__Never))
+    (PP-TMP (IN 2__in)
+      (NP (PRP$ 3__my) (NN 4__life)))
+    (VBP 5__have)
+    (NP-SBJ (PRP 6__I))
+    (VP (VBN 7__been)
+      (ADJP-PRD (RB 8__so) (JJ 9__frightened)))
+    (. 10__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 2__is)
+      (ADVP-LOC-PRD
+        (ADVP-LOC-PRD-TPC (RB 1__Here))))
+    (SBAR-SBJ
+      (WHADVP (WRB 3__how))
+      (S
+        (NP-SBJ (CD 4__three) (NNS 5__Vietnamese))
+        (VP (VBP 6__are)
+          (VP (VBG 7__coping)
+            (PP-CLR (IN 8__with)
+              (NP (NN 9__change)))))))
+    (: 10__:)))
+
+(ROOT
+  (SINV (CC 1__But)
+    (VP (VBD 8__was)
+      (VP
+        (VP-TPC (VBG 2__acting)
+          (PP-CLR (IN 3__as)
+            (NP
+              (NP (DT 4__a) (NN 5__drag))
+              (PP (IN 6__on)
+                (NP (NNS 7__prices))))))))
+    (NP-SBJ
+      (NP
+        (NP (DT 9__the) (JJ 10__improved) (NN 11__harvest) (NN 12__weather))
+        (PP-TMP (IN 13__over)
+          (NP (DT 14__the) (NN 15__weekend))))
+      (CONJPP (CC 16__and)
+        (NP
+          (NP (DT 17__the) (NN 18__prospect))
+          (PP (IN 19__for)
+            (NP
+              (NP (JJ 20__continued) (JJ 21__fair) (NN 22__weather))
+              (NP-TMP (DT 23__this) (NN 24__week))
+              (PP-LOC (IN 25__over)
+                (NP
+                  (NP (JJ 26__much))
+                  (PP (IN 27__of)
+                    (NP (DT 28__the) (NNP 29__Farm) (NNP 30__Belt))))))))))
+    (. 31__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 3__,) ('' 4__'')
+    (VP (VBD 5__yelled)
+      (NP
+        (NP-TPC (VB 2__Attention))))
+    (NP-SBJ (PRP$ 6__our) (NN 7__pilot))
+    (SBAR-TMP (IN 8__as)
+      (S
+        (NP-SBJ (PRP$ 9__our) (NN 10__basket))
+        (VP (VBD 11__plunged)
+          (PP-DIR (IN 12__into)
+            (NP (DT 13__the) (NN 14__canal))))))
+    (. 15__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 11__,) ('' 12__'')
+    (VP (VBD 13__said)
+      (S
+        (S-TPC
+          (NP-SBJ (PRP 2__I))
+          (VP (VBP 3__do) (RB 4__n't)
+            (VP (VB 5__trust)
+              (NP
+                (NP (NNS 6__people))
+                (SBAR
+                  (S
+                    (NP-SBJ
+                      (WHNP (WP 7__who)))
+                    (VP (VBP 8__do) (RB 9__n't)
+                      (VP (VB 10__eat)))))))))))
+    (NP-SBJ (NNP 14__Ms.) (NNP 15__Volokh))
+    (, 16__,)
+    (SBAR-ADV (IN 17__though)
+      (S
+        (NP-SBJ
+          (NP (PRP 18__she))
+          (NP (PRP 19__herself)))
+        (VP (VBD 20__stopped)
+          (S
+            (NP-SBJ (-NONE- __*-3))
+            (VP (VBG 21__eating)
+              (NP (NN 22__lunch))))
+          (ADVP-TMP
+            (NP (DT 23__a) (JJ 24__few) (NNS 25__years))
+            (RB 26__ago))
+          (S-PRP
+            (NP-SBJ (-NONE- __*-3))
+            (VP (TO 27__to)
+              (VP (VB 28__drop)
+                (NP (CD 29__25) (NNS 30__pounds))))))))
+    (. 31__.)))
+
+(ROOT
+  (SINV (CC 1__But)
+    (, 2__,)
+    (VP (VBZ 3__says)
+      (S
+        (NP-SBJ (PRP 8__It))
+        (VP (VBD 9__was)
+          (NP-PRD (DT 10__a) (JJ 11__close) (NN 12__call)))))
+    (NP-SBJ (NNP 4__Mr.) (NNP 5__Bock))
+    (, 6__,) (`` 7__``) (. 13__.) ('' 14__'')))
+
+(ROOT
+  (SINV (, 10__,) ('' 11__') ('' 12__'')
+    (VP (VBD 13__said)
+      (SBAR (-NONE- 14__0_NULL)
+        (S
+          (S-TPC (CC 1__But)
+            (NP-SBJ (PRP 2__we))
+            (VP (VBP 3__like)
+              (S
+                (NP-SBJ (-NONE- __*-1))
+                (VP (TO 4__to)
+                  (VP (VB 5__call)
+                    (S
+                      (NP-SBJ (PRP 6__it))
+                      (`` 7__`)
+                      (NP-PRD (JJ 8__controlled) (NN 9__chaos)))))))))))
+    (NP-SBJ
+      (NP (JJ 15__47-year-old) (NNP 16__Robert) (NNP 17__J.) (NNP 18__Jacobson) (NNP 19__Jr.))
+      (, 20__,)
+      (NP
+        (NP (NN 21__grandson))
+        (PP (IN 22__of)
+          (NP
+            (NP (DT 23__the) (NN 24__firm) (POS 25__'s))
+            (NN 26__founder)))))
+    (. 27__.)))
+
+(ROOT
+  (SINV
+    (SBAR-ADV
+      (S
+        (NP-SBJ
+          (NP (NN 2__bank) (NN 3__financing))
+          (PP (IN 4__for)
+            (NP (DT 5__the) (NN 6__buy-out))))
+        (VP (VBD 7__collapsed)
+          (NP-TMP (JJ 8__last) (NN 9__week))
+          (ADVP-TMP
+            (WHADVP (WRB 1__When))))))
+    (, 10__,)
+    (ADVP-CLR (RB 11__so))
+    (VBD 12__did)
+    (NP-SBJ
+      (NP (NNP 13__UAL) (POS 14__'s))
+      (NN 15__stock))
+    (VP (-NONE- __*?*))
+    (. 16__.)))
+
+(ROOT
+  (SINV (CC 1__But)
+    (VP (VBZ 9__sits)
+      (PP-LOC-CLR
+        (PP-LOC-CLR-TPC (IN 2__amid)
+          (NP (DT 3__the)
+            (QP (CD 4__two) (NN 5__dozen))
+            (NNS 6__bureaucrats)
+            (CC 7__and)
+            (NNS 8__secretaries)))))
+    (NP-SBJ
+      (QP (RB 10__only) (CD 11__one))
+      (JJ 12__real-life) (NN 13__PC))
+    (. 14__.)))
+
+(ROOT
+  (SINV (VBZ 1__is)
+    (NP-SBJ (DT 2__the) (JJ 3__proposed) (JJ 4__mandatory) (FW 5__pro) (FW 6__bono) (NN 7__plan))
+    (ADJP-PRD (-NONE- __*?*))))
+
+(ROOT
+  (SINV
+    (ADVP-TMP (RB 1__Only) (RB 2__twice))
+    (PP-TMP (IN 3__since)
+      (NP (DT 4__the) (CD 5__1960s)))
+    (VBZ 6__has)
+    (NP-SBJ
+      (NP (JJ 7__annual) (JJ 8__gross) (JJ 9__domestic) (NN 10__product) (NN 11__growth))
+      (ADVP-LOC (RB 12__here)))
+    (VP (VBN 13__fallen)
+      (PP-DIR (IN 14__below)
+        (NP (CD 15__5) (NN 16__%)))
+      (PP-TMP (IN 17__for)
+        (NP
+          (ADJP (CD 18__two)
+            (CONJPP (CC 19__or)
+              (JJR 20__more)))
+          (JJ 21__consecutive) (NNS 22__years))))
+    (. 23__.)))
+
+(ROOT
+  (SINV
+    (SBAR-TMP
+      (S
+        (NP-SBJ (JJ 3__American) (NN 4__liberalism))
+        (VP (VBD 5__had)
+          (VP (VBN 6__pulled)
+            (NP (DT 7__the) (NNS 8__arms) (NN 9__plug))
+            (PP-CLR (IN 10__on)
+              (NP
+                (NP (DT 11__the) (NNS 12__Contras))
+                (CONJPP (CC 13__and)
+                  (NP (PRP$ 14__their) (NN 15__friend) (NNP 16__Ronald) (NNP 17__Reagan)))))
+            (ADVP-TMP
+              (WHADVP (RB 1__Just) (WRB 2__when)))))))
+    (, 18__,)
+    (VP (VBZ 20__comes)
+      (ADVP-DIR
+        (ADVP-DIR-TPC (IN 19__along))))
+    (NP-SBJ (NNP 21__Mr.) (NNP 22__Ortega))
+    (PP-LOC (IN 23__in)
+      (NP (NNP 24__Costa) (NNP 25__Rica)))
+    (NP-TMP (DT 26__this) (NN 27__weekend))
+    (S-ADV
+      (NP-SBJ (-NONE- __*-5))
+      (VP (TO 28__to)
+        (VP (`` 29__``) (VB 30__blunder) ('' 31__'')
+          (PP-DIR (IN 32__into)
+            (NP
+              (NP (DT 33__the) (NNS 34__hands))
+              (PP (IN 35__of)
+                (SBAR-NOM
+                  (S
+                    (NP-SBJ
+                      (WHNP (WP 36__what)))
+                    (VP (VBP 37__are)
+                      (ADVP-TMP (RB 38__often))
+                      (VP (VBN 39__called)
+                        (S
+                          (NP-SBJ (-NONE- __*-4))
+                          (NP-PRD (NNS 40__conservatives)))))))))))))
+    (. 41__.)))
+
+null
+(ROOT
+  (SINV
+    (ADVP-LOC (RB 1__Nowhere)
+      (PP (IN 2__in)
+        (NP (DT 3__the) (JJ 4__federal) (NNS 5__securities) (NN 6__law))))
+    (VBZ 7__is)
+    (NP-SBJ
+      (NP (JJ 8__simple) (NN 9__negligence))
+      (CONJPP (CC 10__or)
+        (NP (JJ 11__inadvertent) (NN 12__action))))
+    (NP-PRD
+      (NP (DT 13__a) (NN 14__source))
+      (PP (IN 15__of)
+        (NP (NN 16__liability))))
+    (PP-LOC (IN 17__under)
+      (NP (JJ 18__similar) (NNS 19__circumstances)))
+    (. 20__.)))
+
+(ROOT
+  (SINV
+    (ADVP (RB 1__Perhaps))
+    (VP (VBZ 5__is)
+      (ADJP-PRD
+        (ADJP-TPC
+          (ADVP (RB 2__even) (RBR 3__more))
+          (JJ 4__offensive))))
+    (NP-SBJ
+      (NP (DT 6__the) (NN 7__statement))
+      (, 8__,) (`` 9__``)
+      (S
+        (NP-SBJ (PRP 10__It))
+        (VP (VBZ 11__is)
+          (ADJP-PRD (JJ 12__surprising)
+            (SBAR (IN 13__that)
+              (S
+                (NP-SBJ
+                  (NP (NNP 14__George) (NNP 15__Bush))
+                  (CONJPP (CC 16__and)
+                    (NP (DT 17__the) (NNP 18__White) (NNP 19__House) (JJ 20__inner) (NN 21__circle))))
+                (VP (MD 22__would)
+                  (VP (VB 23__ally)
+                    (NP (PRP 24__themselves))
+                    (PP-CLR (IN 25__with)
+                      (NP (DT 26__this) (JJ 27__crabby) (NN 28__philosophy)))))))))))
+    (. 29__.) ('' 30__'')))
+
+(ROOT
+  (SINV (`` 1__``)
+    (NP-TPC
+      (NP (DT 2__A) (JJ 3__disastrous) (NN 4__farce))
+      (PP-LOC (IN 5__in)
+        (NP (NNP 6__Malaysia))))
+    (, 7__,) ('' 8__'')
+    (VP (VBD 9__screamed)
+      (NP (-NONE- __*-1)))
+    (NP-SBJ (DT 10__the) (NNP 11__Manchester) (NNP 12__Guardian))
+    (. 13__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__Adds)
+      (SBARQ
+        (SQ (VBP 20__do)
+          (NP-SBJ (NNS 21__people))
+          (VP (VB 22__play)
+            (NP (DT 23__the) (NN 24__lottery))
+            (SBAR-TMP
+              (S
+                (NP-SBJ
+                  (NP (DT 26__the) (NNS 27__odds))
+                  (PP (IN 30__against)
+                    (NP (PRP 31__them))))
+                (VP (VBP 28__are)
+                  (ADJP-PRD (JJ 29__great))
+                  (ADVP-TMP
+                    (WHADVP (WRB 25__when))))))
+            (ADVP-PRP
+              (WHADVP (WRB 19__Why)))))
+        (. 32__?)))
+    (NP-SBJ
+      (NP (NNP 2__Spencer) (NNP 3__Barasch))
+      (, 4__,)
+      (NP
+        (NP (NN 5__branch) (NN 6__chief))
+        (PP (IN 7__for)
+          (NP (NN 8__enforcement)))
+        (PP-LOC (IN 9__at)
+          (NP
+            (NP (DT 10__the) (NNP 11__SEC))
+            (PP-LOC (IN 12__in)
+              (NP
+                (NP (NNP 13__Fort) (NNP 14__Worth))
+                (, 15__,)
+                (NP (NNP 16__Texas))))))))
+    (: 17__:) (`` 18__``)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__Writes)
+      (S
+        (NP-SBJ
+          (NP (DT 5__No) (NN 6__one))
+          (PP-LOC (IN 7__in)
+            (NP (NNP 8__Switzerland))))
+        (ADVP-TMP (RB 9__ever))
+        (VP (VBD 10__came)
+          (ADVP-CLR (RB 11__so) (RB 12__far))
+          (ADVP-TMP (RB 13__so) (RB 14__fast)))))
+    (NP-SBJ (NNP 2__Bilanz))
+    (: 3__:) (`` 4__``) (: 15__...)))
+
+(ROOT
+  (SINV (, 16__,) ('' 17__'')
+    (VP (VBZ 18__says)
+      (SBAR (-NONE- 19__0_NULL)
+        (S
+          (S-TPC
+            (PP-LOC (IN 1__In)
+              (NP (NNP 2__California)))
+            (, 3__,)
+            (NP-SBJ
+              (NP (CD 4__two) (NN 5__petition) (NNS 6__drives))
+              (PP (IN 7__for)
+                (NP
+                  (NP (JJ 8__next) (NN 9__year) (POS 10__'s))
+                  (NN 11__election))))
+            (VP (VBP 12__are) (`` 13__``)
+              (ADJP-PRD (RB 14__essentially) (VBN 15__finished)))))))
+    (NP-SBJ
+      (NP (NNP 20__David) (NNP 21__Schmidt))
+      (, 22__,)
+      (NP
+        (NP (NN 23__author))
+        (PP (IN 24__of) (`` 25__``)
+          (NP (NNP 26__Citizen) (NNPS 27__Lawmakers)))))
+    (. 28__.) ('' 29__'')))
+
+(ROOT
+  (SINV
+    (CONJP (RB 1__not) (RB 2__only))
+    (MD 3__will)
+    (NP-SBJ (PRP 4__they))
+    (VP (VB 5__acquire)
+      (NP
+        (NP (JJR 6__less))
+        (PP (IN 7__in)
+          (NP
+            (NP (NNS 8__terms))
+            (PP (IN 9__of)
+              (NP (JJ 10__local) (NNS 11__benefits)))))))))
+
+(ROOT
+  (SINV (CC 1__But)
+    (SBAR-TMP (IN 2__as)
+      (S
+        (NP-SBJ (NN 3__stock) (NNS 4__prices))
+        (VP (VBD 5__recovered)
+          (NP
+            (NP (DT 6__some))
+            (PP (IN 7__of)
+              (NP (DT 8__the) (JJ 9__early) (NNS 10__losses)))))))
+    (, 11__,)
+    (VP (VBD 13__did)
+      (ADVP-MNR
+        (ADVP-MNR-TPC (RB 12__so))))
+    (NP-SBJ (DT 14__the) (NNP 15__U.S.) (NN 16__currency))
+    (. 17__.)))
+
+(ROOT
+  (SINV
+    (VP (VBP 2__are)
+      (NP-LOC-PRD
+        (NP-LOC-TPC-PRD (RB 1__Here))))
+    (NP-SBJ
+      (NP (DT 3__some))
+      (PP (IN 4__of)
+        (NP
+          (NP (DT 5__the) (JJ 6__major) (NNS 7__components))
+          (PP (IN 8__of)
+            (NP (DT 9__the) (JJ 10__gross) (JJ 11__national) (NN 12__product)))))
+      (VP (VBN 13__expressed)
+        (NP (-NONE- __*))
+        (PP-LOC (IN 14__in)
+          (NP
+            (ADJP (RB 15__seasonally) (JJ 16__adjusted))
+            (JJ 17__annual) (NNS 18__rates)))
+        (PP-CLR (IN 19__in)
+          (NP
+            (NP (NNS 20__billions))
+            (PP (IN 21__of)
+              (NP (JJ 22__constant)
+                (PRN (-LRB- 23__-LRB-) (CD 24__1982) (-RRB- 25__-RRB-))
+                (NNS 26__dollars)))))))
+    (: 27__:)))
+
+(ROOT
+  (SINV
+    (VP (VBP 5__are)
+      (VP
+        (VP-TPC (VBN 1__Built)
+          (NP (-NONE- __*-4))
+          (PP-CLR (IN 2__into)
+            (NP (DT 3__the) (NN 4__statute))))))
+    (NP-SBJ
+      (NP (JJ 6__so-called) (NN 7__design) (NNS 8__immunities))
+      (, 9__,)
+      (SBAR
+        (S
+          (NP-SBJ
+            (WHNP (WDT 10__which)))
+          (VP (VBP 11__are)
+            (ADJP-PRD (JJ 12__likely)
+              (S
+                (NP-SBJ (-NONE- __*-5))
+                (VP (TO 13__to)
+                  (VP (VB 14__protect)
+                    (NP (NN 15__government) (NNS 16__agencies))))))))))
+    (, 17__,)
+    (PP (VBG|IN 18__according)
+      (PP (TO 19__to)
+        (NP
+          (NP (NNP 20__Mr.) (NNP 21__Ruvolo))
+          (CONJPP (CC 22__and)
+            (NP
+              (NP (NNP 23__Richard) (NNP 24__Covert))
+              (, 25__,)
+              (NP
+                (NP (DT 26__a) (NN 27__lawyer))
+                (PP (IN 28__with)
+                  (NP
+                    (NP (DT 29__the) (NNP 30__California) (NNP 31__Department))
+                    (PP (IN 32__of)
+                      (NP (NNP 33__Transportation)))
+                    (, 34__,)
+                    (SBAR
+                      (S
+                        (NP-SBJ
+                          (WHNP (WDT 35__which)))
+                        (VP (VBZ 36__oversees)
+                          (NP (DT 37__the) (VBN 38__damaged) (NNP 39__Bay) (NNP 40__Bridge)))))))))))))
+    (. 41__.)))
+
+(ROOT
+  (SINV
+    (FRAG
+      (ADJP (RB 1__Real) (JJ 2__good)))
+    (, 3__,) ('' 4__'')
+    (VP (VBZ 5__says))
+    (NP-SBJ (JJ 6__39-year-old) (NNP 7__Pete) (NNP 8__Broberg))
+    (, 9__,)
+    (S-ADV
+      (NP-SBJ (-NONE- __*-1))
+      (VP (VBG 10__working)
+        (PP-LOC (IN 11__in)
+          (NP
+            (NP (DT 12__the) (NN 13__midday) (NN 14__heat))
+            (PP (IN 15__of)
+              (NP (DT 16__the) (NNPS 17__Tropics) (NN 18__camp)))))))
+    (. 19__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 11__,) ('' 12__'')
+    (VP (VBD 13__said)
+      (S
+        (S-TPC
+          (NP-SBJ (PRP 2__I))
+          (VP (VBP 3__think)
+            (SBAR (-NONE- 4__0_NULL)
+              (S
+                (NP-SBJ (PRP 5__it))
+                (VP (VBZ 6__'s)
+                  (NP-PRD (DT 7__a)
+                    (ADJP (RB 8__pretty) (JJ 9__positive))
+                    (NN 10__development)))))))))
+    (NP-SBJ
+      (NP (NNP 14__Ross) (NNP 15__Cowan))
+      (, 16__,)
+      (NP
+        (NP (DT 17__a) (JJ 18__financial) (NN 19__analyst))
+        (PP (IN 20__with)
+          (NP (NNP 21__Levesque) (NNP 22__Beaubien) (NNP 23__Geoffrion) (NNP 24__Inc.)))))
+    (, 25__,)
+    (PP-CLR (IN 26__of)
+      (NP (DT 27__the) (NN 28__decision)
+        (S
+          (NP-SBJ (-NONE- __*))
+          (VP (TO 29__to)
+            (VP (VB 30__concentrate)
+              (PP-CLR (IN 31__on)
+                (NP (NNS 32__groceries))))))))
+    (. 33__.)))
+
+null
+(ROOT
+  (SINV-TPC (RB 1__So)
+    (INTJ (NN 2__crunch) (, 3__,) (NN 4__crunch) (, 5__,) (NN 6__crunch) (, 7__,) (NN 8__bang) (, 9__,) (NN 10__bang) (, 11__,) (NN 12__bang))
+    (: 13__--)
+    (VP (VBP 15__come)
+      (ADVP-DIR
+        (ADVP-DIR-TPC (RB 14__here))))
+    (NP-SBJ (DT 16__the) (NNS 17__ringers))
+    (PP-DIR (IN 18__from)
+      (NP (RB 19__above)))
+    (, 20__,)
+    (S-ADV
+      (NP-SBJ (-NONE- __*-1))
+      (VP (VBG 21__making)
+        (NP (DT 22__a)
+          (ADJP (RB 23__very) (JJ 24__obvious))
+          (NN 25__exit))
+        (SBAR-TMP (IN 26__while)
+          (S
+            (NP-SBJ (DT 27__the) (NN 28__congregation))
+            (VP (VBZ 29__is)
+              (PP-PRD (IN 30__at)
+                (NP (NN 31__prayer))))))))))
+
+(ROOT
+  (SINV
+    (ADVP-TMP (RB 1__never))
+    (VBZ 2__has)
+    (NP-SBJ (DT 3__this))
+    (VP (VBN 4__been)
+      (ADJP-PRD
+        (ADJP (JJR 5__clearer))
+        (PP (IN 11__than)
+          (ADVP-TMP (RB 12__now))))
+      (PP-LOC (IN 6__on)
+        (NP (DT 7__the) (JJ 8__Indian) (NN 9__capital) (NN 10__market))))))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__Explains)
+      (SBAR (-NONE- 2__0_NULL)
+        (S
+          (NP-SBJ (DT 8__the) (NN 9__statement))
+          (`` 10__``)
+          (VP (VBZ 11__means)
+            (SBAR-NOM
+              (ADVP (RB 12__exactly))
+              (S
+                (NP-SBJ (PRP 14__it))
+                (VP (VBZ 15__says)
+                  (NP
+                    (WHNP (WP 13__what))))))))))
+    (NP-SBJ
+      (NP (DT 3__a) (NNP 4__Sotheby) (POS 5__'s))
+      (NN 6__spokeswoman))
+    (, 7__,) (. 16__.)))
+
+(ROOT
+  (SINV
+    (VP (VBP 1__are)
+      (NP-PRD (NN 3__camera) (NNS 4__operators)))
+    (NP-SBJ (RB 2__there))
+    (PP-LOC (IN 5__on)
+      (NP (DT 6__all) (NNS 7__sides)))))
+
+(ROOT
+  (SINV (RB 1__Also)
+    (VP (VBZ 6__is)
+      (VP
+        (VP-TPC (VBN 2__named)
+          (NP (-NONE- __*-2))
+          (PP-LOC-CLR (IN 3__in)
+            (NP (DT 4__the) (NN 5__suit))))))
+    (NP-SBJ
+      (NP
+        (NP (NNP 7__Media) (NNP 8__Home) (NNP 9__Entertainment) (NNP 10__Inc.))
+        (PP (IN 11__of)
+          (NP
+            (NP (NNP 12__Culver) (NNP 13__City))
+            (, 14__,)
+            (NP-LOC (NNP 15__Calif.)))))
+      (CONJPP (, 16__,)
+        (NP
+          (NP (PRP$ 17__its) (NN 18__parent))
+          (, 19__,)
+          (NP (NNP 20__Heron) (NNPS 21__Communications) (NNP 22__Inc.)))
+        (CONJPP (, 23__,)
+          (CC 24__and)
+          (NP
+            (NP (NNP 25__Broadstar) (NNP 26__Television))
+            (PP (IN 27__of)
+              (NP (NNP 28__Los) (NNP 29__Angeles)))
+            (, 30__,)
+            (NP
+              (NP (NNS 31__holders))
+              (PP (IN 32__of)
+                (NP
+                  (NP (DT 33__the) (NN 34__copyright))
+                  (PP (IN 35__on)
+                    (NP (DT 36__the) (NN 37__movie))))))))))
+    (. 38__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 3__is)
+      (ADJP-PRD
+        (ADJP-PRD-TPC (RB 1__So) (JJ 2__big)
+          (SBAR (IN 7__that)
+            (S
+              (NP-SBJ
+                (NP
+                  (NP (JJ 8__Japanese) (NNS 9__companies) (POS 10__'))
+                  (NNS 11__outlays))
+                (PP-LOC (IN 12__in)
+                  (NP (NNP 13__Japan))))
+              (VP (VBD 14__topped)
+                (NP
+                  (NP (JJ 15__American) (NNS 16__companies) (POS 17__'))
+                  (JJ 18__domestic) (NNS 19__outlays))
+                (PP-EXT (IN 20__by)
+                  (NP
+                    (QP ($ 21__$) (CD 22__521.4) (CD 23__billion) (TO 24__to) ($ 25__$) (CD 26__494.8) (CD 27__billion))
+                    (-NONE- __*U*)))
+                (PP-PRP (IN 28__in)
+                  (NP
+                    (NP (DT 29__the) (CD 30__12) (NNS 31__months))
+                    (VP (VBD 32__ended)
+                      (NP (-NONE- __*))
+                      (NP-TMP-CLR (NNP 33__March) (CD 34__31)))))
+                (SBAR-ADV (RB 35__even) (IN 36__though)
+                  (S
+                    (NP-SBJ
+                      (NP
+                        (NP (NNP 37__Japan) (POS 38__'s))
+                        (JJ 39__total) (NN 40__output))
+                      (PP (IN 41__of)
+                        (NP (NNS 42__goods)
+                          (CONJPP (CC 43__and)
+                            (NNS 44__services)))))
+                    (VP (VBZ 45__is)
+                      (NP-PRD
+                        (QP (JJR 46__less) (IN 47__than) (NNS 48__two-thirds))
+                        (NP (NNP 49__America) (POS 50__'s))))))))))))
+    (NP-SBJ (DT 4__the) (NN 5__capital-spending) (NN 6__boom))
+    (. 51__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 20__,) ('' 21__'')
+    (NP-SBJ (NNP 22__Ms.) (NNP 23__Mace))
+    (VP (VBZ 24__says)
+      (S
+        (S-TPC
+          (NP-SBJ (EX 2__There))
+          (VP (MD 3__will)
+            (VP (VB 4__be)
+              (NP-PRD
+                (NP
+                  (NP (DT 5__a) (JJ 6__big) (NN 7__influx))
+                  (PP (IN 8__of)
+                    (NP (JJ 9__federal) (NNS 10__dollars))))
+                (CONJPP (CC 11__and)
+                  (NP
+                    (NP (NNS 12__gains))
+                    (PP-LOC (IN 13__in)
+                      (NP
+                        (UCP (NN 14__state)
+                          (CONJPP (, 15__,) (JJ 16__federal)
+                            (CONJPP (CC 17__and)
+                              (JJ 18__local))))
+                        (NN 19__employment)))))))))))
+    (. 25__.)))
+
+(ROOT
+  (SINV (VBD 1__Died) (: 2__:)
+    (NP-SBJ
+      (NP (NNP 3__Rudolf) (NNP 4__von) (NNP 5__Bennigsen-Foerder))
+      (, 6__,)
+      (NP (CD 7__63))
+      (, 8__,)
+      (NP
+        (NP (NN 9__chairman))
+        (PP (IN 10__of)
+          (NP
+            (NP (NNP 11__Veba) (NNP 12__AG))
+            (PP (IN 13__of)
+              (NP (NNP 14__West) (NNP 15__Germany)))))))
+    (, 16__,)
+    (PP-LOC (IN 17__in)
+      (NP (NNP 18__Duesseldorf)))
+    (, 19__,)
+    (PP-CLR (IN 20__of)
+      (NP (NN 21__pneumonia)))
+    (. 22__.)))
+
+(ROOT
+  (SINV
+    (ADVP-TMP (RB 1__only) (RB 2__once))
+    (PP-TMP (IN 3__during)
+      (NP
+        (NP (CD 4__411) (NNS 5__hours))
+        (PP (IN 6__of)
+          (NP (DT 7__the) (NN 8__experiment)))))
+    (VBD 9__did)
+    (NP-SBJ (PRP 10__they))
+    (VP (VB 11__detect)
+      (NP (DT 12__a) (NN 13__neutron) (NN 14__burst))
+      (PP-LOC (IN 15__in)
+        (NP
+          (QP (DT 16__all) (CD 17__three))
+          (NNS 18__detectors))))))
+
+(ROOT
+  (SINV (, 13__,)
+    (VP (VBD 14__said)
+      (SBAR (-NONE- 15__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ
+              (NP (PRP 1__It))
+              (SBAR (-NONE- __*EXP*-2)))
+            (VP (VBZ 2__'s)
+              (ADVP (RB 3__also))
+              (ADJP-PRD (JJ 4__unclear))
+              (SBAR
+                (S
+                  (NP-SBJ (DT 7__the) (NN 8__state))
+                  (VP (MD 9__will)
+                    (VP (VB 10__rebuild)
+                      (NP (PRP$ 11__its) (NN 12__reserve))
+                      (ADVP-MNR
+                        (WHADVP (RB 5__precisely) (WRB 6__how))))))))))))
+    (NP-SBJ
+      (NP (NNP 16__Cindy) (NNP 17__Katz))
+      (, 18__,)
+      (NP
+        (NP (JJ 19__assistant) (NN 20__director))
+        (PP (IN 21__of)
+          (NP
+            (NP
+              (NP (NNP 22__California) (POS 23__'s))
+              (NN 24__department))
+            (PP (IN 25__of)
+              (NP (NN 26__finance)))))))
+    (, 27__,)
+    (SBAR-ADV (IN 28__although)
+      (S
+        (NP-SBJ (PRP 29__she))
+        (VP (VBD 30__noted)
+          (SBAR (IN 31__that)
+            (S
+              (NP-SBJ
+                (NP (DT 32__a) (NN 33__bond) (NN 34__offering))
+                (PP (IN 35__for)
+                  (NP (DT 36__that) (NN 37__purpose))))
+              (VP (VBZ 38__is) (RB 39__n't)
+                (VP (VBN 40__anticipated)
+                  (NP (-NONE- __*-1)))))))))
+    (. 41__.)))
+
+(ROOT
+  (SINV
+    (SINV
+      (VP (VBZ 5__is)
+        (PP-LOC-PRD
+          (PP-LOC-PRD-TPC (IN 1__Within)
+            (NP (PRP$ 2__its) (VBG 3__sheltering) (NNS 4__walls)))))
+      (NP-SBJ
+        (NP
+          (NP
+            (NP (DT 6__a) (NN 7__microcosm))
+            (PP (IN 8__of)
+              (NP (DT 9__a) (CD 10__thousand) (NNS 11__years)))
+            (PP (IN 12__in)
+              (NP (NN 13__garden) (NN 14__design))))
+          (: 15__...)
+          (NP
+            (NP
+              (NP (DT 16__a)
+                (NX
+                  (NX (NN 17__rose) (NN 18__garden))
+                  (, 19__,)
+                  (NX (NN 20__herb) (NN 21__garden))
+                  (, 22__,)
+                  (NX (JJ 23__serpentine) (NN 24__garden))))
+              (, 25__,)
+              (NP (NN 26__flower) (NNS 27__fields))
+              (, 28__,)
+              (NP (DT 29__an) (NN 30__apple) (NN 31__orchard))
+              (: 32__...))
+            (VP (VBN 33__organized)
+              (NP (-NONE- __*))
+              (PP-CLR (IN 34__in)
+                (NP
+                  (NP (DT 35__a) (NN 36__patchwork))
+                  (PP (IN 37__of)
+                    (NP (JJ 38__50-by-50-foot) (NNS 39__squares)))))
+              (S-PRP-CLR
+                (NP-SBJ (-NONE- __*))
+                (VP (TO 40__to)
+                  (VP (VB 41__form)
+                    (NP (`` 42__`) (NNS 43__rooms) ('' 44__'))))))))))
+    (: 45__...)
+    (SINV
+      (VP (VBP 49__are)
+        (ADVP-LOC-PRD
+          (ADVP-LOC-PRD-TPC (RB 46__here)
+            (CONJPP (CC 47__and)
+              (RB 48__there)))))
+      (NP-SBJ
+        (NP (JJ 50__simple) (JJ 51__architectural) (NNS 52__forms))
+        (CONJPP (, 53__,)
+          (NP
+            (NP (DT 54__a) (JJ 55__whimsical) (NN 56__jet))
+            (PP (IN 57__of)
+              (NP (NN 58__water))))
+          (CONJPP (, 59__,)
+            (NP
+              (NP (DT 60__a) (NN 61__conceit))
+              (PP (IN 62__of)
+                (NP
+                  (NP (JJ 63__topiary))
+                  (CONJPP (CC 64__or)
+                    (NP (NN 65__tartan) (NN 66__plaid))))))
+            (CONJPP (, 67__,)
+              (CC 68__and)
+              (NP
+                (NP (NNS 69__chairs))
+                (PP (IN 70__of)
+                  (NP (DT 71__every) (NN 72__sort)))
+                (SBAR
+                  (S
+                    (NP-SBJ (-NONE- __*))
+                    (VP (TO 74__to)
+                      (VP (VB 75__drag)
+                        (PP-CLR (IN 76__around)
+                          (NP
+                            (WHNP (-NONE- 73__0_NULL))))))))))))))))
+
+(ROOT
+  (VP (VBZ 20__says)
+    (SBAR (-NONE- 21__0_NULL)
+      (SINV
+        (S
+          (NP-SBJ (NNP 1__Mr.) (NNP 2__Noriega))
+          (VP (MD 3__might)
+            (VP (VB 4__have)
+              (VP (VBN 5__fallen)
+                (PP (IN 6__of)
+                  (NP (PRP$ 7__his) (JJ 8__own) (NN 9__weight)))
+                (PP-TMP (IN 10__in)
+                  (NP (CD 11__1988)))
+                (PP-PRP (IN 12__because) (IN 13__of)
+                  (NP
+                    (NP (NNP 14__Panama) (POS 15__'s))
+                    (JJ 16__dire) (JJ 17__economic) (NN 18__situation)))))))
+        (, 19__,)
+        (NP-SBJ (NNP 22__Mr.) (NNP 23__Moss))
+        (, 24__,)
+        (CC 25__but)
+        (S
+          (NP-SBJ (VBG 26__increasing) (JJ 27__external) (NN 28__pressure))
+          (VP (VBZ 29__has)
+            (ADVP (RB 30__only))
+            (VP (VBN 31__given)
+              (NP (PRP 32__him))
+              (NP
+                (NP
+                  (NP (JJ 33__additional) (NNS 34__excuses))
+                  (PP (IN 35__for)
+                    (NP (NN 36__repression))))
+                (CONJPP (, 37__,)
+                  (CC 38__and)
+                  (NP
+                    (NP (DT 39__a) (NN 40__scapegoat))
+                    (PP (IN 41__for)
+                      (NP (PRP$ 42__his) (JJ 43__own) (NN 44__mismanagement)))))))))
+        (. 45__.)))))
+
+(ROOT
+  (SINV (, 25__,)
+    (CC 26__yet)
+    (S
+      (NP-SBJ (JJS 27__most))
+      (VP (VBP 28__take)
+        (NP
+          (NP (NNS 29__jobs))
+          (PP (IN 30__with)
+            (NP (JJ 31__large) (NNS 32__concerns))))))
+    (, 33__,)
+    (VP (VBZ 34__says)
+      (SBAR (-NONE- 35__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ
+              (NP
+                (QP (DT 1__Some) (CD 2__70))
+                (NN 3__%))
+              (PP (IN 4__of)
+                (NP
+                  (NP (NNS 5__graduates))
+                  (SBAR
+                    (S
+                      (NP-SBJ
+                        (WHNP (WP 6__who)))
+                      (ADVP-TMP (RB 7__recently))
+                      (VP (VBD 8__earned)
+                        (NP (DT 9__an) (NN 10__M.B.A.) (NN 11__degree))))))))
+            (VP (VBP 12__say)
+              (SBAR (-NONE- 13__0_NULL)
+                (S
+                  (NP-SBJ (PRP 14__they))
+                  (VP (MD 15__'d)
+                    (VP (VB 16__prefer)
+                      (S
+                        (NP-SBJ (-NONE- __*-1))
+                        (VP (TO 17__to)
+                          (VP
+                            (VP (VB 18__work)
+                              (PP (IN 19__in)
+                                (NP (-NONE- __*RNR*-2))))
+                            (CC 20__or)
+                            (VP (VB 21__own)
+                              (NP (-NONE- __*RNR*-2)))
+                            (NP (DT 22__a) (JJ 23__small) (NN 24__company))))))))))))))
+    (NP-SBJ
+      (NP (DT 36__a) (NN 37__survey))
+      (PP (IN 38__by)
+        (NP
+          (NP (DT 39__the) (NNP 40__Foster) (NNP 41__McKay) (NNP 42__Group))
+          (, 43__,)
+          (NP (DT 44__a) (NNP 45__New) (NNP 46__York) (VBG 47__recruiting) (NN 48__firm)))))
+    (: 49__...) (. 50__.)))
+
+(ROOT
+  (SINV
+    (NP-SBJ (RB 1__Here))
+    (VP (VBZ 2__is)
+      (NP-PRD
+        (NP (DT 3__a) (NN 4__summary))
+        (PP (IN 5__of)
+          (NP
+            (NP
+              (NP (DT 6__the) (NNP 7__Federal) (NNP 8__Reserve) (NNP 9__Board) (POS 10__'s))
+              (NN 11__report))
+            (PP (IN 12__on)
+              (NP
+                (NP (JJ 13__industrial) (NN 14__production))
+                (PP-TMP (IN 15__in)
+                  (NP (NNP 16__September)))))))))
+    (. 17__.)))
+
+(ROOT
+  (SINV (RB 1__Then)
+    (VP (VBD 2__came))
+    (NP-SBJ
+      (NP
+        (NP (DT 3__the) (JJ 4__frightening) (JJ 5__190-point) (NN 6__plunge))
+        (PP-LOC (IN 7__in)
+          (NP (DT 8__the) (NNP 9__Dow) (NNP 10__Jones) (NNP 11__Industrial) (NNP 12__Average))))
+      (CONJPP (CC 13__and)
+        (NP
+          (NP (DT 14__a) (JJ 15__new) (NN 16__wave))
+          (PP (IN 17__of)
+            (NP (NN 18__stock-market) (NN 19__volatility))))))
+    (. 20__.)))
+
+(ROOT
+  (SINV (, 11__,) ('' 12__'')
+    (VP (VBD 13__said)
+      (S
+        (S-TPC
+          (S
+            (NP-SBJ (-NONE- __*))
+            (VP (VB 1__Get)
+              (NP (DT 2__the) (NN 3__problem))
+              (PP-CLR (IN 4__behind)
+                (NP (PRP 5__you)))))
+          (CONJPP (CC 6__and)
+            (S
+              (NP-SBJ (-NONE- __*))
+              (VP (VB 7__do) (RB 8__n't)
+                (VP (VB 9__look)
+                  (ADVP-CLR (RB 10__back)))))))))
+    (NP-SBJ
+      (NP (NNP 14__James) (NNP 15__J.) (NNP 16__McDermott))
+      (, 17__,)
+      (NP
+        (NP (NN 18__analyst))
+        (PP-LOC (IN 19__at)
+          (NP (NNP 20__Keefe)
+            (CONJPP (, 21__,) (NNP 22__Bruyette)
+              (CONJPP (CC 23__&)
+                (NNP 24__Woods)))))))
+    (, 25__,)
+    (PP (IN 26__in)
+      (S-NOM
+        (NP-SBJ (-NONE- __*))
+        (VP (VBG 27__approving)
+          (PP-CLR (IN 28__of)
+            (NP (DT 29__the) (NN 30__move))))))
+    (. 31__.)))
+
+(ROOT
+  (SINV (, 13__,)
+    (VP (VBD 14__said)
+      (SBAR (-NONE- 15__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ (NNP 1__Jaguar))
+            (VP (VBZ 2__seems)
+              (S
+                (NP-SBJ (-NONE- __*-2))
+                (VP (TO 3__to)
+                  (VP (VB 4__be)
+                    (VP (VBG 5__losing)
+                      (NP (NN 6__interest))
+                      (PP-CLR (IN 7__in)
+                        (S-NOM
+                          (NP-SBJ (-NONE- __*))
+                          (VP (VBG 8__giving)
+                            (NP (NNP 9__GM))
+                            (NP (DT 10__a) (NN 11__minority) (NN 12__stake))))))))))))))
+    (NP-SBJ
+      (NP (CD 16__one) (NN 17__individual))
+      (ADJP (JJ 18__close)
+        (PP (TO 19__to)
+          (NP (DT 20__the) (NNS 21__talks)))))
+    (, 22__,)
+    (S
+      (NP-SBJ (-NONE- __*-4))
+      (VP (VBG 23__adding) (, 24__,) (`` 25__``)
+        (S
+          (NP-SBJ (PRP 26__It))
+          (VP (MD 27__would) (RB 28__n't)
+            (VP (VB 29__surprise)
+              (NP (PRP 30__me))
+              (SBAR-ADV (IN 31__if)
+                (S (-LRB- 32__-LCB-)
+                  (NP-SBJ (NNP 33__Jaguar) (NNS 34__executives))
+                  (-RRB- 35__-RCB-)
+                  (VP (VBP 36__want)
+                    (S
+                      (NP-SBJ (-NONE- __*-5))
+                      (VP (TO 37__to)
+                        (VP (VB 38__wait)
+                          (CC 39__and)
+                          (VB 40__see)
+                          (SBAR
+                            (S
+                              (NP-SBJ
+                                (NP (DT 42__the) (NN 43__color))
+                                (PP (IN 44__of)
+                                  (NP (DT 45__that) (-LRB- 46__-LCB-) (NNP 47__Ford) (NN 48__bid) (-RRB- 49__-RCB-))))
+                              (VP (VBZ 50__is)
+                                (NP-PRD
+                                  (WHNP (WP 41__what))))))
+                          ('' 51__'')
+                          (ADVP-TMP (JJ 52__first)))))))))))))
+    (. 53__.)))
+
+(ROOT
+  (SINV
+    (NP-SBJ=1 (PRP$ 1__its) (JJ 2__editorial) (NN 3__product))
+    (VP=3 (VBN 4__improved)
+      (NP (-NONE- __*-2)))))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__does))
+    (NP-SBJ (NNP 2__New) (NNP 3__York))
+    (SBAR-TMP (IN 4__since)
+      (S
+        (NP-SBJ (PRP 5__it))
+        (VP (VBD 6__acquired)
+          (NP (DT 7__an)
+            (ADJP
+              (QP ($ 8__$) (CD 9__80) (CD 10__million))
+              (-NONE- __*U*))
+            (NN 11__computer) (NN 12__system))
+          (PP-TMP (IN 13__in)
+            (NP (CD 14__1985))))))))
+
+(ROOT
+  (SINV
+    (ADVP-TMP (RB 1__then))
+    (VBD 2__came)
+    (NP-SBJ
+      (NP (DT 3__a) (VBN 4__taped) (NN 5__plea))
+      (PP (IN 6__for)
+        (NP (NNS 7__donations)))
+      (PP (IN 8__from)
+        (NP (JJ 9__former) (NNP 10__President) (NNP 11__Reagan))))
+    (: 12__--)
+    (S-ADV
+      (NP-SBJ (-NONE- __*-2))
+      (VP (VBN 13__followed)
+        (NP (-NONE- __*-3))
+        (PP (IN 14__by)
+          (NP-LGS
+            (NP (DT 15__the) (JJ 16__silent) (NN 17__print))
+            (VP (VBG 18__telling)
+              (NP (NNS 19__viewers))
+              (SBAR
+                (S
+                  (NP-SBJ (-NONE- __*))
+                  (VP (TO 21__to)
+                    (VP (VB 22__call)
+                      (ADVP-LOC
+                        (WHADVP (WRB 20__where))))))))))))))
+
+(ROOT
+  (SINV
+    (VP (VBZ 14__says)
+      (S
+        (S-TPC (`` 1__``)
+          (CC 2__And)
+          (NP-SBJ (PRP 3__you))
+          (VP (VBD 4__did) (RB 5__n't)
+            (VP (VB 6__want)
+              (S
+                (NP-SBJ (PRP 7__me))
+                (VP (TO 8__to)
+                  (VP (VB 9__buy)
+                    (NP (NN 10__earthquake) (NN 11__insurance)))))))
+          (, 12__,) ('' 13__''))))
+    (NP-SBJ (NNP 15__Mrs.) (NNP 16__Hammack))
+    (, 17__,)
+    (S-ADV
+      (NP-SBJ (-NONE- __*-1))
+      (VP
+        (VP (VBG 18__reaching)
+          (PP-DIR (IN 19__across)
+            (NP (DT 20__the) (NN 21__table))))
+        (CONJPP (CC 22__and)
+          (VP
+            (ADVP-MNR (RB 23__gently))
+            (VBG 24__tapping)
+            (NP (PRP$ 25__his) (NN 26__hand))))))
+    (. 27__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 24__,) ('' 25__'')
+    (VP (VBZ 26__says)
+      (SINV
+        (SINV-TPC
+          (SBAR-ADV (RB 2__Just) (IN 3__as)
+            (S
+              (NP-SBJ (DT 4__the) (CD 5__1980s) (NN 6__bull) (NN 7__market))
+              (VP (VBD 8__transformed)
+                (NP (DT 9__the) (NNP 10__U.S.) (NNS 11__securities) (NN 12__business)))))
+          (, 13__,)
+          (ADVP (RB 14__so) (RB 15__too))
+          (VP (MD 16__will)
+            (VP (-NONE- __*?*)))
+          (NP-SBJ
+            (NP (DT 17__the) (RBR 18__more) (JJ 19__difficult) (NN 20__environment))
+            (PP (IN 21__of)
+              (NP (DT 22__the) (CD 23__1990s)))))))
+    (NP-SBJ
+      (NP (NNP 27__Christopher) (NNP 28__T.) (NNP 29__Mahoney))
+      (, 30__,)
+      (NP
+        (NP (DT 31__a) (NNP 32__Moody) (POS 33__'s))
+        (NN 34__vice) (NN 35__president)))
+    (. 36__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 2__says)
+      (ADVP-CLR
+        (ADVP-CLR-TPC (RB 1__So))))
+    (NP-SBJ
+      (NP (DT 3__the) (NNP 4__Commonwealth) (NNP 5__Fund))
+      (, 6__,)
+      (NP
+        (NP (DT 7__a) (NNP 8__New) (NNP 9__York) (NN 10__philanthropist))
+        (SBAR
+          (S
+            (NP-SBJ
+              (WHNP (WDT 11__that)))
+            (VP (VBZ 12__'s)
+              (VP (VBG 13__sponsoring)
+                (NP
+                  (NP (DT 14__a)
+                    (ADJP
+                      (QP ($ 15__$) (CD 16__1) (CD 17__million))
+                      (-NONE- __*U*))
+                    (NN 18__project))
+                  (SBAR
+                    (S
+                      (NP-SBJ (-NONE- __*))
+                      (VP (TO 20__to)
+                        (VP (VB 21__develop)
+                          (NP
+                            (NP (JJ 22__joint) (NNS 23__masters))
+                            (PP-LOC (IN 24__in)
+                              (NP (NN 25__business)
+                                (CC 26__and)
+                                (NN 27__nursing) (NNS 28__programs))))
+                          (PP-LOC (IN 29__at)
+                            (NP (CD 30__10) (NNS 31__universities)))
+                          (ADVP
+                            (WHADVP (-NONE- 19__0_NULL))))))))))))))
+    (: 32__...) (. 33__.)))
+
+(ROOT
+  (SINV-ADV (VB 1__be)
+    (NP-SBJ (PRP 2__it))
+    (NP-PRD
+      (NP (NNS 3__stocks))
+      (CONJPP (, 4__,)
+        (NP (NNS 5__bonds))
+        (CONJPP (CC 6__or)
+          (NP (JJ 7__real) (NN 8__estate)))))))
+
+(ROOT
+  (SINV (`` 1__``) (. 21__.) ('' 22__'')
+    (VP (VBZ 23__says)
+      (S
+        (S-TPC
+          (NP-SBJ (PRP$ 2__My) (NN 3__belief))
+          (VP (VBZ 4__is)
+            (ADVP-TMP (RB 5__always))
+            (, 6__,)
+            (SBAR-PRD (-NONE- 7__0_NULL)
+              (S
+                (SBAR-ADV (IN 8__if)
+                  (S
+                    (NP-SBJ (PRP 9__you))
+                    (VP (VBP 10__'ve)
+                      (VP (VBD 11__got)
+                        (NP (DT 12__a) (NN 13__settlement))))))
+                (, 14__,)
+                (NP-SBJ (PRP 15__you))
+                (VP (VBP 16__read)
+                  (NP (PRP 17__it))
+                  (PP-DIR (IN 18__into)
+                    (NP (DT 19__the) (NN 20__record))))))))))
+    (NP-SBJ
+      (NP (NNP 24__Judge) (NNP 25__Jenkins))
+      (, 26__,)
+      (VP
+        (ADVP-TMP (RB 27__now))
+        (VBN 28__known)
+        (NP (-NONE- __*))
+        (PP-LOC (IN 29__in)
+          (NP (PRP$ 30__his) (NN 31__courthouse)))
+        (PP-CLR (IN 32__as) (`` 33__``)
+          (NP (NNP 34__Shake) (NNP 35__'Em) (NNP 36__Down) (NNP 37__Jenkins)))))
+    (. 38__.) ('' 39__'')))
+
+(ROOT
+  (SINV
+    (ADVP-PRD (RB 1__so))
+    (MD 2__would)
+    (NP-SBJ
+      (NP (DT 3__a) (NN 4__lot))
+      (PP (IN 5__of)
+        (NP
+          (NP (PRP$ 6__my) (NNS 7__counterparts))
+          (PP-LOC (IN 8__at)
+            (NP (JJ 9__other) (NNS 10__schools))))))))
+
+(ROOT
+  (SINV
+    (PP-TMP (RB 1__Not) (IN 2__for)
+      (NP (CD 3__15) (NNS 4__years)))
+    (VBZ 5__has)
+    (NP-SBJ (DT 6__a) (JJ 7__big) (JJ 8__new) (NN 9__hotel-casino))
+    (VP (VBN 10__opened)
+      (ADVP-LOC (RB 11__here)))
+    (. 12__.)))
+
+(ROOT
+  (SINV (`` 1__``)
+    (VP (VBZ 4__is)
+      (SBAR-PRD
+        (SBAR-PRD-TPC
+          (S
+            (NP-SBJ
+              (WHNP (WP 2__What)))
+            (VP (VBZ 3__counts))))))
+    (NP-SBJ (DT 5__the) (JJ 6__bottom) (NN 7__line))
+    (. 8__.) ('' 9__'')))
+
+(ROOT
+  (SINV
+    (ADVP-TMP (RB 1__Only) (RB 2__now))
+    (VBZ 3__is)
+    (NP-SBJ (PRP 4__it))
+    (VP (VBG 5__undergoing)
+      (NP (DT 6__a)
+        (ADJP (RB 7__badly) (VBN 8__needed))
+        (NN 9__facelift)))
+    (. 10__.)))
+
+(ROOT
+  (SINV (, 3__,)
+    (PP (VBG|IN 4__according)
+      (PP (TO 5__to)
+        (NP (JJ 6__many) (NNS 7__reports))))
+    (, 8__,)
+    (VP (VBZ 9__is)
+      (ADJP-PRD
+        (ADJP-PRD-TPC (IN 1__So)
+          (ADVP (RB 2__too)))))
+    (NP-SBJ (NNP 10__British) (NNPS 11__Airways) (NNP 12__PLC))
+    (, 13__,)
+    (PP (IN 14__despite)
+      (NP
+        (NP (PRP$ 15__its) (JJ 16__public) (NN 17__withdrawal))
+        (PP (IN 18__from)
+          (NP (DT 19__the) (NN 20__buy-out)))))
+    (. 21__.)))
+
+(ROOT
+  (SINV
+    (SBAR-TMP
+      (S
+        (NP-SBJ (NN 3__one))
+        (VP (VBZ 4__is)
+          (VP
+            (VP (VBG 5__ascending))
+            (PRN (: 6__--)
+              (CC 7__or)
+              (PP (IN 8__in)
+                (NP (PRP$ 9__our) (NN 10__case)))
+              (VP (VBG 11__descending)
+                (ADVP-MNR
+                  (NP (DT 12__a) (RB 13__tad))
+                  (FW 14__trop) (FW 15__rapidement)))
+              (: 16__--))
+            (ADVP-TMP
+              (WHADVP (RB 1__Only) (WRB 2__when)))))))
+    (VBZ 17__does)
+    (NP-SBJ (CD 18__one))
+    (VP (NN 19__feel) (, 20__,)
+      (INTJ (UH 21__well))
+      (, 22__,)
+      (ADJP-PRD (JJ 23__airborne)
+        (PP (IN 24__in)
+          (NP (DT 25__a) (NN 26__picnic) (NN 27__basket)))))
+    (. 28__.)))
+
+(ROOT
+  (SINV
+    (NP-TMP (JJ 1__Last) (NN 2__week))
+    (VBD 3__came)
+    (NP-SBJ
+      (NP (NN 4__news))
+      (PP (IN 5__of)
+        (NP
+          (NP (NN 6__alarm))
+          (PP-LOC (IN 7__in)
+            (NP (NNP 8__Venice)))
+          (PP (IN 9__over)
+            (NP (DT 10__a) (NN 11__plan)
+              (S
+                (NP-SBJ (-NONE- __*))
+                (VP (TO 12__to)
+                  (VP (VB 13__tap)
+                    (NP
+                      (NP (NN 14__gas) (NNS 15__fields))
+                      (ADVP-LOC (IN 16__off)
+                        (NP
+                          (NP (DT 17__the) (NN 18__city) (POS 19__'s))
+                          (NN 20__coast))))))))))))
+    (. 21__.)))
+
+(ROOT
+  (SINV (VB 1__do)
+    (VP (-NONE- __*?*))
+    (NP-SBJ
+      (NP (DT 2__the) (NNS 3__carillons))
+      (PP (IN 4__of)
+        (NP (JJ 5__continental) (NNP 6__Europe))))))
+
+(ROOT
+  (SINV
+    (ADVP-TMP (RB 1__Now))
+    (VBZ 2__comes)
+    (NP-SBJ (NN 3__word)
+      (SBAR (IN 7__that)
+        (S
+          (PP-TMP (IN 8__over)
+            (NP (DT 9__the) (JJ 10__next) (NN 11__century)))
+          (NP-SBJ (NNP 12__Venice))
+          (VP (MD 13__will)
+            (VP (VB 14__sink)
+              (ADVP
+                (ADVP
+                  (QP (RB 15__nearly) (CD 16__three) (NNS 17__times))
+                  (RBR 18__faster))
+                (PP (IN 19__than)
+                  (NP (DT 20__the) (JJ 21__present) (NN 22__rate))))
+              (PP-PRP (IN 23__because) (IN 24__of)
+                (NP (DT 25__the) (`` 26__``) (NN 27__greenhouse) (NN 28__effect))))))))
+    (PP-DIR (IN 4__from)
+      (NP (DT 5__a) (NN 6__scientist)))
+    (. 29__.) ('' 30__'')))
+
+(ROOT
+  (SINV (`` 1__``) (. 8__?) ('' 9__'')
+    (VP (VBZ 10__asks)
+      (SQ
+        (SQ-TPC (VBZ 2__Is)
+          (NP-SBJ (DT 3__the) (NN 4__government))
+          (RB 5__not)
+          (VP (VBG 6__helping)
+            (NP (NN 7__anybody))))))
+    (NP-SBJ
+      (NP (NNP 11__Toni) (NNP 12__Murray))
+      (, 13__,)
+      (NP
+        (NP (DT 14__an) (NN 15__assistant))
+        (PP (TO 16__to)
+          (NP (NNP 17__Mr.) (NNP 18__Lesko)))))
+    (. 19__.)))
+
+(ROOT
+  (SINV (`` 1__``)
+    (NP-SBJ (PRP 2__We))
+    (VP (VBD 3__saw)
+      (NP
+        (NP
+          (NP (JJ 4__good) (NN 5__buying))
+          (PP-LOC (IN 6__in)
+            (NP (NNP 7__Japan))))
+        (CONJPP (CC 8__and)
+          (NP
+            (NP (JJ 9__excellent) (NN 10__buying))
+            (PP-LOC (IN 11__in)
+              (NP (NNP 12__London)))))))
+    (, 13__,) ('' 14__'')
+    (VP (VBD 15__said))
+    (NP-SBJ
+      (NP (NNP 16__Jay) (NNP 17__Goldinger))
+      (, 18__,)
+      (NP
+        (NP (NN 19__market) (NN 20__strategist)
+          (CC 21__and)
+          (NN 22__trader))
+        (PP-LOC (IN 23__at)
+          (NP
+            (NP (NNP 24__Capital) (NNP 25__Insight) (NNP 26__Inc.))
+            (, 27__,)
+            (NP-LOC
+              (NP (NNP 28__Beverly) (NNP 29__Hills))
+              (, 30__,)
+              (NP (NNP 31__Calif)))))))
+    (. 32__.)))
+
+(ROOT
+  (SINV (`` 1__``) (, 16__,) ('' 17__'')
+    (VP (VBD 18__sniffed)
+      (S
+        (S-TPC
+          (S
+            (NP-SBJ (PRP 2__She))
+            (ADVP (RB 3__just))
+            (VP (VBD 4__wiggled)
+              (NP (PRP$ 5__her) (NN 6__fanny))))
+          (CONJPP (CC 7__and)
+            (S
+              (NP-SBJ (PDT 8__all) (DT 9__the) (NNP 10__French))
+              (VP (VBD 11__fell)
+                (PP-CLR (IN 12__in)
+                  (NP (NN 13__love)))
+                (PP-CLR (IN 14__with)
+                  (NP (PRP 15__her)))))))))
+    (NP-SBJ
+      (NP (DT 19__the) (JJ 20__literary) (NN 21__world) (POS 22__'s))
+      (NNP 23__Maria) (NNP 24__Jolas))
+    (, 25__,)
+    (ADVP-MNR
+      (ADVP (RB 26__not) (RB 27__entirely))
+      (RB 28__inaccurately))
+    (. 29__.)))
+
+(ROOT
+  (SINV
+    (PP-TMP (RB 1__Not) (IN 2__till)
+      (NP (DT 3__the) (JJ 4__last) (NN 5__moment)))
+    (VBP 6__Am)
+    (NP-SBJ (PRP 7__I))
+    (VP (VBN 8__paid)
+      (NP (-NONE- __*-3))
+      (SBAR-NOM
+        (S
+          (NP-SBJ
+            (WHNP (WP 9__what)))
+          (VP (VBZ 10__'s)
+            (ADJP-PRD (JJ 11__due)
+              (NP (PRP 12__me)))))))))
+
+null
+(ROOT
+  (SINV (, 18__,)
+    (VP (VBZ 19__says)
+      (SBAR (-NONE- 20__0_NULL)
+        (S
+          (S-TPC
+            (NP-SBJ
+              (NP (RB 1__Only) (CD 2__57.6) (NN 3__%))
+              (PP (IN 4__of)
+                (NP (NNP 5__New) (NNPS 6__Yorkers))))
+            (VP (VBP 7__watch)
+              (NP (DT 8__the) (JJ 9__local) (NN 10__news))
+              (, 11__,)
+              (NP-ADV
+                (NP (DT 12__the) (JJS 13__lowest) (NN 14__viewership))
+                (PP-LOC (IN 15__in)
+                  (NP (DT 16__the) (NN 17__country)))))))))
+    (NP-SBJ
+      (NP (DT 21__a) (JJ 22__new) (NN 23__study))
+      (PP (IN 24__by)
+        (NP
+          (NP (NNP 25__Impact) (NNPS 26__Resources) (NNP 27__Inc.))
+          (, 28__,)
+          (NP-LOC
+            (NP (NNP 29__Columbus))
+            (, 30__,)
+            (NP (NNP 31__Ohio))))))
+    (: 32__...) (. 33__.)))
+
+(ROOT
+  (SINV (, 2__,)
+    (PP-LOC (IN 3__at)
+      (NP
+        (NP (DT 4__a) (NN 5__soccer) (NN 6__stadium))
+        (PP-LOC (IN 7__near)
+          (NP
+            (NP (DT 8__the) (JJ 9__black) (NN 10__township))
+            (PP (IN 11__of)
+              (NP (NNP 12__Soweto)))))))
+    (NP-TMP (NN 13__yesterday))
+    (, 14__,)
+    (VP (VBD 15__were)
+      (ADVP-PRD
+        (ADVP-PRD-TPC (RB 1__Here))))
+    (NP-SBJ
+      (NP (CD 16__eight) (NNS 17__leaders))
+      (PP (IN 18__of)
+        (NP (DT 19__the) (NNP 20__African) (NNP 21__National) (NNP 22__Congress)))
+      (, 23__,)
+      (SBAR
+        (S
+          (NP-SBJ
+            (WHNP
+              (NP (CD 24__seven))
+              (WHPP (IN 25__of)
+                (WHNP (WP 26__whom)))))
+          (VP (VBD 27__had)
+            (VP (VBN 28__spent)
+              (NP-CLR
+                (NP (JJS 29__most))
+                (PP (IN 30__of)
+                  (NP (PRP$ 31__their) (NN 32__adult) (NNS 33__lives))))
+              (PP-CLR (IN 34__in)
+                (NP (NN 35__prison)))
+              (PP (IN 36__for)
+                (NP
+                  (NP (NN 37__sabotage))
+                  (CONJPP (CC 38__and)
+                    (NP (NN 39__conspiracy)
+                      (S
+                        (NP-SBJ (-NONE- __*))
+                        (VP (TO 40__to)
+                          (VP (VB 41__overthrow)
+                            (NP (DT 42__the) (NN 43__government))))))))))))))
+    (. 44__.)))
+
+(ROOT
+  (SINV
+    (ADVP-LOC (RB 1__Here))
+    (, 2__,)
+    (S-ADV
+      (NP-SBJ (-NONE- __*-1))
+      (VP (VBN 3__wedged)
+        (NP (-NONE- __*-2))
+        (PP-LOC-CLR (IN 4__between)
+          (NP
+            (NP (VBG 5__shifting) (NNS 6__dunes))
+            (CONJPP (CC 7__and)
+              (NP (VBG 8__pounding) (NNS 9__waves)))))
+        (PP-LOC (IN 10__at)
+          (NP
+            (NP (DT 11__the) (NN 12__world) (VBZ 13__'s))
+            (ADJP (RBS 14__most) (JJ 15__inhospitable))
+            (NN 16__diamond) (NN 17__dig)))))
+    (, 18__,)
+    (VP (VBZ 19__lies))
+    (NP-SBJ
+      (NP (DT 20__the) (NN 21__earth) (VBZ 22__'s))
+      (RBS 23__most) (JJ 24__precious) (NN 25__jewel) (NN 26__box))
+    (. 27__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__Says)
+      (S
+        (S
+          (SBAR-TMP (IN 5__Once)
+            (S
+              (NP-SBJ (PRP 6__you))
+              (VP (VBP 7__add)
+                (NP (NNS 8__dramatizations)))))
+          (, 9__,)
+          (S
+            (NP-SBJ (PRP 10__it))
+            (VP (VBZ 11__'s)
+              (ADVP-TMP (DT 12__no) (RBR 13__longer))
+              (NP-PRD (NN 14__news))))
+          (, 15__,)
+          (S
+            (NP-SBJ (PRP 16__it))
+            (VP (VBZ 17__'s)
+              (NP-PRD (NN 18__drama))))
+          (, 19__,))
+        (CONJPP (CC 20__and)
+          (S
+            (NP-SBJ (DT 21__that))
+            (VP (VBZ 22__has)
+              (NP (DT 23__no) (NN 24__place))
+              (PP-LOC (IN 25__on)
+                (NP (DT 26__a) (NN 27__network) (NN 28__news) (NN 29__broadcast))))))))
+    (NP-SBJ (PRP 2__she))
+    (: 3__:) (`` 4__``) (: 30__...) (. 31__.)))
+
+(ROOT
+  (SINV
+    (ADVP-LOC (RB 1__Nowhere))
+    (VB 2__have)
+    (NP-SBJ (NNS 3__eyes))
+    (VP (VBN 4__been)
+      (VP (VBD 5__opened)
+        (NP (-NONE- __*-1))
+        (ADVP-CLR
+          (ADVP (RBR 6__wider))
+          (PP (IN 7__than)
+            (PP-LOC (IN 8__at)
+              (NP (NNP 9__CBS) (NNP 10__News)))))))
+    (. 11__.)))
+
+(ROOT
+  (SINV
+    (VP (VBD 12__said)
+      (S
+        (S-TPC (`` 1__``)
+          (NP-SBJ (PRP 2__We))
+          (VP (MD 3__will) (RB 4__not)
+            (VP (VB 5__go)
+              (PP-DIR (IN 6__over)
+                (NP (DT 7__a) (JJ 8__certain) (NN 9__level)))))
+          (, 10__,) ('' 11__'')))
+      (PP-LOC (IN 24__at)
+        (NP
+          (NP (DT 25__a) (NN 26__news) (NN 27__conference))
+          (NP-TMP (NN 28__yesterday))))
+      (PP-LOC (IN 29__in)
+        (NP
+          (NP (NNP 30__Dearborn))
+          (, 31__,)
+          (NP (NNP 32__Mich)))))
+    (NP-SBJ
+      (NP (NNP 13__David) (NNP 14__N.) (NNP 15__McCammon))
+      (, 16__,)
+      (NP
+        (NP
+          (NP (NNP 17__Ford) (POS 18__'s))
+          (NN 19__vice) (NN 20__president))
+        (PP (IN 21__for)
+          (NP (NN 22__finance))))
+      (, 23__,))
+    (. 33__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__attests)
+      (S (-NONE- __*T*-1)))
+    (NP-SBJ
+      (NP (DT 2__a) (JJ 3__25-year-old) (NN 4__lawyer))
+      (PP-LOC (IN 5__in)
+        (NP (NNP 6__New) (NNP 7__Delhi))))
+    (, 8__,)
+    (PP-MNR (IN 9__with)
+      (NP (DT 10__a)
+        (ADJP (RB 11__meaningfully) (VBN 12__raised))
+        (NN 13__eyebrow)))))
+
+(ROOT
+  (SINV
+    (S-ADV
+      (NP-SBJ (-NONE- __*-2))
+      (VP (VBN 1__Buried)
+        (NP (-NONE- __*-1))
+        (PP-LOC-CLR (IN 2__in)
+          (NP
+            (NP (DT 3__the) (JJ 4__glossy) (JJ 5__hardbound) (NN 6__catalog))
+            (PP (IN 7__for)
+              (NP (DT 8__the) (NN 9__sale)))))))
+    (, 10__,)
+    (ADVP (RB 11__however))
+    (, 12__,)
+    (VP (VBZ 13__appears))
+    (NP-SBJ
+      (NP (DT 14__the) (NN 15__statement))
+      (, 16__,) (`` 17__``)
+      (S
+        (NP-SBJ
+          (NP (NNP 18__Sotheby) (POS 19__'s)))
+        (VP (VBZ 20__has)
+          (NP
+            (NP (DT 21__an) (NN 22__interest))
+            (PP-LOC (IN 23__in)
+              (NP
+                (NP (DT 24__the) (NN 25__property))
+                (PP-LOC (IN 26__in)
+                  (NP (DT 27__this) (NN 28__catalog)))))))))
+    (. 29__.) ('' 30__'')))
+
+(ROOT
+  (SINV
+    (ADVP-TMP
+      (ADVP (RB 1__So) (RB 2__often))
+      (SBAR (IN 7__that)
+        (S
+          (NP-SBJ (PRP 8__they))
+          (VP (VBP 9__seem)
+            (S
+              (NP-SBJ (-NONE- __*-2))
+              (VP (TO 10__to)
+                (VP (VB 11__resemble)
+                  (NP (DT 12__a) (JJ 13__spinning) (NN 14__weather) (NN 15__vane)))))))))
+    (VBP 3__are)
+    (NP-SBJ (NN 4__government) (NNS 5__statistics))
+    (VP (VBD 6__revised))
+    (. 16__.)))
+
+(ROOT
+  (SINV
+    (VP (VBZ 1__Adds)
+      (S
+        (S
+          (NP-SBJ (EX 13__There))
+          (VP (VBZ 14__'s)
+            (NP-PRD
+              (NP (NN 15__nothing))
+              (ADJP (JJ 16__positive))
+              (PP (IN 17__about)
+                (NP (DT 18__an) (NN 19__earthquake))))))
+        (CONJPP (, 20__,)
+          (CC 21__but)
+          (S
+            (NP-SBJ (PRP 22__it))
+            (VP (MD 23__will)
+              (ADVP (RB 24__probably))
+              (VP (VB 25__generate)
+                (NP (JJR 26__more) (NN 27__construction) (NN 28__activity))))))))
+    (NP-SBJ
+      (NP (NNP 2__Stacy) (NNP 3__Kotman))
+      (, 4__,)
+      (NP
+        (NP (DT 5__an) (NN 6__economist))
+        (PP-LOC (IN 7__at)
+          (NP (NNP 8__Georgia) (NNP 9__State) (NNP 10__University))))
+      (, 11__,))
+    (`` 12__``) (. 29__.) ('' 30__'')))
+
+(ROOT
+  (SINV (`` 1__``) (, 21__,) ('' 22__'')
+    (VP (VBD 23__said)
+      (S
+        (S-TPC
+          (NP-SBJ (DT 2__The) (NN 3__decision)
+            (S
+              (NP-SBJ (-NONE- __*))
+              (VP (TO 4__to)
+                (VP (VB 5__distribute)
+                  (NP
+                    (NP (NNS 6__machetes))
+                    (SBAR
+                      (S
+                        (NP-SBJ
+                          (WHNP (WDT 11__which)))
+                        (VP (MD 12__could)
+                          (VP (VB 13__be)
+                            (VP (VBN 14__used)
+                              (NP (-NONE- __*-2))
+                              (PP-CLR (IN 15__as)
+                                (NP (NNS 16__weapons)))))))))
+                  (PP-TMP (IN 7__at)
+                    (NP (DT 8__this) (NN 9__time)))
+                  (, 10__,) (, 17__,)))))
+          (VP (VBZ 18__is)
+            (PP-LOC-PRD (IN 19__under)
+              (NP (NN 20__review)))))))
+    (NP-SBJ (DT 24__a) (NNP 25__U.N.) (NN 26__spokesman))
+    (: 27__...) (. 28__.)))
+

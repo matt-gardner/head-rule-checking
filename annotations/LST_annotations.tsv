@@ -1,0 +1,8 @@
+index	pattern	head_index
+1	(LST LS .)	1
+2	(LST LS -RRB-)	1
+3	(LST LS)	1
+4	(LST :)	1
+5	(LST JJ)	1
+6	(LST LS :)	1
+7	(LST -LRB- LS -RRB-)	2

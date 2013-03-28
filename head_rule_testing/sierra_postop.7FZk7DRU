@@ -1,0 +1,90 @@
+(ROOT
+  (DEPS
+    (2__.__.
+      1__1__LS
+      ???)
+    (1__1__LS
+      0__ROOT__
+      ROOT))
+  (LST__1__1__LS (LS__1__1__LS 1__1__LS) (.__2__.__. 2__.__.)))
+
+(ROOT
+  (DEPS
+    (2__-RRB-__-RRB-
+      1__1__LS
+      ???)
+    (1__1__LS
+      0__ROOT__
+      ROOT))
+  (LST__1__1__LS (LS__1__1__LS 1__1__LS) (-RRB-__2__-RRB-__-RRB- 2__-RRB-__-RRB-)))
+
+(ROOT
+  (DEPS
+    (1__1__LS
+      0__ROOT__
+      ROOT))
+  (LST__1__1__LS (LS__1__1__LS 1__1__LS)))
+
+(ROOT
+  (DEPS
+    (1__--__:
+      0__ROOT__
+      ROOT))
+  (LST__1__--__: (:__1__--__: 1__--__:)))
+
+(ROOT
+  (DEPS
+    (1__First__JJ
+      0__ROOT__
+      ROOT))
+  (LST__1__First__JJ (JJ__1__First__JJ 1__First__JJ)))
+
+(ROOT
+  (DEPS
+    (2__-__:
+      1__a__LS
+      ???)
+    (1__a__LS
+      0__ROOT__
+      ROOT))
+  (LST__1__a__LS (LS__1__a__LS 1__a__LS) (:__2__-__: 2__-__:)))
+
+(ROOT
+  (DEPS
+    (1__-LRB-__-LRB-
+      2__1__LS
+      ???)
+    (3__-RRB-__-RRB-
+      2__1__LS
+      ???)
+    (2__1__LS
+      0__ROOT__
+      ROOT))
+  (LST__2__1__LS (-LRB-__1__-LRB-__-LRB- 1__-LRB-__-LRB-) (LS__2__1__LS 2__1__LS) (-RRB-__3__-RRB-__-RRB- 3__-RRB-__-RRB-)))
+
+(ROOT
+  (DEPS
+    (1__-LRB-__-LRB-
+      3__-RRB-__-RRB-
+      ???)
+    (2__b__NN
+      3__-RRB-__-RRB-
+      ???)
+    (3__-RRB-__-RRB-
+      0__ROOT__
+      ROOT))
+  (LST__3__-RRB-__-RRB- (-LRB-__1__-LRB-__-LRB- 1__-LRB-__-LRB-) (NN__2__b__NN 2__b__NN) (-RRB-__3__-RRB-__-RRB- 3__-RRB-__-RRB-)))
+
+(ROOT
+  (DEPS
+    (1__-LRB-__-LRB-
+      3__-RRB-__-RRB-
+      ???)
+    (2__a__DT
+      3__-RRB-__-RRB-
+      ???)
+    (3__-RRB-__-RRB-
+      0__ROOT__
+      ROOT))
+  (LST__3__-RRB-__-RRB- (-LRB-__1__-LRB-__-LRB- 1__-LRB-__-LRB-) (DT__2__a__DT 2__a__DT) (-RRB-__3__-RRB-__-RRB- 3__-RRB-__-RRB-)))
+

@@ -1,0 +1,27 @@
+(ROOT
+  (LST (LS 1__1) (. 2__.)))
+
+(ROOT
+  (LST (LS 1__1) (-RRB- 2__-RRB-)))
+
+(ROOT
+  (LST (LS 1__1)))
+
+(ROOT
+  (LST (: 1__--)))
+
+(ROOT
+  (LST (JJ 1__First)))
+
+(ROOT
+  (LST (LS 1__a) (: 2__-)))
+
+(ROOT
+  (LST (-LRB- 1__-LRB-) (LS 2__1) (-RRB- 3__-RRB-)))
+
+(ROOT
+  (LST (-LRB- 1__-LRB-) (NN 2__b) (-RRB- 3__-RRB-)))
+
+(ROOT
+  (LST (-LRB- 1__-LRB-) (DT 2__a) (-RRB- 3__-RRB-)))
+

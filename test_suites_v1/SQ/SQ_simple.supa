@@ -1,0 +1,972 @@
+1	knows	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	what	_	_	WP	_	3	SUBJ	_	_	will
+3	will	_	_	MD	_	1	???	_	_	knows
+4	happen	_	_	VB	_	3	???	_	_	will
+5	if	_	_	IN	_	4	???	_	_	happen
+6	investment	_	_	NN	_	7	SUBJ	_	_	starts
+7	starts	_	_	VBZ	_	5	???	_	_	if
+
+1	should	_	_	MD	_	0	ROOT	_	_	ROOT
+2	anyone	_	_	NN	_	1	SUBJ	_	_	should
+3	expect	_	_	VB	_	1	???	_	_	should
+4	anything	_	_	NN	_	3	OBJ-DO	_	_	expect
+
+1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	stepping	_	_	VBG	_	1	???	_	_	is
+
+1	do	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	readers	_	_	NNS	_	1	SUBJ	_	_	do
+3	feel	_	_	VB	_	1	???	_	_	do
+
+1	Will	_	_	MD	_	0	ROOT	_	_	ROOT
+2	the	_	_	DT	_	3	???	_	_	investments
+3	investments	_	_	NNS	_	1	SUBJ	_	_	Will
+4	pay	_	_	VB	_	1	???	_	_	Will
+5	off	_	_	IN	_	4	???	_	_	pay
+6	?	_	_	.	_	1	???	_	_	Will
+
+1	did	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	it	_	_	PRP	_	1	SUBJ	_	_	did
+3	take	_	_	VB	_	1	???	_	_	did
+4	Wellcome	_	_	NNP	_	3	OBJ-DO	_	_	take
+
+1	Do	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	I	_	_	PRP	_	1	SUBJ	_	_	Do
+3	have	_	_	VB	_	1	???	_	_	Do
+4	sympathy	_	_	NN	_	3	OBJ-DO	_	_	have
+5	?	_	_	.	_	1	???	_	_	Do
+
+1	Has	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	the	_	_	DT	_	3	???	_	_	earthquake
+3	earthquake	_	_	NN	_	1	SUBJ	_	_	Has
+4	caused	_	_	VBN	_	1	???	_	_	Has
+5	?	_	_	.	_	1	???	_	_	Has
+
+
+
+1	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	that	_	_	DT	_	1	SUBJ	_	_	Is
+3	wholesale	_	_	JJ	_	1	???	_	_	Is
+4	or	_	_	CC	_	3	???	_	_	wholesale
+5	retail	_	_	JJ	_	4	???	_	_	or
+
+1	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	this	_	_	DT	_	3	???	_	_	man
+3	man	_	_	NN	_	1	SUBJ	_	_	Is
+4	a	_	_	DT	_	5	???	_	_	believer
+5	believer	_	_	NN	_	1	???	_	_	Is
+6	?	_	_	.	_	1	???	_	_	Is
+
+1	Could	_	_	MD	_	0	ROOT	_	_	ROOT
+2	he	_	_	PRP	_	1	SUBJ	_	_	Could
+3	plausibly	_	_	RB	_	1	???	_	_	Could
+4	interpret	_	_	VB	_	1	???	_	_	Could
+5	it	_	_	PRP	_	4	OBJ-DO	_	_	interpret
+6	?	_	_	.	_	1	???	_	_	Could
+
+1	Did	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	I	_	_	PRP	_	1	SUBJ	_	_	Did
+3	buy	_	_	VB	_	1	???	_	_	Did
+4	it	_	_	PRP	_	3	OBJ-DO	_	_	buy
+5	?	_	_	.	_	1	???	_	_	Did
+
+1	But	_	_	CC	_	2	???	_	_	will
+2	will	_	_	MD	_	0	ROOT	_	_	ROOT
+3	it	_	_	PRP	_	2	SUBJ	_	_	will
+4	?	_	_	.	_	2	???	_	_	will
+
+1	do	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	n't	_	_	RB	_	1	???	_	_	do
+3	you	_	_	PRP	_	1	SUBJ	_	_	do
+4	give	_	_	VB	_	1	???	_	_	do
+5	us	_	_	PRP	_	4	???	_	_	give
+6	a	_	_	DT	_	7	???	_	_	system
+7	system	_	_	NN	_	4	OBJ-DO	_	_	give
+
+1	Are	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	those	_	_	DT	_	3	???	_	_	declines
+3	declines	_	_	NNS	_	1	SUBJ	_	_	Are
+4	enough	_	_	RB	_	1	???	_	_	Are
+5	?	_	_	.	_	1	???	_	_	Are
+
+1	's	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	on	_	_	IN	_	1	???	_	_	's
+3	the	_	_	DT	_	4	???	_	_	test
+4	test	_	_	NN	_	2	???	_	_	on
+
+1	do	_	_	VB	_	0	ROOT	_	_	ROOT
+2	I	_	_	PRP	_	1	SUBJ	_	_	do
+3	explain	_	_	VB	_	1	???	_	_	do
+4	that	_	_	IN	_	3	???	_	_	explain
+5	the	_	_	DT	_	6	???	_	_	bags
+6	bags	_	_	NNS	_	7	SUBJ	_	_	will
+7	will	_	_	MD	_	4	???	_	_	that
+8	take	_	_	VB	_	7	???	_	_	will
+9	her	_	_	PRP	_	10	???	_	_	$
+10	$	_	_	$	_	8	OBJ-DO	_	_	take
+
+1	BE	_	_	VB	_	0	ROOT	_	_	ROOT
+2	A	_	_	DT	_	3	???	_	_	MIDDLEMAN
+3	MIDDLEMAN	_	_	NN	_	1	OBJ-DO	_	_	BE
+4	?	_	_	.	_	1	???	_	_	BE
+
+1	ca	_	_	MD	_	0	ROOT	_	_	ROOT
+2	n't	_	_	RB	_	1	???	_	_	ca
+3	we	_	_	PRP	_	1	SUBJ	_	_	ca
+4	teach	_	_	VB	_	1	???	_	_	ca
+
+1	wo	_	_	MD	_	0	ROOT	_	_	ROOT
+2	n't	_	_	RB	_	1	???	_	_	wo
+3	you	_	_	PRP	_	1	SUBJ	_	_	wo
+4	give	_	_	VB	_	1	???	_	_	wo
+5	him	_	_	PRP	_	4	???	_	_	give
+6	the	_	_	DT	_	7	???	_	_	difference
+7	difference	_	_	NN	_	4	OBJ-DO	_	_	give
+8	?	_	_	.	_	1	???	_	_	wo
+
+1	does	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	he	_	_	PRP	_	1	SUBJ	_	_	does
+3	always	_	_	RB	_	1	???	_	_	does
+4	wait	_	_	VB	_	1	???	_	_	does
+5	until	_	_	IN	_	4	???	_	_	wait
+6	he	_	_	PRP	_	7	SUBJ	_	_	's
+7	's	_	_	VBZ	_	5	???	_	_	until
+8	caught	_	_	VBN	_	7	???	_	_	's
+
+1	Given	_	_	VBN|IN	_	5	???	_	_	can
+2	the	_	_	DT	_	3	???	_	_	weakness
+3	weakness	_	_	NN	_	1	???	_	_	Given
+4	,	_	_	,	_	5	???	_	_	can
+5	can	_	_	MD	_	0	ROOT	_	_	ROOT
+6	he	_	_	PRP	_	5	SUBJ	_	_	can
+7	finance	_	_	VB	_	5	???	_	_	can
+8	a	_	_	DT	_	9	???	_	_	buy-out
+9	buy-out	_	_	NN	_	7	OBJ-DO	_	_	finance
+10	?	_	_	.	_	5	???	_	_	can
+
+1	Do	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	they	_	_	PRP	_	1	SUBJ	_	_	Do
+3	really	_	_	RB	_	1	???	_	_	Do
+4	believe	_	_	VB	_	1	???	_	_	Do
+5	that	_	_	IN	_	4	???	_	_	believe
+6	the	_	_	DT	_	7	???	_	_	number
+7	number	_	_	NN	_	8	SUBJ	_	_	is
+8	is	_	_	VBZ	_	5	???	_	_	that
+9	?	_	_	.	_	1	???	_	_	Do
+
+1	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	n't	_	_	RB	_	1	???	_	_	Is
+3	it	_	_	PRP	_	1	SUBJ	_	_	Is
+4	great	_	_	JJ	_	1	???	_	_	Is
+5	to	_	_	TO	_	1	???	_	_	Is
+6	be	_	_	VB	_	5	???	_	_	to
+7	alive	_	_	JJ	_	6	???	_	_	be
+8	?	_	_	.	_	1	???	_	_	Is
+
+1	But	_	_	CC	_	2	???	_	_	is
+2	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+3	he	_	_	PRP	_	2	SUBJ	_	_	is
+4	clever	_	_	JJ	_	2	???	_	_	is
+5	?	_	_	.	_	2	???	_	_	is
+
+1	Does	_	_	NNP	_	3	???	_	_	regret
+2	Steinhardt	_	_	NNP	_	3	SUBJ	_	_	regret
+3	regret	_	_	VB	_	0	ROOT	_	_	ROOT
+4	his	_	_	PRP$	_	5	???	_	_	incursion
+5	incursion	_	_	NN	_	3	OBJ-DO	_	_	regret
+6	?	_	_	.	_	3	???	_	_	regret
+
+1	are	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	we	_	_	PRP	_	1	SUBJ	_	_	are
+3	continually	_	_	RB	_	1	???	_	_	are
+4	defined	_	_	VBN	_	1	???	_	_	are
+
+1	is	_	_	NNS	_	0	ROOT	_	_	ROOT
+2	this	_	_	DT	_	1	SUBJ	_	_	is
+3	something	_	_	NN	_	1	???	_	_	is
+
+1	did	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	n't	_	_	RB	_	1	???	_	_	did
+3	you	_	_	PRP	_	1	SUBJ	_	_	did
+
+1	Does	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	n't	_	_	RB	_	1	???	_	_	Does
+3	anybody	_	_	NN	_	1	SUBJ	_	_	Does
+4	here	_	_	RB	_	3	???	_	_	anybody
+5	want	_	_	VB	_	1	???	_	_	Does
+6	?	_	_	.	_	1	???	_	_	Does
+
+1	Does	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	this	_	_	DT	_	3	???	_	_	team
+3	team	_	_	NN	_	1	SUBJ	_	_	Does
+4	have	_	_	VB	_	1	???	_	_	Does
+5	a	_	_	DT	_	6	???	_	_	strategy
+6	strategy	_	_	NN	_	4	OBJ-DO	_	_	have
+7	,	_	_	,	_	1	???	_	_	Does
+8	and	_	_	CC	_	1	???	_	_	Does
+9	does	_	_	VBZ	_	1	???	_	_	Does
+10	this	_	_	DT	_	11	???	_	_	strategy
+11	strategy	_	_	NN	_	9	SUBJ	_	_	does
+12	require	_	_	VB	_	9	???	_	_	does
+13	implementation	_	_	NN	_	12	OBJ-DO	_	_	require
+14	?	_	_	.	_	1	???	_	_	Does
+
+1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	another	_	_	DT	_	3	???	_	_	name
+3	name	_	_	NN	_	1	???	_	_	is
+
+1	Or	_	_	CC	_	2	???	_	_	was
+2	was	_	_	VBD	_	0	ROOT	_	_	ROOT
+3	it	_	_	PRP	_	2	SUBJ	_	_	was
+4	because	_	_	IN	_	2	???	_	_	was
+5	Collins	_	_	NNP	_	6	SUBJ	_	_	had
+6	had	_	_	VBD	_	4	???	_	_	because
+7	gone	_	_	VBN	_	6	???	_	_	had
+8	?	_	_	.	_	2	???	_	_	was
+
+1	Can	_	_	MD	_	0	ROOT	_	_	ROOT
+2	``	_	_	``	_	1	???	_	_	Can
+3	Theatre	_	_	NNP	_	1	???	_	_	Can
+4	''	_	_	''	_	1	???	_	_	Can
+5	make	_	_	VB	_	1	???	_	_	Can
+6	a	_	_	DT	_	7	???	_	_	story
+7	story	_	_	NN	_	5	OBJ-DO	_	_	make
+8	?	_	_	.	_	1	???	_	_	Can
+
+1	currently	_	_	RB	_	2	???	_	_	have
+2	have	_	_	VBP	_	0	ROOT	_	_	ROOT
+3	the	_	_	DT	_	4	???	_	_	risks
+4	risks	_	_	NNS	_	2	OBJ-DO	_	_	have
+
+1	's	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	really	_	_	RB	_	1	???	_	_	's
+3	going	_	_	VBG	_	1	???	_	_	's
+4	on	_	_	RP	_	3	???	_	_	going
+
+1	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	Buying	_	_	VBG	_	1	???	_	_	Is
+3	a	_	_	DT	_	4	???	_	_	Car
+4	Car	_	_	NN	_	2	OBJ-DO	_	_	Buying
+5	a	_	_	DT	_	6	???	_	_	Choice
+6	Choice	_	_	NN	_	1	???	_	_	Is
+7	?	_	_	.	_	1	???	_	_	Is
+
+1	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	there	_	_	EX	_	1	SUBJ	_	_	Is
+3	really	_	_	RB	_	1	???	_	_	Is
+4	a	_	_	DT	_	5	???	_	_	commitment
+5	commitment	_	_	NN	_	1	???	_	_	Is
+
+1	But	_	_	CC	_	2	???	_	_	does
+2	does	_	_	VBZ	_	0	ROOT	_	_	ROOT
+3	it	_	_	PRP	_	2	SUBJ	_	_	does
+4	have	_	_	VB	_	2	???	_	_	does
+5	?	_	_	.	_	2	???	_	_	does
+
+1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	having	_	_	VBG	_	1	???	_	_	is
+3	insurance	_	_	NN	_	2	OBJ-DO	_	_	having
+4	,	_	_	,	_	7	???	_	_	asked
+5	''	_	_	''	_	7	???	_	_	asked
+6	she	_	_	PRP	_	7	SUBJ	_	_	asked
+7	asked	_	_	VBD	_	1	???	_	_	is
+8	,	_	_	,	_	7	???	_	_	asked
+9	``	_	_	``	_	1	???	_	_	is
+10	when	_	_	WRB	_	1	???	_	_	is
+11	it	_	_	PRP	_	12	SUBJ	_	_	's
+12	's	_	_	VBZ	_	10	???	_	_	when
+13	expensive	_	_	JJ	_	12	???	_	_	's
+
+1	``	_	_	``	_	2	???	_	_	Is
+2	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+3	Science	_	_	NN	_	2	SUBJ	_	_	Is
+4	Driving	_	_	VBG	_	2	???	_	_	Is
+5	Policy	_	_	NN	_	4	OBJ-DO	_	_	Driving
+6	?	_	_	.	_	2	???	_	_	Is
+7	''	_	_	''	_	2	???	_	_	Is
+
+1	did	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	the	_	_	DT	_	3	???	_	_	Bank
+3	Bank	_	_	NNP	_	1	SUBJ	_	_	did
+4	sometimes	_	_	RB	_	1	???	_	_	did
+5	take	_	_	VB	_	1	???	_	_	did
+6	days	_	_	NNS	_	5	OBJ-DO	_	_	take
+
+1	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	this	_	_	DT	_	1	SUBJ	_	_	Is
+3	not	_	_	RB	_	1	???	_	_	Is
+4	Anti-Christ	_	_	NNP	_	1	???	_	_	Is
+5	?	_	_	.	_	1	???	_	_	Is
+
+1	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	the	_	_	DT	_	3	???	_	_	government
+3	government	_	_	NN	_	1	SUBJ	_	_	Is
+4	not	_	_	RB	_	1	???	_	_	Is
+5	helping	_	_	VBG	_	1	???	_	_	Is
+6	anybody	_	_	NN	_	5	OBJ-DO	_	_	helping
+
+1	Using	_	_	VBG	_	4	???	_	_	would
+2	it	_	_	PRP	_	1	OBJ-DO	_	_	Using
+3	,	_	_	,	_	4	???	_	_	would
+4	would	_	_	MD	_	0	ROOT	_	_	ROOT
+5	n't	_	_	RB	_	4	???	_	_	would
+6	a	_	_	DT	_	7	???	_	_	proessional
+7	proessional	_	_	NN	_	4	SUBJ	_	_	would
+8	hesitate	_	_	VB	_	4	???	_	_	would
+9	?	_	_	.	_	4	???	_	_	would
+
+1	are	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	open	_	_	JJ	_	1	???	_	_	are
+3	other	_	_	JJ	_	1	???	_	_	are
+
+1	you	_	_	PRP	_	2	SUBJ	_	_	knew
+2	knew	_	_	VBD	_	5	???	_	_	did
+3	that	_	_	IN	_	2	OBJ-DO	_	_	knew
+4	,	_	_	,	_	5	???	_	_	did
+5	did	_	_	VBD	_	0	ROOT	_	_	ROOT
+6	n't	_	_	RB	_	5	???	_	_	did
+7	you	_	_	PRP	_	5	SUBJ	_	_	did
+8	?	_	_	.	_	5	???	_	_	did
+
+1	And	_	_	CC	_	2	???	_	_	has
+2	has	_	_	VBZ	_	0	ROOT	_	_	ROOT
+3	he	_	_	PRP	_	2	SUBJ	_	_	has
+4	truly	_	_	RB	_	2	???	_	_	has
+5	persuaded	_	_	VBD	_	2	???	_	_	has
+6	the	_	_	DT	_	7	???	_	_	Party
+7	Party	_	_	NNP	_	5	OBJ-DO	_	_	persuaded
+8	?	_	_	.	_	2	???	_	_	has
+
+1	am	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	I	_	_	PRP	_	1	SUBJ	_	_	am
+3	to	_	_	TO	_	1	???	_	_	am
+4	judge	_	_	VB	_	3	???	_	_	to
+
+1	Do	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	you	_	_	PRP	_	1	SUBJ	_	_	Do
+3	really	_	_	RB	_	1	???	_	_	Do
+4	need	_	_	VB	_	1	???	_	_	Do
+5	money	_	_	NN	_	4	OBJ-DO	_	_	need
+6	?	_	_	.	_	1	???	_	_	Do
+7	Have	_	_	VBP	_	1	???	_	_	Do
+8	you	_	_	PRP	_	7	SUBJ	_	_	Have
+9	told	_	_	VBN	_	7	???	_	_	Have
+10	investors	_	_	NNS	_	9	OBJ-DO	_	_	told
+11	what	_	_	WP	_	12	SUBJ	_	_	is
+12	is	_	_	VBZ	_	9	???	_	_	told
+13	happening	_	_	VBG	_	12	???	_	_	is
+14	?	_	_	.	_	7	???	_	_	Have
+15	What	_	_	WP	_	16	???	_	_	about
+16	about	_	_	IN	_	1	???	_	_	Do
+17	your	_	_	PRP$	_	18	???	_	_	record
+18	record	_	_	NN	_	16	???	_	_	about
+19	?	_	_	.	_	16	???	_	_	about
+
+1	have	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	we	_	_	PRP	_	1	SUBJ	_	_	have
+3	for	_	_	IN	_	1	???	_	_	have
+4	dealing	_	_	VBG	_	3	???	_	_	for
+
+1	``	_	_	``	_	16	???	_	_	Is
+2	How	_	_	WRB	_	3	???	_	_	could
+3	could	_	_	MD	_	16	???	_	_	Is
+4	you	_	_	PRP	_	3	SUBJ	_	_	could
+5	not	_	_	RB	_	6	???	_	_	have
+6	have	_	_	VB	_	3	???	_	_	could
+7	known	_	_	VBN	_	6	???	_	_	have
+8	0_NULL	_	_	-NONE-	_	7	???	_	_	known
+9	you	_	_	PRP	_	10	SUBJ	_	_	were
+10	were	_	_	VBD	_	8	???	_	_	0_NULL
+11	going	_	_	VBG	_	10	???	_	_	were
+12	?	_	_	.	_	3	???	_	_	could
+13	''	_	_	''	_	16	???	_	_	Is
+14	and	_	_	CC	_	16	???	_	_	Is
+15	``	_	_	``	_	16	???	_	_	Is
+16	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+17	Wang	_	_	NNP	_	16	SUBJ	_	_	Is
+18	still	_	_	RB	_	16	???	_	_	Is
+19	a	_	_	DT	_	20	???	_	_	company
+20	company	_	_	NN	_	16	OBJ-DO	_	_	Is
+21	?	_	_	.	_	16	???	_	_	Is
+
+1	Are	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	the	_	_	DT	_	3	???	_	_	hats
+3	hats	_	_	NNS	_	1	SUBJ	_	_	Are
+4	merely	_	_	RB	_	1	???	_	_	Are
+5	part	_	_	NN	_	1	???	_	_	Are
+6	,	_	_	,	_	1	???	_	_	Are
+7	along	_	_	IN	_	1	???	_	_	Are
+8	with	_	_	IN	_	7	???	_	_	along
+9	the	_	_	DT	_	10	???	_	_	cigarettes
+10	cigarettes	_	_	NNS	_	8	???	_	_	with
+11	?	_	_	.	_	1	???	_	_	Are
+
+1	Does	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	the	_	_	DT	_	3	???	_	_	Journal
+3	Journal	_	_	NNP	_	1	SUBJ	_	_	Does
+4	really	_	_	RB	_	1	???	_	_	Does
+5	believe	_	_	VB	_	1	???	_	_	Does
+6	that	_	_	IN	_	5	???	_	_	believe
+7	people	_	_	NNS	_	8	SUBJ	_	_	ignore
+8	ignore	_	_	VBP	_	6	???	_	_	that
+9	the	_	_	DT	_	10	???	_	_	prospect
+10	prospect	_	_	NN	_	8	OBJ-DO	_	_	ignore
+11	when	_	_	WRB	_	8	???	_	_	ignore
+12	they	_	_	PRP	_	13	SUBJ	_	_	decide
+13	decide	_	_	VBP	_	11	???	_	_	when
+14	whether	_	_	IN	_	13	???	_	_	decide
+15	to	_	_	TO	_	14	???	_	_	whether
+16	save	_	_	VB	_	15	???	_	_	to
+17	or	_	_	CC	_	14	???	_	_	whether
+18	how	_	_	WRB	_	17	???	_	_	or
+19	to	_	_	TO	_	18	???	_	_	how
+20	invest	_	_	VB	_	19	???	_	_	to
+21	?	_	_	.	_	1	???	_	_	Does
+
+1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	n't	_	_	RB	_	1	???	_	_	is
+3	it	_	_	PRP	_	1	SUBJ	_	_	is
+4	interesting	_	_	JJ	_	1	???	_	_	is
+5	that	_	_	IN	_	1	???	_	_	is
+6	some	_	_	DT	_	7	SUBJ	_	_	are
+7	are	_	_	VBP	_	5	???	_	_	that
+8	choosing	_	_	VBG	_	7	???	_	_	are
+9	chiefs	_	_	NNS	_	8	OBJ-DO	_	_	choosing
+
+1	Are	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	n't	_	_	RB	_	1	???	_	_	Are
+3	we	_	_	PRP	_	1	SUBJ	_	_	Are
+4	,	_	_	,	_	1	???	_	_	Are
+5	after	_	_	IN	_	1	???	_	_	Are
+6	all	_	_	DT	_	5	???	_	_	after
+7	,	_	_	,	_	1	???	_	_	Are
+8	the	_	_	DT	_	9	???	_	_	culmination
+9	culmination	_	_	NN	_	1	???	_	_	Are
+10	?	_	_	.	_	1	???	_	_	Are
+
+1	now	_	_	RB	_	3	???	_	_	did
+2	,	_	_	,	_	3	???	_	_	did
+3	did	_	_	VBD	_	0	ROOT	_	_	ROOT
+4	she	_	_	PRP	_	3	SUBJ	_	_	did
+5	have	_	_	VB	_	3	???	_	_	did
+6	?	_	_	.	_	3	???	_	_	did
+
+1	TIRED	_	_	JJ	_	0	ROOT	_	_	ROOT
+2	?	_	_	.	_	1	???	_	_	TIRED
+
+1	Or	_	_	CC	_	2	???	_	_	can
+2	can	_	_	MD	_	0	ROOT	_	_	ROOT
+3	we	_	_	PRP	_	2	SUBJ	_	_	can
+4	ask	_	_	VB	_	2	???	_	_	can
+5	you	_	_	PRP	_	4	OBJ-DO	_	_	ask
+6	why	_	_	WRB	_	4	???	_	_	ask
+7	you	_	_	PRP	_	8	SUBJ	_	_	changed
+8	changed	_	_	VBD	_	6	???	_	_	why
+9	your	_	_	PRP$	_	10	???	_	_	forecast
+10	forecast	_	_	NN	_	8	OBJ-DO	_	_	changed
+11	just	_	_	RB	_	12	???	_	_	when
+12	when	_	_	WRB	_	8	???	_	_	changed
+13	it	_	_	PRP	_	14	SUBJ	_	_	's
+14	's	_	_	VBZ	_	12	???	_	_	when
+15	about	_	_	IN	_	14	???	_	_	's
+16	?	_	_	.	_	2	???	_	_	can
+17	''	_	_	''	_	2	???	_	_	can
+
+1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	it	_	_	PRP	_	1	SUBJ	_	_	is
+3	low	_	_	JJ	_	1	???	_	_	is
+4	?	_	_	.	_	1	???	_	_	is
+
+1	But	_	_	CC	_	8	???	_	_	might
+2	now	_	_	RB	_	3	???	_	_	that
+3	that	_	_	IN	_	8	???	_	_	might
+4	they	_	_	PRP	_	5	SUBJ	_	_	're
+5	're	_	_	VBP	_	3	???	_	_	that
+6	settling	_	_	VBG	_	5	???	_	_	're
+7	,	_	_	,	_	8	???	_	_	might
+8	might	_	_	MD	_	0	ROOT	_	_	ROOT
+9	they	_	_	PRP	_	8	SUBJ	_	_	might
+10	also	_	_	RB	_	8	???	_	_	might
+11	show	_	_	VB	_	8	???	_	_	might
+12	stability	_	_	NN	_	11	OBJ-DO	_	_	show
+13	?	_	_	.	_	8	???	_	_	might
+
+1	Will	_	_	MD	_	0	ROOT	_	_	ROOT
+2	you	_	_	PRP	_	1	SUBJ	_	_	Will
+3	pour	_	_	VBP	_	1	???	_	_	Will
+4	me	_	_	PRP	_	3	???	_	_	pour
+5	a	_	_	DT	_	6	???	_	_	drop
+6	drop	_	_	NN	_	3	OBJ-DO	_	_	pour
+7	if	_	_	IN	_	3	???	_	_	pour
+8	you	_	_	PRP	_	9	SUBJ	_	_	do
+9	do	_	_	VBP	_	7	???	_	_	if
+10	n't	_	_	RB	_	9	???	_	_	do
+11	mind	_	_	VB	_	9	???	_	_	do
+12	?	_	_	.	_	1	???	_	_	Will
+13	''	_	_	''	_	1	???	_	_	Will
+
+1	Were	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	we	_	_	PRP	_	1	SUBJ	_	_	Were
+3	smart	_	_	JJ	_	1	???	_	_	Were
+4	or	_	_	CC	_	3	???	_	_	smart
+5	lucky	_	_	JJ	_	4	???	_	_	or
+6	?	_	_	.	_	1	???	_	_	Were
+
+
+
+1	do	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	you	_	_	PRP	_	1	SUBJ	_	_	do
+3	say	_	_	VB	_	1	???	_	_	do
+4	we	_	_	PRP	_	5	SUBJ	_	_	close
+5	close	_	_	VBP	_	1	???	_	_	do
+6	down	_	_	RP	_	5	???	_	_	close
+7	the	_	_	DT	_	8	???	_	_	game
+8	game	_	_	NN	_	5	OBJ-DO	_	_	close
+
+1	But	_	_	CC	_	2	???	_	_	is
+2	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+3	n't	_	_	RB	_	2	???	_	_	is
+4	the	_	_	DT	_	5	???	_	_	desire
+5	desire	_	_	NN	_	2	SUBJ	_	_	is
+6	the	_	_	DT	_	7	???	_	_	force
+7	force	_	_	NN	_	2	???	_	_	is
+8	?	_	_	.	_	2	???	_	_	is
+
+1	in	_	_	IN	_	4	???	_	_	is
+2	these	_	_	DT	_	3	???	_	_	movies
+3	movies	_	_	NNS	_	1	???	_	_	in
+4	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+5	the	_	_	DT	_	6	???	_	_	woman
+6	woman	_	_	NN	_	4	SUBJ	_	_	is
+7	always	_	_	RB	_	4	???	_	_	is
+8	from	_	_	IN	_	4	???	_	_	is
+9	Ohio	_	_	NNP	_	8	???	_	_	from
+
+1	Are	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	there	_	_	RB	_	1	SUBJ	_	_	Are
+3	things	_	_	NNS	_	1	???	_	_	Are
+
+1	But	_	_	CC	_	0	ROOT	_	_	ROOT
+2	what	_	_	WP	_	3	???	_	_	about
+3	about	_	_	IN	_	1	???	_	_	But
+4	all	_	_	PDT	_	6	???	_	_	ducks
+5	those	_	_	DT	_	6	???	_	_	ducks
+6	ducks	_	_	NNS	_	3	???	_	_	about
+7	?	_	_	.	_	1	???	_	_	But
+
+1	Was	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	there	_	_	RB	_	1	SUBJ	_	_	Was
+3	a	_	_	DT	_	4	???	_	_	breach
+4	breach	_	_	NN	_	1	???	_	_	Was
+5	in	_	_	IN	_	1	???	_	_	Was
+6	order	_	_	NN	_	5	???	_	_	in
+7	to	_	_	TO	_	5	???	_	_	in
+8	obtain	_	_	VB	_	7	???	_	_	to
+9	gain	_	_	NN	_	8	OBJ-DO	_	_	obtain
+10	?	_	_	.	_	1	???	_	_	Was
+
+1	's	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	that	_	_	DT	_	1	SUBJ	_	_	's
+3	again	_	_	RB	_	1	???	_	_	's
+
+1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	the	_	_	DT	_	3	???	_	_	SEC
+3	SEC	_	_	NNP	_	1	SUBJ	_	_	is
+4	on	_	_	IN	_	1	???	_	_	is
+5	this	_	_	DT	_	4	???	_	_	on
+
+1	Have	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	You	_	_	PRP	_	1	SUBJ	_	_	Have
+3	Anything	_	_	NN	_	1	???	_	_	Have
+
+1	's	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	the	_	_	DT	_	3	???	_	_	bid
+3	bid	_	_	NN	_	1	SUBJ	_	_	's
+
+1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	the	_	_	DT	_	3	???	_	_	market
+3	market	_	_	NN	_	1	SUBJ	_	_	is
+4	suddenly	_	_	RB	_	1	???	_	_	is
+5	volatile	_	_	JJ	_	1	???	_	_	is
+
+1	Are	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	you	_	_	PRP	_	1	SUBJ	_	_	Are
+3	stupid	_	_	JJ	_	1	???	_	_	Are
+
+1	Or	_	_	CC	_	2	???	_	_	did
+2	did	_	_	VBD	_	0	ROOT	_	_	ROOT
+3	Chestman	_	_	NNP	_	2	SUBJ	_	_	did
+4	hear	_	_	VB	_	2	???	_	_	did
+5	a	_	_	DT	_	6	???	_	_	rumor
+6	rumor	_	_	NN	_	4	OBJ-DO	_	_	hear
+7	?	_	_	.	_	2	???	_	_	did
+
+1	But	_	_	CC	_	2	???	_	_	is
+2	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+3	it	_	_	PRP	_	2	SUBJ	_	_	is
+4	realistic	_	_	JJ	_	2	???	_	_	is
+5	for	_	_	IN	_	2	???	_	_	is
+6	Congress	_	_	NNP	_	7	SUBJ	_	_	to
+7	to	_	_	TO	_	5	???	_	_	for
+8	mandate	_	_	VB	_	7	???	_	_	to
+9	a	_	_	DT	_	10	???	_	_	system
+10	system	_	_	NN	_	8	OBJ-DO	_	_	mandate
+11	?	_	_	.	_	2	???	_	_	is
+
+1	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	the	_	_	DT	_	3	???	_	_	staff
+3	staff	_	_	NN	_	1	SUBJ	_	_	Is
+4	big	_	_	JJ	_	1	???	_	_	Is
+5	,	_	_	,	_	6	???	_	_	and
+6	and	_	_	CC	_	1	???	_	_	Is
+7	does	_	_	VBZ	_	6	???	_	_	and
+8	it	_	_	PRP	_	7	SUBJ	_	_	does
+9	have	_	_	VB	_	7	???	_	_	does
+10	clout	_	_	NN	_	9	OBJ-DO	_	_	have
+
+1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	it	_	_	PRP	_	1	SUBJ	_	_	is
+3	really	_	_	RB	_	1	???	_	_	is
+4	true	_	_	JJ	_	1	???	_	_	is
+5	?	_	_	.	_	1	???	_	_	is
+
+1	Was	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	not	_	_	RB	_	1	???	_	_	Was
+3	the	_	_	DT	_	4	???	_	_	title
+4	title	_	_	NN	_	1	SUBJ	_	_	Was
+5	clear	_	_	JJ	_	1	???	_	_	Was
+6	?	_	_	.	_	1	???	_	_	Was
+
+1	not	_	_	RB	_	2	???	_	_	take
+2	take	_	_	VB	_	0	ROOT	_	_	ROOT
+3	a	_	_	DT	_	4	???	_	_	chance
+4	chance	_	_	NN	_	2	OBJ-DO	_	_	take
+
+1	You	_	_	PRP	_	2	SUBJ	_	_	went
+2	went	_	_	VBD	_	0	ROOT	_	_	ROOT
+3	ballooning	_	_	VBG	_	2	OBJ-DO	_	_	went
+4	?	_	_	.	_	2	???	_	_	went
+5	?	_	_	.	_	2	???	_	_	went
+6	!	_	_	.	_	2	???	_	_	went
+7	!	_	_	.	_	2	???	_	_	went
+
+1	So	_	_	RB	_	3	???	_	_	is
+2	,	_	_	,	_	3	???	_	_	is
+3	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+4	the	_	_	DT	_	5	???	_	_	code
+5	code	_	_	NN	_	3	SUBJ	_	_	is
+6	now	_	_	RB	_	3	???	_	_	is
+7	game	_	_	NN	_	3	???	_	_	is
+8	again	_	_	RB	_	3	???	_	_	is
+9	?	_	_	.	_	3	???	_	_	is
+
+1	Should	_	_	MD	_	0	ROOT	_	_	ROOT
+2	they	_	_	PRP	_	1	SUBJ	_	_	Should
+3	,	_	_	,	_	1	???	_	_	Should
+4	too	_	_	RB	_	1	???	_	_	Should
+5	,	_	_	,	_	1	???	_	_	Should
+6	stop	_	_	VB	_	1	???	_	_	Should
+7	?	_	_	.	_	1	???	_	_	Should
+
+1	Now	_	_	RB	_	2	???	_	_	was
+2	was	_	_	VBD	_	0	ROOT	_	_	ROOT
+3	that	_	_	IN	_	2	SUBJ	_	_	was
+4	a	_	_	DT	_	5	???	_	_	cup
+5	cup	_	_	NN	_	2	???	_	_	was
+6	?	_	_	.	_	2	???	_	_	was
+
+1	``	_	_	``	_	13	???	_	_	would
+2	Even	_	_	RB	_	3	???	_	_	if
+3	if	_	_	IN	_	13	???	_	_	would
+4	it	_	_	PRP	_	5	SUBJ	_	_	's
+5	's	_	_	VBZ	_	3	???	_	_	if
+6	%	_	_	NN	_	5	OBJ-DO	_	_	's
+7	,	_	_	,	_	9	???	_	_	says
+8	''	_	_	''	_	9	???	_	_	says
+9	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+10	Barabba	_	_	NNP	_	9	SUBJ	_	_	says
+11	,	_	_	,	_	9	???	_	_	says
+12	``	_	_	``	_	9	???	_	_	says
+13	would	_	_	MD	_	9	???	_	_	says
+14	you	_	_	PRP	_	13	SUBJ	_	_	would
+15	throw	_	_	VB	_	13	???	_	_	would
+16	away	_	_	RP	_	15	???	_	_	throw
+17	sales	_	_	NNS	_	15	OBJ-DO	_	_	throw
+18	?	_	_	.	_	13	???	_	_	would
+19	''	_	_	''	_	13	???	_	_	would
+
+1	Are	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	consumers	_	_	NNS	_	1	SUBJ	_	_	Are
+3	deep	_	_	RB	_	4	???	_	_	in
+4	in	_	_	IN	_	1	???	_	_	Are
+5	hock	_	_	NN	_	4	???	_	_	in
+6	?	_	_	.	_	1	???	_	_	Are
+
+1	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	n't	_	_	RB	_	1	???	_	_	Is
+3	it	_	_	PRP	_	1	SUBJ	_	_	Is
+4	true	_	_	JJ	_	1	???	_	_	Is
+5	that	_	_	IN	_	1	???	_	_	Is
+6	you	_	_	PRP	_	7	SUBJ	_	_	were
+7	were	_	_	VBD	_	5	???	_	_	that
+8	worked	_	_	VBN	_	7	???	_	_	were
+9	up	_	_	RP	_	8	???	_	_	worked
+10	?	_	_	.	_	1	???	_	_	Is
+11	''	_	_	''	_	1	???	_	_	Is
+
+1	When	_	_	WRB	_	5	???	_	_	will
+2	Bush	_	_	NNP	_	3	SUBJ	_	_	arrives
+3	arrives	_	_	VBZ	_	1	???	_	_	When
+4	,	_	_	,	_	5	???	_	_	will
+5	will	_	_	MD	_	0	ROOT	_	_	ROOT
+6	he	_	_	PRP	_	5	SUBJ	_	_	will
+7	be	_	_	VB	_	5	???	_	_	will
+8	able	_	_	JJ	_	7	???	_	_	be
+9	?	_	_	.	_	5	???	_	_	will
+
+1	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	the	_	_	DT	_	3	???	_	_	trouble
+3	trouble	_	_	NN	_	1	SUBJ	_	_	Is
+4	over	_	_	RP	_	1	???	_	_	Is
+5	?	_	_	.	_	1	???	_	_	Is
+
+1	are	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	those	_	_	DT	_	3	???	_	_	benefits
+3	benefits	_	_	NNS	_	1	SUBJ	_	_	are
+4	worth	_	_	JJ	_	1	???	_	_	are
+
+1	If	_	_	IN	_	7	???	_	_	would
+2	the	_	_	DT	_	3	???	_	_	tax
+3	tax	_	_	NN	_	4	SUBJ	_	_	was
+4	was	_	_	VBD	_	1	???	_	_	If
+5	doubled	_	_	VBN	_	4	???	_	_	was
+6	,	_	_	,	_	7	???	_	_	would
+7	would	_	_	MD	_	0	ROOT	_	_	ROOT
+8	n't	_	_	RB	_	7	???	_	_	would
+9	the	_	_	DT	_	10	???	_	_	value
+10	value	_	_	NN	_	7	SUBJ	_	_	would
+11	fall	_	_	VB	_	7	???	_	_	would
+12	?	_	_	.	_	7	???	_	_	would
+
+1	will	_	_	MD	_	0	ROOT	_	_	ROOT
+2	run	_	_	VB	_	1	???	_	_	will
+3	?	_	_	.	_	1	???	_	_	will
+
+1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	going	_	_	VBG	_	1	???	_	_	is
+
+1	Or	_	_	CC	_	2	???	_	_	is
+2	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+3	it	_	_	PRP	_	2	SUBJ	_	_	is
+4	that	_	_	IN	_	2	???	_	_	is
+5	Z.	_	_	NNP	_	6	SUBJ	_	_	is
+6	is	_	_	VBZ	_	4	???	_	_	that
+7	getting	_	_	VBG	_	6	???	_	_	is
+8	a	_	_	DT	_	9	???	_	_	tired
+9	tired	_	_	JJ	_	7	???	_	_	getting
+10	?	_	_	.	_	2	???	_	_	is
+
+1	``	_	_	``	_	2	???	_	_	Do
+2	Do	_	_	VBP	_	0	ROOT	_	_	ROOT
+3	you	_	_	PRP	_	2	SUBJ	_	_	Do
+4	make	_	_	VB	_	2	???	_	_	Do
+5	sparkplugs	_	_	NNS	_	4	OBJ-DO	_	_	make
+6	?	_	_	.	_	2	???	_	_	Do
+
+1	With	_	_	IN	_	4	???	_	_	do
+2	friends	_	_	NNS	_	1	???	_	_	With
+3	,	_	_	,	_	4	???	_	_	do
+4	do	_	_	VBP	_	0	ROOT	_	_	ROOT
+5	the	_	_	DT	_	6	???	_	_	feminists
+6	feminists	_	_	NNS	_	4	SUBJ	_	_	do
+7	need	_	_	VB	_	4	???	_	_	do
+8	enemies	_	_	NNS	_	7	OBJ-DO	_	_	need
+9	?	_	_	.	_	4	???	_	_	do
+
+1	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	n't	_	_	RB	_	1	???	_	_	Is
+3	this	_	_	DT	_	1	SUBJ	_	_	Is
+4	the	_	_	DT	_	5	???	_	_	guy
+5	guy	_	_	NN	_	1	???	_	_	Is
+6	?	_	_	.	_	1	???	_	_	Is
+
+1	if	_	_	IN	_	0	ROOT	_	_	ROOT
+2	so	_	_	RB	_	1	???	_	_	if
+3	,	_	_	,	_	1	???	_	_	if
+4	to	_	_	TO	_	1	???	_	_	if
+5	whom	_	_	WP	_	4	???	_	_	to
+
+1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	it	_	_	PRP	_	1	SUBJ	_	_	is
+3	,	_	_	,	_	4	???	_	_	to
+4	to	_	_	TO	_	1	???	_	_	is
+5	borrow	_	_	VB	_	4	???	_	_	to
+6	a	_	_	DT	_	7	???	_	_	term
+7	term	_	_	NN	_	5	OBJ-DO	_	_	borrow
+8	,	_	_	,	_	4	???	_	_	to
+9	that	_	_	WDT	_	10	SUBJ	_	_	unsettled
+10	unsettled	_	_	VBD	_	1	???	_	_	is
+11	the	_	_	DT	_	12	???	_	_	market
+12	market	_	_	NN	_	10	OBJ-DO	_	_	unsettled
+
+1	was	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	containment	_	_	NN	_	1	SUBJ	_	_	was
+3	successful	_	_	JJ	_	1	???	_	_	was
+
+1	So	_	_	RB	_	2	???	_	_	can
+2	can	_	_	MD	_	0	ROOT	_	_	ROOT
+3	a	_	_	DT	_	4	???	_	_	magazine
+4	magazine	_	_	NN	_	2	SUBJ	_	_	can
+5	survive	_	_	VB	_	2	???	_	_	can
+6	?	_	_	.	_	2	???	_	_	can
+
+1	when	_	_	WRB	_	6	???	_	_	does
+2	a	_	_	DT	_	3	???	_	_	witness
+3	witness	_	_	NN	_	4	SUBJ	_	_	disappears
+4	disappears	_	_	VBZ	_	1	???	_	_	when
+5	,	_	_	,	_	6	???	_	_	does
+6	does	_	_	VBZ	_	0	ROOT	_	_	ROOT
+7	Mancuso	_	_	NNP	_	6	SUBJ	_	_	does
+8	trash	_	_	VB	_	6	???	_	_	does
+9	her	_	_	PRP$	_	10	???	_	_	apartment
+10	apartment	_	_	NN	_	8	OBJ-DO	_	_	trash
+
+1	was	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	there	_	_	EX	_	1	SUBJ	_	_	was
+3	any	_	_	DT	_	4	???	_	_	damage
+4	damage	_	_	NN	_	1	???	_	_	was
+
+1	Were	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	not	_	_	RB	_	1	???	_	_	Were
+3	the	_	_	DT	_	4	???	_	_	happenings
+4	happenings	_	_	NNS	_	1	SUBJ	_	_	Were
+5	answers	_	_	NNS	_	1	???	_	_	Were
+6	?	_	_	.	_	1	???	_	_	Were
+
+1	C'mon	_	_	VB	_	5	???	_	_	do
+2	,	_	_	,	_	1	???	_	_	C'mon
+3	now	_	_	RB	_	1	???	_	_	C'mon
+4	,	_	_	,	_	5	???	_	_	do
+5	do	_	_	VBP	_	0	ROOT	_	_	ROOT
+6	n't	_	_	RB	_	5	???	_	_	do
+7	you	_	_	PRP	_	5	SUBJ	_	_	do
+8	have	_	_	VB	_	5	???	_	_	do
+9	boyfriends	_	_	NNS	_	8	OBJ-DO	_	_	have
+10	?	_	_	.	_	5	???	_	_	do
+
+1	are	_	_	VBP	_	0	ROOT	_	_	ROOT
+2	programs	_	_	NNS	_	1	SUBJ	_	_	are
+3	not	_	_	RB	_	1	???	_	_	are
+4	eliminated	_	_	VBN	_	1	???	_	_	are
+
+1	was	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	doing	_	_	VBG	_	1	???	_	_	was
+3	all	_	_	PDT	_	5	???	_	_	selling
+4	the	_	_	DT	_	5	???	_	_	selling
+5	selling	_	_	NN	_	2	OBJ-DO	_	_	doing
+
+1	Finally	_	_	RB	_	3	???	_	_	was
+2	,	_	_	,	_	3	???	_	_	was
+3	was	_	_	VBD	_	0	ROOT	_	_	ROOT
+4	the	_	_	DT	_	5	???	_	_	information
+5	information	_	_	NN	_	3	SUBJ	_	_	was
+6	material	_	_	NN	_	3	???	_	_	was
+7	?	_	_	.	_	3	???	_	_	was
+
+1	did	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	``	_	_	``	_	1	???	_	_	did
+3	trading	_	_	NN	_	1	SUBJ	_	_	did
+4	''	_	_	''	_	1	???	_	_	did
+5	evolve	_	_	VB	_	1	???	_	_	did
+
+1	Is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+2	Wang	_	_	NNP	_	1	SUBJ	_	_	Is
+3	still	_	_	RB	_	1	???	_	_	Is
+4	a	_	_	DT	_	5	???	_	_	company
+5	company	_	_	NN	_	1	OBJ-DO	_	_	Is
+6	?	_	_	.	_	1	???	_	_	Is
+
+1	In	_	_	IN	_	5	???	_	_	is
+2	the	_	_	DT	_	3	???	_	_	end
+3	end	_	_	NN	_	1	???	_	_	In
+4	,	_	_	,	_	5	???	_	_	is
+5	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
+6	Noriega	_	_	NNP	_	5	SUBJ	_	_	is
+7	the	_	_	DT	_	8	???	_	_	equivalent
+8	equivalent	_	_	NN	_	5	???	_	_	is
+9	?	_	_	.	_	5	???	_	_	is
+
+1	As	_	_	IN	_	5	???	_	_	does
+2	members	_	_	NNS	_	3	SUBJ	_	_	asked
+3	asked	_	_	VBD	_	1	???	_	_	As
+4	,	_	_	,	_	5	???	_	_	does
+5	does	_	_	VBZ	_	0	ROOT	_	_	ROOT
+6	anyone	_	_	NN	_	5	SUBJ	_	_	does
+7	seriously	_	_	RB	_	5	???	_	_	does
+8	believe	_	_	VB	_	5	???	_	_	does
+9	that	_	_	IN	_	8	???	_	_	believe
+10	if	_	_	IN	_	16	???	_	_	would
+11	she	_	_	PRP	_	12	SUBJ	_	_	were
+12	were	_	_	VBD	_	10	???	_	_	if
+13	an	_	_	DT	_	14	???	_	_	woman
+14	woman	_	_	NN	_	12	OBJ-DO	_	_	were
+15	Congress	_	_	NNP	_	16	SUBJ	_	_	would
+16	would	_	_	MD	_	9	???	_	_	that
+17	have	_	_	VB	_	16	???	_	_	would
+18	rushed	_	_	VBN	_	17	???	_	_	have
+19	?	_	_	.	_	5	???	_	_	does
+
+1	Will	_	_	MD	_	0	ROOT	_	_	ROOT
+2	he	_	_	PRP	_	1	SUBJ	_	_	Will
+3	,	_	_	,	_	1	???	_	_	Will
+4	if	_	_	IN	_	1	???	_	_	Will
+5	he	_	_	PRP	_	6	SUBJ	_	_	wins
+6	wins	_	_	VBZ	_	4	???	_	_	if
+7	,	_	_	,	_	1	???	_	_	Will
+8	be	_	_	VB	_	1	???	_	_	Will
+
+1	If	_	_	IN	_	8	???	_	_	would
+2	the	_	_	DT	_	3	???	_	_	dialogue
+3	dialogue	_	_	NN	_	4	SUBJ	_	_	was
+4	was	_	_	VBD	_	1	???	_	_	If
+5	based	_	_	VBN	_	4	???	_	_	was
+6	,	_	_	,	_	8	???	_	_	would
+7	what	_	_	WP	_	8	SUBJ	_	_	would
+8	would	_	_	MD	_	0	ROOT	_	_	ROOT
+9	be	_	_	VB	_	8	???	_	_	would
+10	the	_	_	DT	_	11	???	_	_	conclusion
+11	conclusion	_	_	NN	_	9	OBJ-DO	_	_	be
+12	?	_	_	.	_	8	???	_	_	would
+
+1	Should	_	_	MD	_	0	ROOT	_	_	ROOT
+2	n't	_	_	RB	_	1	???	_	_	Should
+3	they	_	_	PRP	_	1	SUBJ	_	_	Should
+4	properly	_	_	RB	_	1	???	_	_	Should
+5	be	_	_	VB	_	1	???	_	_	Should
+6	called	_	_	VBN	_	5	???	_	_	be
+7	?	_	_	.	_	1	???	_	_	Should
+
+1	Was	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	this	_	_	DT	_	1	SUBJ	_	_	Was
+3	why	_	_	WRB	_	1	???	_	_	Was
+4	some	_	_	DT	_	5	SUBJ	_	_	departed
+5	departed	_	_	VBD	_	3	???	_	_	why
+6	?	_	_	.	_	1	???	_	_	Was
+
+1	Did	_	_	VBD	_	0	ROOT	_	_	ROOT
+2	Loeb	_	_	NNP	_	1	SUBJ	_	_	Did
+3	,	_	_	,	_	1	???	_	_	Did
+4	breach	_	_	VB	_	1	???	_	_	Did
+5	a	_	_	DT	_	6	???	_	_	duty
+6	duty	_	_	NN	_	4	OBJ-DO	_	_	breach
+7	-LRB-	_	_	-LRB-	_	8	???	_	_	and
+8	and	_	_	CC	_	4	???	_	_	breach
+9	,	_	_	,	_	8	???	_	_	and
+10	if	_	_	IN	_	8	???	_	_	and
+11	so	_	_	RB	_	10	???	_	_	if
+12	,	_	_	,	_	10	???	_	_	if
+13	to	_	_	TO	_	10	???	_	_	if
+14	whom	_	_	WP	_	13	???	_	_	to
+15	-RRB-	_	_	-RRB-	_	8	???	_	_	and
+16	?	_	_	.	_	1	???	_	_	Did
+

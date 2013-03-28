@@ -1,0 +1,153 @@
+(ROOT
+  (RRC
+    (ADVP-TMP (RB 1__now))
+    (NP
+      (NP (NNP 2__SmithKline) (NNP 3__Beecham) (NNP 4__PLC))
+      (, 5__,)
+      (PP-LOC (IN 6__in)
+        (NP (NNP 7__London))))))
+
+(ROOT
+  (RRC
+    (ADVP-TMP (RB 1__now))
+    (PP-LOC (IN 2__at)
+      (NP (NNP 3__Multimedia) (NNP 4__Inc)))))
+
+(ROOT
+  (RRC
+    (PP-TMP (IN 1__for)
+      (NP (NNS 2__years)))
+    (NP
+      (NP (DT 3__a) (JJ 4__secondary) (NN 5__presence))
+      (PP-LOC (IN 6__in)
+        (NP (JJS 7__most) (JJ 8__political) (NNS 9__campaigns))))))
+
+(ROOT
+  (RRC
+    (VP (VBN 1__exposed)
+      (NP (-NONE- __*))
+      (PP-CLR (TO 2__to)
+        (NP (PRP 3__it)))
+      (ADVP-TMP
+        (NP
+          (QP (RBR 4__more) (IN 5__than) (CD 6__30))
+          (NNS 7__years))
+        (IN 8__ago)))))
+
+(ROOT
+  (RRC
+    (ADVP-TMP (RB 1__once))
+    (VP (VBN 2__used)
+      (NP (-NONE- __*))
+      (S-CLR
+        (NP-SBJ (-NONE- __*))
+        (VP (TO 3__to)
+          (VP (VB 4__make)
+            (NP (NNP 5__Kent) (NN 6__cigarette) (NNS 7__filters))))))))
+
+(ROOT
+  (RRC
+    (ADJP (JJ 1__open))
+    (NP-TMP
+      (QP (JJR 2__more) (IN 3__than) (CD 4__one))
+      (NN 5__year))))
+
+(ROOT
+  (RRC
+    (ADVP-TMP (RB 1__often))
+    (ADJP (JJ 2__civic))))
+
+(ROOT
+  (RRC
+    (PP (IN 1__in)
+      (NP (NN 2__therapy)))
+    (PP-TMP (IN 3__by)
+      (NP (NN 4__age) (CD 5__five)))))
+
+(ROOT
+  (RRC
+    (ADJP (JJ 1__payable)
+      (PP (TO 2__to)
+        (NP
+          (NP (NNS 3__holders))
+          (PP (IN 4__of)
+            (NP (NN 5__record)))
+          (PP-TMP (IN 6__on)
+            (NP (NNP 7__Nov.) (CD 8__10))))))
+    (SBAR-ADV (IN 9__if)
+      (S
+        (NP-SBJ (DT 10__the) (NNPS 11__Securities)
+          (CC 12__and)
+          (NNP 13__Exchange) (NNP 14__Commission))
+        (VP (VBZ 15__approves)
+          (NP (DT 16__this))
+          (PP-CLR (IN 17__as)
+            (NP
+              (NP (DT 18__the) (JJ 19__effective) (NN 20__date))
+              (PP (IN 21__of)
+                (NP (DT 22__the) (NN 23__registration) (NN 24__statement))))))))))
+
+(ROOT
+  (RRC
+    (ADJP (JJ 1__vacant))
+    (PP-TMP (IN 2__since)
+      (NP (DT 3__the) (NN 4__summer)))))
+
+(ROOT
+  (RRC
+    (NP
+      (NP
+        (NP (DT 1__the) (NN 2__art) (NN 3__gallery) (POS 4__'s))
+        (NN 5__manager))
+      (CONJPP (CC 6__and)
+        (NP
+          (NP (NNP 7__Mr.) (NNP 8__Morishita) (POS 9__'s))
+          (NN 10__secretary))))
+    (PP-TMP (IN 11__for)
+      (NP
+        (QP (RBR 12__more) (IN 13__than) (CD 14__seven))
+        (NNS 15__years)))))
+
+(ROOT
+  (RRC
+    (ADJP (JJ 1__unheard)
+      (PRT (RP 2__of)))
+    (ADVP-TMP
+      (NP (RB 3__only) (DT 4__a) (JJ 5__few) (NNS 6__years))
+      (RB 7__ago))))
+
+(ROOT
+  (RRC
+    (ADJP (JJ 1__common))
+    (PP-LOC (IN 2__in)
+      (NP (NNP 3__Japan)))
+    (PP (IN 4__for)
+      (NP
+        (NP (NNS 5__companies))
+        (VP (VBN 6__caught)
+          (NP (-NONE- __*))
+          (PP-LOC-CLR (IN 7__in)
+            (NP (JJ 8__embarrassing) (NNS 9__situations))))))))
+
+(ROOT
+  (RRC
+    (NP
+      (NP (NNP 1__Chandler) (POS 2__'s))
+      (JJ 3__last) (NN 4__pitch))
+    (, 5__,)
+    (ADVP (RB 6__apparently))))
+
+(ROOT
+  (RRC
+    (PP-TMP (IN 1__by)
+      (ADVP (RB 2__then)))
+    (NP (DT 3__a) (JJ 4__successful) (NN 5__producer))
+    (PP (IN 6__in)
+      (NP (PRP$ 7__his) (JJ 8__own) (NN 9__right)))
+    (, 10__,)
+    (PP-TMP (IN 11__after)
+      (NP
+        (NP (DT 12__the) (NN 13__death))
+        (PP (IN 14__of)
+          (NP (NNP 15__Mr.) (NNP 16__Bogart)))))))
+
