@@ -201,8 +201,11 @@ def prune_vp(node):
 
 
 if __name__ == '__main__':
-    from import_suite import categories
     import sys
+    print sys.path
+    sys.path.append('.')
+    sys.path.append('head_labeling/')
+    from head_labeling.scripts.import_suite import categories
     base = sys.argv[1]
     if len(sys.argv) > 2:
         cats = sys.argv[2:]

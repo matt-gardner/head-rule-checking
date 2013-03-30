@@ -1,0 +1,27 @@
+1	1	_	_	LS	_	0	ROOT	_	_	ROOT
+2	.	_	_	.	_	1	???	_	_	1
+
+1	1	_	_	LS	_	0	ROOT	_	_	ROOT
+2	-RRB-	_	_	-RRB-	_	1	???	_	_	1
+
+1	1	_	_	LS	_	0	ROOT	_	_	ROOT
+
+1	--	_	_	:	_	0	ROOT	_	_	ROOT
+
+1	First	_	_	JJ	_	0	ROOT	_	_	ROOT
+
+1	a	_	_	LS	_	0	ROOT	_	_	ROOT
+2	-	_	_	:	_	1	???	_	_	a
+
+1	-LRB-	_	_	-LRB-	_	2	???	_	_	1
+2	1	_	_	LS	_	0	ROOT	_	_	ROOT
+3	-RRB-	_	_	-RRB-	_	2	???	_	_	1
+
+1	-LRB-	_	_	-LRB-	_	3	???	_	_	-RRB-
+2	b	_	_	NN	_	3	???	_	_	-RRB-
+3	-RRB-	_	_	-RRB-	_	0	ROOT	_	_	ROOT
+
+1	-LRB-	_	_	-LRB-	_	3	???	_	_	-RRB-
+2	a	_	_	DT	_	3	???	_	_	-RRB-
+3	-RRB-	_	_	-RRB-	_	0	ROOT	_	_	ROOT
+

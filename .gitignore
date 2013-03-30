@@ -1,5 +1,6 @@
 *.pyc
 db
 db.backup*
+backup_db*
 *.swp
 *~

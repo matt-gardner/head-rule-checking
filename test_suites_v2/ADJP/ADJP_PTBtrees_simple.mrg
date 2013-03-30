@@ -1,0 +1,5322 @@
+(ADJP-PRD
+  (JJ curly))
+
+(ADJP-PRD
+  (RB unusually)
+  (JJ resilient))
+
+(ADJP-PRD
+  (JJ aware)
+  (PP
+    (IN of)
+    (NP
+      (NP
+        (DT any)
+        (NN research)))))
+
+(ADJP
+  (CD 83.4)
+  (NN %))
+
+(ADJP
+  (QP
+    (CD billion))
+  (-NONE- *U*))
+
+(ADJP
+  (JJ likely)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB bring)
+        (NP
+          (NN attention))))))
+
+(ADJP-PRD
+  (JJ substantial)
+  (CC and)
+  (JJ persistent))
+
+(ADJP
+  (RB recently)
+  (VBN diagnosed))
+
+(ADJP
+  (ADJP
+    (JJ many))
+  (PP
+    (IN as)
+    (NP
+      (DT the)
+      (NN supercomputer))))
+
+(ADJP
+  (JJR stronger))
+
+(ADJP
+  (RBR more)
+  (JJ satisfactory))
+
+(ADJP-PRD
+  (JJ worth)
+  (NP
+    (PRP it)))
+
+(ADJP
+  (RB far)
+  (JJR higher))
+
+(ADJP
+  (RBS most)
+  (JJ mundane))
+
+(ADJP
+  (JJ New)
+  (JJ York-based))
+
+(ADJP-PRD
+  (RB extremely)
+  (JJ attractive)
+  (PP
+    (TO to)
+    (NP
+      (NP
+        (NNS investors)))))
+
+(ADJP-PRD
+  (JJ easy)
+  (SBAR
+    (WHNP-2
+      (-NONE- 0))
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (TO to)
+        (VP
+          (VB sell)
+          (NP
+            (-NONE- *T*-2)))))))
+
+(ADJP
+  ($ $)
+  (CD 250)
+  (-NONE- *U*))
+
+(ADJP-PRD
+  (-NONE- *?*))
+
+(ADJP-PRD
+  (ADJP
+    (JJR higher))
+  (SBAR
+    (IN than)
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (VBN expected)))))
+
+(ADJP-PRD
+  (ADJP
+    (JJ imaginative))
+  (CC and)
+  (ADJP
+    (JJ funny)))
+
+(ADJP
+  (NP
+    (NNS years))
+  (JJ old))
+
+(ADJP
+  (VBN related)
+  (PP
+    (TO to)
+    (NP
+      (NP
+        (DT the)
+        (NN development)))))
+
+(ADJP
+  (QP
+    (CD 0.7))
+  (NN %))
+
+(ADJP
+  (VBN involved))
+
+(ADJP-PRD
+  (RB high))
+
+(ADJP-PRD
+  (NP-ADV
+    (NN %))
+  (JJR higher))
+
+(ADJP
+  (ADVP
+    (RB entirely))
+  (JJ Western))
+
+(ADJP
+  (NNP New)
+  (JJ York-based))
+
+(ADJP-PRD
+  (RB wrong)
+  (PP
+    (IN with)
+    (NP
+      (NN making))))
+
+(ADJP
+  (RB twice)
+  (RB as)
+  (JJ many))
+
+(ADJP
+  ($ $)
+  (JJ 37-a-share)
+  (-NONE- *U*))
+
+(ADJP-PRD
+  (RBR less)
+  (JJ resistant)
+  (PP
+    (TO to)
+    (S-NOM
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (VBG paying)
+        (NP
+          (NNS prices))))))
+
+(ADJP-PRD
+  (RB very)
+  (JJ expensive)
+  (SBAR
+    (WHNP-4
+      (-NONE- 0))
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (TO to)
+        (VP
+          (VB maintain)
+          (NP
+            (-NONE- *T*-4)))))))
+
+(ADJP-PRD-3
+  (RB too)
+  (JJ high)
+  (S
+    (-NONE- *RNR*-4)))
+
+(ADJP
+  (JJR better)
+  (PP
+    (IN than)
+    (NP
+      (NP
+        (NN period)))))
+
+(ADJP-PRD
+  (RB far)
+  (RBR less)
+  (JJ conspicuous))
+
+(ADJP-PRD
+  (VBG refreshing))
+
+(ADJP
+  (JJS most)
+  (JJ prestigious))
+
+(ADJP
+  (NNP Hamilton)
+  (, ,)
+  (JJ Bermuda-based))
+
+(ADJP
+  (CD 6)
+  (CD 3\/4)
+  (NN %))
+
+(ADJP
+  (JJS best))
+
+(ADJP
+  (CD 7)
+  (JJ %))
+
+(ADJP
+  (RBR more))
+
+(ADJP
+  (NN past))
+
+(ADJP
+  (RB rapidly)
+  (VBG growing))
+
+(ADJP-PRD
+  (RBR better)
+  (JJ able)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO to)
+      (VP
+        (VB get)))))
+
+(ADJP-PRD
+  (RB too)
+  (RB early))
+
+(ADJP
+  (ADJP
+    (QP
+      (CD billion))
+    (NNP French)
+    (NN franc))
+  (PRN
+    (-LRB- -LRB-)
+    (ADJP
+      (QP
+        (CD million))
+      (-NONE- *U*))
+    (-RRB- -RRB-)))
+
+(ADJP
+  (ADVP-TMP
+    (RB previously))
+  (VBN announced))
+
+(ADJP-PRD
+  (JJ convertible)
+  (PP
+    (IN into)
+    (NP
+      (NP
+        (NN stock))))
+  (PP
+    (IN at)
+    (NP
+      (NP
+        (NP
+          ($ $)
+          (-NONE- *U*))))))
+
+(ADJP
+  (JJR More)
+  (CC and)
+  (JJR more))
+
+(ADJP
+  (JJ primary)
+  (NN metal))
+
+(ADJP-PRD
+  (ADJP
+    (JJ wicked))
+  (, ,)
+  (CC but)
+  (ADJP
+    (JJ foolish)))
+
+(ADJP-PRD
+  (VBN worried)
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ-1
+        (NNS ratings))
+      (VP
+        (MD will)
+        (VP
+          (VB continue))))))
+
+(ADJP-PRD
+  (JJ payable)
+  (NP-TMP
+    (NNP Jan.))
+  (PP
+    (TO to)
+    (NP
+      (NP
+        (NN stock)))))
+
+(ADJP
+  (JJ scientific)
+  (, ,)
+  (JJ legal)
+  (CC and)
+  (JJ ethical))
+
+(ADJP
+  (RB virtually)
+  (DT all))
+
+(ADJP-PRD
+  (JJ bad)
+  (RB enough)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO to)
+      (VP
+        (VB merit)
+        (NP
+          (DT an)
+          (NN investigation))))))
+
+(ADJP-PRD
+  (VBN surprised)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO to)
+      (VP
+        (VB see)))))
+
+(ADJP
+  (JJR more)
+  (JJ economical))
+
+(ADJP
+  (RB far)
+  (RBR more))
+
+(ADJP-PRD
+  (RB partially)
+  (VBN closed)
+  (PP
+    (TO to)
+    (NP
+      (NNS investors))))
+
+(ADJP
+  (RB so)
+  (JJ fragile)
+  (CC and)
+  (JJ minute))
+
+(ADJP
+  (JJ high-yield)
+  (, ,)
+  (JJ high-risk))
+
+(ADJP
+  (NNP New)
+  (NNP York-based))
+
+(ADJP
+  (NN rate)
+  (JJ capped))
+
+(ADJP
+  (ADVP
+    (RB much))
+  (JJ interested)
+  (PP
+    (IN in)
+    (NP
+      (NP
+        (DT a)
+        (NN return)))))
+
+(ADJP
+  (NN retail)
+  (CC and)
+  (JJ wholesale))
+
+(ADJP-PRD
+  (ADJP
+    (JJR better))
+  (PP
+    (IN for)
+    (NP
+      (DT the)
+      (NN neighborhood)))
+  (PP
+    (IN than)
+    (NP
+      (DT a)
+      (NN house))))
+
+(ADJP
+  (IN up))
+
+(ADJP
+  ($ $)
+  (CD 4)
+  (CD billion)
+  (-NONE- *U*))
+
+(ADJP
+  (ADJP
+    (JJR clearer))
+  (, ,)
+  (ADJP
+    (JJR safer))
+  (CC and)
+  (ADJP
+    (JJ useful)))
+
+(ADJP-PRD
+  (JJ worth)
+  (RB much))
+
+(ADJP
+  (NNP Enough))
+
+(ADJP
+  (RB likely)
+  (S
+    (NP-SBJ-1
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB be)
+        (VP
+          (VBN built)
+          (NP
+            (-NONE- *-1)))))))
+
+(ADJP
+  (JJ second)
+  (JJS largest))
+
+(ADJP-PRD
+  (RB much)
+  (JJR smaller)
+  (PP
+    (IN than)
+    (NP
+      (NNP Sun))))
+
+(ADJP-PRD
+  (RB hard)
+  (SBAR
+    (WHNP-1
+      (-NONE- 0))
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (TO to)
+        (VP
+          (VB take)
+          (NP
+            (-NONE- *T*-1)))))))
+
+(ADJP-PRD
+  (RBR less)
+  (VBN cluttered))
+
+(ADJP
+  (JJR easier)
+  (SBAR
+    (WHNP-3
+      (-NONE- 0))
+    (IN for)
+    (S
+      (NP-SBJ
+        (NNS youngsters))
+      (VP
+        (TO to)
+        (VP
+          (VB take)
+          (NP
+            (-NONE- *T*-3)))))))
+
+(ADJP
+  (NN rate)
+  (VBN capped))
+
+(ADJP
+  ($ $)
+  (JJ 32-a-share))
+
+(ADJP
+  (RB second)
+  (JJS largest))
+
+(ADJP-PRD
+  (NN green)
+  (PP
+    (IN with)
+    (NP
+      (NN envy))))
+
+(ADJP
+  (NN electric)
+  (CC and)
+  (NN electronics-product))
+
+(ADJP
+  (NNP New)
+  (NNP Haven)
+  (, ,)
+  (JJ Conn.-based))
+
+(ADJP-PRD
+  (`` ``)
+  (JJ disappointed)
+  ('' '')
+  (PP
+    (IN by)
+    (NP
+      (NP
+        (DT the)
+        (NNS effects)))))
+
+(ADJP-PRD
+  (RB off)
+  (NP
+    (NN %)))
+
+(ADJP-PRD
+  (RB very)
+  (VBN alarmed)
+  (S
+    (NP-SBJ
+      (-NONE- *-2))
+    (VP
+      (TO to)
+      (VP
+        (VB see)
+        (NP
+          (DT these)
+          (NNS valuations))))))
+
+(ADJP-PRD
+  (ADJP
+    (JJ Western))
+  (, ,)
+  (ADJP
+    (JJ American)))
+
+(ADJP-PRD
+  (RBS most)
+  (JJ dependent)
+  (PP
+    (-NONE- *T*-1)))
+
+(ADJP
+  (VBN disputed)
+  (CC and)
+  (JJ elusive))
+
+(ADJP-PRD
+  (DT this)
+  (JJ tough))
+
+(ADJP-PRD
+  (DT both)
+  (JJ costly)
+  (CC and)
+  (JJ time-consuming))
+
+(ADJP
+  (ADJP
+    (JJ disparate))
+  (, ,)
+  (CC and)
+  (ADJP
+    (JJ split))
+  (, ,))
+
+(ADJP
+  (IN as)
+  (JJ many))
+
+(ADJP
+  (JJ even)
+  (JJR stronger))
+
+(ADJP-PRD
+  (QP
+    (RBR more)
+    (IN than)
+    (CD 50)
+    (NNS times))
+  (JJR faster))
+
+(ADJP
+  (RB as)
+  (RB low)
+  (PP
+    (IN as)
+    (ADVP-TMP
+      (RB currently))))
+
+(ADJP
+  (JJ small)
+  (TO to)
+  (JJ medium-sized))
+
+(ADJP
+  (IN up)
+  (PP
+    (IN for)
+    (NP
+      (NN sale))))
+
+(ADJP-PRD
+  (JJ puttable)
+  (ADVP
+    (RB back))
+  (NP-TMP
+    (NNP Nov.)))
+
+(ADJP
+  (JJ big)
+  (RB enough)
+  (SBAR
+    (-NONE- *RNR*-2)))
+
+(ADJP
+  (RBS most)
+  (VBN sustained))
+
+(ADJP
+  (RB not)
+  (RB significantly)
+  (JJ different)
+  (PP
+    (IN from)
+    (NP
+      (NP
+        (DT the)
+        (-NONE- *U*)))))
+
+(ADJP-PRD
+  (NP-ADV
+    (DT a)
+    (NN bit))
+  (JJ ambivalent)
+  (PP
+    (IN about)
+    (NP
+      (DT the)
+      (NNS scandals))))
+
+(ADJP
+  (NN college-bowl)
+  (NN type))
+
+(ADJP-PRD
+  (IN worth)
+  (S-NOM
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (VBG paying)
+      (NP
+        (DT a)
+        (NN premium)))))
+
+(ADJP
+  (JJ fresh)
+  (CC and)
+  (VBN processed))
+
+(ADJP-PRD
+  (RP down))
+
+(ADJP-PRD
+  (JJ available)
+  (PP
+    (TO to)
+    (NP
+      (DT the)
+      (NN president)))
+  (S
+    (NP-SBJ
+      (-NONE- *-5))
+    (VP
+      (TO to)
+      (VP
+        (VB meet)
+        (NP
+          (NP
+            (NNS costs)))))))
+
+(ADJP
+  (IN Per)
+  (NN capita))
+
+(ADJP
+  (NP-ADV
+    (NN %))
+  (JJR less)
+  (PP
+    (IN than)
+    (PP-LOC
+      (IN in)
+      (NP
+        (DT the)
+        (NN buy-out)))))
+
+(ADJP-PRD
+  (ADVP
+    (RB of))
+  (JJ nervous)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO to)
+      (VP
+        (VB do)
+        (NP
+          (NN anything))))))
+
+(ADJP
+  (JJ available)
+  ('' '')
+  (PP
+    (TO to)
+    (NP
+      (NNS holders))))
+
+(ADJP-PRD
+  (RB so)
+  (RB damn)
+  (JJ dumb)
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ
+        (PRP you))
+      (VP
+        (VBP do)
+        (RB n't)
+        (VP
+          (VB belong))))))
+
+(ADJP
+  (VBN enlightened)
+  (CC and)
+  (VBN spirited))
+
+(ADJP-PRD
+  (RBR more)
+  (VBN engaged)
+  (PP
+    (IN in)
+    (NP
+      (NP
+        (NNS issues)))))
+
+(ADJP
+  (RBR more)
+  (JJ focused)
+  (CC and)
+  (JJ responsive))
+
+(ADJP
+  (RBS most)
+  (JJ powerful)
+  (CC and)
+  (JJ fractious))
+
+(ADJP
+  (NP
+    (NN %))
+  (RBR more))
+
+(ADJP
+  (JJ small)
+  (CC but)
+  (VBG growing))
+
+(ADJP-PRD
+  (`` ``)
+  (JJ small)
+  ('' ''))
+
+(ADJP-PRD
+  (RBS most)
+  (JJ anxious)
+  (S
+    (NP-SBJ
+      (-NONE- *-2))
+    (VP
+      (TO to)
+      (VP
+        (VB speed)
+        (NP
+          (NN approval))))))
+
+(ADJP
+  (RBS most)
+  (RB widely)
+  (JJ used))
+
+(ADJP
+  (DT no)
+  (JJR better))
+
+(ADJP
+  (ADJP
+    (JJ hard)
+    (NN hit))
+  (CC but)
+  (RB often)
+  (ADJP
+    (JJ wealthy)))
+
+(ADJP
+  (NN rate)
+  (VBD capped))
+
+(ADJP
+  (RB solidly)
+  (NN minority))
+
+(ADJP
+  (RB very)
+  (, ,)
+  (RB very)
+  (JJ serious))
+
+(ADJP
+  (NNP Southwest)
+  (CC and)
+  (NNP Baltimore-Washington))
+
+(ADJP
+  (NP
+    (DT a)
+    (NN lot))
+  (RBR less)
+  (JJ attractive))
+
+(ADJP-PRD
+  (JJ dead)
+  (, ,)
+  (JJ listless)
+  (, ,)
+  (JJ depressing)
+  (CC and)
+  (JJ negative))
+
+(ADJP
+  (JJ similar)
+  (CC but)
+  (JJR smaller))
+
+(ADJP-PRD
+  (IN worth)
+  (NP
+    (-NONE- *T*-3)))
+
+(ADJP
+  (JJR longer)
+  (NN term))
+
+(ADJP
+  (CD 50,000)
+  (JJ Swiss)
+  (NN franc))
+
+(ADJP
+  (JJ preposterous)
+  (CC and)
+  (RB utterly))
+
+(ADJP
+  (FW de)
+  (FW facto))
+
+(ADJP
+  (CD 22))
+
+(ADJP-PRD
+  (JJ shocked)
+  (PRN
+    (, ,)
+    (S
+      (NP-SBJ
+        (NNS associates))
+      (VP
+        (VBP say)
+        (SBAR
+          (-NONE- 0)
+          (S
+            (-NONE- *T*-2)))))
+    (, ,))
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO to)
+      (VP
+        (VB learn)))))
+
+(ADJP-PRD
+  (RBR more)
+  (JJ difficult)
+  (SBAR
+    (WHNP-1
+      (-NONE- 0))
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (TO to)
+        (VP
+          (VB rescind)
+          (NP
+            (-NONE- *T*-1)))))))
+
+(ADJP-PRD
+  (NN worth)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (VBG taking))))
+
+(ADJP
+  (`` ``)
+  (JJ good)
+  ('' '')
+  (CC and)
+  (`` ``)
+  (JJ bad)
+  ('' ''))
+
+(ADJP
+  (ADJP
+    (QP
+      (CD billion))
+    (-NONE- *U*))
+  (NP-ADV
+    (DT a)
+    (NN year)))
+
+(ADJP
+  (ADVP
+    (RB even)
+    (JJR greater))
+  (PP
+    (IN than)
+    (NP
+      (NP
+        (DT the)
+        (NN %)))))
+
+(ADJP
+  (RBS most)
+  (RB widely)
+  (VBN used))
+
+(ADJP
+  (JJ administrative)
+  (CC and)
+  (NN operating))
+
+(ADJP-PRD
+  (RB that)
+  (RB much)
+  (JJR easier))
+
+(ADJP-PRD
+  (JJ willing)
+  (CC and)
+  (JJ able)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO to)
+      (VP
+        (VB strike)))))
+
+(ADJP
+  (CD 2)
+  (CD 1\/2-year))
+
+(ADJP-PRD
+  (ADJP
+    (JJ close))
+  (, ,)
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ
+        (NP
+          (NNS issues)))
+      (VP
+        (MD may)
+        (VP
+          (VB play)
+          (NP
+            (DT a)
+            (NN role)))))))
+
+(ADJP
+  (ADJP
+    (JJ narrow))
+  (PRN
+    (-LRB- -LRB-)
+    (NP
+      (NNS feet))
+    (-RRB- -RRB-))
+  (SBAR
+    (-NONE- *RNR*-1)))
+
+(ADJP-PRD
+  (ADJP
+    (JJ likely))
+  (S
+    (NP-SBJ
+      (-NONE- *-3))
+    (VP
+      (TO to)
+      (VP
+        (VB bounce)
+        (NP
+          (NNS bills))))))
+
+(ADJP
+  (DT both)
+  (ADJP
+    (JJ corporate))
+  (CC and)
+  (ADJP
+    (JJ private)))
+
+(ADJP-ADV
+  (JJ payable)
+  (NP-TMP
+    (NNP Jan.))
+  (, ,)
+  (PP
+    (TO to)
+    (NP
+      (NP
+        (NNS shares)))))
+
+(ADJP
+  (QP
+    (CD four)
+    (NNS times))
+  (RB as)
+  (JJ large))
+
+(ADJP
+  (QP
+    (CD billion))
+  (NNS kronor))
+
+(ADJP
+  (NP-ADV
+    (NNS miles))
+  (RB long))
+
+(ADJP-PRD
+  (RB Not)
+  (RB Likely)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO to)
+      (VP
+        (VB Jolt)
+        (NP
+          (DT The)
+          (NN Market))))))
+
+(ADJP-PRD
+  (RB no)
+  (JJ different)
+  (PP
+    (IN in)
+    (NP
+      (NN quality)))
+  (PP
+    (IN from)
+    (SBAR-NOM
+      (WHNP-2
+        (WP what))
+      (S
+        (NP-SBJ
+          (PRP they))
+        (VP
+          (VBP view)
+          (NP
+            (-NONE- *T*-2)))))))
+
+(ADJP
+  (JJR less)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB permit)
+        (PRN
+          (-LRB- -LRB-)
+          (SBAR-ADV
+            (IN though)
+            (S
+              (NP-SBJ
+                (DT that))
+              (VP
+                (VBZ is)
+                (ADJP-PRD
+                  (JJ desirable)))))
+          (-RRB- -RRB-))))))
+
+(ADJP
+  (DT these)
+  (CC and)
+  (JJ other))
+
+(ADJP
+  (JJ first)
+  (CD three))
+
+(ADJP-PRD
+  (RB fully)
+  (JJ aware)
+  ('' '')
+  (PP
+    (IN of)
+    (NP
+      (DT the)
+      (NNS risks))))
+
+(ADJP-PRD
+  (RB enormously)
+  (VBG frustrating)
+  (PP
+    (TO to)
+    (NP
+      (NP
+        (NNP Katzenstein)))))
+
+(ADJP
+  (ADVP
+    (IN that)
+    (RB much))
+  (JJR more))
+
+(ADJP
+  (CD one)
+  (NN percentage)
+  (NN point))
+
+(ADJP
+  (JJ exercisable)
+  (PP-TMP
+    (PP
+      (IN from)
+      (NP
+        (NNP Nov.)))
+    (PP
+      (IN through)
+      (NP
+        (NNP Oct.))))
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB buy)
+        (NP
+          (NNS shares)))))
+  (SBAR
+    (WHADVP-2
+      (WRB when))
+    (S
+      (NP-SBJ-1
+        (NNS terms))
+      (VP
+        (VBP are)
+        (VP
+          (VBN fixed)
+          (NP
+            (-NONE- *-1)))))))
+
+(ADJP-PRD
+  (ADJP
+    (JJ surprised))
+  (CC and)
+  (ADJP
+    (JJ disappointed))
+  (PP
+    (IN by)
+    (NP
+      (NN prepayment))))
+
+(ADJP
+  (RBR more)
+  (VBG bruising))
+
+(ADJP
+  (RB just)
+  (IN as)
+  (JJ many))
+
+(ADJP
+  (JJS largest)
+  (VBG grossing))
+
+(ADJP-PRD
+  (ADJP
+    (JJ costly))
+  (PP
+    (TO to)
+    (NP
+      (NNP Ford)))
+  (SBAR
+    (IN as)
+    (SINV
+      (VP
+        (VBD was)
+        (ADJP-PRD
+          (-NONE- *?*)))
+      (NP-SBJ
+        (DT the)
+        (NN debacle)))))
+
+(ADJP-PRD
+  (ADJP
+    (VBN dressed))
+  (, ,)
+  (ADJP
+    (VBN decorated))
+  (, ,)
+  (ADJP
+    (JJ unwashed))
+  (CC and)
+  (ADJP
+    (JJ flatulent)))
+
+(ADJP
+  (JJ payable)
+  (ADVP-TMP
+    (RB semiannually)))
+
+(ADJP-PRD
+  (JJ due)
+  (IN out))
+
+(ADJP-PRD
+  (ADVP
+    (RB Perhaps))
+  (RBR more)
+  (JJ important))
+
+(ADJP
+  (JJ due)
+  (PP
+    (IN for)
+    (NP
+      (NN release)))
+  (NP-TMP
+    (NN tomorrow)))
+
+(ADJP-PRD
+  (VBD qualified))
+
+(ADJP-PRD
+  (RB so)
+  (JJ huge)
+  (PRN
+    (, ,)
+    ('' '')
+    (SINV
+      (VP
+        (VBZ says))
+      (NP-SBJ
+        (NP
+          (NNP Saito))))
+    (, ,)
+    (`` ``))
+  (SBAR
+    (-NONE- 0)
+    (S
+      (NP-SBJ
+        (PRP it))
+      (VP
+        (VBZ makes)))))
+
+(ADJP
+  (JJ little)
+  (CC or)
+  (DT no))
+
+(ADJP-PRD
+  (JJ unaccounted)
+  (PRT
+    (IN for)))
+
+(ADJP
+  (VB blame))
+
+(ADJP-PRD
+  (`` ``)
+  (RB anywhere)
+  (JJ close)
+  ('' '')
+  (PP
+    (TO to)
+    (S-NOM
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (VBG arranging)
+        (NP
+          (NN financing))))))
+
+(ADJP
+  (ADVP-TMP
+    (RB now))
+  (RB nearly)
+  (JJ complete))
+
+(ADJP-PRD
+  (`` ``)
+  (RB highly)
+  (JJ confident)
+  ('' '')
+  (SBAR
+    (-NONE- 0)
+    (S
+      (NP-SBJ
+        (PRP it))
+      (VP
+        (MD could)
+        (VP
+          (VB arrange)
+          (NP
+            (NP
+              (DT the)
+              (NN balance))))))))
+
+(ADJP-PRD
+  (JJ subject)
+  (ADVP
+    (RB only))
+  (PP
+    (TO to)
+    (NP
+      (DT some)
+      (NNS restraints))))
+
+(ADJP-PRD
+  (JJ smart)
+  (CC or)
+  (RB just)
+  (JJ lucky))
+
+(ADJP
+  (JJ small)
+  (: -)
+  (CC and)
+  (JJ medium-sized))
+
+(ADJP
+  (NNP June)
+  (CD 4))
+
+(ADJP
+  (JJ clear)
+  (RB enough)
+  (PP
+    (IN for)
+    (NP
+      (DT all)
+      (NNPS Somalis)))
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB understand)))))
+
+(ADJP
+  (JJ second)
+  (RBS most)
+  (JJ important))
+
+(ADJP-PRD
+  (RB too)
+  (JJ sudden)
+  (CC and)
+  (JJ catastrophic)
+  (SBAR
+    (IN for)
+    (S
+      (NP-SBJ
+        (NP
+          (DT the)
+          (NNS rules)))
+      (VP
+        (TO to)
+        (VP
+          (VB operate))))))
+
+(ADJP-PRD
+  (RB really)
+  (JJ worth)
+  (NP
+    (-NONE- *T*-2)))
+
+(ADJP
+  (VBG capital-draining)
+  (CC and)
+  (JJ labor-intensive))
+
+(ADJP-PRD
+  (DT a)
+  (JJ little)
+  (JJ disturbing))
+
+(ADJP
+  (JJ inverted)
+  (, ,)
+  (CC or)
+  (JJ mouth-up))
+
+(ADJP
+  (QP
+    (CD million))
+  (JJ Canadian)
+  (NN dollar))
+
+(ADJP-PRD
+  (`` ``)
+  (JJ solvent))
+
+(ADJP
+  (JJ low)
+  (CD 40)
+  (NN %))
+
+(ADJP
+  (VBN aged)
+  (NP
+    (NP
+      (CD 18))))
+
+(ADJP-PRD
+  (ADVP
+    (CC or)
+    (RB fully))
+  (VBN invested)
+  (PP
+    (IN in)
+    (NP
+      (NNS stocks))))
+
+(ADJP-PRD
+  (VBG missing)
+  (PP
+    (IN in)
+    (NP
+      (NN action))))
+
+(ADJP-PRD
+  (NP-EXT
+    (NN %))
+  (VBN owned)
+  (PP
+    (IN by)
+    (NP-LGS
+      (NNP Australia))))
+
+(ADJP
+  (JJ unfriendly)
+  (, ,)
+  (RB even)
+  (JJ ungentlemanly)
+  (, ,))
+
+(ADJP-PRD
+  (RBR more)
+  (`` ``)
+  (JJ independent)
+  ('' ''))
+
+(ADJP
+  (RB due)
+  (NP-TMP
+    (CD 1999))
+  (PP
+    (IN at)
+    (NP
+      (NN %))))
+
+(ADJP
+  ($ $)
+  (CD 3)
+  (JJ million-a-year)
+  (-NONE- *U*))
+
+(ADJP
+  (JJS most)
+  (PP
+    (IN of)
+    (SBAR-NOM
+      (WHNP-1
+        (WDT which))
+      (S
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (VP
+          (VBP are))))))
+
+(ADJP
+  (JJ secondary)
+  (, ,)
+  (CC or)
+  (JJ resell)
+  (, ,))
+
+(ADJP
+  (RB decidedly)
+  (`` ``)
+  (JJ questionable))
+
+(ADJP
+  (RB shrewdly)
+  (JJ friendly)
+  (NN acquirer))
+
+(ADJP
+  (NN bar)
+  (, ,)
+  (JJ hot-rolled)
+  (CC and)
+  (JJ structural))
+
+(ADJP
+  (VB even)
+  (JJR more))
+
+(ADJP
+  (`` ``)
+  (JJ long-term)
+  ('' '')
+  (CC or)
+  (`` ``)
+  (JJ short-term))
+
+(ADJP
+  (CC neither)
+  (JJ bureaucratic)
+  (CC nor)
+  (JJ corporate))
+
+(ADJP
+  (VBN stepped)
+  (PRT
+    (RB up)))
+
+(ADJP-PRD
+  (JJ kind)
+  (CC and)
+  (JJ playful)
+  (PP
+    (TO to)
+    (NP
+      (PRP$ her)
+      (NNS children))))
+
+(ADJP-PRD
+  (NP-ADV
+    (-NONE- *U*))
+  (RB too)
+  (JJ optimistic))
+
+(ADJP
+  (FW dolce)
+  (. !))
+
+(ADJP-PRD
+  (RB nearly)
+  (JJ good)
+  (RB enough))
+
+(ADJP
+  (DT another))
+
+(ADJP
+  (RB previously)
+  (VBD announced))
+
+(ADJP
+  (RB slightly)
+  (RBR more)
+  (JJ interested)
+  (PP
+    (IN in)
+    (S-NOM
+      (NP-SBJ
+        (-NONE- *-1))
+      (VP
+        (VBG curbing)
+        (NP
+          (NN inflation))))))
+
+(ADJP-PRD
+  (NP-ADV
+    (NN %))
+  (VBN occupied))
+
+(ADJP
+  (JJS newest)
+  (CC and)
+  (JJS largest))
+
+(ADJP
+  (VBN provided)
+  (NP
+    (-NONE- *))
+  (PP-CLR
+    (IN for)
+    (NP
+      (NNS victims))))
+
+(ADJP-PRD=3
+  (RBR less)
+  (RB so))
+
+(ADJP
+  (ADVP-TMP
+    (RB now))
+  (NP
+    (NNS years))
+  (JJ old))
+
+(ADJP-PRD
+  (ADVP
+    (RB much)
+    (JJR more))
+  (NN natural))
+
+(ADJP-PRD
+  (`` ``)
+  (ADJP
+    (JJ consistent))
+  ('' '')
+  (CC and)
+  (`` ``)
+  (ADJP
+    (JJR easier)))
+
+(ADJP
+  (CD 150.00)
+  (NNS yen))
+
+(ADJP-PRD
+  (RB so)
+  (VBN worked)
+  (PRT
+    (RP up))
+  (SBAR
+    (IN that)
+    (S
+      (S-NOM-SBJ
+        (NP-SBJ
+          (-NONE- *))
+        (VP
+          (VBG framing)
+          (NP
+            (NNP Laff))))
+      (VP
+        (VBD was)
+        (NP-PRD
+          (NP
+            (DT the)))))))
+
+(ADJP
+  (RB so)
+  (VBN pleased)
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ
+        (PRP$ their)
+        (NN philosophy))
+      (VP
+        (VBZ is)
+        (VP
+          (VBG prevailing))))))
+
+(ADJP
+  (ADVP-TMP
+    (RB longer))
+  (VBG pending))
+
+(ADJP
+  (JJ unable)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VP
+          (VB meet)
+          (NP
+            (NNS deadlines))))))
+  (PP-PRP
+    (RB because)
+    (IN of)
+    (NP
+      (NN devastation))))
+
+(ADJP
+  (JJ positive)
+  (CONJP
+    (RB as)
+    (RB well)
+    (IN as))
+  (JJ negative))
+
+(ADJP-PRD
+  (JJR harder)
+  (CC and)
+  (JJR harder)
+  (SBAR
+    (WHNP-2
+      (-NONE- 0))
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (TO to)
+        (VP
+          (VB do)
+          (NP
+            (-NONE- *T*-2)))))))
+
+(ADJP-PRD
+  (DT either)
+  (JJ incapable)
+  (CC or)
+  (JJ petrified)
+  (PP
+    (IN of)
+    (S-NOM
+      (NP-SBJ
+        (-NONE- *-1))
+      (VP
+        (VBG making)
+        (NP
+          (DT a)
+          (NN movie))
+        (SBAR-ADV
+          (IN unless)
+          (S
+            (NP-SBJ
+              (PRP it))
+            (VP
+              (VBZ carries)
+              (NP
+                (DT a)
+                (NN rating)))))))))
+
+(ADJP-PRD
+  (ADJP
+    (RB still)
+    (RBR more))
+  (JJ defensive))
+
+(ADJP
+  (ADJP
+    (JJ close))
+  (CC or)
+  (ADJP
+    (JJR more))
+  (NP-5
+    (DT the)
+    (NN rate)))
+
+(ADJP-PRD
+  (VB rid)
+  (PP
+    (IN of)
+    (NP
+      (-NONE- *T*-1))))
+
+(ADJP-PRD
+  (`` ``)
+  (RB profoundly)
+  (VBN disappointed)
+  ('' ''))
+
+(ADJP-PRD
+  (`` ``)
+  (ADJP
+    (JJR lower))
+  ('' '')
+  (PP
+    (IN than)
+    (ADVP-TMP
+      (NP
+        (DT a)
+        (NN year))
+      (RBR earlier))))
+
+(ADJP
+  (NN year)
+  (JJR earlier))
+
+(ADJP
+  (ADJP
+    (JJ political))
+  (CONJP
+    (RB as)
+    (RB well)
+    (IN as))
+  (ADJP
+    (JJ economic)))
+
+(ADJP-PRD
+  (JJ small)
+  (, ,)
+  (RB not)
+  (JJ smart))
+
+(ADJP
+  (JJ all-employee)
+  (VBN owned))
+
+(ADJP-PRD
+  (NP
+    (VBN known))
+  (PP
+    (IN for)
+    (NP
+      (NP
+        (PRP$ his)
+        (NNS tastes))))
+  (SBAR
+    (IN as)
+    (S
+      (NP-SBJ
+        (PRP he))
+      (VP
+        (VBZ is)
+        (ADJP-PRD
+          (-NONE- *?*))))))
+
+(ADJP
+  (RBS most)
+  (JJ radiant)
+  (, ,)
+  (JJ expressive))
+
+(ADJP
+  (JJS best)
+  (VBN known))
+
+(ADJP
+  (ADVP
+    (IN at)
+    (RB once))
+  (ADJP
+    (JJR wiser))
+  (CC and)
+  (ADJP
+    (ADJP
+      (JJ boorish))))
+
+(ADJP
+  (`` ``)
+  (RB intellectually)
+  (JJ slipshod))
+
+(ADJP
+  (JJ bright)
+  (CC and)
+  (JJ bold)
+  (CC and)
+  (JJ tongue-in-cheek))
+
+(ADJP
+  (RB so)
+  (`` ``)
+  (JJ vague)
+  (CC and)
+  (JJ mushy)
+  ('' ''))
+
+(ADJP
+  (CD ONE)
+  (JJR more))
+
+(ADJP-PRD
+  (`` ``)
+  (JJ sophisticated)
+  ('' '')
+  (RB enough)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB know)
+        (NP
+          (DT that))))))
+
+(ADJP-PRD
+  (RB much)
+  (JJR harder)
+  (SBAR
+    (WHNP-2
+      (-NONE- 0))
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (TO to)
+        (VP
+          (VB maintain)
+          (NP
+            (-NONE- *T*-2)))))))
+
+(ADJP
+  (ADJP
+    (JJ loyal))
+  (IN if)
+  (ADJP
+    (JJ ambivalent)))
+
+(ADJP-ADV
+  (RB Perhaps)
+  (RBS most)
+  (JJ important))
+
+(ADJP-PRD
+  (JJ due)
+  (RB mainly)
+  (PP
+    (TO to)
+    (NP
+      (NP
+        (DT a)
+        (NN order))
+      (SBAR-2
+        (WHNP-1
+          (-NONE- 0))
+        (S
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (VP
+            (TO to)
+            (VP
+              (VB equip)
+              (NP
+                (NP
+                  (PRP$ its)
+                  (NN fleet))))))))))
+
+(ADJP
+  (VBP fit)
+  (PP
+    (IN for)
+    (NP
+      (NN consumption))))
+
+(ADJP-PRD
+  (CD 80%-owned)
+  (PP
+    (IN by)
+    (NP
+      (NNP Inc))))
+
+(ADJP-PRD
+  (ADJP
+    (JJ difficult))
+  (, ,)
+  (CONJP
+    (IN if)
+    (RB not))
+  (ADJP
+    (JJ impossible))
+  (, ,)
+  (SBAR-2
+    (WHNP-1
+      (-NONE- 0))
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (TO to)
+        (VP
+          (VB regulate)
+          (NP
+            (-NONE- *T*-1)))))))
+
+(ADJP-PRD
+  (DT a)
+  (RB little)
+  (JJ disingenuous))
+
+(ADJP
+  (ADJP
+    (JJ hallowed))
+  (: --)
+  (CC and)
+  (ADJP
+    (JJS slowest))
+  (: --))
+
+(ADJP
+  (JJ convertible)
+  (PP-TMP
+    (PP
+      (IN from)
+      (NP
+        (NNP Dec.)))
+    (, ,)
+    (PP
+      (TO to)
+      (NP
+        (NNP Dec.))))
+  (, ,)
+  (PP
+    (IN at)
+    (NP
+      (NP
+        (NN premium)))))
+
+(ADJP-PRD
+  (RB too)
+  (JJ busy)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (VBG taming)
+      (NP
+        (PRP$ his)
+        (NN set))))
+  (SBAR
+    (WHNP-2
+      (-NONE- 0))
+    (S
+      (NP-SBJ
+        (-NONE- *T*-2))
+      (VP
+        (TO to)
+        (VP
+          (VB work))))))
+
+(ADJP
+  (NP
+    ($ $)
+    (-NONE- *U*))
+  (NP-ADV
+    (DT a)
+    (NN share)))
+
+(ADJP
+  (NNS investor-relations)
+  (CC and)
+  (NNS marketing-communications))
+
+(ADJP
+  (ADJP
+    (JJ short))
+  (, ,)
+  (ADJP
+    (JJ bald))
+  (, ,)
+  (ADJP
+    (JJ nerdy))
+  (, ,)
+  (CC and)
+  (ADJP
+    (JJ boring)))
+
+(ADJP
+  (DT the)
+  (JJS best))
+
+(ADJP
+  (ADVP
+    (IN At)
+    (JJS least))
+  (DT some))
+
+(ADJP-PRD
+  (ADJP
+    (JJ likely))
+  (S
+    (NP-SBJ
+      (-NONE- *-2))
+    (VP
+      (TO to)
+      (VP
+        (VB improve)
+        (NP
+          (NP
+            (DT the)
+            (NN availability))))))
+  (SBAR
+    (IN than)
+    (SINV
+      (VBZ is)
+      (NP-SBJ
+        (DT the)
+        (FW pro)
+        (FW bono)
+        (NN plan))
+      (ADJP-PRD
+        (-NONE- *?*)))))
+
+(ADJP
+  (RB not)
+  (RB seasonally)
+  (VBN adjusted))
+
+(ADJP
+  (NN convertible)
+  (PP-TMP
+    (PP
+      (IN from)
+      (NP
+        (NNP Nov.)))
+    (, ,)
+    (PP
+      (TO to)
+      (NP
+        (NNP Dec.)))
+    (, ,))
+  (PP
+    (IN at)
+    (NP
+      (NP
+        (DT a)
+        (NN premium)))))
+
+(ADJP
+  (RB probably)
+  (RB best)
+  (JJ able)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB handle)
+        (NP
+          (PRP it))))))
+
+(ADJP-PRD
+  (ADJP
+    (VBN concerned))
+  (ADVP
+    (IN than)))
+
+(ADJP
+  (JJS hardest)
+  (NN hit))
+
+(ADJP-PRD
+  (ADJP
+    (JJ remarkable))
+  (: --)
+  (ADJP
+    (ADJP
+      (JJ worth)
+      (NP
+        (DT a)))
+    (CC and)
+    (ADJP
+      (ADJP
+        (RB even)
+        (RBR better)))))
+
+(ADJP-PRD
+  (ADJP
+    (JJ close))
+  (SBAR
+    (IN as)
+    (S
+      (NP-SBJ
+        (NNP Germany))
+      (VP
+        (VBZ gets)
+        (ADJP-PRD
+          (-NONE- *?*)))))
+  (PP-2
+    (TO to)
+    (S-NOM
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (VBG practicing)
+        (NP
+          (NN glasnost))))))
+
+(ADJP-PRD
+  (RB sufficiently)
+  (VBN flawed)
+  (PP
+    (IN in)
+    (NP
+      (NP
+        (DT a)
+        (NN number))))
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ-1
+        (NNS revisions))
+      (VP
+        (MD will)
+        (VP
+          (VB be)
+          (VP
+            (VBN required)
+            (NP
+              (-NONE- *-1))))))))
+
+(ADJP
+  (JJ grandmotherly)
+  (VBG looking))
+
+(ADJP
+  (VBN estimated)
+  ($ $)
+  (CD 5)
+  (CD million)
+  (-NONE- *U*))
+
+(ADJP-PRD
+  (ADJP
+    (JJ tentative))
+  (, ,)
+  (ADJP
+    (JJ squeamish))
+  (ADVP
+    (RB even)))
+
+(ADJP
+  (JJ unconsolidated)
+  (, ,)
+  (CC or)
+  (NN parent-company)
+  (, ,))
+
+(ADJP-PRD
+  (RBS most)
+  (RB likely))
+
+(ADJP
+  (DT No)
+  (RBR less)
+  (JJ significant))
+
+(ADJP
+  (`` ``)
+  (JJ real)
+  (NN world)
+  ('' ''))
+
+(ADJP-PRD
+  (ADJP
+    (JJ inclined))
+  (FRAG
+    (PP
+      (IN than)
+      (S-NOM
+        (NP-SBJ
+          (-NONE- *))
+        (VP
+          (VBG understanding)
+          (NP
+            (NNS markets)))))))
+
+(ADJP
+  (JJ Wrong)
+  (. .))
+
+(ADJP
+  (JJ greenish)
+  (, ,)
+  (PP
+    (IN with)
+    (NP
+      (NP
+        (NNS tinges)))))
+
+(ADJP
+  (RBR more)
+  (NN creditworthy))
+
+(ADJP
+  (NN liquid)
+  (RB enough)
+  (SBAR
+    (-NONE- *RNR*-2)))
+
+(ADJP
+  (RB now)
+  (NP
+    (NNS years))
+  (JJ old))
+
+(ADJP-PRD
+  (VBN annoyed)
+  (ADVP
+    (RB well))
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ
+        (DT the)
+        (NN project))
+      (VP
+        (VBN moved)))))
+
+(ADJP
+  (QP
+    (TO to)
+    (CD 10))
+  (NNS feet)
+  (JJ tall))
+
+(ADJP
+  (NN monsieur)
+  (FW avec))
+
+(ADJP
+  (`` ``)
+  (RB too)
+  (`` `)
+  (JJ private)
+  ('' ')
+  (: ...)
+  (JJ exclusive)
+  (, ,)
+  ('' '')
+  (JJ complex)
+  (CC and)
+  (JJ expensive))
+
+(ADJP
+  (RB relatively)
+  (RB close)
+  (RB together)
+  (PP
+    (IN for)
+    (NP
+      (NP
+        (PDT such)
+        (DT a)
+        (NN settlement)))))
+
+(ADJP-PRD
+  (JJR better)
+  (IN off)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (RB not)
+    (VP
+      (VBG being))))
+
+(ADJP
+  (JJ post-World)
+  (NNP War)
+  (NNP II))
+
+(ADJP
+  (VBN estimated)
+  (JJ seven-million-ton))
+
+(ADJP
+  ($ $)
+  (CD 300)
+  (JJ million-a-year))
+
+(ADJP
+  (JJ widespread)
+  (, ,)
+  (IN if)
+  (JJ wistful)
+  (, ,))
+
+(ADJP-PRD
+  (RB slightly)
+  (IN down))
+
+(ADJP-2
+  (DT the)
+  (JJ same)
+  (PP
+    (IN as)
+    (PP
+      (IN in)
+      (NP
+        (CD 1986)))))
+
+(ADJP
+  (RB eloquently)
+  (`` ``)
+  (VBN concerned))
+
+(ADJP
+  (NN soul)
+  (VBG baring))
+
+(ADJP
+  (VBN crowded)
+  (, ,)
+  (CC but)
+  (JJ fast-growing))
+
+(ADJP
+  (JJ Callable)
+  (PP-TMP
+    (IN from)
+    (NP
+      (NNP March)))
+  (PP
+    (IN at)
+    (NP
+      (NP
+        (QP
+          (CD 3\/4)))))
+  (. .))
+
+(ADJP
+  (RBS most)
+  (JJ open)
+  (PP
+    (TO to)
+    (NP
+      (NP
+        (VB abuse))))
+  (, ,)
+  (SBAR-PRP
+    (IN since)
+    (S
+      (NP-SBJ
+        (PRP it))
+      (VP
+        (VBZ imposes)
+        (NP
+          (DT no)
+          (NNS restrictions))))))
+
+(ADJP
+  (NNP Too)
+  (NNP Young)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB Die)))))
+
+(ADJP-PRD
+  (NP
+    (DT a)
+    (NN bit))
+  (RBR closer)
+  (PP
+    (IN in)
+    (NP
+      (NNS cars))))
+
+(ADJP
+  (NP
+    (NN age))
+  (CC and)
+  (ADJP
+    (JJR older)))
+
+(ADJP-PRD
+  (ADJP
+    (JJ fantastic))
+  (PP
+    (IN in)
+    (NP
+      (NN appearance)))
+  (, ,)
+  (SBAR
+    (-NONE- 0)
+    (S
+      (NP-SBJ-1
+        (PRP it))
+      (VP
+        (VBD was)
+        (VP
+          (VBN dubbed))))))
+
+(ADJP-PRD
+  (RB very)
+  (JJ careful)
+  (PP-TMP
+    (IN since)
+    (NP
+      (RB then)))
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB make)
+        (ADJP
+          (JJ sure))))))
+
+(ADJP-PRD
+  (ADJP
+    (JJ straightforward))
+  (PRN
+    (: --)
+    (S
+      (NP-SBJ
+        (PRP he))
+      (VP
+        (VBZ wants)
+        (NP
+          (NP
+            (NN money)))))
+    (: --))
+  (CC or)
+  (ADJP
+    (VBN convoluted))
+  (PRN
+    (: ;)
+    (S
+      (S
+        (NP-SBJ
+          (PRP$ his)
+          (NN sister))
+        (VP
+          (VBZ is)))
+      (SQ
+        (MD wo)
+        (RB n't)
+        (NP-SBJ
+          (PRP you))
+        (VP
+          (VB give)
+          (NP
+            (PRP him))
+          (NP
+            (DT the)
+            (NN difference)))
+        (. ?)))))
+
+(ADJP
+  (VBN entitled)
+  (`` ``)
+  (NP-TTL
+    (NP
+      (NNS Winners))))
+
+(ADJP-PRD
+  (JJR worse)
+  (, ,)
+  (RB not)
+  (JJR better))
+
+(ADJP
+  (RB down)
+  (NN range)
+  (PRN
+    (-LRB- -LCB-)
+    (PP
+      (IN in)
+      (NP
+        (NN price)))
+    (-RRB- -RCB-))
+  (PP
+    (IN from)
+    (SBAR
+      (WHADVP-1
+        (WRB where))
+      (S
+        (NP-SBJ
+          (PRP we))
+        (VP
+          (VBP are))))))
+
+(ADJP
+  (VBN warmed)
+  (RP over))
+
+(ADJP-PRD
+  (`` ``)
+  (VBN pleased)
+  ('' '')
+  (PP-CLR
+    (IN with)
+    (NP
+      (NN performance))))
+
+(ADJP-PRD
+  (ADJP
+    (JJ dowdy))
+  (: --)
+  (ADJP
+    (JJR smaller))
+  (, ,)
+  (ADJP
+    (JJ shaped))
+  (, ,)
+  (ADJP
+    (JJ greenish)
+    (, ,)))
+
+(ADJP-PRD
+  (JJ hopeful)
+  (PRN
+    (, ,)
+    (ADVP
+      (RB however))
+    (, ,))
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ
+        (NP
+          (NNS developments)))
+      (VP
+        (MD will)
+        (VP
+          (VB expand)
+          (NP
+            (NP
+              (NNS markets))))))))
+
+(ADJP
+  (RB not)
+  (RB readily)
+  (JJ accessible)
+  (PP-LOC
+    (IN in)
+    (NP
+      (NNP Poland)))
+  (ADVP-TMP
+    (RB now)))
+
+(ADJP
+  (ADJP
+    (JJ responsive))
+  (, ,)
+  (ADJP
+    (JJ stable))
+  (CC and)
+  (PP
+    (IN in)
+    (NP
+      (NNS ways)))
+  (ADJP
+    (ADJP
+      (JJR easier))))
+
+(ADJP-PRD
+  (RBR more)
+  (RB politically)
+  (JJ active)
+  (PP-LOC
+    (IN in)
+    (NP
+      (NNP America))))
+
+(ADJP
+  (NN cotton)
+  (NN candy)
+  (JJ pink))
+
+(ADJP
+  (JJS least)
+  (JJ able)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB cope)))))
+
+(ADJP-PRD
+  (IN about)
+  (RB flat)
+  (PP
+    (IN with)
+    (NP
+      (DT the)
+      (NN period))))
+
+(ADJP
+  (`` ``)
+  (JJ retail)
+  (, ,)
+  ('' '')
+  (CC or)
+  (JJ individual-investor)
+  (, ,))
+
+(ADJP-PRD
+  (VBN fed)
+  (PRT
+    (RP up))
+  (PP
+    (IN with)
+    (NP
+      (NN mail))))
+
+(ADJP
+  (JJ economic)
+  (, ,)
+  (JJ federal)
+  (CC or)
+  (JJR stronger))
+
+(ADJP-PRD
+  (ADJP
+    (JJ troubled))
+  (CC but)
+  (ADJP
+    (JJ viable))
+  (CC and)
+  (PRN
+    (, ,)
+    (ADVP
+      (RB enough))
+    (, ,))
+  (ADVP
+    (RB quite)
+    (JJ quality-conscious)))
+
+(ADJP-PRD
+  (IN about)
+  (RB even))
+
+(ADJP-PRD-TPC-2
+  (WRB How)
+  (JJ easy))
+
+(ADJP-PRD
+  (VBN convinced)
+  (SBAR
+    (-NONE- 0)
+    (S
+      (NP-SBJ
+        (DT a)
+        (NN recession))
+      (VP
+        (VBZ is)
+        (VP
+          (VBG coming)))))
+  (ADVP-TMP
+    (-NONE- *T*-3)))
+
+(ADJP-PRD
+  (RB even)
+  (RBR harder)
+  (SBAR
+    (WHNP-2
+      (-NONE- 0))
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (TO to)
+        (VP
+          (VB shrink)
+          (NP
+            (-NONE- *T*-2)))))))
+
+(ADJP
+  (RBR more)
+  (RB highly)
+  (VBN educated))
+
+(ADJP
+  (NN No.)
+  (CD 1))
+
+(ADJP-PRD
+  (`` ``)
+  (JJ ready)
+  (PP
+    (IN for)
+    (NP
+      (DT a)
+      (NN bounce))))
+
+(ADJP-PRD
+  (NN worth)
+  (NP
+    (-NONE- *T*-1)))
+
+(ADJP-PRD
+  (ADJP
+    (VBN restricted))
+  (, ,)
+  (CC but)
+  (RB not)
+  (ADJP
+    (VBN banned)))
+
+(ADJP
+  (QP
+    (CD billion))
+  (NNP French)
+  (NN franc))
+
+(ADJP-PRD
+  (JJR more)
+  ('' '')
+  (CONJP
+    (RB rather)
+    (IN than))
+  (JJR less))
+
+(ADJP
+  (PRP$ his)
+  (CC or)
+  (PRP$ her))
+
+(ADJP
+  (JJR more)
+  (NN hand)
+  (TO to)
+  (NN mouth))
+
+(ADJP
+  (DT Another)
+  (PRN
+    (: --)
+    (CC and)
+    (JJ critical)
+    (: --)))
+
+(ADJP
+  (JJ wonderful)
+  (, ,)
+  (IN if)
+  (RB as)
+  (RB yet)
+  (JJ undefined)
+  (, ,))
+
+(ADJP
+  (ADVP
+    (RB far)
+    (RBR more))
+  (JJ interesting)
+  (CC and)
+  (JJ agreeable)
+  (PP
+    (TO to)
+    (NP
+      (NNS teachers))))
+
+(ADJP
+  (DT a)
+  (RB lot)
+  (JJR closer))
+
+(ADJP
+  (VB stop)
+  (CC and)
+  (VB go))
+
+(ADJP-PRD
+  (JJ available)
+  (PP
+    (TO to)
+    (NP
+      (NP
+        (NP
+          (JJ certain)))))
+  (`` ``)
+  (PP
+    (PP
+      (IN for)
+      (NP
+        (NN examination)))
+    (ADVP
+      (RB only))))
+
+(ADJP-PRD
+  (ADVP
+    (RB much))
+  (-LRB- -LCB-)
+  (JJ similar)
+  (PP
+    (TO to)
+    (-RRB- -RCB-)
+    (NP
+      (NN outlook))))
+
+(ADJP
+  (RBR less)
+  (IN than)
+  (JJ stellar))
+
+(ADJP-PRD
+  (ADVP
+    (RB nowhere)
+    (JJ near))
+  (IN as)
+  (JJ successful)
+  (PP
+    (IN at)
+    (S-NOM
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (VBG easing)
+        (NP
+          (NP
+            (NNS strains)))))))
+
+(ADJP
+  (JJR more)
+  (`` ``)
+  (JJ expensive)
+  ('' ''))
+
+(ADJP
+  (RB so)
+  (VBN fed)
+  (PRT
+    (RP up))
+  (PP
+    (IN with)
+    (NP
+      (NP
+        (NNS ringers)))))
+
+(ADJP-PRD
+  (NNP Fluent)
+  (PP
+    (IN in)
+    (NP
+      (NNP Spanish))))
+
+(ADJP
+  (ADVP
+    (RB somewhat)
+    (JJR more))
+  (JJ pro-Reagan)
+  (CC and)
+  (JJ pro-Republican))
+
+(ADJP
+  (JJ Swiss)
+  (, ,)
+  (JJ German)
+  (, ,)
+  (JJ Spanish)
+  (, ,)
+  (JJ Australian)
+  (CC and)
+  (JJ Canadian))
+
+(ADJP
+  (JJR lower)
+  (VBG paying))
+
+(ADJP
+  (JJ Italian)
+  (, ,)
+  (NNP U.S.)
+  (CC and)
+  (JJ Japanese))
+
+(ADJP-PRD
+  (RBR more)
+  (JJ vivid)
+  (, ,)
+  (JJ sensational)
+  (CC and)
+  (, ,)
+  (ADVP-TMP
+    (RB sometimes))
+  (, ,)
+  (JJ gruesome))
+
+(ADJP
+  (JJR higher)
+  (IN than)
+  (VBN expected))
+
+(ADJP
+  (JJ black)
+  (, ,)
+  (NNP Hispanic)
+  (, ,)
+  (JJ upscale)
+  (CC or)
+  (NN core)
+  (NN middle-class))
+
+(ADJP-PRD
+  (VBN interested)
+  (PRN
+    (-LRB- -LCB-)
+    (PP
+      (IN in)
+      (NP
+        (VBG diversifying)))
+    (-RRB- -RCB-)))
+
+(ADJP
+  (`` ``)
+  (JJR cheaper)
+  (CC and)
+  (JJR quicker)
+  ('' ''))
+
+(ADJP
+  (NNP S&P)
+  (CD 500)
+  (NN index))
+
+(ADJP-PRD
+  (ADJP
+    (ADVP-MNR
+      (RBR better))
+    (VBN positioned))
+  (PP
+    (IN than)
+    (NP
+      (NNS companies)))
+  (PP
+    (IN for)
+    (NP
+      (DT the)
+      (NN overcapacity)))
+  (SBAR-PRP
+    (IN because)
+    (S
+      (NP-SBJ
+        (PRP$ its)
+        (NNS mills))
+      (VP
+        (MD can)
+        (VP
+          (VB make)
+          (NP
+            (NP
+              (NN grade))))))))
+
+(ADJP-PRD
+  (JJR greater)
+  (RB still))
+
+(ADJP-PRD
+  (JJ insufficient)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB cover)
+        (NP
+          (NP
+            (PRP$ its)
+            (NNS charges))))))
+  ('' '')
+  (PP
+    (IN by)
+    (NP
+      (-NONE- *U*))))
+
+(ADJP-PRD
+  (JJR better)
+  (IN off))
+
+(ADJP-PRD
+  (`` ``)
+  (RB very)
+  (RB much)
+  (JJ encouraged)
+  ('' '')
+  (PP
+    (IN by)
+    (NP
+      (NP
+        (NN praise)))))
+
+(ADJP
+  (JJR better)
+  (, ,)
+  (JJR safer)
+  (CC or)
+  (JJR cheaper))
+
+(ADJP-PRD
+  (`` ``)
+  (ADVP
+    (RB much))
+  (VBN concerned)
+  ('' '')
+  (PP
+    (IN about)
+    (NP
+      (DT the)
+      (NNS deaths))))
+
+(ADJP
+  (QP
+    (CD 100)
+    (NNS times))
+  (RBR more)
+  (JJ effective))
+
+(ADJP
+  (JJS biggest)
+  (CC and)
+  (ADJP
+    (JJ powerful)))
+
+(ADJP
+  (JJ steady)
+  (, ,)
+  (VBN concentrated))
+
+(ADJP
+  (JJ legal)
+  (, ,)
+  (JJ regulatory)
+  (, ,)
+  (JJ financial)
+  (CC and)
+  (NN fairness))
+
+(ADJP-PRD
+  (ADJP
+    (JJ pretty)
+    (CC and)
+    (JJ smart))
+  (, ,)
+  (IN though)
+  (ADJP
+    (JJ uneducated)))
+
+(ADJP
+  (RB so)
+  (RB inextricably)
+  (VBN entwined)
+  (PP
+    (IN with)
+    (NP
+      (NP
+        (PRP$ our)
+        (NN way)))))
+
+(ADJP
+  (NNP East)
+  (NN bloc))
+
+(ADJP-PRD
+  (RB totally)
+  (FW laissez-faire))
+
+(ADJP-PRD
+  (ADJP
+    (JJ time-consuming))
+  (PRN
+    (-LRB- -LRB-)
+    (S
+      (S
+        (NP-SBJ
+          (NP
+            (DT the)
+            (NN part))
+          (ADVP
+            (RB alone)))
+        (VP
+          (VBZ lasts)
+          (NP
+            (NNS days)))))
+    (-RRB- -RRB-))
+  (, ,)
+  (ADJP
+    (JJ bloody))
+  (PRN
+    (-LRB- -LRB-)
+    (S
+      (NP-SBJ
+        (NP
+          (NN woman)))
+      (VP
+        (VBD required)
+        (NP
+          (DT a)
+          (NN transfusion))
+        (SBAR-ADV
+          (IN although)
+          (S
+            (NP-SBJ
+              (PRP it))
+            (VP
+              (VBZ resembles)
+              (NP
+                (DT a)
+                (NN period)))))))
+    (-RRB- -RRB-))
+  (, ,)
+  (CC and)
+  (ADJP
+    (JJ painful))
+  (PRN
+    (-LRB- -LRB-)
+    (S
+      (NP-SBJ-1
+        (NNS women))
+      (VP
+        (VBP require)
+        (NP
+          (NNS shots))))
+    (-RRB- -RRB-)))
+
+(ADJP
+  (RB just)
+  (RB basically)
+  (RBR less)
+  (JJ grim))
+
+(ADJP
+  (QP
+    (CD three)
+    (NNS times))
+  (IN as)
+  (JJ many))
+
+(ADJP
+  (ADVP-TMP
+    (RB now))
+  (VBG pending)
+  (PP-LOC
+    (IN in)
+    (NP
+      (DT the)
+      (NNP Senate))))
+
+(ADJP-PRD
+  (ADVP
+    (RB tidily))
+  (RB ahead)
+  (PP
+    (IN of)
+    (NP
+      (NNS stocks)))
+  (, ,)
+  (ADVP
+    (CD 847)
+    (TO to)
+    (CD 644)))
+
+(ADJP
+  (VBG increasing)
+  (CC and)
+  (VBG diversifying))
+
+(ADJP
+  ($ $)
+  (CD 10)
+  (CC and)
+  ($ $)
+  (CD 20)
+  (-NONE- *U*))
+
+(ADJP
+  (JJR greater)
+  (IN than)
+  (JJ usual))
+
+(ADJP
+  (JJ eye-popping)
+  (QP
+    (CD billion))
+  (-NONE- *U*))
+
+(ADJP-PRD
+  (`` ``)
+  (JJ interesting)
+  ('' '')
+  (CC and)
+  (`` ``)
+  (JJ novel)
+  (, ,)
+  ('' '')
+  (CC and)
+  (`` ``)
+  (JJ complementary)
+  (PP
+    (RB rather)
+    (IN than)
+    (ADJP
+      (JJ competitive))))
+
+(ADJP-PRD
+  (DT a)
+  (NN bit)
+  (JJ disappointing))
+
+(ADJP
+  (JJ investment-grade)
+  (CC and)
+  (JJ high-risk)
+  (, ,)
+  (JJ high-yield))
+
+(ADJP
+  (JJR larger)
+  (, ,)
+  (CC and)
+  (JJR fewer)
+  (, ,))
+
+(ADJP-PRD
+  (ADJP
+    (JJR thinner))
+  (ADVP-TMP
+    (RB now))
+  (SBAR
+    (IN than)
+    (S
+      (NP-SBJ
+        (PRP they))
+      (VP
+        (VBD were)
+        (ADJP-PRD
+          (-NONE- *?*))))))
+
+(ADJP-PRD
+  (NNP READY)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO TO)
+      (VP
+        (NNP REVIEW)
+        (NP
+          (NP
+            (DT the)
+            (NN riskiness)))))))
+
+(ADJP
+  (NN Year)
+  (RB ago))
+
+(ADJP
+  (CD 1988)
+  (NNP Piper)
+  (NNP Alpha)
+  (NN oil-rig))
+
+(ADJP
+  ($ $)
+  (QP
+    (CD million))
+  (-NONE- *U*))
+
+(ADJP-PRD
+  (NP
+    (NN %))
+  (JJ confident)
+  (SBAR
+    (RB only)
+    (IN that)
+    (S
+      (NP-SBJ
+        (NNS sales))
+      (VP
+        (VBD fell)))))
+
+(ADJP-PRD
+  (ADJP
+    (JJ okay))
+  (, ,)
+  (ADJP
+    (JJ necessary))
+  (ADVP
+    (RB even))
+  (, ,))
+
+(ADJP-PRD
+  (VBN carried)
+  (RB away)
+  (PP
+    (IN with)
+    (S-NOM
+      (NP-SBJ
+        (-NONE- *-2))
+      (VP
+        (VBG interpreting)
+        (SBAR-NOM
+          (WHNP-1
+            (WP what))
+          (S
+            (NP-SBJ
+              (NP
+                (DT the)
+                (NN order)))
+            (VP
+              (VBN meant)
+              (NP
+                (-NONE- *T*-1)))))))))
+
+(ADJP-PRD
+  (ADJP
+    (JJ irrelevant))
+  (, ,)
+  (IN if)
+  (ADJP
+    (JJ trivial))
+  (, ,))
+
+(ADJP-PRD
+  (JJS worst)
+  (IN off))
+
+(ADJP-PRD
+  (ADJP
+    (JJ peculiar))
+  (, ,)
+  (CC and)
+  (, ,)
+  (PP
+    (IN like)
+    (NP
+      (NNS peculiarities)))
+  (, ,)
+  (ADJP
+    (JJ unintelligible)))
+
+(ADJP
+  (JJ third)
+  (: -)
+  (CC and)
+  (NN fourth-quarter))
+
+(ADJP-PRD
+  (RB so)
+  (JJ impatient)
+  (PP
+    (IN with)
+    (NP
+      (NP
+        (NN behavior))))
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ
+        (PRP he))
+      (VP
+        (VBD withheld)
+        (NP
+          (NP
+            (PRP$ his)
+            (NN support)))))))
+
+(ADJP
+  (NN franchisee)
+  (CONJP
+    (RB as)
+    (RB well)
+    (IN as))
+  (JJ company-owned))
+
+(ADJP-PRD
+  (ADJP
+    (JJ big))
+  (CC and)
+  (ADJP
+    (NN liquid))
+  (SBAR-2
+    (IN that)
+    (S
+      (NP-SBJ
+        (DT the)
+        (NN market))
+      (VP
+        (VBZ is)
+        (RB n't)
+        (VP
+          (VBG having)
+          (NP
+            (NP
+              (DT the)
+              (NN impact))))))))
+
+(ADJP
+  (VBD centered)
+  (PP
+    (IN on)
+    (NP
+      (NP
+        (DT a)
+        (NN cafe)))))
+
+(ADJP
+  (PP
+    (IN in)
+    (NP
+      (DT the)))
+  (NN contradictory))
+
+(ADJP-PRD
+  (ADJP
+    (JJ guilty))
+  (, ,)
+  (RB then)
+  (ADJP
+    (JJ guilty))
+  (, ,)
+  (RB then)
+  (ADJP
+    (JJ guilty)
+    (: --)))
+
+(ADJP-PRD
+  (NNS bananas))
+
+(ADJP-PRD
+  (ADVP
+    (IN at)
+    (RBS least)
+    (IN as))
+  (JJ effective)
+  (PRN
+    (, ,)
+    (SBAR-ADV
+      (IN if)
+      (FRAG
+        (RB not)
+        (ADVP
+          (RBR more)
+          (RB so))))
+    (, ,)))
+
+(ADJP-PRD
+  (DT a)
+  (RB little)
+  (RBR more)
+  (JJ leery))
+
+(ADJP
+  (JJ post)
+  (NNP World)
+  (NNP War)
+  (NNP II))
+
+(ADJP-PRD
+  (NP-ADV
+    (NN year))
+  (RB away)
+  (PP-DIR
+    (IN from)
+    (NP
+      (DT a)
+      (NN prototype))))
+
+(ADJP-PRD-TPC-1
+  (IN So)
+  (ADVP
+    (RB too)))
+
+(ADJP
+  (NN No.)
+  (CD 1)
+  (, ,)
+  (NN No.)
+  (CD 2)
+  (CC or)
+  (NN No.)
+  (JJ 3-type))
+
+(ADJP
+  (QP
+    (, ,)
+    (CC or)
+    (CD million))
+  (-NONE- *U*)
+  (, ,))
+
+(ADJP
+  (JJ black)
+  (, ,)
+  (JJ Hispanic)
+  (, ,)
+  (CC and)
+  (JJ non-Hispanic)
+  (JJ white))
+
+(ADJP-PRD
+  (ADJP
+    (JJ unchanged))
+  (TO to)
+  (ADJP
+    (RB slightly)
+    (RBR higher)))
+
+(ADJP-PRD
+  (CC neither)
+  (ADJP
+    (JJ comfortable))
+  (CC nor)
+  (ADJP
+    (JJ able)))
+
+(ADJP-PRD
+  (RBR quicker)
+  (S
+    (NP-SBJ
+      (-NONE- *-2))
+    (VP
+      (TO to)
+      (VP
+        (VB lower)
+        (NP
+          (NNS quotes))
+        (SBAR-TMP
+          (WHADVP-3
+            (WRB when))
+          (S
+            (NP-SBJ
+              (NNS programs))
+            (VP
+              (VBP are))))))))
+
+(ADJP
+  (NNS sales)
+  (PRN
+    (, ,)
+    (CC and)
+    (RB not)
+    (NN profit)
+    (, ,))
+  (VBN oriented))
+
+(ADJP-PRD
+  (NP-ADV
+    (NN %))
+  (NN effective))
+
+(ADJP-PRD
+  (ADVP
+    (RB clearly))
+  (ADJP
+    (JJ efficient))
+  (, ,)
+  (ADJP
+    (JJ advanced))
+  (CC and)
+  (ADJP
+    (JJ competitive)))
+
+(ADJP-PRD
+  (JJ first)
+  (NN rate)
+  (PP
+    (IN for)
+    (NP
+      (PRP$ its)
+      (NN class))))
+
+(ADJP
+  (ADJP
+    (JJ amusing))
+  (, ,)
+  (ADJP
+    (ADVP-TMP
+      (RBR more)
+      (RB often))
+    (JJ supercilious))
+  (, ,)
+  (ADJP
+    (JJ vicious)))
+
+(ADJP
+  (QP
+    (IN about)
+    (CD 1\/4)
+    (NNS times))
+  (RB as)
+  (RB high))
+
+(ADJP
+  (JJ due)
+  (NP-TMP
+    (NNP Nov.))
+  (, ,))
+
+(ADJP-PRD
+  (JJ difficult)
+  (, ,)
+  (RB not)
+  (JJ impossible)
+  (, ,)
+  (SBAR
+    (WHNP-1
+      (-NONE- 0))
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (TO to)
+        (VP
+          (VB solve)
+          (NP
+            (-NONE- *T*-1)))))))
+
+(ADJP-PRD
+  (IN about)
+  (DT the)
+  (JJ same)
+  (PP-TMP
+    (IN in)
+    (NP
+      (CD 1988)))
+  (PP
+    (IN as)
+    (PP-TMP
+      (IN in)
+      (NP
+        (CD 1986)))))
+
+(ADJP-PRD
+  (RB really)
+  (VBN wiped)
+  (PRT
+    (RP out)))
+
+(ADJP
+  (DT a)
+  (CD 40)
+  (NN %))
+
+(ADJP-PRD
+  (`` ``)
+  (ADJP
+    (ADJP
+      (JJ formal))
+    (, ,)
+    (ADJP
+      (JJ threatening))
+    (CC and)
+    (ADJP
+      (JJ grim)))
+  (PP
+    (IN than)
+    (NP
+      (NNS courthouses))))
+
+(ADJP
+  (DT a)
+  (JJ little)
+  (JJR richer))
+
+(ADJP
+  (RB often)
+  (ADVP
+    (RB too))
+  (JJ real))
+
+(ADJP
+  (QP
+    (IN about)
+    (RB twice))
+  (JJ normal))
+
+(ADJP-PRD
+  (NN anything)
+  (CC but)
+  (VBG encouraging))
+
+(ADJP
+  (RB even)
+  (JJR nicer)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB minimize)
+        (NP
+          (NP
+            (DT those)
+            (NNS tests)))))))
+
+(ADJP-PRD
+  (JJ far)
+  (RBR drearier))
+
+(ADJP-PRD
+  (RB reasonably)
+  (JJ confident)
+  ('' '')
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ
+        (NP
+          (NNS earnings)))
+      (VP
+        (MD will)
+        (VP
+          (VB exceed)
+          (NP
+            (NP
+              (DT the)
+              (-NONE- *U*))))))))
+
+(ADJP-PRD
+  (JJ likely)
+  (ADVP
+    (IN at)
+    (JJS best))
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO to)
+      (VP
+        (VB be)
+        (ADJP-PRD
+          (JJ modest))))))
+
+(ADJP
+  (RB Exactly)
+  (RB right)
+  (. .))
+
+(ADJP
+  (ADVP
+    (RB also))
+  (ADVP-TMP
+    (RBR more)
+    (RB quickly))
+  (IN out)
+  (: -)
+  (JJ dated))
+
+(ADJP
+  (-LRB- -LRB-)
+  (NP
+    (-NONE- *U*))
+  (-RRB- -RRB-))
+
+(ADJP-PRD
+  (ADJP
+    (JJ unavailable))
+  (CC or)
+  (ADVP
+    (IN at)
+    (JJS least))
+  (ADJP
+    (JJ unaffordable)))
+
+(ADJP
+  (NNP Salt)
+  (NNP Lake)
+  (JJ City-based))
+
+(ADJP
+  (NN steam-generating)
+  (CC and)
+  (VBN related))
+
+(ADJP
+  ($ $)
+  (JJ 300-a-share)
+  (NN bid))
+
+(ADJP
+  (VBN mucked)
+  (IN up))
+
+(ADJP
+  (VB No.)
+  (CD 1)
+  (CC and)
+  (CD 2))
+
+(ADJP-PRD
+  (JJ pleased)
+  (, ,)
+  (PRN
+    (CC but)
+    (ADVP-MNR
+      (ADVP
+        (ADVP
+          (RB near))
+        (RB much)))))
+
+(ADJP-PRD
+  (JJ firm)
+  (TO to)
+  (JJR higher))
+
+(ADJP-PRD
+  (JJ justified)
+  (`` ``)
+  (PP
+    (IN as)
+    (NP
+      (NP
+        (DT an)
+        (NN measure)))))
+
+(ADJP
+  (ADVP
+    (RB certainly))
+  (RB far)
+  (JJR less))
+
+(ADJP
+  (JJ commercial)
+  (, ,)
+  (JJ industrial)
+  (CC and)
+  (NNS public-works))
+
+(ADJP-PRD
+  (ADJP
+    (NP
+      (NNS years))
+    (JJ old))
+  (: --)
+  (SBAR
+    (WHNP-1
+      (WDT which))
+    (S
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (VP
+        (VBZ is)
+        (VP
+          (VBG getting)))))
+  (: --))
+
+(ADJP
+  (JJR more)
+  (RB overtly)
+  (JJ political))
+
+(ADJP-PRD
+  (JJR better)
+  (PP
+    (IN than)
+    (NP
+      (NNS bacteria)))
+  (PP
+    (IN at)
+    (NP
+      (NP
+        (NN production)))))
+
+(ADJP
+  (`` ``)
+  (RB significantly)
+  ('' '')
+  (JJR lower))
+
+(ADJP
+  (CD 47)
+  (NNS years)
+  (JJ old))
+
+(ADJP
+  (RB perhaps)
+  (JJ anxious)
+  (PP
+    (IN about)
+    (S-NOM
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (VBG minimizing)
+        (NP
+          (NNS inventories)))))
+  (: --))
+
+(ADJP
+  (CC either)
+  (RB too)
+  (JJ small)
+  (CC or)
+  (JJ uneconomic))
+
+(ADJP
+  (JJ scientific)
+  (, ,)
+  (NN engineering)
+  (CC and)
+  (JJ academic))
+
+(ADJP
+  (JJ Asian)
+  (CC and)
+  (NNP Pacific))
+
+(ADJP
+  (JJ genteel)
+  (, ,)
+  (JJ conservative)
+  (, ,)
+  (JJ long-term-oriented))
+
+(ADJP
+  (RBS most)
+  (JJ single)
+  (JJ successful))
+
+(ADJP-PRD
+  (NN duty)
+  (VBN bound)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO to)
+      (VP
+        (VB present)
+        (NP
+          (NP
+            (DT the)
+            (NN case)))))))
+
+(ADJP
+  (RB recently)
+  (VBN divorced)
+  (CC or)
+  (VBN widowed))
+
+(ADJP-PRD
+  (VBN appalled)
+  (PRN
+    (, ,)
+    (PP
+      (IN for)
+      (NP
+        (NN instance)))
+    (, ,))
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ-2
+        (PRP he))
+      (VP
+        (VBD wanted)))))
+
+(ADJP
+  (`` ``)
+  (JJ unhelpful)
+  ('' '')
+  (CC and)
+  (JJ disappointing))
+
+(ADJP-PRD
+  (RB up)
+  (CC and)
+  (VBG running))
+
+(ADJP
+  (RBS most)
+  (RB financially)
+  (VB secure))
+
+(ADJP-PRD
+  (JJR easier)
+  (: --)
+  (CC and)
+  (JJR faster)
+  (: --)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB sell)
+        (NP
+          (NP
+            (NNS franchises)))))))
+
+(ADJP-PRD
+  (`` ``)
+  (VBG devastating)
+  ('' ''))
+
+(ADJP-PRD
+  (ADJP
+    (JJ correct))
+  (, ,)
+  (CC but)
+  (ADJP
+    (NP-ADV
+      (DT a))
+    (JJ unfair))
+  (ADVP
+    (RB otherwise)))
+
+(ADJP-PRD
+  (RB just)
+  (RB about)
+  (NN average)
+  (PP
+    (IN for)
+    (NP
+      (DT the)
+      (NN company))))
+
+(ADJP-PRD
+  (VBG sweeping)
+  (RB enough)
+  (S
+    (NP-SBJ
+      (-NONE- *-2))
+    (VP
+      (TO to)
+      (VP
+        (VB reduce)
+        (NP
+          (NP
+            (DT the)
+            (NN rate)))))))
+
+(ADJP
+  (JJ Ready)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB jump))))
+  (. ?))
+
+(ADJP
+  (RBS most)
+  (VBN pared)
+  (PRT
+    (RP down)))
+
+(ADJP
+  (IN out)
+  (PP-LOC
+    (IN on)
+    (NP
+      (DT the)
+      (NN market)))
+  (PP
+    (IN with)
+    (NP
+      (DT this)
+      (NN product))))
+
+(ADJP-PRD
+  (JJ ready)
+  ('' '')
+  (S
+    (NP-SBJ
+      (-NONE- *-3))
+    (VP
+      (TO to)
+      (VP
+        (VB evaluate)
+        (NP
+          (NP
+            (DT the)
+            (NN appropriateness)))))))
+
+(ADJP
+  (ADJP
+    (RBR Better))
+  (PP
+    (IN than)
+    (NP
+      (NP
+        (DT all)
+        (DT those)
+        (NNS offers))
+      (S-2
+        (NP-SBJ
+          (-NONE- *))
+        (VP
+          (TO to)
+          (VP
+            (VB buy)
+            (NP
+              (NP
+                (NNS securities))))))))
+  (. .))
+
+(ADJP
+  (VB stock)
+  (NN market))
+
+(ADJP-PRD
+  (ADJP
+    (JJ eager))
+  (PP
+    (IN as)
+    (NP
+      (DT the)
+      (NN judge)))
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO to)
+      (VP
+        (VB wrap)
+        (NP
+          (PRP it))
+        (PRT
+          (RP up))))))
+
+(ADJP
+  (RB just)
+  (RB as)
+  (RB close))
+
+(ADJP-PRD
+  (NN enough)
+  (SBAR
+    (WHNP-4
+      (-NONE- 0))
+    (S
+      (NP-SBJ
+        (-NONE- *T*-4))
+      (VP
+        (TO to)
+        (VP
+          (VB offset)
+          (NP
+            (NP
+              (DT the)
+              (NNS problems))))))))
+
+(ADJP-PRD
+  (RBS best)
+  (JJ known)
+  (PP
+    (IN among)
+    (NP
+      (NNS politicians)))
+  (PP
+    (IN for)
+    (NP
+      (NP
+        (PRP$ his)
+        (NNS problems)))))
+
+(ADJP
+  (JJS biggest)
+  (CC and)
+  (JJ fastest-growing))
+
+(ADJP
+  (RB as)
+  (NN brand)
+  (JJ loyal))
+
+(ADJP
+  (NP
+    (-NONE- *U*))
+  (ADJP
+    (-LRB- -LRB-)
+    (NP
+      (-NONE- *U*))
+    (-RRB- -RRB-)))
+
+(ADJP
+  (DT a)
+  (NN bit)
+  (JJR safer))
+
+(ADJP
+  (IN as)
+  (JJ distinct)
+  (, ,)
+  (JJ sharp)
+  (CC and)
+  (JJ individual))
+
+(ADJP
+  (CONJP
+    (RB not)
+    (RB only))
+  (JJ federal)
+  (CC but)
+  (NN state))
+
+(ADJP-PRD
+  (RB either)
+  (ADJP
+    (JJ small))
+  (CC or)
+  (ADJP
+    (JJ old)))
+
+(ADJP-PRD
+  (RB sufficiently)
+  (JJ big)
+  (, ,)
+  (JJ diverse)
+  (CC and)
+  (JJ powerful)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB coordinate)
+        (NP
+          (NP
+            (NN policy)))))))
+
+(ADJP-PRD
+  (NNP Above)
+  (NNP Top)
+  (NNP Secret))
+
+(ADJP
+  (NP
+    (TO to)
+    (NN %))
+  (-NONE- *U*))
+
+(ADJP
+  (NP-ADV
+    (-NONE- *U*))
+  (JJR less)
+  (PP
+    (IN from)
+    (NP
+      (PRP$ its)
+      (NN coffee)))
+  (NP-TMP
+    (DT this)
+    (NN year))
+  (PP
+    (IN than)
+    (NP
+      (JJ last))))
+
+(ADJP-PRD
+  (`` ``)
+  (RB very)
+  (VBN concerned)
+  ('' '')
+  (PP
+    (IN about)
+    (NP
+      (NP
+        (DT the)
+        (NNS effects)))))
+
+(ADJP
+  (RB quite)
+  (IN unlike)
+  (NP
+    (NP
+      (NN anything))))
+
+(ADJP
+  (JJ guilty)
+  (: --)
+  (PP
+    (CC but)
+    (PP
+      (IN of)
+      (NP
+        (DT a)
+        (NN crime)))))
+
+(ADJP-PRD
+  (UH OK))
+
+(ADJP
+  (VBD prepared)
+  (S
+    (NP-SBJ
+      (-NONE- *-2))
+    (VP
+      (TO to)
+      (VP
+        (VB sacrifice)
+        (NP
+          (PRP themselves))))))
+
+(ADJP
+  (RB completely)
+  (JJ unscientific)
+  (, ,)
+  (JJ random))
+
+(ADJP
+  (PRN
+    (, ,)
+    (ADVP
+      (RBS most)
+      (JJ important))
+    (, ,))
+  (JJ steady)
+  (RB enough)
+  (SBAR
+    (IN for)
+    (S
+      (NP-SBJ
+        (DT both)
+        (NNS users))
+      (VP
+        (TO to)
+        (VP
+          (VB believe))))))
+
+(ADJP-PRD
+  (RB so)
+  (JJ upset)
+  (`` ``)
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ-1
+        (PRP you))
+      (VP
+        (VBD considered)))))
+
+(ADJP-PRD
+  (RBR faster)
+  (PP
+    (IN on)
+    (NP
+      (DT the)
+      (NN draw))))
+
+(ADJP
+  (QP
+    (TO to)
+    (CD 490))
+  (-NONE- *U*)
+  (NP-ADV
+    (DT an)
+    (NN ounce)))
+
+(ADJP
+  (JJ due)
+  (RB out)
+  (NP-TMP
+    (NNP Friday)))
+
+(ADJP-PRD
+  (`` ``)
+  (RB not)
+  (JJ likely)
+  ('' '')
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO to)
+      (VP
+        (VB affect)
+        (NP
+          (DT the)
+          (NN economy))))))
+
+(ADJP
+  (JJ North)
+  (CC or)
+  (JJ South)
+  (JJ Korean))
+
+(ADJP
+  (JJ tasty)
+  (PRN
+    (: --)
+    (CC and)
+    (JJ free)
+    (: --)))
+
+(ADJP
+  (NNP San)
+  (NNP Francisco)
+  (: --)
+  (NNP Oakland))
+
+(ADJP
+  (ADJP
+    (QP
+      (CD billion))
+    (NNS kronor))
+  (-LRB- -LRB-)
+  (ADJP
+    (QP
+      (CD million))
+    (-NONE- *U*))
+  (-RRB- -RRB-))
+
+(ADJP
+  (`` ``)
+  (RB well)
+  (VBN qualified))
+
+(ADJP-PRD
+  (RB particularly)
+  (JJ appropriate)
+  (: --)
+  (CC and)
+  (JJ tragic)
+  (: --))
+
+(ADJP-PRD
+  (ADJP
+    (JJ true))
+  (CC but)
+  (RB not)
+  (ADVP-TMP
+    (RB always))
+  (ADJP
+    (JJ accurate)))
+
+(ADJP-PRD
+  (JJ available)
+  (ADVP
+    (JJ free))
+  (PP-TMP
+    (IN for)
+    (NP
+      (DT a)
+      (NN time)))
+  (PP
+    (TO to)
+    (NP
+      (NP
+        (NNS children)))))
+
+(ADJP
+  (RB far)
+  (RB enough)
+  (PP
+    (IN from)
+    (NP
+      (NNS areas)))
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB pass)
+        (NP
+          (NN muster))))))
+
+(ADJP
+  (RBR more)
+  (VBN respected)
+  (CC and)
+  (JJ powerful))
+
+(ADJP-PRD
+  (`` ``)
+  (RB very)
+  (JJ great)
+  (, ,)
+  ('' ''))
+
+(ADJP
+  (VBN folded)
+  (, ,)
+  (VBN faded)
+  (CC and)
+  (VBN crumpled))
+
+(ADJP
+  (IN as)
+  (RB far)
+  (RB away))
+
+(ADJP-PRD
+  (NN flatout)
+  (JJ wrong)
+  (PP
+    (IN in)
+    (NP
+      (PRP$ its)
+      (NNS predictions))))
+
+(ADJP
+  (NN spring-brake)
+  (, ,)
+  (NN piston-brake)
+  (CC and)
+  (JJ related))
+
+(ADJP-1
+  (NP
+    (NP-ADV
+      (NN %)))
+  (SBAR
+    (IN than)
+    (FRAG
+      (PP-TMP
+        (IN in)
+        (NP
+          (CD 1987))))))
+
+(ADJP
+  (CD 6\/2)
+  (NN rate)
+  (JJ capped))
+
+(ADJP
+  (RBR more)
+  (JJ thoughtful)
+  (, ,)
+  (JJ complete)
+  (CC and)
+  (JJ competitive))
+
+(ADJP
+  (JJR more)
+  (NN intent)
+  (PP
+    (IN on)
+    (S-NOM
+      (NP-SBJ
+        (-NONE- *-1))
+      (VP
+        (VBG brightening)
+        (NP
+          (PRP$ our)
+          (NNS skies))))))
+
+(ADJP-PRD
+  (`` ``)
+  (JJ pleased)
+  ('' '')
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ
+        (NNP Trump))
+      (VP
+        (VBD had)
+        (VP
+          (VBN backed)
+          (PRT
+            (RB out)))))))
+
+(ADJP
+  (JJ senior)
+  (CC and)
+  (VBD subordinated))
+
+(ADJP
+  (NP-ADV
+    (DT a)
+    (NN lot))
+  (JJR cheaper)
+  (CC and)
+  (JJR quicker))
+
+(ADJP
+  (JJR less)
+  (VBN parched))
+
+(ADJP
+  (NP-ADV
+    (DT a)
+    (NN pound))
+  (JJR less)
+  (SBAR
+    (IN than)
+    (S
+      (NP-SBJ
+        (NP
+          (DT the)
+          (NN frame)))
+      (VP
+        (-NONE- *?*)))))
+
+(ADJP
+  (JJ sweet)
+  (. !)
+  (JJ sweet)
+  (. !))
+
+(ADJP
+  (ADJP
+    (RB too)
+    (RB little))
+  (ADJP
+    (JJ late)))
+
+(ADJP
+  (ADJP
+    (JJ long))
+  (PRN
+    (S
+      (NP-SBJ
+        (DT that))
+      (VP
+        (VBZ is))))
+  (, ,)
+  (ADJP
+    (JJ 20-year)
+    (TO to)
+    (JJ 30-year)))
+
+(ADJP
+  (RBR more)
+  (JJ systematic)
+  (CC and)
+  (VBN organized))
+
+(ADJP
+  (JJR better)
+  (PRT
+    (RP off))
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB stick)))))
+
+(ADJP-PRD
+  (RB financially)
+  (`` ``)
+  (RB overly)
+  (JJ optimistic))
+
+(ADJP
+  (, ,)
+  (RB largely)
+  (JJ complacent)
+  (PP-TMP
+    (IN in)
+    (NP
+      (DT the)
+      (NN past)))
+  (, ,))
+
+(ADJP
+  (`` ``)
+  (ADJP
+    (JJ safe))
+  (, ,)
+  ('' '')
+  (`` ``)
+  (ADJP
+    (VBN insured))
+  ('' '')
+  (CC and)
+  (`` ``)
+  (ADJP
+    (VBN guaranteed))
+  ('' ''))
+
+(ADJP
+  (ADJP
+    (JJ permanent))
+  (CC and)
+  (PRN
+    (, ,)
+    (PP
+      (IN in)
+      (NP
+        (PRP$ my)
+        (NN view)))
+    (, ,))
+  (ADJP
+    (JJ beneficial)))
+
+(ADJP-PRD
+  (ADJP
+    (NNP Catholic))
+  (ADVP
+    (RB too))
+  (, ,)
+  (CC but)
+  (ADJP
+    (JJ unfazed)))
+
+(ADJP-PRD
+  (JJ local)
+  (CC or)
+  (JJ regional)
+  (, ,)
+  (PP
+    (RB rather)
+    (IN than)
+    (ADJP
+      (JJ national))))
+
+(ADJP
+  (ADJP
+    (JJ ambitious))
+  (, ,)
+  (ADJP
+    (JJ corrupt))
+  (, ,)
+  (CC and)
+  (ADJP
+    (JJ demagogic)))
+
+(ADJP-PRD
+  (ADJP
+    (JJ mute))
+  (, ,)
+  (PP
+    (RB rather)
+    (IN than)
+    (ADJP
+      (`` ``)
+      (VBN concerned))))
+
+(ADJP
+  (NNP Frankfurt)
+  (, ,)
+  (NNP West)
+  (JJ Germany-based))
+
+(ADJP-PRD
+  (ADJP
+    (JJ important))
+  (, ,)
+  (RB only)
+  (ADJP
+    (VBG diverting)))
+
+(ADJP
+  (NN Mortgage)
+  (: -)
+  (, ,)
+  (NNP Asset-Backed))
+
+(ADJP-PRD
+  (ADJP
+    (JJ humongous))
+  (, ,)
+  ('' '')
+  (ADJP
+    (ADJP
+      (JJR greater))))
+
+(ADJP-PRD
+  (IN about)
+  (JJ 60%-held)
+  (PP
+    (IN by)
+    (NP
+      (NNP Co))))
+
+(ADJP-PRD
+  (RB so)
+  (JJ bad)
+  (, ,)
+  (SBAR
+    (-NONE- 0)
+    (S
+      (NP-SBJ
+        (PRP it))
+      (VP
+        (VBD looked)))))
+
+(ADJP
+  (RB still)
+  (NP
+    (NN %))
+  (JJR higher))
+
+(ADJP
+  (NNS due)
+  (NP-TMP
+    (NNP Oct.)))
+
+(ADJP
+  (DT each)
+  (CC and)
+  (DT every))
+
+(ADJP
+  ($ $)
+  (JJ 300-a-share)
+  (, ,)
+  (QP
+    (CD billion))
+  (-NONE- *U*))
+
+(ADJP-PRD
+  (ADVP
+    (RB probably)
+    (RBR more)
+    (JJ aware))
+  (SBAR
+    (IN than)
+    (FRAG
+      (ADVP-TMP
+        (RB ever))
+      (PP-TMP
+        (IN before)))))
+
+(ADJP
+  (CD two)
+  (CC or)
+  (JJR more))
+
+(ADJP
+  (NNS Public-works)
+  (CC and)
+  (NN utility))
+
+(ADJP-PRD
+  (RB not)
+  (ADVP
+    (IN at)
+    (DT all))
+  (VBN interested)
+  (PP
+    (IN in)
+    (S-NOM
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (VBG throwing)
+        (NP
+          (NN water))))))
+
+(ADJP
+  (# #)
+  (CD 390-million)
+  (-NONE- *U*))
+
+(ADJP
+  (`` non-``)
+  (NN Moonie)
+  ('' ''))
+
+(ADJP
+  (JJ single)
+  (RBS most)
+  (JJ contorted)
+  (CC and)
+  (JJ ridiculous))
+
+(ADJP
+  (NP-ADV
+    (DT a))
+  (RB well)
+  (VBN done))
+
+(ADJP-PRD
+  (JJ prepared)
+  (PP
+    (IN for)
+    (NP
+      (NP
+        (NP
+          (NNS options)))))
+  (, ,))
+
+(ADJP
+  (QP
+    (TO to)
+    (CD 375))
+  (-NONE- *U*)
+  (PP
+    (IN per)
+    (NP
+      (NN ounce))))
+
+(ADJP-PRD
+  (RB just)
+  (RB not)
+  (NN cost)
+  (JJ efficient))
+
+(ADJP
+  ($ $)
+  (CD 1)
+  (-NONE- *U*)
+  (JJ pershare))
+
+(ADJP-PRD
+  (JJR better)
+  (RP off))
+
+(ADJP-PRD
+  (JJ second)
+  (RB only)
+  (PP
+    (TO to)
+    (NP
+      (NNP Stanley)))
+  (PP-LOC
+    (IN in)
+    (NP
+      (NP
+        (NN trading)))))
+
+(ADJP-PRD
+  (JJ well-educated)
+  (, ,)
+  (JJ affluent)
+  (CC and)
+  (PRN
+    (, ,)
+    (ADVP
+      (RB especially))
+    (, ,))
+  (JJ young))
+
+(ADJP
+  (FW belle))
+
+(ADJP-PRD
+  (PRN
+    (-LRB- -LCB-)
+    (RB widely)
+    (-RRB- -RCB-))
+  (JJ available))
+
+(ADJP
+  (NN real-estate)
+  (, ,)
+  (NN venture-capital)
+  (CC and)
+  (NN uranium-mining))
+
+(ADJP-PRD
+  (ADJP
+    (QP
+      (IN about)
+      (CD 3))
+    (NN %))
+  (JJR higher))
+
+(ADJP
+  (RB as)
+  (JJ deep)
+  ('' ''))
+
+(ADJP-PRD
+  (JJR safer)
+  (, ,)
+  (CC and)
+  (JJR busier))
+
+(ADJP
+  (CD 2)
+  (NN %)
+  (NN rate)
+  (JJ capped))
+
+(ADJP
+  (`` ``)
+  (JJ regular)
+  ('' '')
+  (CC and)
+  (`` ``)
+  (NN sale)
+  ('' ''))
+
+(ADJP
+  (JJ West)
+  (NNP German))
+
+(ADJP-PRD
+  (JJ concerned)
+  (, ,)
+  (ADVP
+    (RB however))
+  (, ,)
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ-1
+        (NNP Exterior))
+      (VP
+        (MD may)
+        (VP
+          (VB have)
+          (VP
+            (VBD waited)))))))
+
+(ADJP
+  (NN retail)
+  (, ,)
+  (CC or)
+  (NN individual-investor)
+  (, ,))
+
+(ADJP
+  (IN IN)
+  (NNP VITRO))
+
+(ADJP-PRD
+  (JJ fine)
+  (, ,)
+  (IN although)
+  (JJ nervous))
+
+(ADJP-PRD
+  (VBD bogged)
+  (IN down)
+  (PP
+    (IN in)
+    (NP
+      (NN bureaucracy))))
+
+(ADJP-PRD
+  (ADVP
+    (RB obviously))
+  (VBN disappointed)
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ-2
+        (DT the)
+        (NN issue))
+      (VP
+        (VBD was)
+        (RB not)
+        (VP
+          (VBN taken)
+          (NP
+            (-NONE- *-2))
+          (PRT
+            (IN up)))))))
+
+(ADJP
+  (RBR more)
+  (JJ practical)
+  (PRN
+    (: --)
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (VB read)
+        (ADJP
+          (JJ affordable))))
+    (: --)))
+
+(ADJP
+  (NN convertible)
+  (NP-TMP
+    (NP
+      (NNP Dec.)))
+  (, ,)
+  (PP
+    (IN at)
+    (NP
+      (NP
+        (DT a)
+        (NN premium)))))
+
+(ADJP-PRD
+  (ADVP
+    (RB much))
+  (JJ different)
+  ('' '')
+  (PP
+    (IN from)
+    (NP
+      (NP
+        (NN loss)))))
+
+(ADJP
+  (JJ unconventional)
+  (, ,)
+  (CC but)
+  (JJR tastier)
+  (, ,)
+  (CC and)
+  (RB often)
+  (JJR pricier)
+  (, ,))
+
+(ADJP-PRD
+  (ADJP
+    (NP
+      (NN point))
+    (JJR higher))
+  (, ,)
+  (CC or)
+  (ADVP
+    (RB up)
+    (NP
+      (-NONE- *U*))))
+
+(ADJP-PRD
+  (ADJP
+    (VBN disappointed))
+  (CC and)
+  (`` ``)
+  (ADJP
+    (JJ concerned)))
+
+(ADJP
+  (RB no)
+  (JJR worse)
+  (IN off))
+
+(ADJP
+  (RB approximately)
+  (NNS two-thirds))
+
+(ADJP
+  (RBR more)
+  (RB technologically)
+  (JJ advanced))
+
+(ADJP-PRD
+  (ADJP
+    (JJ complicated))
+  (: --)
+  (CC and)
+  (ADJP
+    (JJ dismaying)))
+
+(ADJP
+  (JJR higher)
+  (, ,)
+  (RB not)
+  (JJR lower)
+  (, ,))
+

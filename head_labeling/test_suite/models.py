@@ -11,8 +11,12 @@ class Category(models.Model):
         return self.symbol
 
     def versions(self):
-        return self.testsuite_set.order_by('version').prefetch_related(
-                'expansion_set')
+        # HACK so that I have to change only a minimal amount of code.  This
+        # now just returns a list containing only the latest version
+        versions = self.testsuite_set.order_by('version')
+        return [versions[versions.count()-1]]
+        #return self.testsuite_set.order_by('version').prefetch_related(
+                #'expansion_set')
 
     class Meta:
         ordering = ['symbol']
