@@ -11,7 +11,7 @@ from test_suite.models import *
 
 def main():
     test_suites = defaultdict(lambda: defaultdict(list))
-    lastest_version = defaultdict(int)
+    latest_version = defaultdict(int)
     for suite in TestSuite.objects.all():
         if suite.version > latest_version[suite.category.symbol]:
             latest_version[suite.category.symbol] = suite.version

@@ -39,6 +39,6 @@ do
         -treeFile $base/$suites_dir/${cat}/${cat}_PTBtrees.mrg \
         -nosupa
     python test_suite.py $base/annotations/${cat}_annotations.tsv $cat
-    #rm -f sierra_*
+    rm -f sierra_*
 done
 

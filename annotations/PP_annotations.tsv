@@ -13,7 +13,6 @@ index	pattern	head_index
 13	(PP PP PP)	2
 15	(PP IN ADVP)	1
 16	(PP RB IN NP)	2
-17	(PP IN ADJP)	1
 18	(PP IN NP ADVP)	1
 19	(PP TO S)	1
 20	(PP IN `` NP)	1
@@ -34,24 +33,28 @@ index	pattern	head_index
 40	(PP TO ADJP)	1
 41	(PP ADVP IN S)	2
 42	(PP IN `` S)	1
-43	(PP JJ NP)	1
 49	(PP RB ADJP)	1
 50	(PP JJ TO NP)	2
 51	(PP RP PP)	1
+53	(PP PP PP PP)	1
 54	(PP IN NP :)	1
 55	(PP VBN SBAR)	1
-56	(PP IN PRN NP)	1
 58	(PP IN `` ADJP)	1
 59	(PP IN '' NP)	1
 60	(PP TO `` NP)	1
 62	(PP IN NP ,)	1
 63	(PP PP , RB PP)	4
 65	(PP IN RB)	1
-66	(PP RB S)	1
+67	(PP PP CC PP NP)	1
+68	(PP RB PP CC PP)	2
 69	(PP FW NP)	1
 70	(PP NP IN S)	2
-73	(PP IN NP , PP)	1
+71	(PP RB IN IN NP)	2
+72	(PP PP , CC RB PP)	1
 74	(PP VBG S)	1
+75	(PP PP , PP ,)	1
+76	(PP CONJP PP CC PP)	2
+77	(PP PP , CONJP PP)	1
 78	(PP RB TO NP)	2
 79	(PP TO VP)	1
 80	(PP TO NP NP)	1
@@ -60,11 +63,13 @@ index	pattern	head_index
 83	(PP IN VP)	1
 85	(PP ADVP RB NP)	2
 86	(PP TO `` NP '')	1
+87	(PP CC PP CC PP)	2
 88	(PP IN `` ADJP '')	1
-90	(PP IN NP , NP)	1
+92	(PP PP , ADVP PP)	1
 93	(PP IN WHNP)	1
 95	(PP RB IN ADJP)	2
 96	(PP RBR IN NP)	2
 97	(PP IN NP .)	1
+98	(PP TO CC IN NP)	1
 99	(PP RB IN PP)	2
 100	(PP RP)	1

@@ -6,3 +6,5 @@ index	pattern	head_index
 5	(LST JJ)	1
 6	(LST LS :)	1
 7	(LST -LRB- LS -RRB-)	2
+8	(LST -LRB- NN -RRB-)	2
+9	(LST -LRB- DT -RRB-)	2

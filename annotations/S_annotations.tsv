@@ -1,10 +1,8 @@
 index	pattern	head_index
-2	(S NP VP .)	2
 4	(S PP , NP VP .)	3
 5	(S NP ADVP VP)	3
 6	(S S , NP VP .)	1
 7	(S NP ADVP VP .)	3
-9	(S ADVP , NP VP .)	4
 11	(S SBAR , NP VP .)	3
 12	(S NP VP . '')	2
 13	(S NP ADJP)	1
@@ -13,69 +11,23 @@ index	pattern	head_index
 17	(S PP , NP VP)	4
 18	(S SBAR , NP VP)	4
 20	(S `` NP VP . '')	3
-21	(S NP , NP VP .)	4
-23	(S NP `` VP)	3
-25	(S `` NP VP .)	3
 26	(S ADVP NP VP .)	3
 27	(S ADVP NP VP)	3
 28	(S PP NP VP .)	3
 30	(S NP , PP , VP .)	4
-31	(S CC PP , NP VP .)	5
 32	(S S , '' NP VP .)	3
-33	(S ADVP , NP VP)	4
 34	(S NP PP)	2
 35	(S S VP)	1
 36	(S NP NP VP .)	3
-37	(S NP , ADVP , VP .)	5
-40	(S PP , NP VP . '')	3
-41	(S PP , NP ADVP VP .)	4
 42	(S NP NP VP)	3
-44	(S CC SBAR , NP VP .)	4
 45	(S NP RB VP)	3
 48	(S NP , PP , VP)	4
-49	(S S NP VP .)	2
 50	(S S , NP VP)	1
 51	(S S VP .)	1
-52	(S ADVP , PP , NP VP .)	6
-53	(S CC NP VP . '')	3
 54	(S `` NP VP , '')	3
-55	(S NP PP VP)	3
 56	(S PP , ADVP , NP VP .)	6
-57	(S PP PRN NP VP .)	4
 59	(S PP , PP , NP VP .)	6
 60	(S S : S)	1
-61	(S SBAR VP .)	1
-62	(S NP , NP VP)	4
-63	(S SBAR , NP ADVP VP .)	4
-64	(S NP PP VP .)	3
-65	(S NP VP :)	1
-66	(S NP ADVP VP . '')	3
 68	(S `` S , NP VP .)	5
-69	(S -LRB- NP VP . -RRB-)	3
 70	(S `` NP VP)	3
 71	(S NP , VP .)	3
-72	(S PP , S , CC S .)	3
-73	(S S , CC S . '')	1
-77	(S SBAR , NP VP . '')	3
-78	(S SBAR VP)	1
-79	(S SBAR NP VP .)	2
-81	(S `` S , CC S . '')	2
-82	(S ADVP , NP VP . '')	4
-83	(S SBAR NP VP)	2
-84	(S S , NP VP . '')	3
-85	(S `` SBAR , NP VP . '')	5
-86	(S S : CC S .)	1
-87	(S NP PRN VP)	3
-88	(S ADVP , NP ADVP VP .)	5
-89	(S RB NP VP .)	2
-91	(S NP VP : .)	2
-92	(S PP , SBAR , NP VP .)	6
-93	(S `` CC NP VP . '')	4
-94	(S NP VP ,)	2
-95	(S S , S)	1
-96	(S S , NP ADVP VP .)	3
-97	(S ADVP , SBAR , NP VP .)	6
-98	(S `` NP '' VP)	4
-99	(S PP , S CC S .)	3
-100	(S `` S , CC S .)	2
-101	(S CC PP NP VP .)	4

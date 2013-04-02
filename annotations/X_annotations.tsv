@@ -9,19 +9,21 @@ index	pattern	head_index
 8	(X DT)	1
 9	(X X NP)	2
 10	(X DT ADJP)	2
+11	(X X : PP .)	1
 12	(X NN)	1
+13	(X ADVP , NP .)	1
 14	(X X PP)	2
+15	(X -NONE-)	1
 16	(X VBD)	1
-17	(X SBAR , X NP)	4
 18	(X DT JJR NN)	3
 19	(X RB)	1
 20	(X MD)	1
 21	(X WP)	1
+22	(X NP NP .)	2
 24	(X VP)	1
 25	(X IN NP)	2
 26	(X DT RBR JJ)	3
 27	(X X : VP .)	3
-28	(X SBARQ)	1
 31	(X X S)	2
 32	(X NP : PP)	3
 35	(X DT JJS)	2
