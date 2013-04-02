@@ -11,11 +11,17 @@ from test_suite.models import *
 
 def main():
     test_suites = defaultdict(lambda: defaultdict(list))
+    lastest_version = defaultdict(int)
+    for suite in TestSuite.objects.all():
+        if suite.version > latest_version[suite.category.symbol]:
+            latest_version[suite.category.symbol] = suite.version
     annotations = Annotation.objects.all()
     for annotation in annotations:
         expansion = annotation.expansion
-        # TODO: this isn't robust to multiple test suite versions
+        version = expansion.test_suite.version
         category = expansion.test_suite.category.symbol
+        if version < latest_version[category]:
+            continue
         test_suites[category][(expansion.index, expansion.rule)].append(
                 annotation.head_index)
     annotation_dir = '../annotations/'

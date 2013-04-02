@@ -63,7 +63,7 @@ class TestSuite(models.Model):
             if a.notes:
                 user_comments[a.user] += 1
                 with_comments.add(a.expansion_id)
-            if a.head_correct is None or a.comp_head_correct is None:
+            if a.head_index == 0:
                 user_unknown[a.user] += 1
                 unknown.add(a.expansion_id)
             if a.expansion_id not in annotated:
@@ -180,7 +180,7 @@ class Expansion(models.Model):
         from django.forms.widgets import Select
         choices = [(0, 'Unknown')]
         for i, daughter in enumerate(self.rule[1:-1].split()[1:]):
-            choices.append((i+1, daughter))
+            choices.append((i+1, str(i+1) + ': ' + daughter))
         s = Select(choices=choices)
         return s.render('expansion-'+str(self.id) + '-headindex',
                 self.head_index)
@@ -223,7 +223,7 @@ class Annotation(models.Model):
         from django.forms.widgets import Select
         choices = [(0, 'Unknown')]
         for i, daughter in enumerate(self.rule[1:-1].split()[1:]):
-            choices.append((i+1, daughter))
+            choices.append((i+1, str(i+1) + ': ' + daughter))
         s = Select(choices=choices)
         return s.render('expansion-'+str(self.id) + '-headindex',
                 self.head_index)

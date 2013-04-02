@@ -71,8 +71,7 @@ def all_annotations(request, suite_id, subset=None):
                 annotation__notes="")
     elif subset == 'unknown':
         context['expansions'] = context['expansions'].filter(
-            Q(annotation__head_correct__isnull=True) |
-            Q(annotation__comp_head_correct__isnull=True))
+            annotation__head_index=0)
     elif subset == 'multiply-annotated':
         context['expansions'] = context['expansions'].annotate(
                 annotation_count=Count('annotation')).filter(
@@ -111,9 +110,8 @@ def annotations(request, suite_id, username):
 def unknown(request, suite_id, username):
     user = get_object_or_404(User, username=username)
     suite = get_object_or_404(TestSuite, pk=suite_id)
-    annotations = user.annotation_set.filter(
-            Q(expansion__test_suite=suite, head_correct__isnull=True) |
-            Q(expansion__test_suite=suite, comp_head_correct__isnull=True))
+    annotations = user.annotation_set.filter(expansion__test_suite=suite,
+            head_index=0)
     return testsuite_subset(request, suite_id, user, annotations)
 
 
