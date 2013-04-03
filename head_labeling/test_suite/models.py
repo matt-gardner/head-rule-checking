@@ -222,7 +222,7 @@ class Annotation(models.Model):
     def head_index_box(self):
         from django.forms.widgets import Select
         choices = [(0, 'Unknown')]
-        for i, daughter in enumerate(self.rule[1:-1].split()[1:]):
+        for i, daughter in enumerate(self.expansion.rule[1:-1].split()[1:]):
             choices.append((i+1, str(i+1) + ': ' + daughter))
         s = Select(choices=choices)
         return s.render('expansion-'+str(self.id) + '-headindex',
