@@ -3,6 +3,7 @@ index	pattern	head_index
 2	(PRT IN)	1
 3	(PRT RB)	1
 4	(PRT JJ)	1
+5	(PRT RP CC RP)	1
 6	(PRT RBR)	1
 7	(PRT VBP)	1
 8	(PRT RBS)	1

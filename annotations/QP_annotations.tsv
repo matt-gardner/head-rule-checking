@@ -27,6 +27,7 @@ index	pattern	head_index
 26	(QP JJR IN CD CD)	4
 27	(QP RB JJ IN $ CD CD)	4
 28	(QP JJR IN $ CD)	3
+29	(QP CD CC CD)	1
 30	(QP CC RB)	2
 31	(QP RB IN CD)	3
 32	(QP IN JJS $ CD CD)	3
@@ -44,6 +45,7 @@ index	pattern	head_index
 44	(QP RB RB CD)	3
 45	(QP RB NN)	2
 46	(QP IN $ CD CC $ CD)	1
+47	(QP CD CC JJR)	1
 48	(QP JJR IN PDT)	3
 49	(QP $ CD TO $ CD CD)	1
 50	(QP JJR IN DT)	3
@@ -57,6 +59,7 @@ index	pattern	head_index
 58	(QP RB RB IN $ CD CD)	4
 59	(QP RB JJR IN CD)	4
 60	(QP JJR IN NN)	3
+61	(QP CD CC RB)	1
 62	(QP IN DT)	2
 63	(QP RB PDT)	2
 64	(QP RB # CD CD)	2
@@ -99,3 +102,6 @@ index	pattern	head_index
 101	(QP JJR IN RB)	3
 102	(QP CD NNS TO CD)	2
 103	(QP RB $ CD CD TO $ CD CD)	2
+104	(QP RB NNS)	2
+105	(QP $ CD CD CC $ CD CD)	1
+106	(QP IN RB)	2

@@ -1,28 +1,41 @@
 index	pattern	head_index
 1	(SINV `` S , '' VP NP .)	5
+2	(SINV S , VP NP .)	3
 4	(SINV VP NP)	1
+5	(SINV S VP NP .)	2
+6	(SINV PP VP NP .)	2
 7	(SINV VP VP NP .)	2
 9	(SINV VBD NP VP)	1
 10	(SINV `` S , '' VP NP , S .)	5
 12	(SINV -NONE-)	1
 14	(SINV ADJP VP NP .)	2
 15	(SINV ADVP VP NP)	2
+17	(SINV `` S , '' VP NP PP .)	5
 18	(SINV VP NP : `` S . '')	1
+19	(SINV `` S , '' VP NP)	5
 20	(SINV ADVP VP NP :)	2
 22	(SINV ADVP VP VP NP .)	3
 23	(SINV `` S '' VP NP .)	4
 24	(SINV `` S , '' VP NP . ``)	4
+25	(SINV `` S , '' '' VP NP .)	6
 26	(SINV PP VP NP)	2
 27	(SINV VP NP , `` S . '')	1
 28	(SINV VBP NP VP)	1
+29	(SINV `` S VP NP .)	3
 30	(SINV NP PP PP)	2
 31	(SINV `` S , '' VP NP . '')	5
+32	(SINV VP VP NP)	2
 33	(SINV PP VBD NP VP .)	2
 34	(SINV `` FRAG , '' VP NP .)	3
 35	(SINV `` SBARQ . '' VP NP .)	4
 36	(SINV PP VP NP . '')	2
 37	(SINV FRAG , VP NP .)	3
 39	(SINV `` S , '' VP NP S .)	5
+40	(SINV S , '' VP NP , S .)	1
+42	(SINV S , VP NP)	3
 43	(SINV CC VBD NP VP .)	2
 44	(SINV CC VBZ NP NP .)	2
 45	(SINV ADJP VP SBAR .)	2
+46	(SINV PP VP SBAR .)	2
+47	(SINV VBD NP ADJP)	1
+48	(SINV ADVP VBZ NP .)	2

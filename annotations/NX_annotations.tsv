@@ -1,4 +1,5 @@
 index	pattern	head_index
+1	(NX NX CC NX)	1
 2	(NX NN)	1
 3	(NX NNS)	1
 4	(NX JJ NN)	2
@@ -6,13 +7,17 @@ index	pattern	head_index
 6	(NX JJ NNS)	2
 7	(NX NN NN)	2
 8	(NX NNP NNP)	2
+9	(NX NX , NX CC NX)	1
 10	(NX NNP)	1
 12	(NX -NONE-)	1
 13	(NX JJ NN NN)	3
 14	(NX JJ JJ NN)	3
 15	(NX NNP NNP NNP)	3
+16	(NX NX , NX , NX CC NX)	1
 17	(NX JJ NN NNS)	3
+18	(NX NX PRN)	1
 19	(NX NNP NN)	2
+20	(NX NX , CC NX)	1
 21	(NX NP PP)	1
 22	(NX NNP NNPS)	2
 23	(NX NNS NN)	2
@@ -31,10 +36,12 @@ index	pattern	head_index
 36	(NX JJ JJ NNS)	3
 37	(NX JJ NNP NN)	3
 38	(NX JJ CD)	2
+40	(NX NX , NX , NX , NX CC NX)	1
 41	(NX RB NNS)	2
 42	(NX NNP NNP NN)	3
 44	(NX `` NX '' CC `` NX)	2
 45	(NX NX CC)	1
+46	(NX S)	1
 47	(NX `` NX , '' SBAR)	2
 48	(NX NN NN NNS)	3
 49	(NX NNP NNS)	2
@@ -57,6 +64,7 @@ index	pattern	head_index
 66	(NX NP VP)	1
 67	(NX FW FW)	1
 68	(NX QP -NONE-)	1
+69	(NX NX , NX , CC NX)	1
 70	(NX JJ)	1
 71	(NX NP NNP)	2
 72	(NX `` NP : NP)	2
@@ -69,6 +77,7 @@ index	pattern	head_index
 79	(NX NNP NNP NNP NNP NNP)	5
 80	(NX NNP NNP CC NNP NNP)	2
 82	(NX NNP JJ NN NNS)	4
+83	(NX NX CC NX CC NX)	1
 84	(NX NN NX)	1
 85	(NX DT NNP NNP NNP)	4
 86	(NX NX , NP)	1
@@ -76,9 +85,12 @@ index	pattern	head_index
 90	(NX NNP NNP IN NNP)	2
 91	(NX ADJP NN NN)	3
 92	(NX VBG)	1
+93	(NX `` NP PP , '')	2
 94	(NX JJR NN)	2
 95	(NX NN S)	1
 96	(NX DT NNP NNP)	3
+97	(NX UCP NNS)	2
 98	(NX VBN NN NNS)	3
 99	(NX JJ JJR NNS)	3
 100	(NX JJ NN NX)	2
+101	(NX NX PP , PP ,)	1
