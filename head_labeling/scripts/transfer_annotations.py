@@ -26,6 +26,8 @@ def main(category_symbol):
     prev_expansions = list(prev_version.expansion_set.order_by('index'))
     new_expansions = list(new_version.expansion_set.order_by('index'))
     for i, expansion in enumerate(prev_expansions):
+        # TODO: even if the supa changed, we can keep the head index label, if
+        # there is one
         if supa_changed(expansion.supa_example,
                 new_expansions[i].supa_example):
             continue

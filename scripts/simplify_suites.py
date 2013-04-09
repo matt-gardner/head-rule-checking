@@ -187,7 +187,7 @@ def prune_vp(node):
         if child.label == 'S' or child.label.startswith('S-'):
             to_remove.add(child)
         if child.label in [':', 'NP-TMP', 'NP-1', 'SBAR-PRP', ',', '``', "''",
-                'CC']:
+                'CC', 'UCP', 'SBAR-TMP']:
             to_remove.add(child)
         if child.label == 'VP':
             vps.append(child)
