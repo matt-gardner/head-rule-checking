@@ -17,7 +17,7 @@ fi
 
 base=/home/mg1/classes/treebanking
 suites_dir=test_suites_v2
-results_file=results.tsv
+results_file=results/results.tsv
 if [ -e $results_file ]
 then
     prompt="Results file $results_file already exists. Press enter to"

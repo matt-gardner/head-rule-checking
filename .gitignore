@@ -4,3 +4,4 @@ db.backup*
 backup_db*
 *.swp
 *~
+head_rule_testing/results

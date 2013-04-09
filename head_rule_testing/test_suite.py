@@ -9,7 +9,7 @@ import os
 from trees import Tree
 
 def main(annotation_file, category):
-    outfile = 'results.tsv'
+    outfile = 'results/results.tsv'
     tree_file = None
     for root, dirs, files in os.walk('.'):
         for f in files:
@@ -24,6 +24,7 @@ def main(annotation_file, category):
         index, pattern, head_index = line.strip().split('\t')
         annotations[int(index)] = int(head_index) - 1
     trees = []
+    patterns = []
     text = ''
     for line in open(tree_file):
         if line == 'null\n':
@@ -40,6 +41,9 @@ def main(annotation_file, category):
     for line in open(count_file):
         count, pattern, _ = line.split('\t')
         counts.append(int(count))
+        # TODO: this could be better - like check the annotation file to be
+        # sure that the patterns match
+        patterns.append(pattern)
     if len(counts) != len(trees):
         print 'Error! Incorrect alignment between trees and counts:'
         print len(counts), len(trees)
@@ -51,6 +55,7 @@ def main(annotation_file, category):
     num_patterns = 0
     num_annotated = 0
     num_correct = 0
+    errors = []
     for i, tree in enumerate(trees):
         num_patterns += 1
         total_count += counts[i]
@@ -68,6 +73,9 @@ def main(annotation_file, category):
             if child_head == head and j == annotations[index]:
                 num_correct += 1
                 count_correct += counts[i]
+                break
+        else:
+            errors.append(patterns[i])
     percent_tested = num_annotated / num_patterns
     percent_correct = num_correct / num_annotated
     count_percent_annotated = count_annotated / total_count
@@ -77,6 +85,9 @@ def main(annotation_file, category):
             category, num_patterns, num_annotated, percent_tested, num_correct,
             percent_correct, total_count, count_annotated,
             count_percent_annotated, count_correct, count_percent_correct))
+    error_file = open('results/errors_%s.tsv' % category, 'w')
+    for error in errors:
+        error_file.write('%s\n' % error);
 
 
 if __name__ == '__main__':
