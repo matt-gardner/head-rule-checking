@@ -2,9 +2,6 @@
 2	what	_	_	WP	_	3	SUBJ	_	_	will
 3	will	_	_	MD	_	1	???	_	_	knows
 4	happen	_	_	VB	_	3	???	_	_	will
-5	if	_	_	IN	_	4	???	_	_	happen
-6	investment	_	_	NN	_	7	SUBJ	_	_	starts
-7	starts	_	_	VBZ	_	5	???	_	_	if
 
 1	should	_	_	MD	_	0	ROOT	_	_	ROOT
 2	anyone	_	_	NN	_	1	SUBJ	_	_	should
@@ -128,10 +125,6 @@
 2	he	_	_	PRP	_	1	SUBJ	_	_	does
 3	always	_	_	RB	_	1	???	_	_	does
 4	wait	_	_	VB	_	1	???	_	_	does
-5	until	_	_	IN	_	4	???	_	_	wait
-6	he	_	_	PRP	_	7	SUBJ	_	_	's
-7	's	_	_	VBZ	_	5	???	_	_	until
-8	caught	_	_	VBN	_	7	???	_	_	's
 
 1	Given	_	_	VBN|IN	_	5	???	_	_	can
 2	the	_	_	DT	_	3	???	_	_	weakness
@@ -411,17 +404,7 @@
 8	ignore	_	_	VBP	_	6	???	_	_	that
 9	the	_	_	DT	_	10	???	_	_	prospect
 10	prospect	_	_	NN	_	8	OBJ-DO	_	_	ignore
-11	when	_	_	WRB	_	8	???	_	_	ignore
-12	they	_	_	PRP	_	13	SUBJ	_	_	decide
-13	decide	_	_	VBP	_	11	???	_	_	when
-14	whether	_	_	IN	_	13	???	_	_	decide
-15	to	_	_	TO	_	14	???	_	_	whether
-16	save	_	_	VB	_	15	???	_	_	to
-17	or	_	_	CC	_	14	???	_	_	whether
-18	how	_	_	WRB	_	17	???	_	_	or
-19	to	_	_	TO	_	18	???	_	_	how
-20	invest	_	_	VB	_	19	???	_	_	to
-21	?	_	_	.	_	1	???	_	_	Does
+11	?	_	_	.	_	1	???	_	_	Does
 
 1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
 2	n't	_	_	RB	_	1	???	_	_	is
@@ -464,13 +447,8 @@
 8	changed	_	_	VBD	_	6	???	_	_	why
 9	your	_	_	PRP$	_	10	???	_	_	forecast
 10	forecast	_	_	NN	_	8	OBJ-DO	_	_	changed
-11	just	_	_	RB	_	12	???	_	_	when
-12	when	_	_	WRB	_	8	???	_	_	changed
-13	it	_	_	PRP	_	14	SUBJ	_	_	's
-14	's	_	_	VBZ	_	12	???	_	_	when
-15	about	_	_	IN	_	14	???	_	_	's
-16	?	_	_	.	_	2	???	_	_	can
-17	''	_	_	''	_	2	???	_	_	can
+11	?	_	_	.	_	2	???	_	_	can
+12	''	_	_	''	_	2	???	_	_	can
 
 1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
 2	it	_	_	PRP	_	1	SUBJ	_	_	is
@@ -497,13 +475,8 @@
 4	me	_	_	PRP	_	3	???	_	_	pour
 5	a	_	_	DT	_	6	???	_	_	drop
 6	drop	_	_	NN	_	3	OBJ-DO	_	_	pour
-7	if	_	_	IN	_	3	???	_	_	pour
-8	you	_	_	PRP	_	9	SUBJ	_	_	do
-9	do	_	_	VBP	_	7	???	_	_	if
-10	n't	_	_	RB	_	9	???	_	_	do
-11	mind	_	_	VB	_	9	???	_	_	do
-12	?	_	_	.	_	1	???	_	_	Will
-13	''	_	_	''	_	1	???	_	_	Will
+7	?	_	_	.	_	1	???	_	_	Will
+8	''	_	_	''	_	1	???	_	_	Will
 
 1	Were	_	_	VBD	_	0	ROOT	_	_	ROOT
 2	we	_	_	PRP	_	1	SUBJ	_	_	Were

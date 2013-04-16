@@ -1,0 +1,530 @@
+(X
+  (SYM \*))
+
+(X
+  (DT the)
+  (JJR more))
+
+(X
+  (IN @))
+
+(X
+  (PP
+    (IN in)))
+
+(X
+  (DT The)
+  (RBR more))
+
+(X
+  (NP
+    (DT an)
+    (NN %)))
+
+(X
+  (TO to))
+
+(X
+  (DT the))
+
+(X-ADV
+  (X
+    (DT The)
+    (ADJP
+      (JJ extensive)))
+  (NP
+    (DT the)
+    (FW voir)
+    (FW dire)))
+
+(X
+  (DT The)
+  (ADJP
+    (JJ extensive)))
+
+(X
+  (X
+    (SYM b))
+  (: -)
+  (PP-TMP
+    (IN As)
+    (PP
+      (IN of)
+      (NP
+        (NN close))))
+  (. .))
+
+(X
+  (NN \*))
+
+(X
+  (ADVP-TMP
+    (RB First))
+  (, ,)
+  (NP
+    (DT the)
+    (NN idealism))
+  (. .))
+
+(X
+  (X
+    (SYM \*\*))
+  (PP
+    (IN With)
+    (S-NOM
+      (NP-SBJ-1
+        (NNS dividends))
+      (VP
+        (VBN reinvested)
+        (NP
+          (-NONE- *-1))))))
+
+(X
+  (-NONE- *?*))
+
+(X
+  (VBD was))
+
+(X
+  (SBAR-ADV
+    (X
+      (DT the)
+      (JJR more))
+    (S
+      (NP-SBJ
+        (DT an)
+        (NN issue))
+      (VP
+        (VBD gained)
+        (NP
+          (-NONE- *?*)))))
+  (, ,)
+  (X
+    (DT the)
+    (JJR sharper))
+  (NP
+    (DT the)
+    (NN loss)))
+
+(X
+  (DT The)
+  (JJR more)
+  (NN turnover))
+
+(X
+  (RB not))
+
+(X
+  (MD can))
+
+(X
+  (WP what))
+
+(X
+  (NP
+    (NNP Coburn))
+  (NP
+    (NNP Report))
+  (. .))
+
+(X
+  (NP
+    (DT a)
+    (NN clue))
+  (SBAR
+    (S
+      (NP-SBJ
+        (PRP we))
+      (VP
+        (VBP are)
+        (NP-PRD
+          (WHNP
+            (WP who)))))))
+
+(X
+  (VP
+    (VBD had)
+    (VP
+      (VBN been))))
+
+(X
+  (IN a\/k\/a)
+  (NP
+    (DT a)
+    (NN dynasty)))
+
+(X
+  (DT the)
+  (RBR more)
+  (JJ valuable))
+
+(X
+  (X
+    (SYM c))
+  (: -)
+  (VP
+    (VBN Translated)
+    (NP
+      (-NONE- *)))
+  (. .))
+
+(X
+  (SBARQ
+    (WHNP
+      (WP What))
+    (SQ
+      (VBP do)
+      (NP-SBJ
+        (PRP you))
+      (VP
+        (VB say))
+      (S
+        (NP-SBJ
+          (NP
+            (PRP we)))
+        (VP
+          (VBP close)
+          (PRT
+            (RP down))
+          (NP
+            (DT the)
+            (NN game)))))
+    (. ?)))
+
+(X
+  (DT The)
+  (JJR more)
+  (NNS factories)
+  (CC and)
+  (NNS robots))
+
+(X
+  (ADVP-TMP
+    (TO to)
+    (VB begin)
+    (RP with)))
+
+(X
+  (X
+    (SYM \*))
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (RB Not)
+    (VP
+      (VBG counting)
+      (NP
+        (NNS dividends)))))
+
+(X-TTL
+  (NP
+    (NN Journalism))
+  (: :)
+  (PP-TMP
+    (IN In)
+    (NP
+      (DT the)
+      (NN Year))))
+
+(X
+  (ADVP
+    (RB However))
+  (, ,)
+  (SBAR-TMP
+    (WHADVP
+      (WRB when))
+    (S
+      (NP-SBJ
+        (NNS forces))
+      (VP
+        (VBP start))))
+  (, ,)
+  (SBAR-ADV
+    (X
+      (DT the)
+      (ADJP
+        (`` ``)
+        (JJ earthquake-resistant)
+        ('' '')))
+    (S
+      (NP-SBJ
+        (PRP it))
+      (VP
+        (VBZ is)
+        (ADJP-PRD
+          (-NONE- *?*)))))
+  (, ,)
+  (X
+    (DT the)
+    (JJR better))
+  (NP
+    (PRP$ its)
+    (NN chance))
+  (. .))
+
+(X
+  (NP
+    (SYM x))
+  (: -)
+  (S
+    (NP-SBJ
+      (NN figure))
+    (VP
+      (VBZ includes)
+      (NP
+        (NN domestic-production))))
+  (. .))
+
+(X
+  (DT The)
+  (JJS less))
+
+(X-HLN
+  (NP
+    (NNP Josephson))
+  (, ,)
+  (PP-LOC
+    (IN in)
+    (NP
+      (CD one)))
+  (: :))
+
+(X
+  (S-ADV
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (VBG Heading)
+      (NP
+        (DT the)
+        (NN list))))
+  (: :)
+  (NP
+    (NNS companies))
+  (. .))
+
+(X
+  (X
+    (X
+      (DT The)
+      (JJR higher))
+    (NP
+      (DT the)
+      (NN ratio)))
+  (, ,)
+  (X
+    (X
+      (DT the)
+      (JJR higher))
+    (NP
+      (DT the)
+      (NN value)))
+  (. .))
+
+(X
+  (JJ a.k.a)
+  (. .)
+  (NNP Palm))
+
+(X
+  (IN until)
+  (NNP mid-November))
+
+(X
+  (NP
+    (NNP Hallett))
+  (NP
+    (NNP Relations))
+  (NP
+    (NNP Inc)
+    (. .)))
+
+(X
+  (CC but)
+  (VP
+    (NNS worries))
+  (. .))
+
+(X
+  (NNP Money)
+  (NNP Market)
+  (NNP Deposits-a)
+  (CD 6.21)
+  (NN %))
+
+(X
+  (NNP Bull)
+  (NNP NH)
+  (NNP Information)
+  (NNPS Systems)
+  (NNP Inc))
+
+(X
+  (ADVP
+    (PRP You)
+    (RB bet))
+  (NP
+    (NN attention)))
+
+(X
+  (NNP Ing)
+  (. .))
+
+(X
+  (FW Viva)
+  (NN peace)
+  (, ,)
+  (FW viva))
+
+(X
+  (ADVP
+    (RB Not)
+    (IN so))
+  (NP
+    (DT the)
+    (NNPS Soviets))
+  (. .))
+
+(X-CLF
+  (CC But)
+  (NP-SBJ
+    (PRP it))
+  (NP-PRD
+    (NP
+      (NN experience)))
+  (SBAR
+    (S
+      (NP-SBJ
+        (WHNP
+          (WDT that)))
+      (VP
+        (VBD enabled))))
+  (. .))
+
+(X
+  (SBARQ
+    (WHNP
+      (WP What))
+    (ADVP-TMP
+      (RB now)))
+  (. ?))
+
+(X
+  (DT the)
+  (JJR better)
+  (PP
+    (IN for)
+    (NP
+      (PRP$ our)
+      (NNS clients))))
+
+(X
+  (X
+    (SYM a))
+  (: -)
+  (NP
+    (NN Ex-dividend))
+  (. .))
+
+(X-HLN
+  (NNP Tray)
+  (NNP Bon)
+  (. ?))
+
+(X
+  (NP
+    (SYM f))
+  (: -)
+  (FRAG
+    (VP
+      (VBZ Includes)
+      (NP
+        (NNP Prizm))))
+  (. .))
+
+(X
+  (`` ``)
+  (X
+    (DT The)
+    (JJR more)
+    (NN turnover))
+  (, ,)
+  (X
+    (DT the)
+    (JJR better)
+    (PP
+      (IN for)
+      (NP
+        (PRP$ our)
+        (NNS clients))))
+  (. .)
+  ('' ''))
+
+(X
+  (X
+    (SYM z))
+  (: -)
+  (ADJP
+    (JJ available))
+  (. .))
+
+(X-HLN
+  (NP
+    (NNP Ornstein))
+  (PP-LOC
+    (IN in)
+    (NP
+      (DT the)
+      (NAC-TMP
+        (NNP Oct.)
+        (CD 21))
+      (NNP Guide)))
+  (: :))
+
+(X
+  (S-NOM
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (VBG getting)
+      (NP
+        (NNS bursts))))
+  (CONJPP
+    (CC and)
+    (PP
+      (IN of)
+      (S-NOM
+        (NP-SBJ
+          (-NONE- *-1))
+        (VP
+          (VBG detecting)
+          (NP
+            (NNS amounts)))))))
+
+(X
+  (JJ legal)
+  (NNS expenses)
+  (IN from)
+  (TO to)
+  (JJ prior)
+  (NNS periods))
+
+(X
+  (DT The)
+  (RB sooner))
+
+(X
+  (NP
+    (SYM r))
+  (: -)
+  (VP
+    (VBN Revised))
+  (. .))
+
+(X
+  (FW vis)
+  (FW a)
+  (FW vis)
+  (NP
+    (NNS ministries)))
+

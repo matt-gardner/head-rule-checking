@@ -145,6 +145,7 @@ class Expansion(models.Model):
     penn_example = models.TextField(blank=True)
     simple_supa_example = models.TextField(blank=True)
     simple_penn_example = models.TextField(blank=True)
+    intermediate_penn_example = models.TextField(blank=True)
     index = models.IntegerField()
     count = models.IntegerField()
 
@@ -167,14 +168,19 @@ class Expansion(models.Model):
     def simple_supa_example_as_table(self):
         return self.supa_example_as_table(simple=True)
 
-    def penn_example_rendered(self, simple=False):
+    def penn_example_rendered(self, version='regular'):
         example = self.penn_example
-        if simple:
+        if version == 'simple':
             example = self.simple_penn_example
+        elif version == 'intermediate':
+            example = self.intermediate_penn_example
         return example.replace(' ', '&nbsp;')
 
     def simple_penn_example_rendered(self):
-        return self.penn_example_rendered(simple=True)
+        return self.penn_example_rendered(version='simple')
+
+    def intermediate_penn_example_rendered(self):
+        return self.penn_example_rendered(version='intermediate')
 
     def head_index_box(self):
         from django.forms.widgets import Select

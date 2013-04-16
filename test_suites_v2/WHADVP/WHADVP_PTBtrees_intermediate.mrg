@@ -1,0 +1,95 @@
+(WHADVP
+  (WRB where))
+
+(WHADVP
+  (-NONE- 0_NULL))
+
+(WHADVP
+  (WRB how)
+  (RB badly))
+
+(WHADVP
+  (IN that))
+
+(WHADVP
+  (WRB how)
+  (JJ much))
+
+(WHADVP
+  (RB even)
+  (WRB when))
+
+(WHADVP
+  (ADVP
+    (RB even))
+  (WRB when))
+
+(WHADVP
+  (WRB how)
+  (CONJPP
+    (CC and)
+    (WRB when)))
+
+(WHADVP
+  (WRB how)
+  (NP
+    (JJ much)))
+
+(WHADVP
+  (WRB how)
+  (JJ much)
+  (NN produce))
+
+(WHADVP
+  (RB however))
+
+(WHADVP
+  (RB precisely)
+  (WRB when)
+  (CC and)
+  (WRB where))
+
+(WHADVP
+  (`` ``)
+  (WRB How)
+  (JJ interesting)
+  (. .)
+  ('' ''))
+
+(WHADVP
+  (RB just)
+  (WRB how)
+  (JJ bizarre))
+
+(WHADVP
+  (WRB how)
+  (RB haltingly)
+  (CC or)
+  (RB predictably))
+
+(WHADVP
+  (WDT whatever))
+
+(WHADVP
+  (RB just)
+  (WRB how)
+  (RB much))
+
+(WHADVP
+  (WDT which)
+  (NN way))
+
+(WHADVP
+  (WRB when)
+  (WRB when))
+
+(WHADVP
+  (WRB how)
+  (ADJP
+    (JJ useful)))
+
+(WHADVP
+  (WRB how)
+  (RB far)
+  (RB down))
+

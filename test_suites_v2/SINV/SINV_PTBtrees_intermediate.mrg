@@ -1,14 +1,13 @@
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (PRP We))
     (VP
       (VBP have)
       (NP
-        (NP
-          (DT no)
-          (NN information)))))
+        (DT no)
+        (NN information))))
   (, ,)
   ('' '')
   (VP
@@ -19,58 +18,55 @@
   (. .))
 
 (SINV
-  (S-TPC-2
-    (SBAR-ADV
-      (IN Although)
-      (S
-        (NP-SBJ-1
-          (NN index))
-        (VP
-          (VBZ continues))))
-    (NP-SBJ
-      (PRP it))
-    (VP
-      (VBZ is)
-      (RB n't)
-      (VP
-        (VBG signaling)
-        (NP
-          (DT an)
-          (NN recession)))))
   (, ,)
   (VP
     (VBD said)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-2))))
+        (S-TPC
+          (SBAR-ADV
+            (IN Although)
+            (S
+              (NP-SBJ
+                (NN index))
+              (VP
+                (VBZ continues))))
+          (NP-SBJ
+            (PRP it))
+          (VP
+            (VBZ is)
+            (RB n't)
+            (VP
+              (VBG signaling)
+              (NP
+                (DT an)
+                (NN recession))))))))
   (NP-SBJ
     (NP
       (NNP Bretz)))
   (. .))
 
 (SINV
-  (S-TPC-3
-    (NP-SBJ
-      (NP
-        (DT The)
-        (NN flow)))
-    (VP
-      (VBZ has)
-      (VP
-        (VBN set)
-        (NP
-          (NP
-            (DT a)
-            (NN process))))))
   (, ,)
   ('' '')
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-3))))
+        (S-TPC
+          (NP-SBJ
+            (NP
+              (DT The)
+              (NN flow)))
+          (VP
+            (VBZ has)
+            (VP
+              (VBN set)
+              (NP
+                (DT a)
+                (NN process))))))))
   (NP-SBJ
     (NP
       (NNP Hormats)))
@@ -84,7 +80,7 @@
       (NNP Negus))))
 
 (SINV
-  (S-TPC-2
+  (S-TPC
     (NP-SBJ-1
       (DT The)
       (NN deal))
@@ -92,7 +88,7 @@
       (VBZ is)
       (VP
         (VBN designed)
-        (NP-3
+        (NP
           (-NONE- *-1)))))
   (VP
     (VBZ says))
@@ -102,12 +98,11 @@
   (. .))
 
 (SINV
-  (PP-LOC-PRD-TPC-1
+  (PP-LOC-PRD-TPC
     (IN On)
     (NP
-      (NP
-        (DT the)
-        (NN end))))
+      (DT the)
+      (NN end)))
   (VP
     (VBD were))
   (NP-SBJ
@@ -116,16 +111,14 @@
   (. .))
 
 (SINV
-  (VP-TPC-2
-    (VBG Leading)
-    (NP
-      (NP
-        (DT the)
-        (NNS gains))))
   (VP
     (VBD was)
     (VP
-      (-NONE- *T*-2)))
+      (VP-TPC
+        (VBG Leading)
+        (NP
+          (DT the)
+          (NNS gains)))))
   (NP-SBJ
     (NP
       (PRP$ its)
@@ -134,29 +127,28 @@
 
 (SINV
   (`` ``)
-  (S-TPC-3
-    (NP-SBJ
-      (EX There))
-    (VP
-      (VBZ 's)
-      (NP-PRD
-        (NP
-          (DT an)
-          (NN understanding))
-        (SBAR-1
-          (IN that)
-          (S
-            (NP-SBJ-2
-              (NNP Japan))
-            (VP
-              (VBZ has)))))))
   (, ,)
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-3))))
+        (S-TPC
+          (NP-SBJ
+            (EX There))
+          (VP
+            (VBZ 's)
+            (NP-PRD
+              (NP
+                (DT an)
+                (NN understanding))
+              (SBAR
+                (IN that)
+                (S
+                  (NP-SBJ
+                    (NNP Japan))
+                  (VP
+                    (VBZ has))))))))))
   (NP-SBJ
     (NP
       (NNP Farren)))
@@ -171,7 +163,7 @@
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (DT The)
       (NN word))
@@ -194,7 +186,7 @@
   (. .))
 
 (SINV
-  (ADVP-PRD-TPC-1
+  (ADVP-PRD-TPC
     (RB So))
   (VP
     (VBD did)
@@ -219,18 +211,17 @@
       (NN practice))))
 
 (SINV
-  (ADJP-PRD-TPC-1
-    (JJ Conspicuous))
   (VP
     (VBZ is)
     (ADJP-PRD
-      (-NONE- *T*-1)))
+      (ADJP-PRD-TPC
+        (JJ Conspicuous))))
   (NP-SBJ
     (NNP California))
   (. .))
 
 (SINV
-  (ADVP-PRD-TPC-2
+  (ADVP-PRD-TPC
     (RB so))
   (VP
     (VBZ is))
@@ -245,7 +236,7 @@
     (NNP Klauser))
   (: :)
   (`` ``)
-  (S-1
+  (S
     (NP-SBJ
       (NNS companies))
     (VP
@@ -258,8 +249,8 @@
 
 (SINV
   (`` ``)
-  (S-TPC-2
-    (NP-SBJ-1
+  (S-TPC
+    (NP-SBJ
       (PRP We))
     (VP
       (VBP 've)
@@ -280,9 +271,8 @@
       (VP
         (VBG explaining)
         (NP
-          (NP
-            (PRP$ his)
-            (NN pilgrimage))))))
+          (PRP$ his)
+          (NN pilgrimage)))))
   (. .))
 
 (SINV
@@ -293,21 +283,20 @@
       (NNP Kondo)))
   (: :)
   (`` ``)
-  (S-1
+  (S
     (NP-SBJ
       (PRP We))
     (VP
       (VBP have)
       (NP
-        (NP
-          (DT a)
-          (NN interest)))))
+        (DT a)
+        (NN interest))))
   (. .)
   ('' ''))
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (DT This))
     (VP
@@ -315,15 +304,14 @@
       (NP
         (PRP you))
       (SBAR
-        (-NONE- 0)
+        (-NONE- 0_NULL)
         (S
-          (NP-SBJ-2
+          (NP-SBJ
             (NNP AT&T))
           (VP
-            (VP
-              (VBZ is)
-              (ADJP-PRD
-                (JJ serious))))))))
+            (VBZ is)
+            (ADJP-PRD
+              (JJ serious)))))))
   (, ,)
   ('' '')
   (VP
@@ -333,7 +321,7 @@
       (NNP Grubman))))
 
 (SINV
-  (ADVP-PRD-TPC-2
+  (ADVP-PRD-TPC
     (RB Here))
   (VP
     (VBP are))
@@ -355,15 +343,13 @@
 (SINV
   (ADVP
     (RB Also))
-  (VP-TPC-2
-    (VBG slowing)
-    (NP
-      (NP
-        (NN growth))))
   (VP
     (VBD were)
     (VP
-      (-NONE- *T*-2)))
+      (VP-TPC
+        (VBG slowing)
+        (NP
+          (NN growth)))))
   (NP-SBJ
     (NP
       (NNS results)))
@@ -371,7 +357,7 @@
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (S
       (NP-SBJ
         (NN Anything))
@@ -398,7 +384,7 @@
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (S-NOM-SBJ
       (NP-SBJ
         (-NONE- *))
@@ -425,17 +411,16 @@
 
 (SINV
   (`` ``)
-  (S-TPC-2
+  (S-TPC
     (NP-SBJ
       (PRP You))
     (VP
       (MD ca)
       (RB n't)
       (VP
-        (VP
-          (VB hire)
-          (NP
-            (NNPS Americans))))))
+        (VB hire)
+        (NP
+          (NNPS Americans)))))
   (, ,)
   ('' ')
   ('' '')
@@ -447,7 +432,7 @@
   (. .))
 
 (SINV
-  (PP-LOC-PRD-TPC-1
+  (PP-LOC-PRD-TPC
     (IN Within)
     (NP
       (PRP$ its)
@@ -456,10 +441,8 @@
     (VBZ is))
   (NP-SBJ
     (NP
-      (NP
-        (NP
-          (DT a)
-          (NN microcosm))))))
+      (DT a)
+      (NN microcosm))))
 
 (SINV
   (VP
@@ -468,7 +451,7 @@
     (NNP Baldwin))
   (, ,)
   (`` ``)
-  (S-1
+  (S
     (NP-SBJ
       (PRP We))
     (VP
@@ -483,9 +466,8 @@
             (VP
               (VBP have)
               (NP
-                (NP
-                  (DT a)
-                  (NN priority)))))))))
+                (DT a)
+                (NN priority))))))))
   (. .)
   ('' ''))
 
@@ -496,14 +478,13 @@
   (VP
     (VB have)
     (NP
-      (NP
-        (DT the)
-        (NN space)))))
+      (DT the)
+      (NN space))))
 
 (SINV
   (`` ``)
-  (S-TPC-2
-    (NP-SBJ-1
+  (S-TPC
+    (NP-SBJ
       (NNS People))
     (VP
       (VBP are)
@@ -530,7 +511,7 @@
 
 (SINV
   (`` ``)
-  (S-TPC-2
+  (S-TPC
     (NP-SBJ
       (PRP I))
     (VP
@@ -547,17 +528,15 @@
   (. .)
   ('' ''))
 
-(SINV-TPC-2
-  (VP-TPC-1
-    (VBG Offsetting)
-    (NP
-      (NP
-        (DT the)
-        (NN stake))))
+(SINV-TPC
   (VP
     (VBD were)
     (VP
-      (-NONE- *T*-1)))
+      (VP-TPC
+        (VBG Offsetting)
+        (NP
+          (DT the)
+          (NN stake)))))
   (NP-SBJ
     (NP
       (NNS prices))))
@@ -568,20 +547,18 @@
       (RB Only))
     (IN at)
     (NP
-      (NP
-        (DT the)
-        (NN moment))))
+      (DT the)
+      (NN moment)))
   (VBD did)
   (NP-SBJ
     (PRP I))
   (VP
     (VBP grasp)
     (SBAR-NOM
-      (WHNP-1
-        (WP what))
       (S
         (NP-SBJ
-          (-NONE- *T*-1))
+          (WHNP
+            (WP what)))
         (VP
           (VBD was)
           (VP
@@ -592,36 +569,35 @@
 
 (SINV
   (`` ``)
-  (FRAG-TPC-3
-    (SBAR
-      (WHADVP-1
-        (WRB Why))
-      (S
-        (NP-SBJ-2
-          (NN anyone))
-        (VP
-          (MD would)
-          (VP
-            (VB want)))))
-    (, ,)
-    (ADVP-TMP
-      (FW a)
-      (FW priori))
-    (, ,)
-    (VP
-      (VBZ does)
-      (RB n't)
-      (VP
-        (VB make)
-        (NP
-          (DT any)
-          (NN sense)))))
   (, ,)
   ('' '')
   (VP
     (VBZ says)
     (FRAG
-      (-NONE- *T*-3)))
+      (FRAG-TPC
+        (SBAR
+          (WHADVP
+            (WRB Why))
+          (S
+            (NP-SBJ
+              (NN anyone))
+            (VP
+              (MD would)
+              (VP
+                (VB want)))))
+        (, ,)
+        (ADVP-TMP
+          (FW a)
+          (FW priori))
+        (, ,)
+        (VP
+          (VBZ does)
+          (RB n't)
+          (VP
+            (VB make)
+            (NP
+              (DT any)
+              (NN sense)))))))
   (NP-SBJ
     (NP
       (NNP Bronner)))
@@ -629,34 +605,31 @@
 
 (SINV
   (`` ``)
-  (SBARQ-TPC-2
-    (WHNP-1
-      (WP Who))
-    (S
-      (NP-SBJ
-        (-NONE- *T*-1))
-      (VP
-        (VBZ 's)
-        (VP
-          (VBG lying)))))
   (. ?)
   ('' '')
   (VP
     (VBZ asks)
     (SBARQ
-      (-NONE- *T*-2)))
+      (SBARQ-TPC
+        (S
+          (NP-SBJ
+            (WHNP
+              (WP Who)))
+          (VP
+            (VBZ 's)
+            (VP
+              (VBG lying)))))))
   (NP-SBJ
     (DT a)
     (NN voice))
   (. .))
 
 (SINV
-  (PP-LOC-PRD-TPC-1
+  (PP-LOC-PRD-TPC
     (IN At)
     (NP
-      (NP
-        (DT the)
-        (NN core))))
+      (DT the)
+      (NN core)))
   (VP
     (VBZ is))
   (NP-SBJ
@@ -667,23 +640,22 @@
   ('' ''))
 
 (SINV
-  (FRAG-TPC-1
-    (NP-PRD
-      (NNS stocks)))
   (, ,)
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (FRAG
-        (-NONE- *T*-1))))
+        (FRAG-TPC
+          (NP-PRD
+            (NNS stocks))))))
   (NP-SBJ
     (NNP Goldman))
   (. .))
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (-NONE- *))
     (VP
@@ -701,7 +673,7 @@
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (DT All)
       (DT the)
@@ -723,50 +695,47 @@
     (VP
       (VBG using)
       (NP
-        (NP
-          (DT the)
-          (NN term)))))
+        (DT the)
+        (NN term))))
   (. .))
 
 (SINV
-  (S-TPC-5
-    (SBAR-ADV
-      (WHNP-1
-        (WP What))
-      (S
-        (NP-SBJ
-          (-NONE- *T*-1))
-        (VP
-          (VBZ 's)
-          (NP-PRD
-            (JJR more)))))
-    (NP-SBJ
-      (NP
-        (DT the)
-        (NNS losses)))
-    (`` ``)
-    (VP
-      (VBP are)
-      (SBAR-NOM-PRD
-        (ADVP
-          (RB just))
-        (WHNP-2
-          (WP what))
-        (S
-          (NP-SBJ
-            (PRP we))
-          (VP
-            (VBP are)
-            (VP
-              (VBG stumbling)))))))
   (, ,)
   ('' '')
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-5))))
+        (S-TPC
+          (SBAR-ADV
+            (S
+              (NP-SBJ
+                (WHNP
+                  (WP What)))
+              (VP
+                (VBZ 's)
+                (NP-PRD
+                  (JJR more)))))
+          (NP-SBJ
+            (NP
+              (DT the)
+              (NNS losses)))
+          (`` ``)
+          (VP
+            (VBP are)
+            (SBAR-NOM-PRD
+              (ADVP
+                (RB just))
+              (WHNP
+                (WP what))
+              (S
+                (NP-SBJ
+                  (PRP we))
+                (VP
+                  (VBP are)
+                  (VP
+                    (VBG stumbling))))))))))
   (NP-SBJ-4
     (NNP Stapf))
   (, ,)
@@ -778,7 +747,7 @@
       (SBAR
         (IN that)
         (S
-          (NP-SBJ-6
+          (NP-SBJ
             (NP
               (DT the)
               (NN majority)))
@@ -788,40 +757,37 @@
 
 (SINV
   (`` ``)
-  (SBARQ-TPC-3
-    (WHNP-1
-      (WP Who))
-    (SQ
-      (NP-SBJ-2
-        (-NONE- *T*-1))
-      (VP
-        (VBZ wants)))
-    (. ?))
   ('' '')
   (VP
     (VBZ asks)
     (SBARQ
-      (-NONE- *T*-3)))
+      (SBARQ-TPC
+        (SQ
+          (NP-SBJ
+            (WHNP
+              (WP Who)))
+          (VP
+            (VBZ wants)))
+        (. ?))))
   (NP-SBJ
     (NP
       (NNP Browning)))
   (. .))
 
 (SINV
-  (S-TPC-1
-    (NP-SBJ
-      (-NONE- *))
-    (VP
-      (VB expect)
-      (NP
-        (NNS bases))))
   (, ,)
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-1))))
+        (S-TPC
+          (NP-SBJ
+            (-NONE- *))
+          (VP
+            (VB expect)
+            (NP
+              (NNS bases)))))))
   (NP-SBJ
     (DT the)
     (NNP Campaneris)))
@@ -834,9 +800,8 @@
   (VP
     (VB return)
     (NP
-      (NP
-        (PRP$ his)
-        (NNS contents))))
+      (PRP$ his)
+      (NNS contents)))
   (. .))
 
 (SINV
@@ -851,14 +816,13 @@
   (. .))
 
 (SINV
-  (ADJP-PRD-TPC-2
-    (JJ important))
   (VP
     (VBP are)
     (ADJP-PRD
-      (-NONE- *T*-2)))
+      (ADJP-PRD-TPC
+        (JJ important))))
   (SBAR-NOM-SBJ
-    (WHNP-1
+    (WHNP
       (WP what))
     (S
       (NP-SBJ
@@ -868,12 +832,11 @@
   (. .))
 
 (SINV
-  (PP-LOC-PRD-TPC-3
+  (PP-LOC-PRD-TPC
     (IN Among)
     (NP
-      (NP
-        (DT the)
-        (NNS things))))
+      (DT the)
+      (NNS things)))
   (VP
     (VBZ is))
   (SBAR-SBJ
@@ -890,7 +853,7 @@
 
 (SINV
   (VBD were)
-  (NP-SBJ-1
+  (NP-SBJ
     (PRP they))
   (ADJP-PRD
     (JJ able)))
@@ -903,42 +866,11 @@
     (NN word))
   (. .))
 
-(SINV-2
-  (ADVP
-    (RB Also))
-  (VP-TPC-1
-    (VBG holding)
-    (NP
-      (NP
-        (NNS seats))))
-  (PRN
-    (, ,)
-    (S
-      (NP-SBJ
-        (PRP they))
-      (VP
-        (VBD said)
-        (SBAR
-          (-NONE- 0)
-          (SINV
-            (-NONE- *T*-2)))))
-    (, ,))
-  (VP
-    (MD would)
-    (VP
-      (VB be)
-      (VP
-        (-NONE- *T*-1))))
-  (NP-SBJ
-    (NP
-      (NP
-        (NNP Ltd.))))
-  (. .))
 
-(SINV-TPC-1
+(SINV-TPC
   (CC Nor)
   (VBP are)
-  (NP-SBJ-2
+  (NP-SBJ
     (PRP you))
   (ADJP-PRD
     (JJ free)))
@@ -947,24 +879,22 @@
   (VP
     (VBD Said)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-2))))
+        (NP-SBJ
+          (PRP It)
+          (DT all))
+        (VP
+          (VBZ starts)))))
   (NP-SBJ
     (NP
       (NNP Ellis)))
   (, ,)
   (`` ``)
-  (S-2
-    (NP-SBJ
-      (PRP It)
-      (DT all))
-    (VP
-      (VBZ starts)))
   (. .))
 
 (SINV
-  (ADVP-LOC-PRD-TPC-1
+  (ADVP-LOC-PRD-TPC
     (RB Here))
   (VP
     (VBP are))
@@ -987,67 +917,64 @@
   (VP
     (VBZ Says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *ICH*-3))))
+        (S-NOM-SBJ
+          (NP-SBJ
+            (-NONE- *))
+          (VP
+            (VBG prosecuting)
+            (NP
+              (NNP Yeargin))))
+        (VP
+          (VBZ is)
+          (NP-PRD
+            (NP
+              (DT a)
+              (NN way)))))))
   (NP-SBJ
     (NP
       (NN founder)))
-  (S-3
-    (S-NOM-SBJ
-      (NP-SBJ
-        (-NONE- *))
-      (VP
-        (VBG prosecuting)
-        (NP
-          (NNP Yeargin))))
-    (VP
-      (VBZ is)
-      (NP-PRD
-        (NP
-          (DT a)
-          (NN way)))))
   (. .)
   ('' ''))
 
 (SINV
-  (SBARQ-TPC-4
-    (WHADVP-3
-      (WRB Why))
-    (SQ
-      (VBZ has)
-      (NP-SBJ
-        (NP
-          (PRP it)))
-      (VP
-        (VBN taken)
-        (NP
-          (NNS people))
-        (SBAR-1
-          (IN for)
-          (S
-            (NP-SBJ
-              (NNS people))
-            (VP
-              (TO to)
-              (VP
-                (VB understand)
-                (SBAR
-                  (-NONE- 0)
-                  (S
-                    (NP-SBJ
-                      (NNP AIDS))
-                    (VP
-                      (VBZ is)
-                      (NP-PRD
-                        (DT a)
-                        (NN problem)))))))))))
-    (. ?)
-    ('' ''))
   (VP
     (VBD asked)
     (SBARQ
-      (-NONE- *T*-4)))
+      (SBARQ-TPC
+        (WHADVP
+          (WRB Why))
+        (SQ
+          (VBZ has)
+          (NP-SBJ
+            (NP
+              (PRP it)))
+          (VP
+            (VBN taken)
+            (NP
+              (NNS people))
+            (SBAR
+              (IN for)
+              (S
+                (NP-SBJ
+                  (NNS people))
+                (VP
+                  (TO to)
+                  (VP
+                    (VB understand)
+                    (SBAR
+                      (-NONE- 0_NULL)
+                      (S
+                        (NP-SBJ
+                          (NNP AIDS))
+                        (VP
+                          (VBZ is)
+                          (NP-PRD
+                            (DT a)
+                            (NN problem)))))))))))
+        (. ?)
+        ('' ''))))
   (NP-SBJ
     (NP
       (NNP Kushnick)))
@@ -1057,33 +984,31 @@
   (VP
     (VBZ Says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-2))))
+        (NP-SBJ-1
+          (DT The)
+          (NNS markets))
+        (VP
+          (VBP are)
+          (VP
+            (VBN headed)
+            (NP
+              (-NONE- *-1)))))))
   (NP-SBJ
     (NP
       (NNP Pherwani)))
   (: :)
-  (S-2
-    (NP-SBJ-1
-      (DT The)
-      (NNS markets))
-    (VP
-      (VBP are)
-      (VP
-        (VBN headed)
-        (NP
-          (-NONE- *-1)))))
   (. .)
   ('' ''))
 
 (SINV
-  (ADVP-LOC-PRD-TPC-1
+  (ADVP-LOC-PRD-TPC
     (RB Here))
   (VP
     (VBZ 's))
   (SBAR-NOM-SBJ
-    (WHADVP-2
+    (WHADVP
       (WRB how))
     (S
       (NP-SBJ
@@ -1098,7 +1023,7 @@
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (PRP We))
     (VP
@@ -1141,24 +1066,23 @@
   (NP-SBJ
     (NN official))
   (: :)
-  (S-1
+  (S
     (`` ``)
     (NP-SBJ
       (NN Everybody))
     (VP
       (VBD had)
       (VP
-        (VP
-          (VBN brought)
-          (PRT
-            (RP in))
-          (NP
-            (DT the)
-            (NNS wagons))))))
+        (VBN brought)
+        (PRT
+          (RP in))
+        (NP
+          (DT the)
+          (NNS wagons)))))
   (. .))
 
 (SINV
-  (PP-TPC-CLR-1
+  (PP-TPC-CLR
     (IN With)
     (NP
       (DT that)
@@ -1178,16 +1102,15 @@
 
 (SINV
   (`` ``)
-  (FRAG-TPC-1
-    (NNS Babies)
-    (, ,)
-    (NNS kiddies)
-    (, ,))
   ('' '')
   (VP
     (VBZ growls)
     (FRAG
-      (-NONE- *T*-1)))
+      (FRAG-TPC
+        (NNS Babies)
+        (, ,)
+        (NNS kiddies)
+        (, ,))))
   (NP-SBJ
     (NP
       (PRP$ their)
@@ -1211,13 +1134,12 @@
           (VP
             (VB publish)
             (NP
-              (NP
-                (DT the)
-                (NNS identities))))))))
+              (DT the)
+              (NNS identities)))))))
   (. .))
 
 (SINV
-  (S-TPC-3
+  (S-TPC
     (`` ``)
     (NP-SBJ
       (NP
@@ -1233,41 +1155,39 @@
   (NP-SBJ
     (NP
       (NNP Harwood)))
-  (PP-CLR-1
+  (PP-CLR
     (IN of)
     (NP
-      (NP
-        (DT the)
-        (NNS resignations))))
+      (DT the)
+      (NNS resignations)))
   (. .))
 
 (SINV
   (CC But)
-  (S-TPC-1
-    (SBAR-TMP
-      (RB once)
-      (S
-        (NP-SBJ
-          (DT a)
-          (NN franchisee))
-        (VP
-          (VBZ agrees))))
-    (NP-SBJ
-      (DT the)
-      (NN franchiser))
-    (VP
-      (MD can)
-      (VP
-        (VB demand)
-        (NP
-          (NN participation)))))
   (, ,)
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-1))))
+        (S-TPC
+          (SBAR-TMP
+            (RB once)
+            (S
+              (NP-SBJ
+                (DT a)
+                (NN franchisee))
+              (VP
+                (VBZ agrees))))
+          (NP-SBJ
+            (DT the)
+            (NN franchiser))
+          (VP
+            (MD can)
+            (VP
+              (VB demand)
+              (NP
+                (NN participation))))))))
   (NP-SBJ
     (NP
       (NNP Rudnick)))
@@ -1275,15 +1195,14 @@
 
 (SINV
   (CC But)
-  (ADVP-LOC-TPC-1
+  (ADVP-LOC-TPC
     (RB therein))
   (VP
     (VBZ lies))
   (NP-SBJ
     (NP
-      (NP
-        (DT another)
-        (NN aspect))))
+      (DT another)
+      (NN aspect)))
   (. .))
 
 (SINV
@@ -1331,38 +1250,36 @@
     (NNP Ritter))
   (, ,)
   (`` ``)
-  (S-2
-    (S
-      (NP-SBJ
-        (NN Someone))
+  (S
+    (NP-SBJ
+      (NN Someone))
+    (VP
+      (MD will)
       (VP
-        (MD will)
-        (VP
-          (VB get)
-          (NP
-            (DT a)
-            (NN attack))))))
+        (VB get)
+        (NP
+          (DT a)
+          (NN attack)))))
   (. .)
   ('' ''))
 
 (SINV
-  (S-TPC-2
-    (NP-SBJ
-      (NNP Sotheby)
-      (POS 's))
-    (VP
-      (VBZ is)
-      (VP
-        (VBG offering)
-        (NP
-          (NNS deals)))))
   (, ,)
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-2))))
+        (S-TPC
+          (NP-SBJ
+            (NNP Sotheby)
+            (POS 's))
+          (VP
+            (VBZ is)
+            (VP
+              (VBG offering)
+              (NP
+                (NNS deals))))))))
   (NP-SBJ
     (NP
       (NNP Lerner)))
@@ -1373,12 +1290,12 @@
   (SBAR-ADV
     (IN If)
     (S
-      (NP-SBJ-1
+      (NP-SBJ
         (PRP you))
       (VP
         (VBP start))))
   (, ,)
-  (ADVP-LOC-PRD-TPC-2
+  (ADVP-LOC-PRD-TPC
     (RB here))
   (VP
     (VBZ 's))
@@ -1402,7 +1319,7 @@
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (NN school))
     (VP
@@ -1433,14 +1350,14 @@
     (RB Not)
     (RB only))
   (VBZ does)
-  (NP-SBJ-1
+  (NP-SBJ
     (PRP$ your)
     (NN product))
   (VP
     (VB have)))
 
 (SINV
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (NP
         (NNS margins)))
@@ -1473,26 +1390,24 @@
       (NN anticipation))))
 
 (SINV
-  (FRAG-TPC-1
-    (NP
-      (DT A)
-      (NN hick)))
   (VP
     (VBD said)
     (FRAG
-      (-NONE- *T*-1)))
+      (FRAG-TPC
+        (NP
+          (DT A)
+          (NN hick)))))
   (NP-SBJ
     (NN writer)))
 
 (SINV
   (ADVP
     (RB Perhaps))
-  (ADJP-PRD-TPC-2
-    (JJ dramatic))
   (VP
     (VBD was)
     (ADJP-PRD
-      (-NONE- *T*-2)))
+      (ADJP-PRD-TPC
+        (JJ dramatic))))
   (NP-SBJ
     (NP
       (DT the)
@@ -1500,7 +1415,7 @@
   (. .))
 
 (SINV
-  (PP-PRD-2
+  (PP-PRD
     (IN Among)
     (NP
       (NNS winners)))
@@ -1514,12 +1429,11 @@
   (. .))
 
 (SINV
-  (VP-TPC-1
-    (VBG Corresponding))
   (VP
     (VBD was)
     (VP
-      (-NONE- *T*-1)))
+      (VP-TPC
+        (VBG Corresponding))))
   (PRN
     (: --)
     (PP-TMP
@@ -1536,21 +1450,20 @@
 
 (SINV
   (`` ``)
-  (S-TPC-1
-    (NP-SBJ
-      (PRP I))
-    (VP
-      (VBP am)
-      (RB not)
-      (ADJP-PRD
-        (JJ aware))))
   (, ,)
   (VP
     (VBD said)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-1))))
+        (S-TPC
+          (NP-SBJ
+            (PRP I))
+          (VP
+            (VBP am)
+            (RB not)
+            (ADJP-PRD
+              (JJ aware)))))))
   (NP-SBJ
     (NP
       (DT a)
@@ -1559,15 +1472,14 @@
   (PP-TMP
     (IN after)
     (NP
-      (NP
-        (DT a)
-        (NN meeting))))
+      (DT a)
+      (NN meeting)))
   (. .))
 
 (SINV
   (ADVP
     (RB Also))
-  (PP-PRD-TPC-2
+  (PP-PRD-TPC
     (IN for)
     (NP
       (NN sale)))
@@ -1575,8 +1487,7 @@
     (VBP are))
   (NP-SBJ
     (NP
-      (NP
-        (NNP Co.))))
+      (NNP Co.)))
   (. .))
 
 (SINV
@@ -1589,7 +1500,7 @@
     (NN people)))
 
 (SINV
-  (PP-LOC-PRD-TPC-1
+  (PP-LOC-PRD-TPC
     (IN Among)
     (NP
       (DT the)
@@ -1613,13 +1524,12 @@
   (PP-LOC
     (IN in)
     (NP
-      (NP
-        (DT an)
-        (NN area))))
+      (DT an)
+      (NN area)))
   (, ,)
   (VP
     (VBD lay))
-  (NP-SBJ-5
+  (NP-SBJ
     (NP
       (NNS traces)))
   (. .))
@@ -1627,7 +1537,7 @@
 (SINV
   (-LRB- -LRB-)
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (PRP I))
     (VP
@@ -1642,37 +1552,35 @@
   (-RRB- -RRB-))
 
 (SINV
-  (SBARQ-TPC-4
-    (`` ``)
-    (WHNP-3
-      (WHNP
-        (WP Who))
-      (PP
-        (IN in)
-        (NP
-          (DT the)
-          (NN hell))))
-    (VBZ does)
-    (SQ
-      (NP-SBJ
-        (PRP he))
-      (VP
-        (VB think)
-        (SBAR
-          (-NONE- 0)
-          (S
-            (NP-SBJ
-              (PRP he))
-            (VP
-              (VBZ is)
-              (NP-PRD
-                (-NONE- *T*-3)))))))
-    (. ?)
-    ('' ''))
   (VP
     (VBD wrote)
     (SBARQ
-      (-NONE- *T*-4)))
+      (SBARQ-TPC
+        (`` ``)
+        (VBZ does)
+        (SQ
+          (NP-SBJ
+            (PRP he))
+          (VP
+            (VB think)
+            (SBAR
+              (-NONE- 0_NULL)
+              (S
+                (NP-SBJ
+                  (PRP he))
+                (VP
+                  (VBZ is)
+                  (NP-PRD
+                    (WHNP
+                      (WHNP
+                        (WP Who))
+                      (PP
+                        (IN in)
+                        (NP
+                          (DT the)
+                          (NN hell))))))))))
+        (. ?)
+        ('' ''))))
   (NP-SBJ
     (DT a)))
 
@@ -1699,7 +1607,7 @@
 
 (SINV
   (RB So)
-  (ADVP-LOC-PRD-TPC-1
+  (ADVP-LOC-PRD-TPC
     (RB here))
   (VP
     (VBZ 's))
@@ -1712,15 +1620,14 @@
 (SINV
   (CC But)
   (`` ``)
-  (S-TPC-2
+  (S-TPC
     (NP-SBJ
       (DT the)
       (NNP Union))
     (VP
       (VBZ has)
       (NP
-        (NP
-          (NNS areas)))))
+        (NNS areas))))
   (, ,)
   ('' '')
   (VP
@@ -1731,11 +1638,6 @@
   (. .))
 
 (SINV
-  (VP-TPC-1
-    (VBG Fueling)
-    (NP
-      (DT the)
-      (NN growth)))
   (, ,)
   (PP-LOC
     (IN among)
@@ -1745,7 +1647,11 @@
   (VP
     (VBD were)
     (VP
-      (-NONE- *T*-1)))
+      (VP-TPC
+        (VBG Fueling)
+        (NP
+          (DT the)
+          (NN growth)))))
   (NP-SBJ
     (NP
       (NNS prices)))
@@ -1753,40 +1659,37 @@
 
 (SINV
   (`` ``)
-  (S-TPC-3
-    (NP-SBJ
-      (NP
-        (DT The)
-        (NN threat)))
-    (VP
-      (VBZ is)
-      (NP-PRD
-        (NP
-          (DT a)
-          (NN tool)))))
   (, ,)
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-3))))
+        (S-TPC
+          (NP-SBJ
+            (NP
+              (DT The)
+              (NN threat)))
+          (VP
+            (VBZ is)
+            (NP-PRD
+              (NP
+                (DT a)
+                (NN tool))))))))
   (NP-SBJ
     (NN holder)))
 
 (SINV
-  (NP-PRD-TPC-1
-    (NP
-      (NNS Issues)))
   (VP
     (VBD were)
     (NP-PRD
-      (-NONE- *T*-1)))
+      (NP-PRD-TPC
+        (NP
+          (NNS Issues)))))
   (NP-SBJ
     (NP
-      (NP
-        (DT an)
-        (NN increase))))
+      (DT an)
+      (NN increase)))
   (. .))
 
 (SINV
@@ -1803,30 +1706,27 @@
   (VBD did)
   (NP-SBJ
     (NP
-      (NP
-        (PRP$ his)
-        (NNS offers))))
+      (PRP$ his)
+      (NNS offers)))
   (. .))
 
 (SINV
-  (S-TPC-2
-    (NP-SBJ
-      (NNP RU-486))
-    (`` ``)
-    (VP
-      (VBZ represents)
-      (NP
-        (NP
-          (DT a)
-          (NN advance)))))
   (, ,)
   ('' '')
   (VP
     (VBD said)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-2))))
+        (S-TPC
+          (NP-SBJ
+            (NNP RU-486))
+          (`` ``)
+          (VP
+            (VBZ represents)
+            (NP
+              (DT a)
+              (NN advance)))))))
   (NP-SBJ
     (NP
       (NNP Stubblefield)))
@@ -1842,7 +1742,7 @@
   (. .))
 
 (SINV
-  (ADVP-PRD-TPC-1
+  (ADVP-PRD-TPC
     (RB So))
   (VP
     (MD would)
@@ -1861,16 +1761,14 @@
 
 (SINV
   (`` ``)
-  (FRAG-TPC-1
-    (NP
-      (NP
-        (NNS traders))))
   (, ,)
   ('' '')
   (VP
     (VBD said)
     (FRAG
-      (-NONE- *T*-1)))
+      (FRAG-TPC
+        (NP
+          (NNS traders)))))
   (NP-SBJ-2
     (NNP Bates))
   (, ,)
@@ -1884,12 +1782,11 @@
   (. .))
 
 (SINV
-  (ADJP-PRD-TPC-1
-    (JJ striking))
   (VP
     (VBZ is)
     (ADJP-PRD
-      (-NONE- *T*-1)))
+      (ADJP-PRD-TPC
+        (JJ striking))))
   (NP-SBJ
     (NP
       (DT the)
@@ -1937,7 +1834,7 @@
 
 (SINV
   (SINV
-    (ADVP-PRD-TPC-2
+    (ADVP-PRD-TPC
       (RB Soon)
       (S
         (NP-SBJ
@@ -2003,8 +1900,8 @@
     (NNP Lee))
   (: :)
   (`` ``)
-  (S-2
-    (NP-SBJ-3
+  (S
+    (NP-SBJ
       (PRP We))
     (VP
       (VBP need)))
@@ -2013,23 +1910,19 @@
 
 (SINV
   (`` ``)
-  (FRAG-1
-    (WHNP
-      (WP What))
-    (PP
-      (IN about)
-      (NP
-        (NP
-          (NP
-            (DT those)
-            (NNS institutions))))))
   (: ...)
   (. ?)
   ('' '')
   (VP
     (VBD wrote)
     (FRAG
-      (-NONE- *T*-1)))
+      (WHNP
+        (WP What))
+      (PP
+        (IN about)
+        (NP
+          (DT those)
+          (NNS institutions)))))
   (NP-SBJ
     (NP
       (DT a)
@@ -2055,13 +1948,12 @@
   (NP-SBJ
     (PRP she))
   (VP
-    (VP
-      (VB gasp)))
+    (VB gasp))
   (. .))
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (PRP We))
     (VP
@@ -2096,8 +1988,6 @@
   (. .))
 
 (SINV
-  (ADJP-PRD-TPC-1
-    (JJ Typical))
   (, ,)
   (ADVP
     (RB perhaps))
@@ -2105,7 +1995,8 @@
   (VP
     (VBD was)
     (ADJP-PRD
-      (-NONE- *T*-1)))
+      (ADJP-PRD-TPC
+        (JJ Typical))))
   (NP-SBJ
     (NP
       (DT the)
@@ -2114,7 +2005,7 @@
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (DT this))
     (VP
@@ -2156,7 +2047,7 @@
 (SINV
   (RB Not)
   (PP-PRD
-    (VBN included)
+    (VBN|IN included)
     (PP
       (IN on)
       (NP
@@ -2165,8 +2056,7 @@
   (VBP are)
   (NP-SBJ
     (NP
-      (NP
-        (NNP Evans))))
+      (NNP Evans)))
   (. .))
 
 (SINV
@@ -2194,44 +2084,6 @@
           (JJR clearer)))))
   (. .))
 
-(SINV-2
-  (ADJP-PRD-TPC-3
-    (JJ important))
-  (PRN
-    (, ,)
-    (S
-      (NP-SBJ
-        (NNS experts))
-      (VP
-        (VBP say)
-        (SBAR
-          (-NONE- 0)
-          (SINV
-            (-NONE- *T*-2)))))
-    (, ,))
-  (VP
-    (VBZ is)
-    (ADJP-PRD
-      (-NONE- *T*-3)))
-  (S-SBJ
-    (NP-SBJ
-      (-NONE- *))
-    (VP
-      (TO to)
-      (VP
-        (VB show)
-        (SBAR
-          (IN that)
-          (S
-            (NP-SBJ-1
-              (NN tone))
-            (VP
-              (VBZ is)
-              (VP
-                (VBN set)
-                (NP
-                  (-NONE- *-1)))))))))
-  (. .))
 
 (SINV
   (PP
@@ -2242,7 +2094,7 @@
         (NNS qualifications))))
   (, ,)
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (NP
         (DT the)
@@ -2250,7 +2102,7 @@
     (VP
       (VBD decided)
       (SBAR
-        (-NONE- 0)
+        (-NONE- 0_NULL)
         (S
           (NP-SBJ
             (NNP Sala))
@@ -2270,21 +2122,20 @@
 (SINV
   (ADVP
     (RB Also))
-  (ADJP-PRD-TPC-1
-    (JJ closed))
   (NP-TMP
     (NN yesterday))
   (VP
     (VBD were)
     (ADJP-PRD
-      (-NONE- *T*-1)))
+      (ADJP-PRD-TPC
+        (JJ closed))))
   (NP-SBJ
     (NP
       (NN lab)))
   (. .))
 
 (SINV
-  (S-TPC-2
+  (S-TPC
     (`` ``)
     (S
       (NP-SBJ
@@ -2298,7 +2149,7 @@
     (NNP Boren)))
 
 (SINV
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (PRP It))
     (VP
@@ -2306,8 +2157,7 @@
       (VP
         (VB lose)
         (NP
-          (NP
-            (DT some))))))
+          (DT some)))))
   (, ,)
   ('' '')
   (VP
@@ -2319,14 +2169,13 @@
   (`` ``))
 
 (SINV
-  (VP-TPC-3
-    (VBN Downgraded)
-    (NP
-      (-NONE- *-1)))
   (VP
     (VBD were)
     (VP
-      (-NONE- *T*-3)))
+      (VP-TPC
+        (VBN Downgraded)
+        (NP
+          (-NONE- *-1)))))
   (NP-SBJ-1
     (NP
       (NNP Lighting)
@@ -2335,46 +2184,46 @@
       (NX
         (JJ first-mortgage)
         (NNS bonds))
-      (CC and)
-      (NX
-        (JJ secured)
-        (JJ pollution-control)
-        (NNS bonds))))
-  (PP-DIR-2
+      (CONJPP
+        (CC and)
+        (NX
+          (JJ secured)
+          (JJ pollution-control)
+          (NNS bonds)))))
+  (PP-DIR
     (TO to)
     (NP
       (JJ single-A-3)))
-  (PP-DIR-4
+  (PP-DIR
     (IN from)
     (NP
       (JJ single-A-2))))
 
 (SINV
   (CC And)
-  (S-TPC-1
-    (`` ``)
-    (NP-SBJ
-      (PRP he))
-    (VP
-      (MD wo)
-      (RB n't)
-      (VP
-        (VB panic))))
   (, ,)
   ('' '')
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-1))))
+        (S-TPC
+          (`` ``)
+          (NP-SBJ
+            (PRP he))
+          (VP
+            (MD wo)
+            (RB n't)
+            (VP
+              (VB panic)))))))
   (NP-SBJ
     (NP
       (NNP Johnston)))
   (. .))
 
 (SINV
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (DT The)
       (NN news))
@@ -2402,32 +2251,31 @@
   (. .))
 
 (SINV
-  (S-TPC-2
-    (NP-SBJ
-      (DT That))
-    (VP
-      (VBZ 's)
-      (SBAR-PRD
-        (WHADVP-1
-          (WRB why))
-        (`` ``)
-        (S
-          (NP-SBJ-3
-            (PRP we))
-          (VP
-            (VBP have)
-            (VP
-              (VBN been)
-              (VP
-                (VBG working))))))))
   (, ,)
   ('' '')
   (VP
     (VBD said)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-2))))
+        (S-TPC
+          (NP-SBJ
+            (DT That))
+          (VP
+            (VBZ 's)
+            (SBAR-PRD
+              (WHADVP
+                (WRB why))
+              (`` ``)
+              (S
+                (NP-SBJ
+                  (PRP we))
+                (VP
+                  (VBP have)
+                  (VP
+                    (VBN been)
+                    (VP
+                      (VBG working)))))))))))
   (NP-SBJ
     (NP
       (NNP Smith)))
@@ -2441,25 +2289,23 @@
   (. .))
 
 (SINV
-  (S-TPC-1
-    (NP-SBJ-2
-      (PRP They))
-    (VP
-      (VP
-        (VBD were)
-        (RB n't)
-        (VP
-          (VBN fired)
-          (NP
-            (-NONE- *-2))))))
   (, ,)
   ('' '')
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-1))))
+        (S-TPC
+          (NP-SBJ-2
+            (PRP They))
+          (VP
+            (VBD were)
+            (RB n't)
+            (VP
+              (VBN fired)
+              (NP
+                (-NONE- *-2))))))))
   (NP-SBJ
     (NP
       (NNP Hori))))
@@ -2474,10 +2320,6 @@
   (. .))
 
 (SINV
-  (VP-TPC-1
-    (VBG Leading)
-    (NP
-      (NNS forecasts)))
   (PP-TMP
     (IN in)
     (NP
@@ -2485,7 +2327,10 @@
   (VP
     (VBD was)
     (VP
-      (-NONE- *T*-1)))
+      (VP-TPC
+        (VBG Leading)
+        (NP
+          (NNS forecasts)))))
   (NP-SBJ
     (NP
       (NNP Ireland)))
@@ -2513,7 +2358,7 @@
 (SINV
   (ADVP-TMP
     (RB Now))
-  (ADVP-CLR-TPC-1
+  (ADVP-CLR-TPC
     (RB along))
   (VP
     (VBZ comes))
@@ -2532,8 +2377,6 @@
   (. .))
 
 (SINV
-  (ADJP-PRD-TPC-2
-    (JJ important))
   (PP-LOC
     (IN in)
     (NP
@@ -2541,37 +2384,13 @@
   (VP
     (VBP are)
     (ADJP-PRD
-      (-NONE- *T*-2)))
+      (ADJP-PRD-TPC
+        (JJ important))))
   (NP-SBJ
     (NP
       (NNS waivers)))
   (. .))
 
-(SINV-4
-  (VP-TPC-3
-    (VBG contributing))
-  (PRN
-    (, ,)
-    (S
-      (NP-SBJ
-        (DT the)
-        (NN analyst))
-      (VP
-        (VBD noted)
-        (SBAR
-          (-NONE- 0)
-          (SINV
-            (-NONE- *T*-4)))))
-    (, ,))
-  (VP
-    (VBD was)
-    (VP
-      (-NONE- *T*-3)))
-  (NP-SBJ
-    (NP
-      (DT a)
-      (NN report)))
-  (. .))
 
 (SINV
   (VBD was)
@@ -2588,7 +2407,7 @@
     (VBZ comes))
   (NP-SBJ-2
     (NN expansion))
-  (S-CLR-4
+  (S-CLR
     (NP-SBJ
       (-NONE- *-2))
     (VP
@@ -2598,28 +2417,26 @@
         (PRT
           (RP down))
         (NP
-          (NP
-            (NN value))))))
+          (NN value)))))
   (. .))
 
 (SINV
   (`` ``)
-  (S-TPC-1
-    (NP-SBJ
-      (EX There))
-    (VP
-      (VBZ 's)
-      (NP-PRD
-        (NP
-          (DT a)
-          (NN pit)))))
   (, ,)
   (VP
     (VBD said)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-1))))
+        (S-TPC
+          (NP-SBJ
+            (EX There))
+          (VP
+            (VBZ 's)
+            (NP-PRD
+              (NP
+                (DT a)
+                (NN pit))))))))
   (NP-SBJ-2
     (NP
       (NNP Beale)))
@@ -2652,31 +2469,29 @@
   (VP
     (VB see)
     (NP
-      (NP
-        (DT any)
-        (NN reason))))
+      (DT any)
+      (NN reason)))
   (. .))
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (-NONE- *-5))
     (VP
       (VBP Think)
       (SBAR
-        (-NONE- 0)
+        (-NONE- 0_NULL)
         (S
           (NP-SBJ-5
             (PRP I))
           (VP
             (MD 'll)
             (VP
-              (VP
-                (VB redo)
-                (NP
-                  (PRP$ my)
-                  (NN image)))))))))
+              (VB redo)
+              (NP
+                (PRP$ my)
+                (NN image))))))))
   (, ,)
   ('' '')
   (VP
@@ -2693,9 +2508,8 @@
     (VP
       (VBG fingering)
       (NP
-        (NP
-          (DT the)
-          (NN bat)))))
+        (DT the)
+        (NN bat))))
   (. .))
 
 (SINV
@@ -2709,40 +2523,6 @@
       (NN shortage)))
   (. .))
 
-(SINV-1
-  (ADJP-PRD-TPC-2
-    (JJ galling))
-  (PRN
-    (, ,)
-    (SINV
-      (VP
-        (VBP say)
-        (SBAR
-          (-NONE- 0)
-          (SINV
-            (-NONE- *T*-1))))
-      (NP-SBJ
-        (NP
-          (NNS people))))
-    (, ,))
-  (VP
-    (VBZ is)
-    (ADJP-PRD
-      (-NONE- *T*-2)))
-  (SBAR-SBJ
-    (IN that)
-    (S
-      (NP-SBJ
-        (NNP Colodny))
-      (VP
-        (MD wo)
-        (RB n't)
-        (VP
-          (VB take)
-          (NP
-            (PRP$ his)
-            (NNS calls))))))
-  (. .))
 
 (SINV
   (ADVP-TMP
@@ -2753,7 +2533,7 @@
       (PRP it))
     (VP
       (VBN been)
-      (VP-3
+      (VP
         (VBN redesigned)
         (NP
           (-NONE- *-1)))))
@@ -2768,7 +2548,7 @@
         (-NONE- *-2))))
   (. .))
 
-(SINV-TPC-1
+(SINV-TPC
   (SBAR-ADV
     (RB Just)
     (IN as)
@@ -2801,7 +2581,7 @@
     (NP
       (NNP Key)))
   (`` ``)
-  (S-1
+  (S
     (NP-SBJ
       (DT The)
       (NN thing))
@@ -2812,45 +2592,42 @@
         (PRT
           (RP up))
         (NP
-          (NP
-            (DT a)
-            (NN can))))))
+          (DT a)
+          (NN can)))))
   (. .))
 
 (SINV
-  (S-TPC-2
-    (`` ``)
-    (NP-SBJ-161
-      (NP
-        (RBR less)
-        (-LRB- -LCB-)
-        (NN activity)
-        (-RRB- -RCB-)))
-    (VP
-      (VBZ is)
-      (VP
-        (VBN done)
-        (NP
-          (-NONE- *-161)))))
   ('' '')
   (VP
     (VBD said)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-2))))
+        (S-TPC
+          (`` ``)
+          (NP-SBJ-161
+            (NP
+              (RBR less)
+              (-LRB- -LCB-)
+              (NN activity)
+              (-RRB- -RCB-)))
+          (VP
+            (VBZ is)
+            (VP
+              (VBN done)
+              (NP
+                (-NONE- *-161))))))))
   (NP-SBJ
     (NP
       (NNP Barfield)))
   (. .))
 
 (SINV
-  (ADJP-PRD-TPC-1
-    (JJ inherent))
   (VP
     (VBD was)
     (ADJP-PRD
-      (-NONE- *T*-1)))
+      (ADJP-PRD-TPC
+        (JJ inherent))))
   (NP-SBJ
     (NP
       (DT a)
@@ -2859,7 +2636,7 @@
 (SINV
   (CC Nor)
   (VBP are)
-  (NP-SBJ-1
+  (NP-SBJ
     (NP
       (DT any)))
   (ADJP-PRD
@@ -2890,7 +2667,7 @@
         (-NONE- *-1))))
   (, ,)
   (SINV
-    (ADVP-PRD-TPC-2
+    (ADVP-PRD-TPC
       (RB so))
     (VP
       (VBZ is))
@@ -2917,7 +2694,7 @@
   (. .))
 
 (SINV
-  (ADVP-LOC-PRD-TPC-1
+  (ADVP-LOC-PRD-TPC
     (RB Here))
   (VP
     (VBZ is))
@@ -2935,29 +2712,26 @@
 
 (SINV
   (CC But)
-  (VP-TPC-1
-    (VBG acting))
   (VP
     (VBD was)
     (VP
-      (-NONE- *T*-1)))
+      (VP-TPC
+        (VBG acting))))
   (NP-SBJ
     (NP
-      (NP
-        (DT the)
-        (NN weather))))
+      (DT the)
+      (NN weather)))
   (. .))
 
 (SINV
   (`` ``)
-  (NP-TPC-1
-    (VB Attention))
   (, ,)
   ('' '')
   (VP
     (VBD yelled)
     (NP
-      (-NONE- *T*-1)))
+      (NP-TPC
+        (VB Attention))))
   (NP-SBJ
     (PRP$ our)
     (NN pilot))
@@ -2973,7 +2747,7 @@
 
 (SINV
   (`` ``)
-  (S-TPC-2
+  (S-TPC
     (NP-SBJ
       (PRP I))
     (VP
@@ -2982,8 +2756,7 @@
       (VP
         (VB trust)
         (NP
-          (NP
-            (NNS people))))))
+          (NNS people)))))
   (, ,)
   ('' '')
   (VP
@@ -2994,7 +2767,7 @@
   (SBAR-ADV
     (IN though)
     (S
-      (NP-SBJ-3
+      (NP-SBJ
         (NP
           (PRP she)))
       (VP
@@ -3010,7 +2783,7 @@
     (NNP Bock))
   (, ,)
   (`` ``)
-  (S-1
+  (S
     (NP-SBJ
       (PRP It))
     (VP
@@ -3022,20 +2795,19 @@
   ('' ''))
 
 (SINV
-  (S-TPC-2
-    (NP-SBJ-1
-      (PRP we))
-    (VP
-      (VBP like)))
   (, ,)
   ('' ')
   ('' '')
   (VP
     (VBD said)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-2))))
+        (S-TPC
+          (NP-SBJ
+            (PRP we))
+          (VP
+            (VBP like))))))
   (NP-SBJ
     (NP
       (NNP Jr.)))
@@ -3043,7 +2815,7 @@
 
 (SINV
   (SBAR-ADV
-    (WHADVP-1
+    (WHADVP
       (WRB When))
     (S
       (NP-SBJ
@@ -3063,7 +2835,7 @@
 
 (SINV
   (CC But)
-  (PP-LOC-CLR-TPC-1
+  (PP-LOC-CLR-TPC
     (IN amid)
     (NP
       (DT the)
@@ -3103,7 +2875,7 @@
 
 (SINV
   (SBAR-TMP
-    (WHADVP-3
+    (WHADVP
       (RB Just)
       (WRB when))
     (S
@@ -3117,7 +2889,7 @@
             (DT the)
             (NN plug))))))
   (, ,)
-  (ADVP-DIR-TPC-2
+  (ADVP-DIR-TPC
     (IN along))
   (VP
     (VBZ comes))
@@ -3139,32 +2911,6 @@
         (VB blunder))))
   (. .))
 
-(SINV-2
-  (`` ``)
-  (ADJP-TPC-1
-    (JJ flagrant))
-  (PRN
-    (, ,)
-    ('' '')
-    (S
-      (NP-SBJ
-        (NNP Dole))
-      (VP
-        (VBD said)
-        (SBAR
-          (-NONE- 0)
-          (SINV
-            (-NONE- *T*-2)))))
-    (, ,)
-    (`` ``))
-  (VP
-    (VBP are)
-    (ADJP-PRD
-      (-NONE- *T*-1)))
-  (NP-SBJ
-    (NNS failures))
-  (. .)
-  ('' ''))
 
 (SINV
   (ADVP-LOC
@@ -3186,12 +2932,11 @@
 (SINV
   (ADVP
     (RB Perhaps))
-  (ADJP-TPC-1
-    (JJ offensive))
   (VP
     (VBZ is)
     (ADJP-PRD
-      (-NONE- *T*-1)))
+      (ADJP-TPC
+        (JJ offensive))))
   (NP-SBJ
     (NP
       (DT the)
@@ -3220,25 +2965,23 @@
   (VP
     (VBZ Adds)
     (SBARQ
-      (-NONE- *ICH*-4)))
+      (WHADVP
+        (WRB Why))
+      (SQ
+        (VBP do)
+        (NP-SBJ
+          (NNS people))
+        (VP
+          (VB play)
+          (NP
+            (DT the)
+            (NN lottery))))
+      (. ?)))
   (NP-SBJ
     (NP
       (NNP Barasch)))
   (: :)
-  (`` ``)
-  (SBARQ-4
-    (WHADVP-1
-      (WRB Why))
-    (SQ
-      (VBP do)
-      (NP-SBJ
-        (NNS people))
-      (VP
-        (VB play)
-        (NP
-          (DT the)
-          (NN lottery))))
-    (. ?)))
+  (`` ``))
 
 (SINV
   (VP
@@ -3247,7 +2990,7 @@
     (NNP Bilanz))
   (: :)
   (`` ``)
-  (S-1
+  (S
     (NP-SBJ
       (NP
         (DT No)
@@ -3257,22 +3000,21 @@
   (: ...))
 
 (SINV
-  (S-TPC-1
-    (NP-SBJ
-      (NP
-        (NNS drives)))
-    (VP
-      (VBP are)
-      (ADJP-PRD
-        (VBN finished))))
   (, ,)
   ('' '')
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-1))))
+        (S-TPC
+          (NP-SBJ
+            (NP
+              (NNS drives)))
+          (VP
+            (VBP are)
+            (ADJP-PRD
+              (VBN finished)))))))
   (NP-SBJ
     (NP
       (NNP Schmidt)))
@@ -3289,8 +3031,7 @@
   (VP
     (VB acquire)
     (NP
-      (NP
-        (JJR less)))))
+      (JJR less))))
 
 (SINV
   (CC But)
@@ -3302,10 +3043,9 @@
       (VP
         (VBD recovered)
         (NP
-          (NP
-            (DT some))))))
+          (DT some)))))
   (, ,)
-  (ADVP-MNR-TPC-1
+  (ADVP-MNR-TPC
     (RB so))
   (VP
     (VBD did))
@@ -3315,37 +3055,34 @@
   (. .))
 
 (SINV
-  (NP-LOC-TPC-PRD-1
-    (RB Here))
   (VP
     (VBP are)
     (NP-LOC-PRD
-      (-NONE- *T*-1)))
+      (NP-LOC-TPC-PRD
+        (RB Here))))
   (NP-SBJ
     (NP
       (DT some)))
   (: :))
 
 (SINV
-  (VP-TPC-3
-    (VBN Built)
-    (NP
-      (-NONE- *-4)))
   (VP
     (VBP are)
     (VP
-      (-NONE- *T*-3)))
+      (VP-TPC
+        (VBN Built)
+        (NP
+          (-NONE- *-4)))))
   (NP-SBJ-4
     (NP
       (NNS immunities)))
   (, ,)
   (PP
-    (VBG according)
+    (VBG|IN according)
     (PP
       (TO to)
       (NP
-        (NP
-          (NNP Ruvolo)))))
+        (NNP Ruvolo))))
   (. .))
 
 (SINV
@@ -3368,13 +3105,13 @@
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (PRP I))
     (VP
       (VBP think)
       (SBAR
-        (-NONE- 0)
+        (-NONE- 0_NULL)
         (S
           (NP-SBJ
             (PRP it))
@@ -3398,45 +3135,41 @@
       (NN decision)))
   (. .))
 
-(SINV-2
-  (CC But)
-  (ADVP-PRD-TPC-1
-    (JJ first))
-  (PP-LOC
-    (IN on)
-    (NP
+(PRN
+  (, ,)
+  (SINV
+    (VP
+      (VBZ says)
+      (SBAR
+        (-NONE- 0_NULL)
+        (SINV
+          (CC But)
+          (ADVP-PRD-TPC
+            (JJ first))
+          (PP-LOC
+            (IN on)
+            (NP
+              (DT the)
+              (NN list)))
+          (VP
+            (VBZ is))
+          (S-SBJ
+            (NP-SBJ
+              (-NONE- *))
+            (VP
+              (TO to)
+              (VP
+                (VB prohibit)
+                (NP
+                  (NNS laws)))))
+          (. .))))
+    (NP-SBJ
       (NP
         (DT the)
-        (NN list))))
-  (PRN
-    (, ,)
-    (SINV
-      (VP
-        (VBZ says)
-        (SBAR
-          (-NONE- 0)
-          (SINV
-            (-NONE- *T*-2))))
-      (NP-SBJ
-        (NP
-          (DT the)
-          (NNP Federation))))
-    (, ,))
-  (VP
-    (VBZ is))
-  (S-SBJ
-    (NP-SBJ
-      (-NONE- *))
-    (VP
-      (TO to)
-      (VP
-        (VB prohibit)
-        (NP
-          (NP
-            (NNS laws))))))
-  (. .))
+        (NNP Federation))))
+  (, ,))
 
-(SINV-TPC-2
+(SINV-TPC
   (RB So)
   (INTJ
     (NN crunch)
@@ -3451,7 +3184,7 @@
     (, ,)
     (NN bang))
   (: --)
-  (ADVP-DIR-TPC-4
+  (ADVP-DIR-TPC
     (RB here))
   (VP
     (VBP come))
@@ -3488,42 +3221,37 @@
   (VP
     (VBZ Explains)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *ICH*-2))))
+        (NP-SBJ
+          (DT the)
+          (NN statement))
+        (`` ``)
+        (VP
+          (VBZ means)
+          (SBAR-NOM
+            (ADVP
+              (RB exactly))
+            (S
+              (NP-SBJ
+                (PRP it))
+              (VP
+                (VBZ says)
+                (NP
+                  (WHNP
+                    (WP what))))))))))
   (NP-SBJ
     (NN spokeswoman))
   (, ,)
-  (S-2
-    (NP-SBJ
-      (DT the)
-      (NN statement))
-    (`` ``)
-    (VP
-      (VBZ means)
-      (SBAR-NOM
-        (ADVP
-          (RB exactly))
-        (WHNP-1
-          (WP what))
-        (S
-          (NP-SBJ
-            (PRP it))
-          (VP
-            (VBZ says)
-            (NP
-              (-NONE- *T*-1)))))))
   (. .))
 
 (SINV
   (VP
     (VBP are)
     (NP-PRD
-      (-NONE- *ICH*-2)))
+      (NNS operators)))
   (NP-SBJ
     (RB there))
-  (NP-PRD-2
-    (NNS operators))
   (PP-LOC
     (IN on)
     (NP
@@ -3532,31 +3260,28 @@
 
 (SINV
   (RB Also)
-  (VP-TPC-1
-    (VBN named)
-    (NP
-      (-NONE- *-2)))
   (VP
     (VBZ is)
     (VP
-      (-NONE- *T*-1)))
+      (VP-TPC
+        (VBN named)
+        (NP
+          (-NONE- *-2)))))
   (NP-SBJ-2
     (NP
-      (NP
-        (NNP Inc.))))
+      (NNP Inc.)))
   (. .))
 
 (SINV
-  (ADJP-PRD-TPC-2
-    (JJ big))
   (VP
     (VBZ is)
     (ADJP-PRD
-      (-NONE- *T*-2)))
+      (ADJP-PRD-TPC
+        (JJ big))))
   (NP-SBJ
     (DT the)
     (NN boom))
-  (SBAR-1
+  (SBAR
     (IN that)
     (S
       (NP-SBJ
@@ -3570,7 +3295,7 @@
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (EX There))
     (VP
@@ -3579,9 +3304,8 @@
         (VB be)
         (NP-PRD
           (NP
-            (NP
-              (DT a)
-              (NN influx)))))))
+            (DT a)
+            (NN influx))))))
   (, ,)
   ('' '')
   (NP-SBJ
@@ -3614,8 +3338,7 @@
   (PP-TMP
     (IN during)
     (NP
-      (NP
-        (NNS hours))))
+      (NNS hours)))
   (VBD did)
   (NP-SBJ
     (PRP they))
@@ -3626,36 +3349,35 @@
       (NN burst))))
 
 (SINV
-  (S-TPC-4
-    (NP-SBJ
-      (NP
-        (PRP It)))
-    (VP
-      (VBZ 's)
-      (ADJP-PRD
-        (JJ unclear))
-      (SBAR-2
-        (WHADVP-3
-          (RB precisely)
-          (WRB how))
-        (S
-          (NP-SBJ
-            (DT the)
-            (NN state))
-          (VP
-            (MD will)
-            (VP
-              (VB rebuild)
-              (NP
-                (PRP$ its)
-                (NN reserve))))))))
   (, ,)
   (VP
     (VBD said)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-4))))
+        (S-TPC
+          (NP-SBJ
+            (NP
+              (PRP It)))
+          (VP
+            (VBZ 's)
+            (ADJP-PRD
+              (JJ unclear))
+            (SBAR
+              (WHADVP
+                (RB precisely)
+                (WRB how))
+              (S
+                (NP-SBJ
+                  (DT the)
+                  (NN state))
+                (VP
+                  (MD will)
+                  (VP
+                    (VB rebuild)
+                    (NP
+                      (PRP$ its)
+                      (NN reserve)))))))))))
   (NP-SBJ
     (NP
       (NNP Katz)))
@@ -3685,7 +3407,7 @@
 
 (SINV
   (SINV
-    (PP-LOC-PRD-TPC-1
+    (PP-LOC-PRD-TPC
       (IN Within)
       (NP
         (PRP$ its)
@@ -3694,13 +3416,11 @@
       (VBZ is))
     (NP-SBJ
       (NP
-        (NP
-          (NP
-            (DT a)
-            (NN microcosm))))))
+        (DT a)
+        (NN microcosm))))
   (: ...)
   (SINV
-    (ADVP-LOC-PRD-TPC-3
+    (ADVP-LOC-PRD-TPC
       (CC and)
       (RB there))
     (VP
@@ -3709,58 +3429,39 @@
       (NP
         (NNS forms)))))
 
-(SINV-1
-  (S
-    (NP-SBJ
-      (NNP Noriega))
-    (VP
-      (MD might)
-      (VP
-        (VB have)
+(VP
+  (VBZ says)
+  (SBAR
+    (-NONE- 0_NULL)
+    (SINV
+      (S
+        (NP-SBJ
+          (NNP Noriega))
         (VP
-          (VBN fallen)))))
-  (, ,)
-  (VP
-    (VBZ says)
-    (SBAR
-      (-NONE- 0)
-      (SINV
-        (-NONE- *T*-1))))
-  (NP-SBJ
-    (NNP Moss))
-  (, ,)
-  (CC but)
-  (S
-    (NP-SBJ
-      (NN pressure))
-    (VP
-      (VBZ has)
-      (VP
-        (VBN given)
-        (NP
-          (PRP him))
-        (NP
-          (NP
+          (MD might)
+          (VP
+            (VB have)
+            (VP
+              (VBN fallen)))))
+      (, ,)
+      (NP-SBJ
+        (NNP Moss))
+      (, ,)
+      (CC but)
+      (S
+        (NP-SBJ
+          (NN pressure))
+        (VP
+          (VBZ has)
+          (VP
+            (VBN given)
             (NP
-              (NNS excuses)))))))
-  (. .))
+              (PRP him))
+            (NP
+              (NNS excuses)))))
+      (. .))))
 
 (SINV
-  (S-TPC-4
-    (NP-SBJ
-      (NP
-        (NN %)))
-    (VP
-      (VBP say)
-      (SBAR
-        (-NONE- 0)
-        (S
-          (NP-SBJ-1
-            (PRP they))
-          (VP
-            (MD 'd)
-            (VP
-              (VB prefer)))))))
   (, ,)
   (CC yet)
   (S
@@ -3769,15 +3470,28 @@
     (VP
       (VBP take)
       (NP
-        (NP
-          (NNS jobs)))))
+        (NNS jobs))))
   (, ,)
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-4))))
+        (S-TPC
+          (NP-SBJ
+            (NP
+              (NN %)))
+          (VP
+            (VBP say)
+            (SBAR
+              (-NONE- 0_NULL)
+              (S
+                (NP-SBJ
+                  (PRP they))
+                (VP
+                  (MD 'd)
+                  (VP
+                    (VB prefer))))))))))
   (NP-SBJ
     (NP
       (DT a)
@@ -3802,13 +3516,12 @@
     (VBD came))
   (NP-SBJ
     (NP
-      (NP
-        (DT the)
-        (NN plunge))))
+      (DT the)
+      (NN plunge)))
   (. .))
 
 (SINV
-  (S-TPC-1
+  (S-TPC
     (S
       (NP-SBJ
         (-NONE- *))
@@ -3835,18 +3548,17 @@
   (. .))
 
 (SINV
-  (S-TPC-3
-    (NP-SBJ-2
-      (NNP Jaguar))
-    (VP
-      (VBZ seems)))
   (, ,)
   (VP
     (VBD said)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-3))))
+        (S-TPC
+          (NP-SBJ
+            (NNP Jaguar))
+          (VP
+            (VBZ seems))))))
   (NP-SBJ-4
     (NP
       (NN individual)))
@@ -3901,7 +3613,7 @@
         (-NONE- *-3)))))
 
 (SINV
-  (S-TPC-2
+  (S-TPC
     (`` ``)
     (NP-SBJ
       (PRP you))
@@ -3920,50 +3632,48 @@
     (NP-SBJ
       (-NONE- *-1))
     (VP
-      (VP
-        (VBG reaching))))
+      (VBG reaching)))
   (. .))
 
 (SINV
   (`` ``)
-  (SINV-TPC-1
-    (SBAR-ADV
-      (RB Just)
-      (IN as)
-      (S
-        (NP-SBJ
-          (DT the)
-          (NN market))
-        (VP
-          (VBD transformed)
-          (NP
-            (DT the)
-            (NN business)))))
-    (, ,)
-    (ADVP
-      (RB too))
-    (VP
-      (MD will)
-      (VP
-        (-NONE- *?*)))
-    (NP-SBJ
-      (NP
-        (DT the)
-        (RBR more)
-        (NN environment))))
   (, ,)
   ('' '')
   (VP
     (VBZ says)
     (SINV
-      (-NONE- *T*-1)))
+      (SINV-TPC
+        (SBAR-ADV
+          (RB Just)
+          (IN as)
+          (S
+            (NP-SBJ
+              (DT the)
+              (NN market))
+            (VP
+              (VBD transformed)
+              (NP
+                (DT the)
+                (NN business)))))
+        (, ,)
+        (ADVP
+          (RB too))
+        (VP
+          (MD will)
+          (VP
+            (-NONE- *?*)))
+        (NP-SBJ
+          (NP
+            (DT the)
+            (RBR more)
+            (NN environment))))))
   (NP-SBJ
     (NP
       (NNP Mahoney)))
   (. .))
 
 (SINV
-  (ADVP-CLR-TPC-3
+  (ADVP-CLR-TPC
     (RB So))
   (VP
     (VBZ says))
@@ -3984,14 +3694,14 @@
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (NP-SBJ
       (PRP$ My)
       (NN belief))
     (VP
       (VBZ is)
       (SBAR-PRD
-        (-NONE- 0)
+        (-NONE- 0_NULL)
         (S
           (SBAR-ADV
             (IN if)
@@ -4046,18 +3756,16 @@
 
 (SINV
   (`` ``)
-  (SBAR-PRD-TPC-2
-    (WHNP-1
-      (WP What))
-    (S
-      (NP-SBJ
-        (-NONE- *T*-1))
-      (VP
-        (VBZ counts))))
   (VP
     (VBZ is)
     (SBAR-PRD
-      (-NONE- *T*-2)))
+      (SBAR-PRD-TPC
+        (S
+          (NP-SBJ
+            (WHNP
+              (WP What)))
+          (VP
+            (VBZ counts))))))
   (NP-SBJ
     (DT the)
     (NN line))
@@ -4078,11 +3786,9 @@
   (. .))
 
 (SINV
-  (ADJP-PRD-TPC-1
-    (IN So))
   (, ,)
   (PP
-    (VBG according)
+    (VBG|IN according)
     (PP
       (TO to)
       (NP
@@ -4091,21 +3797,21 @@
   (VP
     (VBZ is)
     (ADJP-PRD
-      (-NONE- *T*-1)))
+      (ADJP-PRD-TPC
+        (IN So))))
   (NP-SBJ
     (NNP PLC))
   (, ,)
   (PP
     (IN despite)
     (NP
-      (NP
-        (PRP$ its)
-        (NN withdrawal))))
+      (PRP$ its)
+      (NN withdrawal)))
   (. .))
 
 (SINV
   (SBAR-TMP
-    (WHADVP-1
+    (WHADVP
       (RB Only)
       (WRB when))
     (S
@@ -4167,7 +3873,7 @@
     (NP
       (DT a)
       (NN scientist)))
-  (SBAR-2
+  (SBAR
     (IN that)
     (S
       (NP-SBJ
@@ -4181,22 +3887,21 @@
 
 (SINV
   (`` ``)
-  (SQ-TPC-1
-    (VBZ Is)
-    (NP-SBJ
-      (DT the)
-      (NN government))
-    (RB not)
-    (VP
-      (VBG helping)
-      (NP
-        (NN anybody))))
   (. ?)
   ('' '')
   (VP
     (VBZ asks)
     (SQ
-      (-NONE- *T*-1)))
+      (SQ-TPC
+        (VBZ Is)
+        (NP-SBJ
+          (DT the)
+          (NN government))
+        (RB not)
+        (VP
+          (VBG helping)
+          (NP
+            (NN anybody))))))
   (NP-SBJ
     (NP
       (NNP Murray)))
@@ -4209,9 +3914,7 @@
   (VP
     (VBD saw)
     (NP
-      (NP
-        (NP
-          (NN buying)))))
+      (NN buying)))
   (, ,)
   ('' '')
   (VP
@@ -4223,7 +3926,7 @@
 
 (SINV
   (`` ``)
-  (S-TPC-1
+  (S-TPC
     (S
       (NP-SBJ
         (PRP She))
@@ -4260,11 +3963,10 @@
     (NP
       (-NONE- *-3))
     (SBAR-NOM
-      (WHNP-1
-        (WP what))
       (S
         (NP-SBJ
-          (-NONE- *T*-1))
+          (WHNP
+            (WP what)))
         (VP
           (VBZ 's)
           (ADJP-PRD
@@ -4272,51 +3974,48 @@
             (NP
               (PRP me))))))))
 
-(SINV-2
-  (PP-LOC-PRD-1
-    (IN Among)
-    (NP
-      (PRP them)))
-  (PRN
-    (, ,)
-    (S
-      (NP-SBJ
-        (PRP he))
-      (VP
-        (VBZ says)
-        (SBAR
-          (-NONE- 0)
-          (SINV
-            (-NONE- *T*-2)))))
-    (, ,))
-  (VP
-    (VBZ is))
-  (NP-SBJ
-    (NP
-      (NNS ties)))
-  (. .))
+(PRN
+  (, ,)
+  (S
+    (NP-SBJ
+      (PRP he))
+    (VP
+      (VBZ says)
+      (SBAR
+        (-NONE- 0_NULL)
+        (SINV
+          (PP-LOC-PRD
+            (IN Among)
+            (NP
+              (PRP them)))
+          (VP
+            (VBZ is))
+          (NP-SBJ
+            (NP
+              (NNS ties)))
+          (. .)))))
+  (, ,))
 
 (SINV
-  (S-TPC-1
-    (NP-SBJ
-      (NP
-        (NN %)))
-    (VP
-      (VBP watch)
-      (NP
-        (DT the)
-        (NN news))
-      (NP-ADV
-        (NP
-          (DT the)
-          (NN viewership)))))
   (, ,)
   (VP
     (VBZ says)
     (SBAR
-      (-NONE- 0)
+      (-NONE- 0_NULL)
       (S
-        (-NONE- *T*-1))))
+        (S-TPC
+          (NP-SBJ
+            (NP
+              (NN %)))
+          (VP
+            (VBP watch)
+            (NP
+              (DT the)
+              (NN news))
+            (NP-ADV
+              (NP
+                (DT the)
+                (NN viewership))))))))
   (NP-SBJ
     (NP
       (DT a)
@@ -4325,15 +4024,14 @@
   (. .))
 
 (SINV
-  (ADVP-PRD-TPC-2
+  (ADVP-PRD-TPC
     (RB Here))
   (, ,)
   (PP-LOC
     (IN at)
     (NP
-      (NP
-        (DT a)
-        (NN stadium))))
+      (DT a)
+      (NN stadium)))
   (NP-TMP
     (NN yesterday))
   (, ,)
@@ -4370,24 +4068,23 @@
     (PRP she))
   (: :)
   (`` ``)
-  (S-1
-    (S
-      (SBAR-TMP
-        (IN Once)
-        (S
-          (NP-SBJ
-            (PRP you))
-          (VP
-            (VBP add)
-            (NP
-              (NNS dramatizations)))))
+  (S
+    (SBAR-TMP
+      (IN Once)
       (S
         (NP-SBJ
-          (PRP it))
+          (PRP you))
         (VP
-          (VBZ 's)
-          (NP-PRD
-            (NN news))))))
+          (VBP add)
+          (NP
+            (NNS dramatizations)))))
+    (S
+      (NP-SBJ
+        (PRP it))
+      (VP
+        (VBZ 's)
+        (NP-PRD
+          (NN news)))))
   (: ...)
   (. .))
 
@@ -4406,7 +4103,7 @@
   (. .))
 
 (SINV
-  (S-TPC-1
+  (S-TPC
     (`` ``)
     (NP-SBJ
       (PRP We))
@@ -4421,17 +4118,15 @@
   (NP-SBJ
     (NP
       (NNP McCammon)))
-  (PP-LOC-2
+  (PP-LOC
     (IN at)
     (NP
-      (NP
-        (DT a)
-        (NN conference))))
-  (PP-LOC-3
+      (DT a)
+      (NN conference)))
+  (PP-LOC
     (IN in)
     (NP
-      (NP
-        (NNP Dearborn))))
+      (NNP Dearborn)))
   (. .))
 
 (SINV
@@ -4474,19 +4169,17 @@
     (ADVP
       (RB often))
     (SBAR
-      (-NONE- *ICH*-1)))
+      (IN that)
+      (S
+        (NP-SBJ
+          (PRP they))
+        (VP
+          (VBP seem)))))
   (VBP are)
   (NP-SBJ
     (NNS statistics))
   (VP
     (VBD revised))
-  (SBAR-1
-    (IN that)
-    (S
-      (NP-SBJ-2
-        (PRP they))
-      (VP
-        (VBP seem))))
   (. .))
 
 (SINV
@@ -4496,21 +4189,20 @@
     (NP
       (NNP Kotman)))
   (`` ``)
-  (S-1
-    (S
-      (NP-SBJ
-        (EX There))
-      (VP
-        (VBZ 's)
-        (NP-PRD
-          (NP
-            (NN nothing))))))
+  (S
+    (NP-SBJ
+      (EX There))
+    (VP
+      (VBZ 's)
+      (NP-PRD
+        (NP
+          (NN nothing)))))
   (. .)
   ('' ''))
 
 (SINV
   (`` ``)
-  (S-TPC-4
+  (S-TPC
     (NP-SBJ
       (DT The)
       (NN decision))

@@ -1293,13 +1293,8 @@
 6	you	_	_	PRP	_	5	SUBJ	_	_	do
 7	make	_	_	VB	_	5	???	_	_	do
 8	corkscrews	_	_	NNS	_	7	OBJ-DO	_	_	make
-9	when	_	_	WRB	_	7	???	_	_	make
-10	all	_	_	DT	_	11	SUBJ	_	_	is
-11	is	_	_	VBZ	_	9	???	_	_	when
-12	one	_	_	CD	_	13	???	_	_	one
-13	one	_	_	CD	_	11	OBJ-DO	_	_	is
-14	?	_	_	.	_	5	???	_	_	do
-15	'	_	_	''	_	1	???	_	_	like
+9	?	_	_	.	_	5	???	_	_	do
+10	'	_	_	''	_	1	???	_	_	like
 
 1	as	_	_	IN	_	2	???	_	_	to
 2	to	_	_	TO	_	0	ROOT	_	_	ROOT

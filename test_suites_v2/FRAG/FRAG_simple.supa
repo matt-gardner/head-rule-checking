@@ -521,12 +521,7 @@
 2	not	_	_	RB	_	3	???	_	_	watch
 3	watch	_	_	VB	_	0	ROOT	_	_	ROOT
 4	hear	_	_	VB	_	3	???	_	_	watch
-5	while	_	_	IN	_	3	???	_	_	watch
-6	you	_	_	PRP	_	7	SUBJ	_	_	were
-7	were	_	_	VBD	_	5	???	_	_	while
-8	living	_	_	VBG	_	7	???	_	_	were
-9	it	_	_	PRP	_	8	OBJ-DO	_	_	living
-10	?	_	_	.	_	3	???	_	_	watch
+5	?	_	_	.	_	3	???	_	_	watch
 
 1	''	_	_	''	_	3	???	_	_	for
 2	So	_	_	RB	_	3	???	_	_	for
@@ -677,7 +672,7 @@
 7	calculations	_	_	NNS	_	5	???	_	_	to
 8	.	_	_	.	_	4	???	_	_	according
 
-1	much	_	_	JJ	_	5	???	_	_	for
+1	So	_	_	RB	_	5	???	_	_	for
 2	,	_	_	,	_	5	???	_	_	for
 3	too	_	_	RB	_	5	???	_	_	for
 4	,	_	_	,	_	5	???	_	_	for
@@ -966,12 +961,8 @@
 6	could	_	_	MD	_	0	ROOT	_	_	ROOT
 7	be	_	_	VB	_	6	???	_	_	could
 8	used	_	_	VBN	_	7	???	_	_	be
-9	while	_	_	IN	_	8	???	_	_	used
-10	shelves	_	_	NNS	_	11	SUBJ	_	_	might
-11	might	_	_	MD	_	9	???	_	_	while
-12	aid	_	_	VB	_	11	???	_	_	might
-13	.	_	_	.	_	6	???	_	_	could
-14	''	_	_	''	_	6	???	_	_	could
+9	.	_	_	.	_	6	???	_	_	could
+10	''	_	_	''	_	6	???	_	_	could
 
 1	Babies	_	_	NNS	_	4	???	_	_	,
 2	,	_	_	,	_	4	???	_	_	,

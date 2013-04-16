@@ -832,12 +832,7 @@
 1	People	_	_	NNS	_	2	SUBJ	_	_	are
 2	are	_	_	VBP	_	0	ROOT	_	_	ROOT
 3	looking	_	_	VBG	_	2	???	_	_	are
-4	before	_	_	RB	_	3	???	_	_	looking
-5	the	_	_	DT	_	6	???	_	_	number
-6	number	_	_	NN	_	7	SUBJ	_	_	runs
-7	runs	_	_	VBZ	_	4	???	_	_	before
-8	out	_	_	RP	_	7	???	_	_	runs
-9	,	_	_	,	_	2	???	_	_	are
+4	,	_	_	,	_	2	???	_	_	are
 
 1	the	_	_	DT	_	2	???	_	_	Plan
 2	Plan	_	_	NNP	_	4	SUBJ	_	_	did
@@ -985,11 +980,7 @@
 13	not	_	_	RB	_	12	???	_	_	may
 14	buy	_	_	VB	_	12	???	_	_	may
 15	episodes	_	_	NNS	_	14	OBJ-DO	_	_	buy
-16	when	_	_	WRB	_	14	???	_	_	buy
-17	their	_	_	PRP$	_	18	???	_	_	contracts
-18	contracts	_	_	NNS	_	19	SUBJ	_	_	expire
-19	expire	_	_	VBP	_	16	???	_	_	when
-20	.	_	_	.	_	4	???	_	_	are
+16	.	_	_	.	_	4	???	_	_	are
 
 1	However	_	_	RB	_	5	???	_	_	are
 2	,	_	_	,	_	5	???	_	_	are
@@ -1006,10 +997,7 @@
 13	0_NULL	_	_	-NONE-	_	12	???	_	_	believe
 14	Knight	_	_	NNP	_	15	SUBJ	_	_	errs
 15	errs	_	_	VBZ	_	13	???	_	_	0_NULL
-16	when	_	_	WRB	_	15	???	_	_	errs
-17	he	_	_	PRP	_	18	SUBJ	_	_	attempts
-18	attempts	_	_	VBZ	_	16	???	_	_	when
-19	.	_	_	.	_	5	???	_	_	are
+16	.	_	_	.	_	5	???	_	_	are
 
 1	Since	_	_	IN	_	11	???	_	_	has
 2	the	_	_	DT	_	3	???	_	_	reforms
@@ -1025,13 +1013,7 @@
 12	posted	_	_	VBN	_	11	???	_	_	has
 13	a	_	_	DT	_	14	???	_	_	rate
 14	rate	_	_	NN	_	12	OBJ-DO	_	_	posted
-15	although	_	_	IN	_	12	???	_	_	posted
-16	the	_	_	DT	_	17	???	_	_	state
-17	state	_	_	NN	_	18	SUBJ	_	_	posts
-18	posts	_	_	VBZ	_	15	???	_	_	although
-19	the	_	_	DT	_	20	???	_	_	score
-20	score	_	_	NN	_	18	OBJ-DO	_	_	posts
-21	.	_	_	.	_	11	???	_	_	has
+15	.	_	_	.	_	11	???	_	_	has
 
 1	of	_	_	IN	_	8	???	_	_	ring
 2	the	_	_	DT	_	3	???	_	_	bellringers
@@ -1445,11 +1427,7 @@
 2	,	_	_	,	_	4	???	_	_	ought
 3	we	_	_	PRP	_	4	SUBJ	_	_	ought
 4	ought	_	_	MD	_	0	ROOT	_	_	ROOT
-5	just	_	_	RB	_	6	???	_	_	as
-6	as	_	_	IN	_	4	???	_	_	ought
-7	we	_	_	PRP	_	8	SUBJ	_	_	ought
-8	ought	_	_	MD	_	6	???	_	_	as
-9	.	_	_	.	_	4	???	_	_	ought
+5	.	_	_	.	_	4	???	_	_	ought
 
 1	While	_	_	IN	_	17	???	_	_	said
 2	Timbers	_	_	NNP	_	3	SUBJ	_	_	explained
@@ -1763,10 +1741,7 @@
 15	%	_	_	NN	_	16	SUBJ	_	_	have
 16	have	_	_	VBP	_	10	???	_	_	must
 17	views	_	_	NNS	_	16	OBJ-DO	_	_	have
-18	while	_	_	IN	_	16	???	_	_	have
-19	%	_	_	NN	_	20	SUBJ	_	_	approve
-20	approve	_	_	VBP	_	18	???	_	_	while
-21	.	_	_	.	_	6	???	_	_	is
+18	.	_	_	.	_	6	???	_	_	is
 
 1	Masson	_	_	NNP	_	2	SUBJ	_	_	had
 2	had	_	_	VBD	_	0	ROOT	_	_	ROOT
@@ -2127,21 +2102,17 @@
 2	lowered	_	_	VBD	_	0	ROOT	_	_	ROOT
 3	its	_	_	PRP$	_	4	???	_	_	base
 4	base	_	_	NN	_	2	OBJ-DO	_	_	lowered
-5	while	_	_	IN	_	2	???	_	_	lowered
-6	not	_	_	RB	_	7	???	_	_	increasing
-7	increasing	_	_	VBG	_	5	???	_	_	while
-8	rates	_	_	NNS	_	7	OBJ-DO	_	_	increasing
-9	;	_	_	:	_	2	???	_	_	lowered
-10	rate	_	_	NN	_	11	SUBJ	_	_	will
-11	will	_	_	MD	_	2	???	_	_	lowered
-12	be	_	_	VB	_	11	???	_	_	will
-13	%	_	_	NN	_	14	???	_	_	higher
-14	higher	_	_	JJR	_	12	???	_	_	be
-15	;	_	_	:	_	2	???	_	_	lowered
-16	a	_	_	DT	_	17	???	_	_	page
-17	page	_	_	NN	_	18	SUBJ	_	_	costs
-18	costs	_	_	VBZ	_	2	???	_	_	lowered
-19	.	_	_	.	_	2	???	_	_	lowered
+5	;	_	_	:	_	2	???	_	_	lowered
+6	rate	_	_	NN	_	7	SUBJ	_	_	will
+7	will	_	_	MD	_	2	???	_	_	lowered
+8	be	_	_	VB	_	7	???	_	_	will
+9	%	_	_	NN	_	10	???	_	_	higher
+10	higher	_	_	JJR	_	8	???	_	_	be
+11	;	_	_	:	_	2	???	_	_	lowered
+12	a	_	_	DT	_	13	???	_	_	page
+13	page	_	_	NN	_	14	SUBJ	_	_	costs
+14	costs	_	_	VBZ	_	2	???	_	_	lowered
+15	.	_	_	.	_	2	???	_	_	lowered
 
 1	months	_	_	NNS	_	2	???	_	_	ago
 2	ago	_	_	IN	_	6	???	_	_	added
@@ -2313,12 +2284,7 @@
 12	has	_	_	VBZ	_	10	???	_	_	0_NULL
 13	been	_	_	VBN	_	12	???	_	_	has
 14	pro-choice	_	_	JJ	_	13	???	_	_	been
-15	even	_	_	RB	_	16	???	_	_	though
-16	though	_	_	IN	_	13	???	_	_	been
-17	he	_	_	PRP	_	18	SUBJ	_	_	has
-18	has	_	_	VBZ	_	16	???	_	_	though
-19	reservations	_	_	NNS	_	18	OBJ-DO	_	_	has
-20	.	_	_	.	_	9	???	_	_	knows
+15	.	_	_	.	_	9	???	_	_	knows
 
 1	she	_	_	PRP	_	2	SUBJ	_	_	offers
 2	offers	_	_	VBZ	_	0	ROOT	_	_	ROOT
@@ -2459,7 +2425,7 @@
 14	''	_	_	''	_	13	???	_	_	insufficient
 
 1	``	_	_	``	_	7	???	_	_	says
-2	wonder	_	_	VB	_	7	OBJ-DO	_	_	says
+2	No	_	_	RB	_	7	OBJ-DO	_	_	says
 3	,	_	_	,	_	7	???	_	_	says
 4	''	_	_	''	_	7	???	_	_	says
 5	the	_	_	DT	_	6	???	_	_	announcer
@@ -2645,18 +2611,13 @@
 7	''	_	_	''	_	9	???	_	_	declared
 8	Winiarski	_	_	NNP	_	9	SUBJ	_	_	declared
 9	declared	_	_	VBD	_	3	???	_	_	is
-10	when	_	_	WRB	_	9	???	_	_	declared
-11	he	_	_	PRP	_	12	SUBJ	_	_	introduced
-12	introduced	_	_	VBD	_	10	???	_	_	when
-13	the	_	_	DT	_	14	???	_	_	wine
-14	wine	_	_	NN	_	12	OBJ-DO	_	_	introduced
-15	,	_	_	,	_	9	???	_	_	declared
-16	``	_	_	``	_	3	???	_	_	is
-17	and	_	_	CC	_	3	???	_	_	is
-18	I	_	_	PRP	_	19	SUBJ	_	_	wanted
-19	wanted	_	_	VBD	_	3	???	_	_	is
-20	.	_	_	.	_	3	???	_	_	is
-21	''	_	_	''	_	3	???	_	_	is
+10	,	_	_	,	_	9	???	_	_	declared
+11	``	_	_	``	_	3	???	_	_	is
+12	and	_	_	CC	_	3	???	_	_	is
+13	I	_	_	PRP	_	14	SUBJ	_	_	wanted
+14	wanted	_	_	VBD	_	3	???	_	_	is
+15	.	_	_	.	_	3	???	_	_	is
+16	''	_	_	''	_	3	???	_	_	is
 
 1	``	_	_	``	_	5	???	_	_	're
 2	Now	_	_	RB	_	5	???	_	_	're
@@ -2738,11 +2699,7 @@
 6	Allied-Signal	_	_	NNP	_	7	SUBJ	_	_	lost
 7	lost	_	_	VBD	_	4	???	_	_	went
 8	7\/8	_	_	CD	_	7	OBJ-DO	_	_	lost
-9	even	_	_	RB	_	10	???	_	_	though
-10	though	_	_	IN	_	7	???	_	_	lost
-11	results	_	_	NNS	_	12	SUBJ	_	_	were
-12	were	_	_	VBD	_	10	???	_	_	though
-13	.	_	_	.	_	4	???	_	_	went
+9	.	_	_	.	_	4	???	_	_	went
 
 1	Although	_	_	IN	_	0	ROOT	_	_	ROOT
 2	the	_	_	DT	_	3	???	_	_	comedy
@@ -3265,17 +3222,14 @@
 9	became	_	_	VBD	_	0	ROOT	_	_	ROOT
 10	popular	_	_	JJ	_	9	???	_	_	became
 
-1	Munching	_	_	VBG	_	10	???	_	_	presided
+1	Munching	_	_	VBG	_	7	???	_	_	presided
 2	pizza	_	_	NN	_	1	OBJ-DO	_	_	Munching
-3	when	_	_	WRB	_	1	???	_	_	Munching
-4	they	_	_	PRP	_	5	SUBJ	_	_	could
-5	could	_	_	MD	_	3	???	_	_	when
-6	,	_	_	,	_	10	???	_	_	presided
-7	the	_	_	DT	_	8	???	_	_	specialists
-8	specialists	_	_	NNS	_	10	SUBJ	_	_	presided
-9	yesterday	_	_	NN	_	10	???	_	_	presided
-10	presided	_	_	VBD	_	0	ROOT	_	_	ROOT
-11	.	_	_	.	_	10	???	_	_	presided
+3	,	_	_	,	_	7	???	_	_	presided
+4	the	_	_	DT	_	5	???	_	_	specialists
+5	specialists	_	_	NNS	_	7	SUBJ	_	_	presided
+6	yesterday	_	_	NN	_	7	???	_	_	presided
+7	presided	_	_	VBD	_	0	ROOT	_	_	ROOT
+8	.	_	_	.	_	7	???	_	_	presided
 
 1	But	_	_	CC	_	6	???	_	_	expect
 2	like	_	_	IN	_	6	???	_	_	expect
@@ -4270,10 +4224,7 @@
 21	``	_	_	``	_	22	???	_	_	did
 22	did	_	_	VBD	_	18	???	_	_	0_NULL
 23	n't	_	_	RB	_	22	???	_	_	did
-24	laugh	_	_	NN	_	25	???	_	_	or
-25	or	_	_	CC	_	22	???	_	_	did
-26	anything	_	_	NN	_	25	???	_	_	or
-27	.	_	_	.	_	2	???	_	_	only
+24	.	_	_	.	_	2	???	_	_	only
 
 1	His	_	_	PRP$	_	2	???	_	_	appearance
 2	appearance	_	_	NN	_	5	SUBJ	_	_	scandalized
@@ -4345,11 +4296,6 @@
 11	allies	_	_	NNS	_	12	SUBJ	_	_	became
 12	became	_	_	VBD	_	5	???	_	_	worked
 13	skeptical	_	_	JJ	_	12	???	_	_	became
-14	as	_	_	IN	_	12	???	_	_	became
-15	they	_	_	PRP	_	16	SUBJ	_	_	saw
-16	saw	_	_	VBD	_	14	???	_	_	as
-17	the	_	_	DT	_	18	???	_	_	downtrend
-18	downtrend	_	_	NN	_	16	OBJ-DO	_	_	saw
 
 1	d	_	_	LS	_	4	???	_	_	is
 2	-	_	_	:	_	4	???	_	_	is
@@ -4613,13 +4559,6 @@
 4	teach	_	_	VBP	_	0	ROOT	_	_	ROOT
 5	the	_	_	DT	_	6	???	_	_	test
 6	test	_	_	NN	_	4	OBJ-DO	_	_	teach
-7	as	_	_	IN	_	4	???	_	_	teach
-8	Yeargin	_	_	NNP	_	9	SUBJ	_	_	did
-9	did	_	_	VBD	_	7	???	_	_	as
-10	although	_	_	IN	_	4	???	_	_	teach
-11	most	_	_	JJS	_	12	SUBJ	_	_	are
-12	are	_	_	VBP	_	10	???	_	_	although
-13	caught	_	_	VBN	_	12	???	_	_	are
 
 1	After	_	_	IN	_	6	???	_	_	would
 2	that	_	_	DT	_	1	???	_	_	After
@@ -5546,10 +5485,7 @@ null
 7	Yamamoto	_	_	NNP	_	9	SUBJ	_	_	read
 8	,	_	_	,	_	9	???	_	_	read
 9	read	_	_	VBD	_	0	ROOT	_	_	ROOT
-10	as	_	_	IN	_	9	???	_	_	read
-11	he	_	_	PRP	_	12	SUBJ	_	_	stood
-12	stood	_	_	VBD	_	10	???	_	_	as
-13	.	_	_	.	_	9	???	_	_	read
+10	.	_	_	.	_	9	???	_	_	read
 
 1	Of	_	_	IN	_	7	???	_	_	could
 2	course	_	_	NN	_	1	???	_	_	Of
@@ -5634,7 +5570,7 @@ null
 7	hanging	_	_	VBG	_	6	???	_	_	is
 8	.	_	_	.	_	6	???	_	_	is
 
-1	``	_	_	``	_	32	???	_	_	says
+1	``	_	_	``	_	28	???	_	_	says
 2	So	_	_	RB	_	16	???	_	_	come
 3	crunch	_	_	NN	_	16	???	_	_	come
 4	,	_	_	,	_	3	???	_	_	crunch
@@ -5649,7 +5585,7 @@ null
 13	bang	_	_	NN	_	3	???	_	_	crunch
 14	--	_	_	:	_	16	???	_	_	come
 15	here	_	_	RB	_	16	???	_	_	come
-16	come	_	_	VBP	_	32	???	_	_	says
+16	come	_	_	VBP	_	28	???	_	_	says
 17	the	_	_	DT	_	18	???	_	_	ringers
 18	ringers	_	_	NNS	_	16	SUBJ	_	_	come
 19	from	_	_	IN	_	16	???	_	_	come
@@ -5658,15 +5594,11 @@ null
 22	making	_	_	VBG	_	16	???	_	_	come
 23	a	_	_	DT	_	24	???	_	_	exit
 24	exit	_	_	NN	_	22	OBJ-DO	_	_	making
-25	while	_	_	IN	_	22	???	_	_	making
-26	the	_	_	DT	_	27	???	_	_	congregation
-27	congregation	_	_	NN	_	28	SUBJ	_	_	is
-28	is	_	_	VBZ	_	25	???	_	_	while
-29	,	_	_	,	_	32	???	_	_	says
-30	''	_	_	''	_	32	???	_	_	says
-31	he	_	_	PRP	_	32	SUBJ	_	_	says
-32	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
-33	.	_	_	.	_	32	???	_	_	says
+25	,	_	_	,	_	28	???	_	_	says
+26	''	_	_	''	_	28	???	_	_	says
+27	he	_	_	PRP	_	28	SUBJ	_	_	says
+28	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+29	.	_	_	.	_	28	???	_	_	says
 
 1	Either	_	_	CC	_	3	???	_	_	was
 2	he	_	_	PRP	_	3	SUBJ	_	_	was
@@ -5895,25 +5827,19 @@ null
 5	lawsuit	_	_	NN	_	6	SUBJ	_	_	was
 6	was	_	_	VBD	_	0	ROOT	_	_	ROOT
 7	filed	_	_	VBN	_	6	???	_	_	was
-8	long	_	_	RB	_	9	???	_	_	after
-9	after	_	_	RB	_	7	???	_	_	filed
-10	the	_	_	DT	_	11	???	_	_	drug
-11	drug	_	_	NN	_	12	SUBJ	_	_	was
-12	was	_	_	VBD	_	9	???	_	_	after
-13	used	_	_	VBN	_	12	???	_	_	was
-14	--	_	_	:	_	17	???	_	_	was
-15	the	_	_	DT	_	16	???	_	_	cancer
-16	cancer	_	_	NN	_	17	SUBJ	_	_	was
-17	was	_	_	VBD	_	6	???	_	_	was
-18	not	_	_	RB	_	17	???	_	_	was
-19	detected	_	_	VBN	_	17	???	_	_	was
-20	--	_	_	:	_	17	???	_	_	was
-21	and	_	_	CC	_	6	???	_	_	was
-22	there	_	_	EX	_	23	SUBJ	_	_	is
-23	is	_	_	VBZ	_	6	???	_	_	was
-24	no	_	_	DT	_	25	???	_	_	way
-25	way	_	_	NN	_	23	OBJ-DO	_	_	is
-26	.	_	_	.	_	6	???	_	_	was
+8	--	_	_	:	_	11	???	_	_	was
+9	the	_	_	DT	_	10	???	_	_	cancer
+10	cancer	_	_	NN	_	11	SUBJ	_	_	was
+11	was	_	_	VBD	_	6	???	_	_	was
+12	not	_	_	RB	_	11	???	_	_	was
+13	detected	_	_	VBN	_	11	???	_	_	was
+14	--	_	_	:	_	11	???	_	_	was
+15	and	_	_	CC	_	6	???	_	_	was
+16	there	_	_	EX	_	17	SUBJ	_	_	is
+17	is	_	_	VBZ	_	6	???	_	_	was
+18	no	_	_	DT	_	19	???	_	_	way
+19	way	_	_	NN	_	17	OBJ-DO	_	_	is
+20	.	_	_	.	_	6	???	_	_	was
 
 1	Moreover	_	_	RB	_	4	???	_	_	can
 2	,	_	_	,	_	4	???	_	_	can
@@ -5997,13 +5923,7 @@ null
 12	really	_	_	RB	_	10	???	_	_	can
 13	enjoy	_	_	VB	_	10	???	_	_	can
 14	them	_	_	PRP	_	13	OBJ-DO	_	_	enjoy
-15	only	_	_	RB	_	16	???	_	_	if
-16	if	_	_	IN	_	13	???	_	_	enjoy
-17	the	_	_	DT	_	18	???	_	_	music
-18	music	_	_	NN	_	19	SUBJ	_	_	is
-19	is	_	_	VBZ	_	16	???	_	_	if
-20	purged	_	_	VBN	_	19	???	_	_	is
-21	?	_	_	.	_	10	???	_	_	can
+15	?	_	_	.	_	10	???	_	_	can
 
 1	And	_	_	CC	_	6	???	_	_	gets
 2	then	_	_	RB	_	6	???	_	_	gets
@@ -6549,12 +6469,7 @@ null
 10	they	_	_	PRP	_	11	SUBJ	_	_	're
 11	're	_	_	VBP	_	4	???	_	_	can
 12	meaningless	_	_	JJ	_	11	???	_	_	're
-13	unless	_	_	IN	_	11	???	_	_	're
-14	Congress	_	_	NNP	_	15	SUBJ	_	_	has
-15	has	_	_	VBZ	_	13	???	_	_	unless
-16	a	_	_	DT	_	17	???	_	_	conscience
-17	conscience	_	_	NN	_	15	OBJ-DO	_	_	has
-18	.	_	_	.	_	4	???	_	_	can
+13	.	_	_	.	_	4	???	_	_	can
 
 1	-LRB-	_	_	-LRB-	_	3	???	_	_	is
 2	%	_	_	NN	_	2	SUBJ	_	_	%
@@ -7876,13 +7791,7 @@ null
 9	be	_	_	VB	_	8	???	_	_	may
 10	the	_	_	DT	_	11	???	_	_	thing
 11	thing	_	_	NN	_	9	OBJ-DO	_	_	be
-12	at	_	_	IN	_	14	???	_	_	when
-13	least	_	_	JJS	_	12	???	_	_	at
-14	when	_	_	WRB	_	9	???	_	_	be
-15	she	_	_	PRP	_	16	SUBJ	_	_	's
-16	's	_	_	VBZ	_	14	???	_	_	when
-17	acting	_	_	VBG	_	16	???	_	_	's
-18	.	_	_	.	_	8	???	_	_	may
+12	.	_	_	.	_	8	???	_	_	may
 
 1	If	_	_	IN	_	9	???	_	_	wo
 2	we	_	_	PRP	_	3	SUBJ	_	_	do
@@ -8163,16 +8072,7 @@ null
 5	the	_	_	DT	_	6	???	_	_	gap
 6	gap	_	_	NN	_	7	SUBJ	_	_	narrowed
 7	narrowed	_	_	VBN	_	0	ROOT	_	_	ROOT
-8	as	_	_	IN	_	7	???	_	_	narrowed
-9	income	_	_	NN	_	10	SUBJ	_	_	shot
-10	shot	_	_	VBD	_	8	???	_	_	as
-11	%	_	_	NN	_	10	OBJ-DO	_	_	shot
-12	while	_	_	NN	_	10	???	_	_	shot
-13	income	_	_	NN	_	14	SUBJ	_	_	did
-14	did	_	_	VBD	_	12	???	_	_	while
-15	n't	_	_	RB	_	14	???	_	_	did
-16	budge	_	_	VB	_	14	???	_	_	did
-17	.	_	_	.	_	7	???	_	_	narrowed
+8	.	_	_	.	_	7	???	_	_	narrowed
 
 1	Despite	_	_	IN	_	11	???	_	_	found
 2	that	_	_	DT	_	1	???	_	_	Despite
@@ -8440,11 +8340,11 @@ null
 10	n't	_	_	RB	_	9	???	_	_	does
 11	work	_	_	VB	_	9	???	_	_	does
 
-1	As	_	_	IN	_	21	???	_	_	'm
+1	As	_	_	IN	_	17	???	_	_	'm
 2	for	_	_	IN	_	1	???	_	_	As
 3	Lincoln	_	_	NNP	_	2	???	_	_	for
-4	,	_	_	,	_	21	???	_	_	'm
-5	if	_	_	IN	_	21	???	_	_	'm
+4	,	_	_	,	_	17	???	_	_	'm
+5	if	_	_	IN	_	17	???	_	_	'm
 6	you	_	_	PRP	_	7	SUBJ	_	_	ca
 7	ca	_	_	MD	_	5	???	_	_	if
 8	n't	_	_	RB	_	7	???	_	_	ca
@@ -8453,17 +8353,13 @@ null
 11	he	_	_	PRP	_	12	SUBJ	_	_	's
 12	's	_	_	VBZ	_	10	???	_	_	why
 13	sweet	_	_	JJ	_	12	???	_	_	's
-14	when	_	_	WRB	_	12	???	_	_	's
-15	everybody	_	_	NN	_	16	SUBJ	_	_	hates
-16	hates	_	_	VBZ	_	14	???	_	_	when
-17	her	_	_	PRP	_	16	OBJ-DO	_	_	hates
-18	,	_	_	,	_	21	???	_	_	'm
-19	then	_	_	RB	_	21	???	_	_	'm
-20	I	_	_	PRP	_	21	SUBJ	_	_	'm
-21	'm	_	_	VBP	_	0	ROOT	_	_	ROOT
-22	not	_	_	RB	_	21	???	_	_	'm
-23	going	_	_	VBG	_	21	???	_	_	'm
-24	.	_	_	.	_	21	???	_	_	'm
+14	,	_	_	,	_	17	???	_	_	'm
+15	then	_	_	RB	_	17	???	_	_	'm
+16	I	_	_	PRP	_	17	SUBJ	_	_	'm
+17	'm	_	_	VBP	_	0	ROOT	_	_	ROOT
+18	not	_	_	RB	_	17	???	_	_	'm
+19	going	_	_	VBG	_	17	???	_	_	'm
+20	.	_	_	.	_	17	???	_	_	'm
 
 1	``	_	_	``	_	5	???	_	_	is
 2	-LCB-	_	_	-LRB-	_	3	???	_	_	trade
@@ -9745,11 +9641,6 @@ null
 6	embrace	_	_	VB	_	5	???	_	_	must
 7	its	_	_	PRP$	_	8	???	_	_	industries
 8	industries	_	_	NNS	_	6	OBJ-DO	_	_	embrace
-9	before	_	_	RB	_	6	???	_	_	embrace
-10	it	_	_	PRP	_	11	SUBJ	_	_	can
-11	can	_	_	MD	_	9	???	_	_	before
-12	be	_	_	VB	_	11	???	_	_	can
-13	said	_	_	VBD	_	12	???	_	_	be
 
 1	Officially	_	_	RB	_	6	???	_	_	encourage
 2	,	_	_	,	_	6	???	_	_	encourage
@@ -9969,10 +9860,6 @@ null
 6	ages	_	_	NNS	_	5	???	_	_	for
 7	have	_	_	VBP	_	0	ROOT	_	_	ROOT
 8	suffered	_	_	VBN	_	7	???	_	_	have
-9	when	_	_	WRB	_	8	???	_	_	suffered
-10	applying	_	_	VBG	_	9	???	_	_	when
-11	his	_	_	PRP$	_	12	???	_	_	designs
-12	designs	_	_	NNS	_	10	OBJ-DO	_	_	applying
 
 1	Release	_	_	VB	_	0	ROOT	_	_	ROOT
 2	all	_	_	DT	_	3	???	_	_	prisoners
@@ -10416,10 +10303,6 @@ null
 25	must	_	_	MD	_	18	???	_	_	abide
 26	wear	_	_	VB	_	25	???	_	_	must
 27	ties	_	_	NNS	_	26	OBJ-DO	_	_	wear
-28	when	_	_	WRB	_	26	???	_	_	wear
-29	on	_	_	IN	_	28	???	_	_	when
-30	the	_	_	DT	_	31	???	_	_	road
-31	road	_	_	NN	_	29	???	_	_	on
 
 1	As	_	_	IN	_	0	ROOT	_	_	ROOT
 2	she	_	_	PRP	_	3	SUBJ	_	_	saw
@@ -10636,7 +10519,7 @@ null
 7	there	_	_	RB	_	8	SUBJ	_	_	was
 8	was	_	_	VBD	_	0	ROOT	_	_	ROOT
 9	n't	_	_	RB	_	8	???	_	_	was
-10	that	_	_	RB	_	8	OBJ-DO	_	_	was
+10	much	_	_	JJ	_	8	OBJ-DO	_	_	was
 11	.	_	_	.	_	8	???	_	_	was
 
 1	But	_	_	CC	_	7	???	_	_	consumed
@@ -10954,11 +10837,7 @@ null
 19	could	_	_	MD	_	2	???	_	_	'm
 20	n't	_	_	RB	_	19	???	_	_	could
 21	sleep	_	_	VB	_	19	???	_	_	could
-22	if	_	_	IN	_	21	???	_	_	sleep
-23	the	_	_	DT	_	24	???	_	_	magazine
-24	magazine	_	_	NN	_	25	SUBJ	_	_	bowed
-25	bowed	_	_	VBD	_	22	???	_	_	if
-26	.	_	_	.	_	2	???	_	_	'm
+22	.	_	_	.	_	2	???	_	_	'm
 
 1	And	_	_	CC	_	10	???	_	_	decided
 2	by	_	_	IN	_	10	???	_	_	decided
@@ -11218,11 +11097,7 @@ null
 10	views	_	_	VBZ	_	0	ROOT	_	_	ROOT
 11	the	_	_	DT	_	12	???	_	_	changes
 12	changes	_	_	NNS	_	10	OBJ-DO	_	_	views
-13	as	_	_	IN	_	10	???	_	_	views
-14	he	_	_	PRP	_	15	SUBJ	_	_	told
-15	told	_	_	VBD	_	13	???	_	_	as
-16	Jr	_	_	NNP	_	15	OBJ-DO	_	_	told
-17	.	_	_	.	_	10	???	_	_	views
+13	.	_	_	.	_	10	???	_	_	views
 
 1	continuation	_	_	NN	_	2	SUBJ	_	_	was
 2	was	_	_	VBD	_	0	ROOT	_	_	ROOT
@@ -11362,12 +11237,6 @@ null
 8	lift	_	_	VBP	_	0	ROOT	_	_	ROOT
 9	the	_	_	DT	_	10	???	_	_	hood
 10	hood	_	_	NN	_	8	OBJ-DO	_	_	lift
-11	When	_	_	WRB	_	8	???	_	_	lift
-12	my	_	_	PRP$	_	13	???	_	_	car
-13	car	_	_	NN	_	14	SUBJ	_	_	does
-14	does	_	_	VBZ	_	11	???	_	_	When
-15	n't	_	_	RB	_	14	???	_	_	does
-16	start	_	_	VB	_	14	???	_	_	does
 
 1	``	_	_	``	_	2	???	_	_	When
 2	When	_	_	WRB	_	0	ROOT	_	_	ROOT
@@ -11408,12 +11277,8 @@ null
 4	,	_	_	,	_	6	???	_	_	occurs
 5	screaming	_	_	VBG	_	6	???	_	_	occurs
 6	occurs	_	_	VBZ	_	0	ROOT	_	_	ROOT
-7	when	_	_	WRB	_	6	???	_	_	occurs
-8	redistribution	_	_	NN	_	10	SUBJ	_	_	threatens
-9	``	_	_	``	_	10	???	_	_	threatens
-10	threatens	_	_	VBZ	_	7	???	_	_	when
-11	.	_	_	.	_	6	???	_	_	occurs
-12	''	_	_	''	_	6	???	_	_	occurs
+7	.	_	_	.	_	6	???	_	_	occurs
+8	''	_	_	''	_	6	???	_	_	occurs
 
 1	Harrison	_	_	NNP	_	2	SUBJ	_	_	shoves
 2	shoves	_	_	VBZ	_	0	ROOT	_	_	ROOT
@@ -12786,22 +12651,17 @@ null
 2	Bill	_	_	NN	_	4	SUBJ	_	_	shall
 3	,	_	_	,	_	4	???	_	_	shall
 4	shall	_	_	MD	_	0	ROOT	_	_	ROOT
-5	before	_	_	IN	_	4	???	_	_	shall
-6	it	_	_	PRP	_	7	SUBJ	_	_	becomes
-7	becomes	_	_	VBZ	_	5	???	_	_	before
-8	a	_	_	DT	_	9	???	_	_	Law
-9	Law	_	_	NNP	_	7	OBJ-DO	_	_	becomes
-10	be	_	_	VB	_	4	???	_	_	shall
-11	presented	_	_	VBN	_	10	???	_	_	be
-12	;	_	_	:	_	4	???	_	_	shall
-13	If	_	_	IN	_	17	???	_	_	shall
-14	he	_	_	PRP	_	15	SUBJ	_	_	approve
-15	approve	_	_	VB	_	13	???	_	_	If
-16	he	_	_	PRP	_	17	SUBJ	_	_	shall
-17	shall	_	_	MD	_	4	???	_	_	shall
-18	sign	_	_	VB	_	17	???	_	_	shall
-19	it	_	_	PRP	_	18	OBJ-DO	_	_	sign
-20	.	_	_	.	_	4	???	_	_	shall
+5	be	_	_	VB	_	4	???	_	_	shall
+6	presented	_	_	VBN	_	5	???	_	_	be
+7	;	_	_	:	_	4	???	_	_	shall
+8	If	_	_	IN	_	12	???	_	_	shall
+9	he	_	_	PRP	_	10	SUBJ	_	_	approve
+10	approve	_	_	VB	_	8	???	_	_	If
+11	he	_	_	PRP	_	12	SUBJ	_	_	shall
+12	shall	_	_	MD	_	4	???	_	_	shall
+13	sign	_	_	VB	_	12	???	_	_	shall
+14	it	_	_	PRP	_	13	OBJ-DO	_	_	sign
+15	.	_	_	.	_	4	???	_	_	shall
 
 1	While	_	_	IN	_	9	???	_	_	had
 2	sales	_	_	NNS	_	3	SUBJ	_	_	were
@@ -12998,10 +12858,6 @@ null
 10	make	_	_	VB	_	8	???	_	_	wo
 11	a	_	_	DT	_	12	???	_	_	move
 12	move	_	_	NN	_	10	OBJ-DO	_	_	make
-13	until	_	_	IN	_	10	???	_	_	make
-14	he	_	_	PRP	_	15	SUBJ	_	_	's
-15	's	_	_	VBZ	_	13	???	_	_	until
-16	clear	_	_	JJ	_	15	???	_	_	's
 
 1	The	_	_	DT	_	2	???	_	_	sale
 2	sale	_	_	NN	_	3	SUBJ	_	_	was
@@ -13118,16 +12974,11 @@ null
 8	display	_	_	VB	_	7	???	_	_	will
 9	a	_	_	DT	_	10	???	_	_	screen
 10	screen	_	_	NN	_	8	OBJ-DO	_	_	display
-11	when	_	_	WRB	_	8	???	_	_	display
-12	a	_	_	DT	_	13	???	_	_	user
-13	user	_	_	NN	_	14	SUBJ	_	_	logs
-14	logs	_	_	VBZ	_	11	???	_	_	when
-15	on	_	_	RP	_	14	???	_	_	logs
-16	that	_	_	DT	_	17	SUBJ	_	_	says
-17	says	_	_	VBZ	_	8	???	_	_	display
-18	Worms	_	_	NNPS	_	17	OBJ-DO	_	_	says
-19	...	_	_	:	_	7	???	_	_	will
-20	.	_	_	.	_	7	???	_	_	will
+11	that	_	_	DT	_	12	SUBJ	_	_	says
+12	says	_	_	VBZ	_	8	???	_	_	display
+13	Worms	_	_	NNPS	_	12	OBJ-DO	_	_	says
+14	...	_	_	:	_	7	???	_	_	will
+15	.	_	_	.	_	7	???	_	_	will
 
 1	But	_	_	CC	_	10	???	_	_	are
 2	,	_	_	,	_	4	???	_	_	added
@@ -13323,11 +13174,7 @@ null
 6	,	_	_	,	_	7	???	_	_	rose
 7	rose	_	_	VBD	_	0	ROOT	_	_	ROOT
 8	%	_	_	NN	_	7	OBJ-DO	_	_	rose
-9	while	_	_	IN	_	7	???	_	_	rose
-10	income	_	_	NN	_	11	SUBJ	_	_	rose
-11	rose	_	_	VBD	_	9	???	_	_	while
-12	%	_	_	NN	_	11	OBJ-DO	_	_	rose
-13	.	_	_	.	_	7	???	_	_	rose
+9	.	_	_	.	_	7	???	_	_	rose
 
 1	Art	_	_	NN	_	9	SUBJ	_	_	is
 2	,	_	_	,	_	9	???	_	_	is
@@ -13527,10 +13374,7 @@ null
 7	``	_	_	``	_	8	???	_	_	may
 8	may	_	_	MD	_	0	ROOT	_	_	ROOT
 9	blip	_	_	VB	_	8	???	_	_	may
-10	before	_	_	IN	_	9	???	_	_	blip
-11	they	_	_	PRP	_	12	SUBJ	_	_	blip
-12	blip	_	_	VBP	_	10	???	_	_	before
-13	.	_	_	.	_	8	???	_	_	may
+10	.	_	_	.	_	8	???	_	_	may
 
 1	restructuring	_	_	VBG	_	3	???	_	_	has
 2	``	_	_	``	_	3	???	_	_	has
@@ -14020,33 +13864,22 @@ null
 8	a	_	_	DT	_	9	???	_	_	surplus
 9	surplus	_	_	NN	_	7	OBJ-DO	_	_	run
 
-1	But	_	_	CC	_	20	???	_	_	make
+1	But	_	_	CC	_	14	???	_	_	make
 2	,	_	_	,	_	4	???	_	_	observes
 3	he	_	_	PRP	_	4	SUBJ	_	_	observes
 4	observes	_	_	VBZ	_	0	ROOT	_	_	ROOT
 5	0_NULL	_	_	-NONE-	_	4	???	_	_	observes
 6	,	_	_	,	_	4	???	_	_	observes
-7	while	_	_	IN	_	20	???	_	_	make
+7	while	_	_	IN	_	14	???	_	_	make
 8	makers	_	_	NNS	_	9	SUBJ	_	_	suffer
 9	suffer	_	_	VBP	_	7	???	_	_	while
 10	losses	_	_	NNS	_	9	OBJ-DO	_	_	suffer
-11	when	_	_	WRB	_	9	???	_	_	suffer
-12	trading	_	_	NN	_	13	SUBJ	_	_	drags
-13	drags	_	_	VBZ	_	11	???	_	_	when
-14	the	_	_	DT	_	15	???	_	_	market
-15	market	_	_	NN	_	13	OBJ-DO	_	_	drags
-16	down	_	_	RP	_	13	???	_	_	drags
-17	,	_	_	,	_	20	???	_	_	make
-18	they	_	_	PRP	_	20	SUBJ	_	_	make
-19	also	_	_	RB	_	20	???	_	_	make
-20	make	_	_	VBP	_	5	???	_	_	0_NULL
-21	money	_	_	NN	_	20	OBJ-DO	_	_	make
-22	when	_	_	WRB	_	20	???	_	_	make
-23	trading	_	_	NN	_	24	SUBJ	_	_	pushes
-24	pushes	_	_	VBZ	_	22	???	_	_	when
-25	the	_	_	DT	_	26	???	_	_	prices
-26	prices	_	_	NNS	_	24	OBJ-DO	_	_	pushes
-27	.	_	_	.	_	20	???	_	_	make
+11	,	_	_	,	_	14	???	_	_	make
+12	they	_	_	PRP	_	14	SUBJ	_	_	make
+13	also	_	_	RB	_	14	???	_	_	make
+14	make	_	_	VBP	_	5	???	_	_	0_NULL
+15	money	_	_	NN	_	14	OBJ-DO	_	_	make
+16	.	_	_	.	_	14	???	_	_	make
 
 1	it	_	_	PRP	_	2	SUBJ	_	_	is
 2	is	_	_	VBZ	_	5	???	_	_	for
@@ -14253,9 +14086,6 @@ null
 7	%	_	_	NN	_	8	SUBJ	_	_	have
 8	have	_	_	VBP	_	2	???	_	_	must
 9	views	_	_	NNS	_	8	OBJ-DO	_	_	have
-10	while	_	_	IN	_	8	???	_	_	have
-11	%	_	_	NN	_	12	SUBJ	_	_	approve
-12	approve	_	_	VBP	_	10	???	_	_	while
 
 1	communities	_	_	NNS	_	2	SUBJ	_	_	devastated
 2	devastated	_	_	VBN	_	0	ROOT	_	_	ROOT
@@ -14444,13 +14274,8 @@ null
 14	will	_	_	MD	_	10	???	_	_	0_NULL
 15	know	_	_	VB	_	14	???	_	_	will
 16	more	_	_	RBR	_	15	OBJ-DO	_	_	know
-17	when	_	_	WRB	_	15	???	_	_	know
-18	the	_	_	DT	_	19	???	_	_	levels
-19	levels	_	_	NNS	_	20	SUBJ	_	_	are
-20	are	_	_	VBP	_	17	???	_	_	when
-21	released	_	_	VBN	_	20	???	_	_	are
-22	.	_	_	.	_	14	???	_	_	will
-23	''	_	_	''	_	14	???	_	_	will
+17	.	_	_	.	_	14	???	_	_	will
+18	''	_	_	''	_	14	???	_	_	will
 
 1	However	_	_	RB	_	8	???	_	_	does
 2	,	_	_	,	_	8	???	_	_	does
@@ -15077,9 +14902,6 @@ null
 12	``	_	_	``	_	13	???	_	_	did
 13	did	_	_	VBD	_	9	???	_	_	0_NULL
 14	n't	_	_	RB	_	13	???	_	_	did
-15	laugh	_	_	NN	_	16	???	_	_	or
-16	or	_	_	CC	_	13	???	_	_	did
-17	anything	_	_	NN	_	16	???	_	_	or
 
 1	``	_	_	``	_	7	???	_	_	may
 2	And	_	_	CC	_	7	???	_	_	may
@@ -16045,11 +15867,7 @@ null
 2	!	_	_	.	_	4	???	_	_	wanted
 3	you	_	_	PRP	_	4	SUBJ	_	_	wanted
 4	wanted	_	_	VBD	_	0	ROOT	_	_	ROOT
-5	as	_	_	IN	_	4	???	_	_	wanted
-6	the	_	_	DT	_	7	???	_	_	sets
-7	sets	_	_	NNS	_	8	SUBJ	_	_	started
-8	started	_	_	VBD	_	5	???	_	_	as
-9	.	_	_	.	_	4	???	_	_	wanted
+5	.	_	_	.	_	4	???	_	_	wanted
 
 1	But	_	_	CC	_	12	???	_	_	should
 2	,	_	_	,	_	12	???	_	_	should
@@ -16094,13 +15912,7 @@ null
 14	can	_	_	MD	_	0	ROOT	_	_	ROOT
 15	turn	_	_	VB	_	14	???	_	_	can
 16	sour	_	_	JJ	_	15	???	_	_	turn
-17	if	_	_	IN	_	15	???	_	_	turn
-18	the	_	_	DT	_	19	???	_	_	numbers
-19	numbers	_	_	NNS	_	20	SUBJ	_	_	do
-20	do	_	_	VBP	_	17	???	_	_	if
-21	n't	_	_	RB	_	20	???	_	_	do
-22	work	_	_	VB	_	20	???	_	_	do
-23	.	_	_	.	_	14	???	_	_	can
+17	.	_	_	.	_	14	???	_	_	can
 
 1	But	_	_	CC	_	4	???	_	_	put
 2	the	_	_	DT	_	3	???	_	_	temblor
@@ -16516,28 +16328,18 @@ null
 7	idea	_	_	NN	_	5	OBJ-DO	_	_	is
 8	.	_	_	.	_	5	???	_	_	is
 
-1	Would	_	_	MD	_	21	???	_	_	asked
+1	Would	_	_	MD	_	11	???	_	_	asked
 2	I	_	_	PRP	_	1	SUBJ	_	_	Would
 3	have	_	_	VB	_	1	???	_	_	Would
 4	done	_	_	VBN	_	3	???	_	_	have
 5	all	_	_	PDT	_	7	???	_	_	things
 6	those	_	_	DT	_	7	???	_	_	things
 7	things	_	_	NNS	_	4	OBJ-DO	_	_	done
-8	if	_	_	IN	_	4	???	_	_	done
-9	I	_	_	PRP	_	10	SUBJ	_	_	did
-10	did	_	_	VBD	_	8	???	_	_	if
-11	n't	_	_	RB	_	10	???	_	_	did
-12	think	_	_	VB	_	10	???	_	_	did
-13	0_NULL	_	_	-NONE-	_	12	???	_	_	think
-14	he	_	_	PRP	_	15	SUBJ	_	_	was
-15	was	_	_	VBD	_	13	???	_	_	0_NULL
-16	the	_	_	DT	_	17	???	_	_	guy
-17	guy	_	_	NN	_	15	OBJ-DO	_	_	was
-18	?	_	_	.	_	21	???	_	_	asked
-19	''	_	_	''	_	21	???	_	_	asked
-20	Roman	_	_	NNP	_	21	SUBJ	_	_	asked
-21	asked	_	_	VBD	_	0	ROOT	_	_	ROOT
-22	.	_	_	.	_	21	???	_	_	asked
+8	?	_	_	.	_	11	???	_	_	asked
+9	''	_	_	''	_	11	???	_	_	asked
+10	Roman	_	_	NNP	_	11	SUBJ	_	_	asked
+11	asked	_	_	VBD	_	0	ROOT	_	_	ROOT
+12	.	_	_	.	_	11	???	_	_	asked
 
 1	Yet	_	_	RB	_	9	???	_	_	've
 2	,	_	_	,	_	3	???	_	_	says
@@ -16573,13 +16375,8 @@ null
 9	viewership	_	_	NN	_	10	SUBJ	_	_	picks
 10	picks	_	_	VBZ	_	6	???	_	_	suffers
 11	up	_	_	RP	_	10	???	_	_	picks
-12	once	_	_	RB	_	10	???	_	_	picks
-13	``	_	_	``	_	16	???	_	_	is
-14	Z	_	_	NNP	_	16	???	_	_	is
-15	''	_	_	''	_	16	???	_	_	is
-16	is	_	_	VBZ	_	12	???	_	_	once
-17	.	_	_	.	_	6	???	_	_	suffers
-18	''	_	_	''	_	6	???	_	_	suffers
+12	.	_	_	.	_	6	???	_	_	suffers
+13	''	_	_	''	_	6	???	_	_	suffers
 
 1	In	_	_	IN	_	12	???	_	_	sent
 2	August	_	_	NNP	_	1	???	_	_	In
@@ -17438,12 +17235,7 @@ null
 7	cause	_	_	VB	_	6	???	_	_	could
 8	a	_	_	DT	_	9	???	_	_	loss
 9	loss	_	_	NN	_	7	OBJ-DO	_	_	cause
-10	if	_	_	IN	_	7	???	_	_	cause
-11	officials	_	_	NNS	_	12	SUBJ	_	_	take
-12	take	_	_	VBP	_	10	???	_	_	if
-13	a	_	_	DT	_	14	???	_	_	stance
-14	stance	_	_	NN	_	12	OBJ-DO	_	_	take
-15	.	_	_	.	_	3	???	_	_	strikes
+10	.	_	_	.	_	3	???	_	_	strikes
 
 1	Indeed	_	_	UH	_	7	???	_	_	failed
 2	.	_	_	.	_	7	???	_	_	failed
@@ -17860,7 +17652,7 @@ null
 10	there	_	_	EX	_	11	SUBJ	_	_	are
 11	are	_	_	VBP	_	0	ROOT	_	_	ROOT
 12	n't	_	_	RB	_	11	???	_	_	are
-13	too	_	_	RB	_	11	OBJ-DO	_	_	are
+13	many	_	_	JJ	_	11	OBJ-DO	_	_	are
 14	,	_	_	,	_	11	???	_	_	are
 15	''	_	_	''	_	11	???	_	_	are
 
@@ -17988,12 +17780,8 @@ null
 10	can	_	_	MD	_	8	???	_	_	0_NULL
 11	achieve	_	_	VB	_	10	???	_	_	can
 12	that	_	_	DT	_	11	OBJ-DO	_	_	achieve
-13	while	_	_	IN	_	11	???	_	_	achieve
-14	preserving	_	_	VBG	_	13	???	_	_	while
-15	the	_	_	DT	_	16	???	_	_	vision
-16	vision	_	_	NN	_	14	OBJ-DO	_	_	preserving
-17	.	_	_	.	_	7	???	_	_	insists
-18	''	_	_	''	_	7	???	_	_	insists
+13	.	_	_	.	_	7	???	_	_	insists
+14	''	_	_	''	_	7	???	_	_	insists
 
 1	With	_	_	IN	_	9	???	_	_	does
 2	outlets	_	_	NNS	_	2	SUBJ	_	_	outlets
@@ -18032,12 +17820,8 @@ null
 5	''	_	_	''	_	6	???	_	_	was
 6	was	_	_	VBD	_	0	ROOT	_	_	ROOT
 7	viewed	_	_	VBN	_	6	???	_	_	was
-8	while	_	_	IN	_	7	???	_	_	viewed
-9	the	_	_	DT	_	10	???	_	_	number
-10	number	_	_	NN	_	11	SUBJ	_	_	dropped
-11	dropped	_	_	VBD	_	8	???	_	_	while
-12	.	_	_	.	_	6	???	_	_	was
-13	''	_	_	''	_	6	???	_	_	was
+8	.	_	_	.	_	6	???	_	_	was
+9	''	_	_	''	_	6	???	_	_	was
 
 1	In	_	_	IN	_	12	???	_	_	subjects
 2	addition	_	_	NN	_	1	???	_	_	In
@@ -18551,11 +18335,7 @@ null
 6	,	_	_	,	_	8	???	_	_	complain
 7	people	_	_	NNS	_	8	SUBJ	_	_	complain
 8	complain	_	_	VBP	_	5	???	_	_	0_NULL
-9	when	_	_	WRB	_	8	???	_	_	complain
-10	prices	_	_	NNS	_	11	SUBJ	_	_	are
-11	are	_	_	VBP	_	9	???	_	_	when
-12	rising	_	_	VBG	_	11	???	_	_	are
-13	.	_	_	.	_	8	???	_	_	complain
+9	.	_	_	.	_	8	???	_	_	complain
 
 1	``	_	_	``	_	3	???	_	_	will
 2	people	_	_	NNS	_	3	SUBJ	_	_	will
@@ -18635,13 +18415,8 @@ null
 5	wo	_	_	MD	_	0	ROOT	_	_	ROOT
 6	n't	_	_	RB	_	5	???	_	_	wo
 7	be	_	_	VB	_	5	???	_	_	wo
-8	help	_	_	VB	_	7	OBJ-DO	_	_	be
-9	if	_	_	IN	_	7	???	_	_	be
-10	the	_	_	DT	_	11	???	_	_	mail
-11	mail	_	_	NN	_	12	SUBJ	_	_	ends
-12	ends	_	_	VBZ	_	9	???	_	_	if
-13	up	_	_	RP	_	12	???	_	_	ends
-14	.	_	_	.	_	5	???	_	_	wo
+8	much	_	_	RB	_	7	OBJ-DO	_	_	be
+9	.	_	_	.	_	5	???	_	_	wo
 
 1	``	_	_	``	_	11	???	_	_	erupts
 2	How	_	_	WRB	_	5	???	_	_	can
@@ -19269,26 +19044,23 @@ null
 12	drama	_	_	NN	_	11	OBJ-DO	_	_	's
 13	,	_	_	,	_	1	???	_	_	Once
 
-1	But	_	_	CC	_	17	???	_	_	were
-2	as	_	_	IN	_	17	???	_	_	were
+1	But	_	_	CC	_	14	???	_	_	were
+2	as	_	_	IN	_	14	???	_	_	were
 3	the	_	_	DT	_	4	???	_	_	French
 4	French	_	_	NNPS	_	5	SUBJ	_	_	embody
 5	embody	_	_	VBP	_	2	???	_	_	as
 6	a	_	_	DT	_	7	???	_	_	state
 7	state	_	_	NN	_	5	OBJ-DO	_	_	embody
-8	when	_	_	WRB	_	5	???	_	_	embody
-9	it	_	_	PRP	_	10	SUBJ	_	_	comes
-10	comes	_	_	VBZ	_	8	???	_	_	when
-11	-LRB-	_	_	-LRB-	_	12	???	_	_	try
-12	try	_	_	VB	_	17	???	_	_	were
-13	-RRB-	_	_	-RRB-	_	12	???	_	_	try
-14	,	_	_	,	_	17	???	_	_	were
-15	my	_	_	PRP$	_	16	???	_	_	conventioners
-16	conventioners	_	_	NNS	_	17	SUBJ	_	_	were
-17	were	_	_	VBD	_	0	ROOT	_	_	ROOT
-18	having	_	_	VBG	_	17	???	_	_	were
-19	none	_	_	NN	_	18	OBJ-DO	_	_	having
-20	.	_	_	.	_	17	???	_	_	were
+8	-LRB-	_	_	-LRB-	_	9	???	_	_	try
+9	try	_	_	VB	_	14	???	_	_	were
+10	-RRB-	_	_	-RRB-	_	9	???	_	_	try
+11	,	_	_	,	_	14	???	_	_	were
+12	my	_	_	PRP$	_	13	???	_	_	conventioners
+13	conventioners	_	_	NNS	_	14	SUBJ	_	_	were
+14	were	_	_	VBD	_	0	ROOT	_	_	ROOT
+15	having	_	_	VBG	_	14	???	_	_	were
+16	none	_	_	NN	_	15	OBJ-DO	_	_	having
+17	.	_	_	.	_	14	???	_	_	were
 
 1	now	_	_	RB	_	4	???	_	_	regrets
 2	no	_	_	DT	_	3	???	_	_	doubt
@@ -19314,10 +19086,6 @@ null
 2	because	_	_	IN	_	0	ROOT	_	_	ROOT
 3	they	_	_	PRP	_	4	SUBJ	_	_	bought
 4	bought	_	_	VBD	_	2	???	_	_	because
-5	while	_	_	IN	_	4	???	_	_	bought
-6	he	_	_	PRP	_	7	SUBJ	_	_	was
-7	was	_	_	VBD	_	5	???	_	_	while
-8	selling	_	_	VBG	_	7	???	_	_	was
 
 1	preference	_	_	NN	_	2	SUBJ	_	_	is
 2	is	_	_	VBZ	_	5	???	_	_	So
@@ -20152,10 +19920,7 @@ null
 6	,	_	_	,	_	1	???	_	_	Not
 7	it	_	_	PRP	_	8	SUBJ	_	_	came
 8	came	_	_	VBD	_	1	???	_	_	Not
-9	as	_	_	IN	_	8	???	_	_	came
-10	Nicaragua	_	_	NNP	_	11	SUBJ	_	_	is
-11	is	_	_	VBZ	_	9	???	_	_	as
-12	.	_	_	.	_	1	???	_	_	Not
+9	.	_	_	.	_	1	???	_	_	Not
 
 1	Meeting	_	_	VBG	_	6	???	_	_	said
 2	Friday	_	_	NNP	_	6	???	_	_	said
@@ -20466,12 +20231,7 @@ null
 17	loses	_	_	VBZ	_	3	???	_	_	is
 18	its	_	_	PRP$	_	19	???	_	_	sharpness
 19	sharpness	_	_	NN	_	17	OBJ-DO	_	_	loses
-20	as	_	_	IN	_	17	???	_	_	loses
-21	his	_	_	PRP$	_	22	???	_	_	targets
-22	targets	_	_	NNS	_	23	SUBJ	_	_	pop
-23	pop	_	_	VBP	_	20	???	_	_	as
-24	up	_	_	RP	_	23	???	_	_	pop
-25	.	_	_	.	_	3	???	_	_	is
+20	.	_	_	.	_	3	???	_	_	is
 
 1	Bosch	_	_	NNP	_	6	SUBJ	_	_	have
 2	,	_	_	,	_	6	???	_	_	have
@@ -20841,10 +20601,6 @@ null
 5	often	_	_	RB	_	6	???	_	_	gets
 6	gets	_	_	VBZ	_	0	ROOT	_	_	ROOT
 7	ideas	_	_	NNS	_	6	OBJ-DO	_	_	gets
-8	while	_	_	IN	_	6	???	_	_	gets
-9	flying	_	_	VBG	_	8	???	_	_	while
-10	his	_	_	PRP$	_	11	???	_	_	Centurion
-11	Centurion	_	_	NNP	_	9	OBJ-DO	_	_	flying
 
 1	And	_	_	CC	_	9	???	_	_	was
 2	indeed	_	_	RB	_	9	???	_	_	was
@@ -20934,14 +20690,7 @@ null
 11	could	_	_	MD	_	0	ROOT	_	_	ROOT
 12	be	_	_	VB	_	11	???	_	_	could
 13	held	_	_	VBN	_	12	???	_	_	be
-14	even	_	_	RB	_	15	???	_	_	if
-15	if	_	_	IN	_	13	???	_	_	held
-16	he	_	_	PRP	_	17	SUBJ	_	_	sold
-17	sold	_	_	VBD	_	15	???	_	_	if
-18	all	_	_	PDT	_	20	???	_	_	apples
-19	his	_	_	PRP$	_	20	???	_	_	apples
-20	apples	_	_	NNS	_	17	OBJ-DO	_	_	sold
-21	.	_	_	.	_	11	???	_	_	could
+14	.	_	_	.	_	11	???	_	_	could
 
 1	managing	_	_	VBG	_	2	???	_	_	directors
 2	directors	_	_	NNS	_	8	SUBJ	_	_	been
@@ -21067,18 +20816,13 @@ null
 2	spilled	_	_	VBD	_	0	ROOT	_	_	ROOT
 3	his	_	_	PRP$	_	4	???	_	_	guts
 4	guts	_	_	NNS	_	2	OBJ-DO	_	_	spilled
-5	after	_	_	IN	_	2	???	_	_	spilled
-6	he	_	_	PRP	_	7	SUBJ	_	_	'd
-7	'd	_	_	MD	_	5	???	_	_	after
-8	joined	_	_	VBD	_	7	???	_	_	'd
-9	revels	_	_	NNS	_	8	OBJ-DO	_	_	joined
-10	:	_	_	:	_	2	???	_	_	spilled
-11	``	_	_	``	_	2	???	_	_	spilled
-12	I	_	_	PRP	_	13	SUBJ	_	_	must
-13	must	_	_	MD	_	2	???	_	_	spilled
-14	tell	_	_	VB	_	13	???	_	_	must
-15	you	_	_	PRP	_	14	OBJ-DO	_	_	tell
-16	...	_	_	:	_	2	???	_	_	spilled
+5	:	_	_	:	_	2	???	_	_	spilled
+6	``	_	_	``	_	2	???	_	_	spilled
+7	I	_	_	PRP	_	8	SUBJ	_	_	must
+8	must	_	_	MD	_	2	???	_	_	spilled
+9	tell	_	_	VB	_	8	???	_	_	must
+10	you	_	_	PRP	_	9	OBJ-DO	_	_	tell
+11	...	_	_	:	_	2	???	_	_	spilled
 
 1	Now	_	_	RB	_	4	???	_	_	is
 2	``	_	_	``	_	4	???	_	_	is

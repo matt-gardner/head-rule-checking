@@ -4,11 +4,10 @@
   (VP
     (VBZ knows)
     (SBAR
-      (WHNP-2
-        (WP what))
       (SQ
         (NP-SBJ
-          (-NONE- *T*-2))
+          (WHNP
+            (WP what)))
         (VP
           (MD will)
           (VP
@@ -21,12 +20,11 @@
   (VP
     (VB expect)
     (NP
-      (NP
-        (NN anything)))))
+      (NN anything))))
 
 (SQ
   (VBZ is)
-  (NP-SBJ-2
+  (NP-SBJ
     (-NONE- *T*-46))
   (VP
     (VBG stepping)))
@@ -59,15 +57,14 @@
     (NP
       (NNP Wellcome))))
 
-(SQ-TPC-1
+(SQ-TPC
   (VBP Do)
   (NP-SBJ
     (PRP I))
   (VP
     (VB have)
     (NP
-      (NP
-        (NN sympathy))))
+      (NN sympathy)))
   (. ?))
 
 (SQ
@@ -88,8 +85,9 @@
     (DT that))
   (ADJP-PRD
     (JJ wholesale)
-    (CC or)
-    (JJ retail)))
+    (CONJPP
+      (CC or)
+      (JJ retail))))
 
 (SQ
   (VBZ Is)
@@ -230,11 +228,10 @@
 
 (SQ
   (PP
-    (VBN Given)
+    (VBN|IN Given)
     (NP
-      (NP
-        (DT the)
-        (NN weakness))))
+      (DT the)
+      (NN weakness)))
   (, ,)
   (MD can)
   (NP-SBJ
@@ -261,8 +258,7 @@
           (DT the)
           (NN number))
         (VP
-          (VP
-            (VBZ is))))))
+          (VBZ is)))))
   (. ?))
 
 (SQ
@@ -273,7 +269,7 @@
       (PRP it)))
   (ADJP-PRD
     (JJ great))
-  (S-2
+  (S
     (NP-SBJ
       (-NONE- *))
     (VP
@@ -301,9 +297,8 @@
   (VP
     (VB regret)
     (NP
-      (NP
-        (PRP$ his)
-        (NN incursion))))
+      (PRP$ his)
+      (NN incursion)))
   (. ?))
 
 (SQ
@@ -337,7 +332,7 @@
 (SQ
   (VBZ Does)
   (RB n't)
-  (NP-SBJ-1
+  (NP-SBJ
     (NP
       (NN anybody))
     (ADVP-LOC
@@ -355,9 +350,8 @@
     (VP
       (VB have)
       (NP
-        (NP
-          (DT a)
-          (NN strategy)))))
+        (DT a)
+        (NN strategy))))
   (, ,)
   (CC and)
   (SQ
@@ -447,7 +441,7 @@
       (NN Choice)))
   (. ?))
 
-(SQ-TPC-1
+(SQ-TPC
   (VBZ Is)
   (NP-SBJ
     (EX there))
@@ -461,7 +455,7 @@
 (SQ
   (CC But)
   (VBZ does)
-  (NP-SBJ-1
+  (NP-SBJ
     (PRP it))
   (VP
     (VB have))
@@ -492,7 +486,7 @@
     (, ,))
   (`` ``)
   (SBAR-TMP
-    (WHADVP-3
+    (WHADVP
       (WRB when))
     (S
       (NP-SBJ
@@ -518,7 +512,7 @@
 
 (SQ
   (VBD did)
-  (NP-SBJ-2
+  (NP-SBJ
     (NP
       (DT the)
       (NNP Bank)))
@@ -538,7 +532,7 @@
     (NNP Anti-Christ))
   (. ?))
 
-(SQ-TPC-1
+(SQ-TPC
   (VBZ Is)
   (NP-SBJ
     (DT the)
@@ -573,7 +567,7 @@
     (-NONE- *T*-1))
   (VP
     (JJ open))
-  (ADJP-2
+  (ADJP
     (JJ other)))
 
 (SQ
@@ -603,7 +597,7 @@
     (RB truly))
   (VP
     (VBD persuaded)
-    (NP-2
+    (NP
       (DT the)
       (NNP Party)))
   (. ?))
@@ -625,7 +619,7 @@
 (SQ
   (SQ
     (VBP Do)
-    (NP-SBJ-2
+    (NP-SBJ
       (PRP you))
     (ADVP
       (RB really))
@@ -643,11 +637,10 @@
       (NP
         (NNS investors))
       (SBAR
-        (WHNP-1
-          (WP what))
         (S
           (NP-SBJ
-            (-NONE- *T*-1))
+            (WHNP
+              (WP what)))
           (VP
             (VBZ is)
             (VP
@@ -683,7 +676,7 @@
 (SQ
   (`` ``)
   (SBARQ
-    (WHADVP-3
+    (WHADVP
       (WRB How))
     (SQ
       (MD could)
@@ -695,9 +688,9 @@
         (VP
           (VBN known)
           (SBAR
-            (-NONE- 0)
+            (-NONE- 0_NULL)
             (S
-              (NP-SBJ-1
+              (NP-SBJ
                 (PRP you))
               (VP
                 (VBD were)
@@ -711,14 +704,12 @@
     (VP
       (VBZ Is)
       (NP-PRD
-        (-NONE- *ICH*-2)))
+        (DT a)
+        (NN company)))
     (NP-SBJ
       (NNP Wang))
     (ADVP-TMP
       (RB still))
-    (NP-PRD-2
-      (DT a)
-      (NN company))
     (. ?)))
 
 (SQ
@@ -737,10 +728,8 @@
     (PP
       (IN with)
       (NP
-        (NP
-          (NP
-            (DT the)
-            (NNS cigarettes))))))
+        (DT the)
+        (NNS cigarettes))))
   (. ?))
 
 (SQ
@@ -760,9 +749,8 @@
         (VP
           (VBP ignore)
           (NP
-            (NP
-              (DT the)
-              (NN prospect)))))))
+            (DT the)
+            (NN prospect))))))
   (. ?))
 
 (SQ
@@ -773,7 +761,7 @@
       (PRP it)))
   (ADJP-PRD
     (JJ interesting))
-  (SBAR-1
+  (SBAR
     (IN that)
     (S
       (NP-SBJ
@@ -808,7 +796,7 @@
     (RB now))
   (, ,)
   (VBD did)
-  (NP-SBJ-1
+  (NP-SBJ
     (PRP she))
   (VP
     (VB have))
@@ -830,7 +818,7 @@
     (NP
       (PRP you))
     (SBAR
-      (WHADVP-2
+      (WHADVP
         (WRB why))
       (S
         (NP-SBJ
@@ -862,8 +850,7 @@
       (VP
         (VBP 're)
         (VP
-          (VP
-            (VBG settling))))))
+          (VBG settling)))))
   (, ,)
   (MD might)
   (NP-SBJ
@@ -885,9 +872,8 @@
     (NP-BNF
       (PRP me))
     (NP
-      (NP
-        (DT a)
-        (NN drop))))
+      (DT a)
+      (NN drop)))
   (. ?)
   ('' ''))
 
@@ -897,8 +883,9 @@
     (PRP we))
   (ADJP-PRD
     (JJ smart)
-    (CC or)
-    (JJ lucky))
+    (CONJPP
+      (CC or)
+      (JJ lucky)))
   (. ?))
 
 (SQ
@@ -919,13 +906,12 @@
       (NP
         (PRP we)))
     (VP
-      (VP
-        (VBP close)
-        (PRT
-          (RP down))
-        (NP
-          (DT the)
-          (NN game))))))
+      (VBP close)
+      (PRT
+        (RP down))
+      (NP
+        (DT the)
+        (NN game)))))
 
 (SQ
   (CC But)
@@ -977,10 +963,9 @@
     (PP
       (IN about)
       (NP
-        (NP
-          (PDT all)
-          (DT those)
-          (NNS ducks)))))
+        (PDT all)
+        (DT those)
+        (NNS ducks))))
   (. ?))
 
 (SQ
@@ -1030,8 +1015,7 @@
   (NP-SBJ
     (PRP You))
   (NP
-    (NP
-      (NN Anything))))
+    (NN Anything)))
 
 (SQ
   (VBZ 's)
@@ -1066,9 +1050,8 @@
   (VP
     (VB hear)
     (NP
-      (NP
-        (DT a)
-        (NN rumor))))
+      (DT a)
+      (NN rumor)))
   (. ?))
 
 (SQ
@@ -1079,7 +1062,7 @@
       (PRP it)))
   (ADJP-PRD
     (JJ realistic))
-  (SBAR-3
+  (SBAR
     (IN for)
     (S
       (NP-SBJ
@@ -1089,9 +1072,8 @@
         (VP
           (VB mandate)
           (NP
-            (NP
-              (DT a)
-              (NN system)))))))
+            (DT a)
+            (NN system))))))
   (. ?))
 
 (SQ
@@ -1102,16 +1084,17 @@
       (NN staff))
     (ADJP-PRD
       (JJ big)))
-  (, ,)
-  (CC and)
-  (SQ
-    (VBZ does)
-    (NP-SBJ
-      (PRP it))
-    (VP
-      (VB have)
-      (NP
-        (NN clout)))))
+  (CONJPP
+    (, ,)
+    (CC and)
+    (SQ
+      (VBZ does)
+      (NP-SBJ
+        (PRP it))
+      (VP
+        (VB have)
+        (NP
+          (NN clout))))))
 
 (SQ
   (VBZ is)
@@ -1173,7 +1156,7 @@
 
 (SQ
   (MD Should)
-  (NP-SBJ-1
+  (NP-SBJ
     (PRP they))
   (, ,)
   (ADVP
@@ -1195,42 +1178,39 @@
       (NN cup)))
   (. ?))
 
-(SQ-1
-  (`` ``)
-  (SBAR-ADV
-    (RB Even)
-    (IN if)
-    (S
-      (NP-SBJ
-        (PRP it))
-      (VP
-        (VBZ 's)
-        (NP-PRD
-          (NN %)))))
-  (PRN
-    (, ,)
-    ('' '')
-    (SINV
-      (VP
-        (VBZ says)
-        (SQ
-          (-NONE- *T*-1)))
-      (NP-SBJ
-        (NNP Barabba)))
-    (, ,)
-    (`` ``))
-  (MD would)
-  (NP-SBJ
-    (PRP you))
-  (VP
-    (VB throw)
-    (PRT
-      (RP away))
-    (NP
-      (NP
-        (NNS sales))))
-  (. ?)
-  ('' ''))
+(PRN
+  (, ,)
+  ('' '')
+  (SINV
+    (VP
+      (VBZ says)
+      (SQ
+        (`` ``)
+        (SBAR-ADV
+          (RB Even)
+          (IN if)
+          (S
+            (NP-SBJ
+              (PRP it))
+            (VP
+              (VBZ 's)
+              (NP-PRD
+                (NN %)))))
+        (MD would)
+        (NP-SBJ
+          (PRP you))
+        (VP
+          (VB throw)
+          (PRT
+            (RP away))
+          (NP
+            (NNS sales)))
+        (. ?)
+        ('' '')))
+    (NP-SBJ
+      (NNP Barabba)))
+  (, ,)
+  (`` ``))
 
 (SQ
   (VBP Are)
@@ -1252,7 +1232,7 @@
       (PRP it)))
   (ADJP-PRD
     (JJ true))
-  (SBAR-3
+  (SBAR
     (IN that)
     (S
       (NP-SBJ
@@ -1268,7 +1248,7 @@
 
 (SQ
   (SBAR-TMP
-    (WHADVP-1
+    (WHADVP
       (WRB When))
     (S
       (NP-SBJ
@@ -1277,7 +1257,7 @@
         (VBZ arrives))))
   (, ,)
   (MD will)
-  (NP-SBJ-2
+  (NP-SBJ
     (PRP he))
   (VP
     (VB be)
@@ -1337,7 +1317,7 @@
   (. ?))
 
 (SQ
-  (NP-SBJ-2
+  (NP-SBJ
     (-NONE- *T*-1))
   (VBZ is)
   (VP
@@ -1378,8 +1358,7 @@
   (PP
     (IN With)
     (NP
-      (NP
-        (NNS friends))))
+      (NNS friends)))
   (, ,)
   (VBP do)
   (NP-SBJ
@@ -1436,12 +1415,11 @@
             (DT a)
             (NN term)))))
     (, ,))
-  (SBAR-3
-    (WHNP-2
-      (WDT that))
+  (SBAR
     (S
       (NP-SBJ
-        (-NONE- *T*-2))
+        (WHNP
+          (WDT that)))
       (VP
         (VBD unsettled)
         (NP
@@ -1461,7 +1439,7 @@
   (ADVP-MNR
     (RB So))
   (MD can)
-  (NP-SBJ-1
+  (NP-SBJ
     (DT a)
     (NN magazine))
   (VP
@@ -1470,7 +1448,7 @@
 
 (SQ
   (SBAR-TMP
-    (WHADVP-1
+    (WHADVP
       (WRB when))
     (S
       (NP-SBJ
@@ -1480,7 +1458,7 @@
         (VBZ disappears))))
   (, ,)
   (VBZ does)
-  (NP-SBJ-3
+  (NP-SBJ
     (NNP Mancuso))
   (VP
     (VB trash)
@@ -1571,14 +1549,12 @@
   (VP
     (VBZ Is)
     (NP-PRD
-      (-NONE- *ICH*-2)))
+      (DT a)
+      (NN company)))
   (NP-SBJ
     (NNP Wang))
   (ADVP-TMP
     (RB still))
-  (NP-PRD-2
-    (DT a)
-    (NN company))
   (. ?))
 
 (SQ
@@ -1627,7 +1603,7 @@
               (NP-PRD
                 (DT an)
                 (NN woman)))))
-        (NP-SBJ-2
+        (NP-SBJ
           (NNP Congress))
         (VP
           (MD would)
@@ -1653,26 +1629,24 @@
   (VP
     (VB be)))
 
-(SQ-TPC-3
+(SQ-TPC
   (SBAR-ADV
     (IN If)
     (S
-      (S
-        (NP-SBJ-1
-          (DT the)
-          (NN dialogue))
+      (NP-SBJ-1
+        (DT the)
+        (NN dialogue))
+      (VP
+        (VBD was)
         (VP
-          (VBD was)
-          (VP
-            (VBN based)
-            (NP
-              (-NONE- *-1)))))))
+          (VBN based)
+          (NP
+            (-NONE- *-1))))))
   (, ,)
-  (WHNP-2
-    (WP what))
   (SQ
     (NP-SBJ
-      (-NONE- *T*-2))
+      (WHNP
+        (WP what)))
     (VP
       (MD would)
       (VP
@@ -1685,7 +1659,7 @@
 (SQ
   (MD Should)
   (RB n't)
-  (NP-SBJ-1
+  (NP-SBJ
     (PRP they))
   (ADVP
     (RB properly))
@@ -1700,7 +1674,7 @@
   (NP-SBJ
     (DT this))
   (SBAR-PRD
-    (WHADVP-1
+    (WHADVP
       (WRB why))
     (S
       (NP-SBJ

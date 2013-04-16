@@ -1,0 +1,2278 @@
+(ADVP-TMP
+  (RB once))
+
+(ADVP-LOC
+  (-NONE- *T*-1))
+
+(ADVP
+  (RB as)
+  (RB long))
+
+(ADVP
+  (RB down)
+  (PP
+    (IN from)
+    (NP
+      (NN %))
+    (ADVP-TMP
+      (NP
+        (DT a)
+        (NN week))
+      (JJR earlier))))
+
+(ADVP-LOC
+  (NP
+    (DT a)
+    (NN block))
+  (RB away))
+
+(ADVP
+  (RB up)
+  (NP
+    (NN %)))
+
+(ADVP
+  (RBR more))
+
+(ADVP-TMP
+  (NP
+    (NNS years))
+  (RBR later))
+
+(ADVP-DIR-CLR
+  (IN out))
+
+(ADVP-MNR
+  (ADVP
+    (RBR more)
+    (RB stringently))
+  (PP
+    (IN than)
+    (NP
+      (DT the)
+      (NN kind))))
+
+(ADVP
+  (RB up)
+  (NP
+    (NN %))
+  (PP-TMP
+    (IN from)
+    (NP
+      (NNP October))))
+
+(ADVP-LOC
+  (JJ world-wide))
+
+(ADVP-LOC
+  (IN across)
+  (NP
+    (DT the)
+    (NN country)))
+
+(ADVP-TMP
+  (NP
+    (NNS years))
+  (IN ago))
+
+(ADVP
+  (IN up)
+  (PP
+    (IN from)
+    (NP
+      (NN %))
+    (PP-TMP
+      (IN before)
+      (NP
+        (DT the)
+        (NN slide)))))
+
+(ADVP
+  (IN at)
+  (JJS least))
+
+(ADVP-TMP
+  (ADVP
+    (NP
+      (NNS years))
+    (IN ago))
+  (SBAR
+    (IN before)
+    (S
+      (NP-SBJ
+        (NN anyone))
+      (VP
+        (VBD heard)))))
+
+(ADVP
+  (RBR more)
+  (RB stringently))
+
+(ADVP-TMP
+  (RB much)
+  (RBR longer))
+
+(ADVP-TMP
+  (IN So)
+  (RB far))
+
+(ADVP-DIR
+  (RP up))
+
+(ADVP-DIR
+  (RB far)
+  (CONJPP
+    (CC and)
+    (RB wide)))
+
+(ADVP
+  (JJR more))
+
+(ADVP-TMP
+  (NP
+    (DT a)
+    (NN week))
+  (JJR earlier))
+
+(ADVP-MNR
+  (JJ pursuant)
+  (PP
+    (TO to)
+    (NP
+      (DT a)
+      (NN agreement))))
+
+(ADVP
+  (RB so)
+  (JJ far))
+
+(ADVP
+  (IN at)
+  (DT all))
+
+(ADVP
+  (NN wholesale))
+
+(ADVP-TMP
+  (RB as)
+  (RB often)
+  (PP
+    (IN as)
+    (ADVP
+      (RB not))))
+
+(ADVP-MNR
+  (RBS most)
+  (RB easily))
+
+(ADVP-CLR
+  (RB ever)
+  (JJR larger))
+
+(ADVP
+  (RBR more)
+  (IN than))
+
+(ADVP-PRD
+  (IN up)
+  (NP
+    (NN %))
+  (PP-DIR
+    (TO to)
+    (NP
+      (NN %))))
+
+(ADVP-MNR
+  (RBS hardest))
+
+(ADVP-DIR
+  (RBR closer)
+  (PP
+    (TO to)
+    (S-NOM
+      (NP-SBJ
+        (-NONE- *))
+      (VP
+        (VBG achieving)
+        (NP
+          (DT the)
+          (NN objective))))))
+
+(ADVP
+  (DT each))
+
+(ADVP
+  (NNP Separately))
+
+(ADVP-TMP
+  (RB not)
+  (RB long)
+  (RB ago))
+
+(ADVP-TMP
+  (NP
+    (NNS hours))
+  (RB ahead)
+  (PP
+    (IN of)
+    (NP
+      (NN time))))
+
+(ADVP-TMP
+  (RBR earlier)
+  (NP
+    (DT this)
+    (NN year)))
+
+(ADVP
+  (RB just)
+  (IN about))
+
+(ADVP
+  (ADVP-TMP
+    (RBR sooner))
+  (CONJPP
+    (CC and)
+    (ADVP
+      (ADVP
+        (NP
+          (DT a))
+        (RBR more))
+      (SBAR
+        (IN than)
+        (S
+          (NP-SBJ
+            (PRP it))
+          (VP
+            (VBZ has)
+            (VP
+              (-NONE- *?*))))))))
+
+(ADVP-PUT
+  (RP up)
+  (PP
+    (IN against)
+    (NP
+      (NNP Cosby))))
+
+(ADVP-TMP
+  (RB as)
+  (RB soon)
+  (SBAR
+    (IN as)
+    (S
+      (NP-SBJ
+        (PRP it))
+      (VP
+        (MD could)
+        (VP
+          (-NONE- *?*))))))
+
+(ADVP-TMP
+  (RB now)
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ
+        (PRP we))
+      (VP
+        (VBP 're)))))
+
+(ADVP
+  (DT no)
+  (RBR more))
+
+(ADVP-LOC-PRD
+  (RB here)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB stay)))))
+
+(ADVP
+  (RB much)
+  (RBR more)
+  (RB sharply))
+
+(ADVP
+  (CD 847)
+  (TO to)
+  (CD 644))
+
+(ADVP-TMP
+  (ADVP
+    (IN At)
+    (JJS least)
+    (RB once))
+  (NP-ADV
+    (DT an)
+    (NN episode)))
+
+(ADVP
+  (RB far)
+  (JJ short)
+  (PP
+    (IN of)
+    (NP
+      (DT the)
+      (NN majority))))
+
+(ADVP
+  (NN kind)
+  (IN of))
+
+(ADVP-PRD
+  (CD 230-215))
+
+(ADVP
+  (CC Yet))
+
+(ADVP
+  (ADVP
+    (IN at)
+    (JJS least))
+  (RB partly))
+
+(ADVP-TMP
+  (ADVP
+    (NP
+      (DT a)
+      (NN year))
+    (RB ago))
+  (, ,)
+  (SBAR
+    (WHADVP
+      (WRB when))
+    (S
+      (NP-SBJ
+        (NP
+          (NNS reports)))
+      (VP
+        (VBD circulated)))))
+
+(ADVP
+  (DT all)
+  (CC but))
+
+(ADVP
+  (JJS most))
+
+(ADVP-PUT-TPC
+  (JJ Next)
+  (NN door))
+
+(ADVP
+  (JJR more)
+  (IN than))
+
+(ADVP-DIR
+  (IN up)
+  (CONJPP
+    (CC and)
+    (IN down)))
+
+(ADVP-TMP
+  (DT all)
+  (IN along))
+
+(ADVP
+  (IN in)
+  (NN part))
+
+(ADVP
+  (RBR more)
+  (CONJPP
+    (CC and)
+    (RBR more)))
+
+(ADVP
+  (JJ early)
+  (NP
+    (NN year)))
+
+(ADVP-TMP
+  (DT no)
+  (RB longer))
+
+(ADVP-LOC
+  (NN back)
+  (PP
+    (IN in)
+    (NP
+      (NNP Japan))))
+
+(ADVP
+  (DT No)
+  (NN matter)
+  (SBAR-NOM
+    (S
+      (NP-SBJ
+        (WHNP
+          (WP who)))
+      (VP
+        (VBZ owns)
+        (NP
+          (NNP PS))))))
+
+(ADVP-LOC
+  (RB Back)
+  (NN downtown))
+
+(ADVP
+  (LS First))
+
+(ADVP
+  (RBR More)
+  (IN than)
+  (RB ever))
+
+(ADVP
+  (RB up)
+  (NP
+    (NN %))
+  (PP-DIR
+    (TO to)
+    (NP
+      (CD 5,791)))
+  (PP-DIR
+    (IN from)
+    (NP
+      (CD 5,502))))
+
+(ADVP
+  (IN down)
+  (NP
+    (NN %))
+  (PP-DIR
+    (IN from)
+    (NP
+      (DT the)
+      (NN period)))
+  (PP
+    (IN on)
+    (NP
+      (DT a)
+      (NN basis))))
+
+(ADVP
+  (PRP themselves))
+
+(ADVP
+  (RB up)
+  (ADVP
+    (RB sharply))
+  (PP
+    (IN from)
+    (NP
+      (-NONE- *U*))
+    (, ,)
+    (ADVP-TMP
+      (NP
+        (DT a)
+        (NN year))
+      (RB earlier))))
+
+(ADVP
+  (DT a)
+  (NN month))
+
+(ADVP-TMP
+  (IN at)
+  (JJS least)
+  (RB initially))
+
+(ADVP
+  (ADVP
+    (RB above)
+    (NP
+      (PRP$ its)
+      (NN intraday)))
+  (CONJPP
+    (, ,)
+    (CC but)
+    (ADVP
+      (RB off)
+      (NP
+        (DT the)
+        (NN day)))))
+
+(ADVP-TMP-PRD
+  (RB too)
+  (RB soon)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB tell)
+        (SBAR
+          (IN whether)
+          (S
+            (NP-SBJ
+              (NNP Breeden))
+            (VP
+              (MD will)
+              (VP
+                (VB help)
+                (VB hinder)
+                (NP
+                  (DT the)
+                  (NNP SEC))))))))))
+
+(ADVP
+  (VB even))
+
+(ADVP
+  (RB not)
+  (RB so)
+  (JJ much))
+
+(ADVP-TMP
+  (FW a)
+  (FW priori))
+
+(ADVP
+  (ADVP
+    (IN at)
+    (JJS least))
+  (RB as)
+  (RB far))
+
+(ADVP
+  (RBR More)
+  (JJ bothersome))
+
+(ADVP
+  (RBS most)
+  (JJ serious))
+
+(ADVP
+  (DT any)
+  (JJR more))
+
+(ADVP-PRD
+  (JJ off)
+  (NP
+    (NN %))
+  (PP
+    (-NONE- *ICH*-3)))
+
+(ADVP-LOC
+  (RB even)
+  (RBR closer)
+  (PP
+    (TO to)
+    (NP
+      (NNP Square))))
+
+(ADVP-MNR-CLR
+  (ADVP
+    (RBR better))
+  (PP
+    (IN with)
+    (NP
+      (NN music)))
+  (PP
+    (IN than)
+    (PP
+      (IN with)
+      (NP
+        (NNS words)))))
+
+(ADVP
+  (RB Not)
+  (RB really)
+  (. !))
+
+(ADVP
+  (NP=1
+    (NN %))
+  (PP-DIR=2
+    (IN from)
+    (ADVP-TMP
+      (NP
+        (DT a)
+        (NN year))
+      (RBR earlier))))
+
+(ADVP-TMP
+  (NP
+    (DT a)
+    (NN week))
+  (RB ago)
+  (NP-TMP
+    (NNP Friday)))
+
+(ADVP
+  (QP
+    (NNS times))
+  (RBR faster))
+
+(ADVP
+  (RB Little)
+  (IN by)
+  (RB little))
+
+(ADVP
+  (IN By)
+  (CONJPP
+    (CC and)
+    (JJ large)))
+
+(ADVP-PRD
+  (RB down)
+  (ADVP-EXT
+    (ADVP
+      (RBR more))))
+
+(ADVP-MNR
+  (NN door)
+  (TO to)
+  (NN door))
+
+(ADVP
+  (NP
+    (NNS cents))
+  (JJ short)
+  (PP
+    (IN of)
+    (NP
+      (PRP$ his)
+      (NNS projections))))
+
+(ADVP-DIR
+  (JJR closer)
+  (PP
+    (TO to)
+    (NP
+      (NN use))))
+
+(ADVP-PRD
+  (VBN related)
+  (PP
+    (TO to)
+    (NP
+      (NN uncertainty))))
+
+(ADVP
+  (ADVP
+    (RBR more))
+  (PRN
+    (: --)
+    (ADVP
+      (RB perhaps))
+    (ADVP
+      (ADVP
+        (RB even)
+        (JJR more))
+      (SBAR
+        (IN than)
+        (S
+          (NP-SBJ
+            (NNP Michael))
+          (VP
+            (VBD wanted)
+            (NP
+              (PRP$ his)
+              (NN convertible))))))))
+
+(ADVP-TMP
+  (ADVP
+    (RB once))
+  (CONJPP
+    (CC and)
+    (PP
+      (IN for)
+      (NP
+        (DT all)))))
+
+(ADVP-MNR
+  (NN neck)
+  (CONJPP
+    (CC and)
+    (NN neck)))
+
+(ADVP
+  (DT both)
+  (RB morally)
+  (CONJPP
+    (CC and)
+    (RB strategically)))
+
+(ADVP
+  (WRB However))
+
+(ADVP-DIR
+  (RB only)
+  (RB up)
+  (CC or)
+  (RB down))
+
+(ADVP-TMP
+  (NP
+    (NNS decades))
+  (JJ later))
+
+(ADVP
+  (RB only)
+  (RB slightly)
+  (RBR less))
+
+(ADVP-LOC
+  (JJ next)
+  (NN door)
+  (PP
+    (TO to)
+    (NP
+      (DT the)
+      (NNP Mirage))))
+
+(ADVP
+  (JJS least)
+  (PP
+    (IN of)
+    (NP
+      (DT all))))
+
+(ADVP
+  (CD 43)
+  (NN %))
+
+(ADVP
+  (VB let)
+  (RB alone))
+
+(ADVP-TMP
+  (RB once)
+  (DT a)
+  (NN year))
+
+(ADVP-PRD
+  (RP up)
+  (RB there))
+
+(ADVP-CLR
+  (RB third)
+  (TO to)
+  (RB last))
+
+(ADVP-TMP
+  (IN at)
+  (JJ first))
+
+(ADVP
+  (IN up)
+  (ADVP
+    (RB marginally))
+  (PP
+    (IN against)
+    (NP
+      (DT the)
+      (NN yen))))
+
+(ADVP-TMP
+  (RB just)
+  (RB as)
+  (RB soon)
+  (SBAR
+    (IN as)
+    (S
+      (NP-SBJ
+        (NNP Sam))
+      (VP
+        (VBZ gets)))))
+
+(ADVP-MNR
+  (RB twice)
+  (IN as)
+  (JJ fast))
+
+(ADVP-TMP
+  (RB So)
+  (RB far)
+  (NP
+    (DT this)
+    (NN year)))
+
+(ADVP-TMP
+  (RBR more)
+  (CC and)
+  (RBR more)
+  (RB often))
+
+(ADVP-DIR
+  (RB away)
+  ('' '')
+  (PP
+    (IN from)
+    (NP
+      (NNS homes))))
+
+(ADVP-LOC
+  (RBR further)
+  (RB north)
+  (PP
+    (IN toward)
+    (NP
+      (NNP Alaska))))
+
+(ADVP-TMP-PRD
+  (RB too)
+  (JJ early)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB quantify)
+        (NP
+          (DT the)
+          (NN level))))))
+
+(ADVP
+  (JJR more)
+  (CONJPP
+    (CC or)
+    (JJR less)))
+
+(ADVP
+  (UH Indeed))
+
+(ADVP
+  (RB right)
+  (IN down)
+  (PP
+    (TO to)
+    (NP
+      (DT the)
+      (NN level))))
+
+(ADVP
+  (PDT all)
+  (DT the)
+  (JJ same))
+
+(ADVP-CLR
+  (ADVP
+    (NP
+      (NN point))
+    (JJR higher))
+  (, ,)
+  (CC or)
+  (ADVP
+    (RB up)
+    (NP
+      (-NONE- *U*)))
+  (, ,))
+
+(ADVP-PRD
+  (RB down)
+  (PP
+    (TO to)
+    (NP
+      (NN %)))
+  (PP
+    (IN from)
+    (NP
+      (NN %))))
+
+(ADVP
+  (DT half)
+  (RB as)
+  (RB quickly))
+
+(ADVP-TMP
+  (CC But)
+  (RB now))
+
+(ADVP-MNR
+  (ADVP
+    (NN kind)
+    (IN of))
+  (JJ gigue-like))
+
+(ADVP-CLR
+  (RB right)
+  (RP off))
+
+(ADVP-MNR
+  (IN if)
+  (RB not)
+  (RB spectacularly))
+
+(ADVP-LOC
+  (RB just)
+  (IN down)
+  (NP
+    (NNP Avenue)))
+
+(ADVP
+  (IN at)
+  (RBS most))
+
+(ADVP
+  (RB somewhat)
+  (RBR more)
+  (JJ leisurely))
+
+(ADVP-PRD
+  (RB grossly)
+  (VBN undervalued))
+
+(ADVP
+  (RB As)
+  (RB long)
+  (IN as))
+
+(ADVP-DIR
+  (RB sharply)
+  (RBR higher)
+  (CC or)
+  (RBR lower))
+
+(ADVP-PRD
+  (RB back)
+  (VP
+    (VBG buying)
+    (NP
+      (NN corn))))
+
+(ADVP
+  (JJ thick)
+  (CONJPP
+    (CC and)
+    (JJ fast)))
+
+(ADVP
+  (DT all)
+  (IN that)
+  (RB well))
+
+(ADVP
+  (NNS thanks)
+  (PP
+    (TO to)
+    (NP
+      (DT a)
+      (NN campaign))))
+
+(ADVP-LOC
+  (NP
+    (IN about)
+    (NNS miles))
+  (IN off)
+  (NP
+    (DT the)
+    (NN coast)))
+
+(ADVP-TMP
+  (JJ long)
+  (RB ago))
+
+(ADVP
+  (VB let)
+  (JJ alone))
+
+(ADVP
+  (ADVP
+    (CD 231-191))
+  (, ,)
+  (ADVP
+    (NP
+      (NNS votes))
+    (JJ short)))
+
+(ADVP-TMP
+  (JJ later)
+  (RP on))
+
+(ADVP-TMP
+  (ADVP
+    (ADVP
+      (RB long))
+    (SBAR
+      (IN as)
+      (S
+        (NP-SBJ
+          (PRP it))
+        (VP
+          (VBZ provides)
+          (NP
+            (DT a)
+            (NN return))))))
+  (CC and)
+  (`` ``)
+  (ADVP
+    (NP-ADV
+      (DT a)
+      (NN day))
+    (RB longer)))
+
+(ADVP
+  (RB Virtually)
+  (NN word)
+  (IN for)
+  (NN word))
+
+(ADVP
+  (RBS most)
+  (RB recently)
+  (PP-LOC
+    (IN in)
+    (NP
+      (DT a)
+      (NN meeting))
+    (NP-TMP
+      (NN yesterday))))
+
+(ADVP-TMP
+  (PP
+    (IN From)
+    (NP
+      (RB then)))
+  (IN on))
+
+(ADVP-MNR
+  (VBD blindfolded))
+
+(ADVP
+  (RB surprisingly)
+  (CC and)
+  (PRN
+    (: --)
+    (PP
+      (IN for)
+      (NP
+        (NNS bulls)))
+    (: --))
+  (`` ``)
+  (RB impressively)
+  ('' ''))
+
+(ADVP-MNR
+  (NP
+    (DT a)
+    (NN bit))
+  (RBR more)
+  (RB tightly))
+
+(ADVP-HLN
+  (RB Elsewhere)
+  (: :))
+
+(ADVP-MNR
+  (NP
+    (DT a))
+  (FW trop)
+  (FW rapidement))
+
+(ADVP-CLR
+  (ADJP
+    (JJR lower)))
+
+(ADVP
+  (ADVP
+    (RB Maybe))
+  (, ,)
+  (ADVP
+    (RB not))
+  (. .))
+
+(ADVP
+  (RB as)
+  (NN vocal)
+  (PP
+    (IN for)
+    (NP
+      (NNS causes)))
+  (PP-TMP
+    (IN in)
+    (NP
+      (DT the)
+      (NNS years))))
+
+(ADVP-MNR
+  (FW a)
+  (FW la)
+  (NP
+    (NNP Gorbachev)))
+
+(ADVP
+  (ADVP
+    (RBR more)
+    (RB slowly))
+  (PRN
+    (, ,)
+    (S
+      (NP-SBJ
+        (PRP she))
+      (VP
+        (VBZ hopes)
+        (SBAR
+          (-NONE- 0_NULL)
+          (S
+            (-NONE- *T*-1)))))
+    (, ,))
+  (PP
+    (IN than)
+    (NP
+      (NN income))))
+
+(ADVP-TMP
+  (RB Never)
+  (. .)
+  ('' ''))
+
+(ADVP-TMP
+  (NP-ADV
+    (NN year))
+  (CONJPP
+    (CC or)
+    (ADVP
+      (RB early))))
+
+(ADVP
+  (RB probably)
+  (RB even)
+  (JJR greater))
+
+(ADVP
+  (CD 0.05)
+  (NN percentage)
+  (NN point)
+  (JJR higher))
+
+(ADVP-CLR
+  (DT all)
+  (RP out))
+
+(ADVP-TMP
+  (RB first)
+  (CONJPP
+    (, ,)
+    (RB last)
+    (CONJPP
+      (CC and)
+      (RB always))))
+
+(ADVP-CLR
+  (QP
+    (RBR more)
+    (IN than)
+    (CD 10))
+  (NNS times))
+
+(ADVP
+  (RB as)
+  (JJ long)
+  (RB ago))
+
+(ADVP
+  (ADVP
+    (RB also))
+  (RB up)
+  (NP
+    (CD 1\/4)))
+
+(ADVP-CLR
+  (ADJP-ADV
+    (JJ unchanged))
+  (TO to)
+  (ADVP
+    (CD 0.05)
+    (NN percentage)
+    (NN point)
+    (JJR higher))
+  (PP
+    (IN in)
+    (NP
+      (NN yield))))
+
+(ADVP
+  (JJS best)
+  (CONJPP
+    (CC and)
+    (JJS worst)))
+
+(ADVP-PRD
+  (ADVP
+    (JJR closer))
+  (PP
+    (TO to)
+    (NP
+      (VB accord)))
+  (SBAR
+    (IN than)
+    (S
+      (NP-SBJ
+        (PRP they))
+      (VP
+        (VBD were)))))
+
+(ADVP-TMP
+  (DT all)
+  (IN of)
+  (DT a)
+  (JJ sudden))
+
+(ADVP-TMP
+  (ADVP
+    (RB immediately))
+  (, ,)
+  (RB not)
+  (ADVP
+    (NP
+      (DT a)
+      (NN month))
+    (RB later)))
+
+(ADVP
+  (ADVP
+    (JJ money-wise))
+  (CONJPP
+    (CC and)
+    (NP-ADV
+      (DT every)
+      (NN way))))
+
+(ADVP-MNR
+  (NP
+    (NNS times))
+  (RB as)
+  (RB fast))
+
+(ADVP
+  (CC plus)
+  (CC or)
+  (CC minus))
+
+(ADVP
+  (PDT half))
+
+(ADVP-MNR
+  (ADVP
+    (RB better))
+  (SBAR-TMP
+    (WHADVP
+      (WRB when))
+    (S
+      (NP-SBJ
+        (EX there))
+      (VP
+        (VBP are)
+        (NP-PRD
+          (NNS problems)))))
+  (SBAR
+    (IN than)
+    (SBAR-TMP
+      (WHADVP
+        (WRB when))
+      (S
+        (NP-SBJ
+          (EX there))
+        (VP
+          (VBP are)
+          (NP-PRD
+            (JJ few)))))))
+
+(ADVP-MNR
+  (RB con)
+  (: -)
+  (RB structively))
+
+(ADVP
+  (ADVP
+    (-NONE- *T*-1))
+  (: :)
+  (ADVP
+    (RB namely))
+  (, ,)
+  (S
+    (NP-SBJ
+      (NNS companies))
+    (VP
+      (MD can)
+      (VP
+        (VB continue)))))
+
+(ADVP-MNR
+  (ADVP
+    (RB somehow))
+  (, ,)
+  (NP-ADV
+    (DT some)
+    (NN way))
+  (, ,))
+
+(ADVP-PRD
+  (RB as)
+  (RB far)
+  (IN off)
+  (PP
+    (RB as)
+    (ADVP
+      (RB ever))))
+
+(ADVP
+  (ADVP
+    (RB long))
+  (SBAR
+    (IN as)
+    (S
+      (NP-SBJ
+        (PRP you))
+      (VP
+        (VBP do)
+        (RB n't)
+        (VP
+          (VB look)))))
+  (. .))
+
+(ADVP-PRD
+  (ADVP
+    (RB back))
+  (SBAR
+    (WHADVP
+      (WRB where))
+    (S
+      (NP-SBJ
+        (PRP they))
+      (VP
+        (VBD were))))
+  (, ,)
+  (PP
+    (IN in)
+    (NP
+      (DT a)
+      (NN atmosphere))))
+
+(ADVP
+  (NNP Hong)
+  (JJ Kong-based))
+
+(ADVP-LOC
+  (IN en)
+  (NN route)
+  (PP
+    (TO to)
+    (NP
+      (NNP Washington))))
+
+(ADVP-MNR
+  (RB slightly)
+  (RBR more)
+  (RB fairly)
+  (CC and)
+  (RB efficiently))
+
+(ADVP-PRD
+  (QP
+    (CC and)
+    (CD four)
+    (NNS times))
+  (RB as)
+  (RB often))
+
+(ADVP
+  (RB even)
+  (RBR more)
+  (RB so)
+  (SBAR
+    (WHADVP
+      (WRB when))
+    (S
+      (NP-SBJ
+        (DT the)
+        (NN market))
+      (VP
+        (VBZ has)
+        (VP
+          (VBN peaked))))))
+
+(ADVP-DIR
+  (RP up)
+  (NP-EXT
+    (NN pence)))
+
+(ADVP-PRD
+  (RP out)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (TO to)
+      (VP
+        (VB help)
+        (NP
+          (DT the)
+          (NN child))))))
+
+(ADVP
+  (RB probably)
+  (RB no)
+  (RBR more)
+  (CC or)
+  (RBR less))
+
+(ADVP-DIR
+  (TO to)
+  (CONJPP
+    (CC and)
+    (RB fro)))
+
+(ADVP-DIR
+  (IN in)
+  (CC or)
+  (IN out)
+  (PP
+    (IN of)
+    (NP
+      (DT the)
+      (NN area))))
+
+(ADVP-CLR
+  (RP up)
+  (NP
+    (NN point))
+  (PP
+    (TO to)
+    (NP
+      (CD 92-14))))
+
+(ADVP
+  (VBD let)
+  (RB alone))
+
+(ADVP-DIR
+  (NN way)
+  (NN sky)
+  (RB high))
+
+(ADVP
+  (PDT All)
+  (DT the)
+  (RBR more)
+  (RB so))
+
+(ADVP-MNR
+  (VBN scared))
+
+(ADVP
+  (RB probably)
+  (RBR more)
+  (JJ aware)
+  (PP
+    (IN of)
+    (NP
+      (NN speed))))
+
+(ADVP-PRD
+  (JJR better)
+  (RP off))
+
+(ADVP-TMP
+  (DT This)
+  (JJ late)
+  (PP
+    (IN in)
+    (NP
+      (DT an)
+      (NN expansion))))
+
+(ADVP-LOC
+  (RB somewhere)
+  (RB else)
+  (-LRB- -LCB-)
+  (PP
+    (IN in)
+    (NP
+      (NNP Europe)))
+  (-RRB- -RCB-)
+  (PP
+    (IN besides)
+    (NP
+      (DT the)
+      (NNP U.K.))))
+
+(ADVP-PRD
+  (JJR better)
+  (IN off)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (VBG showing)
+      (NP
+        (NN discretion)))))
+
+(ADVP-TMP
+  (RBR sooner)
+  (CONJPP
+    (CC or)
+    (RB later)))
+
+(ADVP-TMP
+  (ADVP
+    (RB before))
+  (: --)
+  (PP-TMP
+    (IN during)
+    (NP
+      (NN takeover))))
+
+(ADVP-TMP
+  (ADVP
+    (RB long))
+  (IN ago))
+
+(ADVP
+  (RB almost)
+  (DT every))
+
+(ADVP
+  (RP on)
+  (CONJPP
+    (CC and)
+    (RP off)))
+
+(ADVP-TMP
+  (NP
+    (DT the)
+    (NN year))
+  (RP before))
+
+(ADVP-MNR=2
+  (RB not)
+  (RB quite)
+  (RB as)
+  (RB well))
+
+(ADVP
+  (RP up)
+  (ADVP
+    (RB sharply))
+  (PP
+    (IN from)
+    (NP
+      (-NONE- *U*))
+    (PP-TMP
+      (IN in)
+      (NP
+        (DT the)
+        (NN period)))))
+
+(ADVP
+  (NNS thanks)
+  (PP
+    (IN in)
+    (NP
+      (NN part)))
+  (PP
+    (TO to)
+    (`` ``)
+    (NP-TTL
+      (NNP Batman))))
+
+(ADVP-LOC
+  (EX there))
+
+(ADVP-PRD
+  (ADJP
+    (IN up))
+  (ADVP
+    (RB slightly)))
+
+(ADVP
+  (JJR more)
+  (IN than)
+  (JJ sixfold))
+
+(ADVP
+  (RB down)
+  (NP
+    (NN point))
+  (PP
+    (IN from)
+    (NP-TMP
+      (NNP Thursday)))
+  (PRN
+    (, ,)
+    (CC or)
+    (NP
+      (-NONE- *U*))))
+
+(ADVP-PRD
+  (IN up)
+  (NP
+    (NN %))
+  (PP-DIR
+    (TO to)
+    (NP
+      (-NONE- *U*)))
+  (, ,)
+  (PP-DIR
+    (IN from)
+    (NP
+      (-NONE- *U*))))
+
+(ADVP-TMP
+  (RBR earlier)
+  (DT this)
+  (NN year))
+
+(ADVP-DIR
+  (RB even)
+  (DT that)
+  (RB far))
+
+(ADVP
+  (PDT all)
+  (DT the)
+  (RBR more))
+
+(ADVP
+  (RB over)
+  (CC and)
+  (RB over)
+  (RB again))
+
+(ADVP
+  (DT all)
+  (DT that))
+
+(ADVP-DIR
+  (RP up)
+  (ADJP
+    (RB ninefold)))
+
+(ADVP
+  (IN down)
+  (NP
+    (NNS points))
+  (ADVP-TMP
+    (RB early)))
+
+(ADVP-PRD
+  (`` ``)
+  (RB first)
+  (IN in)
+  (PP
+    (IN with)
+    (NP
+      (DT the)
+      (NN technology))))
+
+(ADVP-MNR
+  (ADVP
+    (NN sort)
+    (IN of))
+  (, ,)
+  (CC and)
+  (RB not)
+  (ADVP
+    (RB intentionally)))
+
+(ADVP
+  (ADVP
+    (IN at)
+    (JJS least))
+  (RB not)
+  (RB very)
+  (JJ much))
+
+(ADVP-TMP
+  (TO to)
+  (VB begin)
+  (RP with))
+
+(ADVP-CLR
+  (JJ right)
+  (NN back)
+  (IN up))
+
+(ADVP-PRD-LOC=3
+  (RB too)
+  (RB far)
+  (PP-LOC
+    (IN in)
+    (NP
+      (DT the)
+      (NN future)))
+  (S
+    (-NONE- *RNR*-4)))
+
+(ADVP
+  (JJ last)
+  (CC but)
+  (RB not)
+  (JJS least))
+
+(ADVP
+  (NN half)
+  (RB abroad))
+
+(ADVP
+  (RB slightly)
+  (RBR more)
+  (IN than))
+
+(ADVP-TMP
+  (RB Always)
+  (. .))
+
+(ADVP-TMP
+  (ADVP
+    (RB now))
+  (, ,)
+  (RB not)
+  (NP
+    (NNS months)))
+
+(ADVP
+  (RBS Worst)
+  (PP
+    (IN of)
+    (NP
+      (DT all))))
+
+(ADVP
+  (NN that)
+  (VBZ is))
+
+(ADVP
+  (NP-ADV
+    (DT a)
+    (NN lot))
+  (RBR more)
+  (RB quickly)
+  (CC and)
+  (RB devastatingly))
+
+(ADVP
+  (IN up)
+  (PP
+    (IN from)
+    (NP
+      (NN %)))
+  (ADVP-TMP
+    (NP
+      (NNS years))
+    (IN ago)))
+
+(ADVP
+  (ADVP
+    (RP up)
+    (ADVP
+      (RB sharply)))
+  (CONJPP
+    (: --)
+    (CC and)
+    (ADVP
+      (JJR more))))
+
+(ADVP-LOC
+  (NNP Next)
+  (NNP Door))
+
+(ADVP
+  (DT the)
+  (RBS most))
+
+(ADVP
+  (CC and)
+  (RB so)
+  (IN on))
+
+(ADVP-TMP
+  (ADVP
+    (NP
+      (NNS minutes))
+    (RBR earlier))
+  (PRN
+    (, ,)
+    (PP
+      (IN on)
+      (NP
+        (NN average)))
+    (, ,))
+  (SBAR
+    (IN than)
+    (S
+      (NP-SBJ
+        (PRP they))
+      (VP
+        (VBD used)))))
+
+(ADVP
+  (DT all)
+  (DT that)
+  (JJ much))
+
+(ADVP-PRD
+  (IN up)
+  (ADVP
+    (RB fractionally)))
+
+(ADVP-PRD
+  (`` ``)
+  (RB down)
+  (ADVP
+    (RB slightly))
+  ('' '')
+  (PP
+    (IN from)
+    (NP
+      (-NONE- *U*))
+    (, ,)
+    (PP-TMP
+      (IN in)
+      (NP
+        (CD l988)))))
+
+(ADVP
+  (IN about)
+  (PDT half))
+
+(ADVP
+  (DT All)
+  (PP
+    (IN of)
+    (NP
+      (DT a))))
+
+(ADVP-PRD
+  (RB not)
+  (VBG withstanding))
+
+(ADVP-PRD
+  (RBS most)
+  (JJ likely)
+  (S
+    (NP-SBJ
+      (-NONE- *-2))
+    (VP
+      (TO to)
+      (VP
+        (VB qualify)))))
+
+(ADVP-MNR
+  (RBS most)
+  (RB bitterly)
+  (CC and)
+  (RB loudly))
+
+(ADVP-MNR
+  (ADVP
+    (RB somewhat)
+    (RBR more)
+    (JJ leisurely))
+  ('' '')
+  (SBAR
+    (IN than)
+    (S
+      (NP-SBJ
+        (NP
+          (JJ many)))
+      (VP
+        (VBP expect)
+        (SBAR
+          (-NONE- 0_NULL)
+          (S
+            (-NONE- *?*)))))))
+
+(ADVP
+  (CC yet)
+  (RBR further))
+
+(ADVP
+  (IN while)
+  (ADJP
+    (JJ profitable)))
+
+(ADVP-TMP
+  (RB All)
+  (IN of)
+  (DT a)
+  (JJ sudden))
+
+(ADVP-EXT
+  (NP-ADV
+    (NN point))
+  (CONJPP
+    (, ,)
+    (CC or)
+    (ADVP
+      (RB down)
+      (NP
+        (-NONE- *U*)))))
+
+(ADVP
+  (RB no)
+  (VB doubt))
+
+(ADVP
+  (ADVP
+    (RB much)
+    (IN so))
+  (, ,)
+  (PP
+    (IN in)
+    (NP
+      (NN fact)))
+  (, ,)
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ
+        (DT some)
+        (NNS employees))
+      (VP
+        (VBP have)
+        (VP
+          (VBN resisted))))))
+
+(ADVP
+  (ADVP
+    (ADVP
+      (IN at)
+      (JJS least))
+    (RB fast))
+  (CC and)
+  (RB maybe)
+  (ADVP
+    (RBR faster)))
+
+(ADVP-PRD
+  (RB better)
+  (RP off)
+  (S
+    (NP-SBJ
+      (-NONE- *-1))
+    (VP
+      (VBG giving)
+      (NP
+        (DT the)
+        (NN money)))))
+
+(ADVP-MNR
+  (RB improperly)
+  (, ,)
+  (CC but)
+  (RB unintentionally)
+  (, ,))
+
+(ADVP-MNR
+  (ADVP
+    (RBR more)
+    (RB slowly))
+  (: --)
+  (ADVP
+    (ADVP
+      (RBR more)
+      (RB slowly))
+    (PRN
+      (, ,)
+      (S
+        (NP-SBJ
+          (PRP she))
+        (VP
+          (VBZ hopes)
+          (SBAR
+            (-NONE- 0_NULL)
+            (S
+              (-NONE- *T*-1)))))
+      (, ,))))
+
+(ADVP
+  (NP=1
+    (NN %))
+  (NP-ADV=2
+    (NP
+      (NN year))))
+
+(ADVP
+  (IN out)
+  (PP
+    (IN of)
+    (NP
+      (NN gold)
+      (POS 's)))
+  (, ,)
+  (PP
+    (IN in)
+    (NP
+      (NN particular))))
+
+(ADVP
+  (CD 13-7)
+  (CONJPP
+    (CC and)
+    (CD 9-6)))
+
+(ADVP-TMP
+  (IN as)
+  (RB long)
+  (SBAR
+    (IN as)
+    (S
+      (NP-SBJ
+        (PRP it))
+      (VP
+        (VBD did)))))
+
+(ADVP-MNR
+  (RBR more)
+  (IN than)
+  (RB passably)
+  (RB well))
+
+(ADVP-TMP
+  (RB No)
+  (RBR longer)
+  (. .))
+
+(ADVP-CLR
+  (PRT
+    (RP along)))
+
+(ADVP-TMP
+  (RB early)
+  (JJ last)
+  (NN week))
+
+(ADVP-MNR
+  (ADVP
+    (RB best))
+  (S
+    (NP-SBJ
+      (PRP he))
+    (VP
+      (MD can)
+      (VP
+        (-NONE- *?*)))))
+
+(ADVP-TMP
+  (IN so)
+  (IN far))
+
+(ADVP-TMP
+  (NP-ADV
+    (NP
+      (DT the)
+      (NN time)))
+  (PRN
+    (: --)
+    (PP-TMP
+      (IN in)
+      (NP
+        (DT the)
+        (NN aftermath)))
+    (: --)))
+
+(ADVP
+  (PRP You)
+  (RB bet))
+
+(ADVP
+  (DT the)
+  (RB longer)
+  (SBAR
+    (-NONE- 0_NULL)
+    (S
+      (NP-SBJ-1
+        (PRP they))
+      (VP
+        (VBD were)
+        (VP
+          (VBN held)
+          (NP
+            (-NONE- *-1)))))))
+
+(ADVP-TMP
+  (ADVP
+    (IN at)
+    (JJS least))
+  (RB once)
+  (JJR more))
+
+(ADVP-DIR
+  (ADJP
+    (RB as)
+    (RB far))
+  (PP
+    (IN as)
+    (ADJP
+      (RB possible)))
+  (PP
+    (IN from)
+    (NP
+      (DT the)
+      (NN agency))))
+
+(ADVP-PRD
+  (IN up)
+  (PP
+    (TO to)
+    (NP
+      ($ $)
+      (-NONE- *U*)))
+  (PP
+    (IN from)
+    (NP
+      ($ $)
+      (-NONE- *U*))
+    (NP-TMP
+      (NN year))))
+
+(ADVP-TMP
+  (JJ long)
+  (IN since))
+
+(ADVP-LOC
+  (ADJP
+    (IN as))
+  (PP
+    (IN as)
+    (NP
+      (DT the))))
+
+(ADVP-TMP
+  (NP
+    (DT a)
+    (NN bit))
+  (RBR later)
+  (SBAR
+    (IN than)
+    (S
+      (NP-SBJ
+        (PRP you))
+      (VP
+        (VBP expect)))))
+
+(ADVP-PRD
+  (RB down)
+  (ADJP
+    (NP
+      (DT a))))
+
+(ADVP-CLR
+  (RB farther)
+  (RP out)
+  (RB ahead))
+
+(ADVP
+  (`` ``)
+  (RB Not)
+  (RB really)
+  (. .))
+
+(ADVP-CLR
+  (CD four)
+  (NNS games)
+  (TO to)
+  (CD one))
+
+(ADVP
+  (JJ several)
+  (JJR more))
+
+(ADVP-LOC
+  (IN out)
+  (EX there))
+
+(ADVP
+  (RB enough)
+  (PRN
+    (: --)
+    (NP
+      (DT the)
+      (NNS ones))
+    (: --))
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB stash)
+        (NP
+          (DT that)
+          (NN kind))))))
+
+(ADVP
+  (CC both)
+  (RB up)
+  (CC and)
+  (RB down))
+
+(ADVP-TMP
+  (IN at)
+  (JJS least)
+  (RB anytime)
+  (RB soon))
+
+(ADVP-PRD
+  (RB ahead)
+  (PP
+    (IN of)
+    (NP
+      (NNS decliners)))
+  (NP-ADV
+    (NP
+      (CD 784))))
+
+(ADVP-PRD
+  (DT all)
+  (CONJPP
+    (CC or)
+    (NN nothing)))
+
+(ADVP-PRP
+  (`` ``)
+  (JJR more)
+  (PP
+    (IN for)
+    (NP
+      (PRP$ its)
+      (NN technology)))
+  (PP
+    (IN than)
+    (NP
+      (PRP$ its)
+      (NN customer))))
+
+(ADVP-TMP
+  (ADVP
+    (RB soon))
+  (CONJP
+    (IN if))
+  (RB not)
+  (ADVP
+    (RB already)))
+
+(ADVP
+  (RB Right)
+  (IN up)
+  (NN front))
+
+(ADVP
+  (IN at)
+  (RBS least)
+  (IN as))
+
+(ADVP-LOC
+  (RB up)
+  (CC and)
+  (RB down)
+  (NP
+    (NNP Florida)))
+
+(ADVP-TMP
+  (RB not)
+  (CC yet))
+

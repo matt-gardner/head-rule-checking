@@ -10,18 +10,18 @@
 
 1	0_NULL	_	_	-NONE-	_	0	ROOT	_	_	ROOT
 
-1	where	_	_	WRB	_	0	ROOT	_	_	ROOT
+1	where	_	_	WRB	_	5	???	_	_	used
 2	the	_	_	DT	_	3	???	_	_	crocidolite
 3	crocidolite	_	_	NN	_	4	SUBJ	_	_	was
-4	was	_	_	VBD	_	1	???	_	_	where
+4	was	_	_	VBD	_	0	ROOT	_	_	ROOT
 5	used	_	_	VBN	_	4	???	_	_	was
 
 
 
-1	under	_	_	IN	_	0	ROOT	_	_	ROOT
+1	under	_	_	IN	_	5	???	_	_	remain
 2	which	_	_	WDT	_	1	???	_	_	under
 3	it	_	_	PRP	_	4	SUBJ	_	_	would
-4	would	_	_	MD	_	1	???	_	_	under
+4	would	_	_	MD	_	0	ROOT	_	_	ROOT
 5	remain	_	_	VB	_	4	???	_	_	would
 6	an	_	_	DT	_	7	???	_	_	company
 7	company	_	_	NN	_	5	OBJ-DO	_	_	remain
@@ -96,12 +96,6 @@
 5	complete	_	_	VB	_	4	???	_	_	could
 6	the	_	_	DT	_	7	???	_	_	purchase
 7	purchase	_	_	NN	_	5	OBJ-DO	_	_	complete
-8	if	_	_	IN	_	5	???	_	_	complete
-9	its	_	_	PRP$	_	10	???	_	_	bid
-10	bid	_	_	NN	_	11	SUBJ	_	_	is
-11	is	_	_	VBZ	_	8	???	_	_	if
-12	the	_	_	DT	_	13	???	_	_	one
-13	one	_	_	NN	_	11	OBJ-DO	_	_	is
 
 1	years	_	_	NNS	_	2	???	_	_	after
 2	after	_	_	IN	_	0	ROOT	_	_	ROOT
@@ -135,31 +129,30 @@
 
 1	how	_	_	WRB	_	3	???	_	_	and
 2	wide	_	_	JJ	_	3	???	_	_	and
-3	and	_	_	CC	_	0	ROOT	_	_	ROOT
+3	and	_	_	CC	_	9	???	_	_	be
 4	deep	_	_	JJ	_	3	???	_	_	and
 5	the	_	_	DT	_	6	???	_	_	divisions
 6	divisions	_	_	NNS	_	7	SUBJ	_	_	continue
-7	continue	_	_	VBP	_	3	???	_	_	and
-8	however	_	_	RB	_	7	???	_	_	continue
-9	we	_	_	PRP	_	10	SUBJ	_	_	try
-10	try	_	_	VBP	_	8	???	_	_	however
+7	continue	_	_	VBP	_	0	ROOT	_	_	ROOT
+8	to	_	_	TO	_	7	???	_	_	continue
+9	be	_	_	VB	_	8	???	_	_	to
 
 1	had	_	_	VBD	_	0	ROOT	_	_	ROOT
 2	it	_	_	PRP	_	1	SUBJ	_	_	had
 3	existed	_	_	VBN	_	1	???	_	_	had
 
-1	0_NULL	_	_	-NONE-	_	0	ROOT	_	_	ROOT
-2	for	_	_	IN	_	1	???	_	_	0_NULL
+1	0_NULL	_	_	-NONE-	_	6	???	_	_	expand
+2	for	_	_	IN	_	0	ROOT	_	_	ROOT
 3	a	_	_	DT	_	4	???	_	_	company
 4	company	_	_	NN	_	5	SUBJ	_	_	to
-5	to	_	_	TO	_	1	???	_	_	0_NULL
+5	to	_	_	TO	_	2	???	_	_	for
 6	expand	_	_	VB	_	5	???	_	_	to
 
-1	0_NULL	_	_	-NONE-	_	0	ROOT	_	_	ROOT
-2	as	_	_	IN	_	1	???	_	_	0_NULL
+1	0_NULL	_	_	-NONE-	_	6	???	_	_	called
+2	as	_	_	IN	_	0	ROOT	_	_	ROOT
 3	the	_	_	DT	_	4	???	_	_	scheme
 4	scheme	_	_	NN	_	5	SUBJ	_	_	is
-5	is	_	_	VBZ	_	1	???	_	_	0_NULL
+5	is	_	_	VBZ	_	2	???	_	_	as
 6	called	_	_	VBN	_	5	???	_	_	is
 
 1	0_NULL	_	_	-NONE-	_	0	ROOT	_	_	ROOT
@@ -193,29 +186,25 @@
 3	we	_	_	PRP	_	4	SUBJ	_	_	think
 4	think	_	_	VBP	_	2	???	_	_	more
 
-1	when	_	_	WRB	_	0	ROOT	_	_	ROOT
-2	,	_	_	,	_	1	???	_	_	when
+1	when	_	_	WRB	_	5	???	_	_	charged
+2	,	_	_	,	_	4	???	_	_	was
 3	she	_	_	PRP	_	4	SUBJ	_	_	was
-4	was	_	_	VBD	_	1	???	_	_	when
+4	was	_	_	VBD	_	0	ROOT	_	_	ROOT
 5	charged	_	_	VBN	_	4	???	_	_	was
 6	-LRB-	_	_	-LRB-	_	7	???	_	_	and
 7	and	_	_	CC	_	5	???	_	_	charged
 8	cleared	_	_	VBN	_	7	???	_	_	and
 9	-RRB-	_	_	-RRB-	_	7	???	_	_	and
 
-1	Just	_	_	RB	_	2	???	_	_	when
-2	when	_	_	WRB	_	0	ROOT	_	_	ROOT
+1	Just	_	_	RB	_	4	???	_	_	sat
+2	when	_	_	WRB	_	4	???	_	_	sat
 3	Gruberova	_	_	NNP	_	4	SUBJ	_	_	sat
-4	sat	_	_	VBD	_	2	???	_	_	when
+4	sat	_	_	VBD	_	0	ROOT	_	_	ROOT
 5	down	_	_	RP	_	4	???	_	_	sat
 
 1	but	_	_	CC	_	2	???	_	_	to
 2	to	_	_	TO	_	0	ROOT	_	_	ROOT
 3	sell	_	_	VB	_	2	???	_	_	to
-4	even	_	_	RB	_	5	???	_	_	if
-5	if	_	_	IN	_	3	???	_	_	sell
-6	it	_	_	PRP	_	7	SUBJ	_	_	means
-7	means	_	_	VBZ	_	5	???	_	_	if
 
 1	how	_	_	WRB	_	0	ROOT	_	_	ROOT
 2	opinions	_	_	NNS	_	3	SUBJ	_	_	were
@@ -235,11 +224,6 @@
 4	preserve	_	_	VB	_	3	???	_	_	to
 5	all	_	_	DT	_	6	???	_	_	assets
 6	assets	_	_	NNS	_	4	OBJ-DO	_	_	preserve
-7	until	_	_	IN	_	4	???	_	_	preserve
-8	the	_	_	DT	_	9	???	_	_	trial
-9	trial	_	_	NN	_	10	SUBJ	_	_	is
-10	is	_	_	VBZ	_	7	???	_	_	until
-11	completed	_	_	VBN	_	10	???	_	_	is
 
 1	that	_	_	WDT	_	0	ROOT	_	_	ROOT
 2	there	_	_	EX	_	3	SUBJ	_	_	is
@@ -265,11 +249,12 @@
 5	use	_	_	VB	_	4	???	_	_	will
 6	it	_	_	PRP	_	5	OBJ-DO	_	_	use
 
-1	just	_	_	RB	_	2	???	_	_	what
-2	what	_	_	WP	_	0	ROOT	_	_	ROOT
+1	just	_	_	RB	_	4	???	_	_	are
+2	what	_	_	WP	_	6	???	_	_	over
 3	we	_	_	PRP	_	4	SUBJ	_	_	are
-4	are	_	_	VBP	_	2	???	_	_	what
+4	are	_	_	VBP	_	0	ROOT	_	_	ROOT
 5	stumbling	_	_	VBG	_	4	???	_	_	are
+6	over	_	_	IN	_	5	???	_	_	stumbling
 
 1	when	_	_	WRB	_	0	ROOT	_	_	ROOT
 2	on	_	_	IN	_	1	???	_	_	when
@@ -367,10 +352,10 @@
 5	her	_	_	PRP$	_	6	???	_	_	post
 6	post	_	_	NN	_	4	OBJ-DO	_	_	took
 
-1	only	_	_	RB	_	2	???	_	_	when
-2	when	_	_	WRB	_	0	ROOT	_	_	ROOT
+1	only	_	_	RB	_	0	ROOT	_	_	ROOT
+2	when	_	_	WRB	_	4	???	_	_	jostle
 3	they	_	_	PRP	_	4	SUBJ	_	_	jostle
-4	jostle	_	_	VBP	_	2	???	_	_	when
+4	jostle	_	_	VBP	_	1	???	_	_	only
 
 1	that	_	_	WDT	_	3	SUBJ	_	_	encourage
 2	``	_	_	``	_	3	???	_	_	encourage
@@ -392,10 +377,10 @@
 11	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
 12	incalculable	_	_	JJ	_	11	???	_	_	is
 
-1	why	_	_	WRB	_	0	ROOT	_	_	ROOT
-2	``	_	_	``	_	1	???	_	_	why
+1	why	_	_	WRB	_	6	???	_	_	working
+2	``	_	_	``	_	4	???	_	_	have
 3	we	_	_	PRP	_	4	SUBJ	_	_	have
-4	have	_	_	VBP	_	1	???	_	_	why
+4	have	_	_	VBP	_	0	ROOT	_	_	ROOT
 5	been	_	_	VBN	_	4	???	_	_	have
 6	working	_	_	VBG	_	5	???	_	_	been
 
@@ -500,14 +485,14 @@
 10	at	_	_	IN	_	8	???	_	_	how
 11	evaluation	_	_	NN	_	10	???	_	_	at
 
-1	when	_	_	WRB	_	0	ROOT	_	_	ROOT
+1	when	_	_	WRB	_	5	???	_	_	nail
 2	Keteyian	_	_	NNP	_	3	SUBJ	_	_	ca
-3	ca	_	_	MD	_	1	???	_	_	when
+3	ca	_	_	MD	_	0	ROOT	_	_	ROOT
 4	n't	_	_	RB	_	3	???	_	_	ca
 5	nail	_	_	VB	_	3	???	_	_	ca
 6	down	_	_	RP	_	5	???	_	_	nail
 7	something	_	_	NN	_	5	OBJ-DO	_	_	nail
-8	,	_	_	,	_	1	???	_	_	when
+8	,	_	_	,	_	3	???	_	_	ca
 
 1	just	_	_	RB	_	2	???	_	_	as
 2	as	_	_	IN	_	0	ROOT	_	_	ROOT
@@ -691,20 +676,12 @@
 12	I	_	_	PRP	_	13	SUBJ	_	_	hear
 13	hear	_	_	VBP	_	11	???	_	_	when
 
-1	for	_	_	IN	_	2	???	_	_	0_NULL
-2	0_NULL	_	_	-NONE-	_	0	ROOT	_	_	ROOT
+1	for	_	_	IN	_	0	ROOT	_	_	ROOT
+2	0_NULL	_	_	-NONE-	_	5	???	_	_	protect
 3	administrators	_	_	NNS	_	4	SUBJ	_	_	to
-4	to	_	_	TO	_	2	???	_	_	0_NULL
+4	to	_	_	TO	_	1	???	_	_	for
 5	protect	_	_	VB	_	4	???	_	_	to
 6	themselves	_	_	PRP	_	5	OBJ-DO	_	_	protect
-7	when	_	_	WRB	_	5	???	_	_	protect
-8	in	_	_	IN	_	7	???	_	_	when
-9	fact	_	_	NN	_	8	???	_	_	in
-10	they	_	_	PRP	_	11	SUBJ	_	_	do
-11	do	_	_	VBP	_	7	???	_	_	when
-12	n't	_	_	RB	_	11	???	_	_	do
-13	take	_	_	VB	_	11	???	_	_	do
-14	it	_	_	PRP	_	13	OBJ-DO	_	_	take
 
 1	Whether	_	_	IN	_	0	ROOT	_	_	ROOT
 2	or	_	_	CC	_	1	???	_	_	Whether
@@ -741,10 +718,6 @@
 3	affect	_	_	VB	_	2	???	_	_	could
 4	his	_	_	PRP$	_	5	???	_	_	ability
 5	ability	_	_	NN	_	3	OBJ-DO	_	_	affect
-6	should	_	_	MD	_	3	???	_	_	affect
-7	he	_	_	PRP	_	6	SUBJ	_	_	should
-8	become	_	_	VB	_	6	???	_	_	should
-9	mayor	_	_	NN	_	8	OBJ-DO	_	_	become
 
 1	-LRB-	_	_	-LRB-	_	2	???	_	_	while
 2	while	_	_	IN	_	5	???	_	_	wo
@@ -803,10 +776,10 @@
 14	to	_	_	TO	_	3	???	_	_	to
 15	do	_	_	VB	_	14	???	_	_	to
 
-1	where	_	_	WRB	_	0	ROOT	_	_	ROOT
+1	where	_	_	WRB	_	11	???	_	_	displayed
 2	,	_	_	,	_	4	???	_	_	suggested
 3	she	_	_	PRP	_	4	SUBJ	_	_	suggested
-4	suggested	_	_	VBD	_	1	???	_	_	where
+4	suggested	_	_	VBD	_	0	ROOT	_	_	ROOT
 5	0_NULL	_	_	-NONE-	_	4	???	_	_	suggested
 6	,	_	_	,	_	4	???	_	_	suggested
 7	a	_	_	DT	_	8	???	_	_	flat
@@ -1035,13 +1008,13 @@
 5	is	_	_	VBZ	_	1	???	_	_	whether
 6	constitutional	_	_	JJ	_	5	???	_	_	is
 
-1	when	_	_	WRB	_	0	ROOT	_	_	ROOT
+1	when	_	_	WRB	_	3	???	_	_	moved
 2	rates	_	_	NNS	_	3	SUBJ	_	_	moved
-3	moved	_	_	VBD	_	1	???	_	_	when
+3	moved	_	_	VBD	_	0	ROOT	_	_	ROOT
 4	--	_	_	:	_	5	???	_	_	beginning
 5	beginning	_	_	VBG	_	3	???	_	_	moved
 6	--	_	_	:	_	5	???	_	_	beginning
-7	``	_	_	``	_	1	???	_	_	when
+7	``	_	_	``	_	3	???	_	_	moved
 
 1	Which	_	_	WDT	_	8	SUBJ	_	_	does
 2	,	_	_	,	_	4	???	_	_	should
@@ -1163,14 +1136,14 @@
 6	a	_	_	DT	_	7	???	_	_	gridlock
 7	gridlock	_	_	NN	_	5	OBJ-DO	_	_	held
 
-1	when	_	_	WRB	_	0	ROOT	_	_	ROOT
+1	when	_	_	WRB	_	10	???	_	_	unraveled
 2	,	_	_	,	_	3	???	_	_	in
-3	in	_	_	IN	_	1	???	_	_	when
+3	in	_	_	IN	_	8	???	_	_	would
 4	words	_	_	NNS	_	3	???	_	_	in
 5	,	_	_	,	_	3	???	_	_	in
-6	``	_	_	``	_	1	???	_	_	when
+6	``	_	_	``	_	8	???	_	_	would
 7	companies	_	_	NNS	_	8	SUBJ	_	_	would
-8	would	_	_	MD	_	1	???	_	_	when
+8	would	_	_	MD	_	0	ROOT	_	_	ROOT
 9	have	_	_	VB	_	8	???	_	_	would
 10	unraveled	_	_	VBN	_	9	???	_	_	have
 
@@ -1274,11 +1247,11 @@
 11	he	_	_	PRP	_	12	SUBJ	_	_	proceeded
 12	proceeded	_	_	VBD	_	6	???	_	_	that
 
-1	How	_	_	WRB	_	0	ROOT	_	_	ROOT
+1	How	_	_	WRB	_	4	???	_	_	change
 2	quickly	_	_	RB	_	1	???	_	_	How
 3	things	_	_	NNS	_	4	SUBJ	_	_	change
-4	change	_	_	VBP	_	1	???	_	_	How
-5	.	_	_	.	_	1	???	_	_	How
+4	change	_	_	VBP	_	0	ROOT	_	_	ROOT
+5	.	_	_	.	_	4	???	_	_	change
 
 1	what	_	_	WP	_	4	SUBJ	_	_	is
 2	in	_	_	IN	_	0	ROOT	_	_	ROOT
@@ -1306,11 +1279,11 @@
 9	live	_	_	VB	_	8	???	_	_	to
 10	.	_	_	.	_	4	???	_	_	is
 
-1	when	_	_	WRB	_	0	ROOT	_	_	ROOT
-2	in	_	_	IN	_	1	???	_	_	when
+1	when	_	_	WRB	_	7	???	_	_	take
+2	in	_	_	IN	_	0	ROOT	_	_	ROOT
 3	fact	_	_	NN	_	2	???	_	_	in
 4	they	_	_	PRP	_	5	SUBJ	_	_	do
-5	do	_	_	VBP	_	1	???	_	_	when
+5	do	_	_	VBP	_	2	???	_	_	in
 6	n't	_	_	RB	_	5	???	_	_	do
 7	take	_	_	VB	_	5	???	_	_	do
 8	it	_	_	PRP	_	7	OBJ-DO	_	_	take
@@ -1381,10 +1354,10 @@
 7	's	_	_	VBZ	_	5	???	_	_	and
 8	not	_	_	RB	_	7	???	_	_	's
 
-1	where	_	_	WRB	_	0	ROOT	_	_	ROOT
+1	where	_	_	WRB	_	7	???	_	_	await
 2	,	_	_	,	_	4	???	_	_	say
 3	they	_	_	PRP	_	4	SUBJ	_	_	say
-4	say	_	_	VBP	_	1	???	_	_	where
+4	say	_	_	VBP	_	0	ROOT	_	_	ROOT
 5	0_NULL	_	_	-NONE-	_	4	???	_	_	say
 6	,	_	_	,	_	4	???	_	_	say
 7	await	_	_	VBP	_	5	???	_	_	0_NULL
@@ -1409,11 +1382,11 @@
 17	a	_	_	DT	_	18	???	_	_	source
 18	source	_	_	NN	_	16	???	_	_	to
 
-1	with	_	_	IN	_	0	ROOT	_	_	ROOT
+1	with	_	_	IN	_	11	???	_	_	complied
 2	which	_	_	WDT	_	1	???	_	_	with
 3	,	_	_	,	_	5	???	_	_	said
 4	he	_	_	PRP	_	5	SUBJ	_	_	said
-5	said	_	_	VBD	_	1	???	_	_	with
+5	said	_	_	VBD	_	0	ROOT	_	_	ROOT
 6	0_NULL	_	_	-NONE-	_	5	???	_	_	said
 7	,	_	_	,	_	5	???	_	_	said
 8	his	_	_	PRP$	_	9	???	_	_	clients
@@ -1424,9 +1397,6 @@
 1	what	_	_	WP	_	2	SUBJ	_	_	will
 2	will	_	_	MD	_	0	ROOT	_	_	ROOT
 3	happen	_	_	VB	_	2	???	_	_	will
-4	if	_	_	IN	_	3	???	_	_	happen
-5	investment	_	_	NN	_	6	SUBJ	_	_	starts
-6	starts	_	_	VBZ	_	4	???	_	_	if
 
 1	even	_	_	RB	_	0	ROOT	_	_	ROOT
 2	necessary	_	_	JJ	_	1	???	_	_	even
@@ -1456,11 +1426,11 @@
 6	?	_	_	.	_	3	???	_	_	about
 7	''	_	_	''	_	3	???	_	_	about
 
-1	if	_	_	IN	_	3	???	_	_	when
-2	and	_	_	CC	_	3	???	_	_	when
-3	when	_	_	WRB	_	0	ROOT	_	_	ROOT
+1	if	_	_	IN	_	0	ROOT	_	_	ROOT
+2	and	_	_	CC	_	1	???	_	_	if
+3	when	_	_	WRB	_	6	???	_	_	identified
 4	problems	_	_	NNS	_	5	SUBJ	_	_	were
-5	were	_	_	VBD	_	3	???	_	_	when
+5	were	_	_	VBD	_	1	???	_	_	if
 6	identified	_	_	VBN	_	5	???	_	_	were
 
 1	What	_	_	WP	_	2	???	_	_	about
@@ -1499,12 +1469,6 @@
 2	they	_	_	PRP	_	3	SUBJ	_	_	are
 3	are	_	_	VBP	_	1	???	_	_	0_NULL
 4	housekeeping	_	_	NN	_	3	???	_	_	are
-5	although	_	_	IN	_	4	???	_	_	housekeeping
-6	some	_	_	DT	_	7	SUBJ	_	_	may
-7	may	_	_	MD	_	5	???	_	_	although
-8	generate	_	_	VB	_	7	???	_	_	may
-9	some	_	_	DT	_	10	???	_	_	disagreement
-10	disagreement	_	_	NN	_	8	OBJ-DO	_	_	generate
 
 1	because	_	_	RB	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	4	???	_	_	says
@@ -1569,14 +1533,10 @@
 15	revoke	_	_	VB	_	11	???	_	_	should
 16	the	_	_	DT	_	17	???	_	_	license
 17	license	_	_	NN	_	15	OBJ-DO	_	_	revoke
-18	when	_	_	WRB	_	15	???	_	_	revoke
-19	someone	_	_	NN	_	20	SUBJ	_	_	is
-20	is	_	_	VBZ	_	18	???	_	_	when
-21	convicted	_	_	VBN	_	20	???	_	_	is
 
-1	on	_	_	IN	_	0	ROOT	_	_	ROOT
+1	on	_	_	IN	_	3	???	_	_	flows
 2	which	_	_	WDT	_	1	???	_	_	on
-3	flows	_	_	VBZ	_	1	???	_	_	on
+3	flows	_	_	VBZ	_	0	ROOT	_	_	ROOT
 4	much	_	_	JJ	_	3	SUBJ	_	_	flows
 
 1	Not	_	_	RB	_	2	???	_	_	that

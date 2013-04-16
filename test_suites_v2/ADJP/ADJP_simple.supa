@@ -1087,11 +1087,6 @@
 6	making	_	_	VBG	_	5	???	_	_	of
 7	a	_	_	DT	_	8	???	_	_	movie
 8	movie	_	_	NN	_	6	OBJ-DO	_	_	making
-9	unless	_	_	IN	_	6	???	_	_	making
-10	it	_	_	PRP	_	11	SUBJ	_	_	carries
-11	carries	_	_	VBZ	_	9	???	_	_	unless
-12	a	_	_	DT	_	13	???	_	_	rating
-13	rating	_	_	NN	_	11	OBJ-DO	_	_	carries
 
 1	still	_	_	RB	_	2	???	_	_	more
 2	more	_	_	RBR	_	3	???	_	_	defensive
@@ -1136,11 +1131,11 @@
 1	all-employee	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	owned	_	_	VBN	_	1	???	_	_	all-employee
 
-1	known	_	_	VBN	_	0	ROOT	_	_	ROOT
-2	for	_	_	IN	_	1	???	_	_	known
+1	as	_	_	RB	_	0	ROOT	_	_	ROOT
+2	for	_	_	IN	_	1	???	_	_	as
 3	his	_	_	PRP$	_	4	???	_	_	tastes
 4	tastes	_	_	NNS	_	2	???	_	_	for
-5	as	_	_	IN	_	1	???	_	_	known
+5	as	_	_	IN	_	1	???	_	_	as
 6	he	_	_	PRP	_	7	SUBJ	_	_	is
 7	is	_	_	VBZ	_	5	???	_	_	as
 
@@ -1965,20 +1960,15 @@
 13	required	_	_	VBD	_	1	???	_	_	time-consuming
 14	a	_	_	DT	_	15	???	_	_	transfusion
 15	transfusion	_	_	NN	_	13	OBJ-DO	_	_	required
-16	although	_	_	IN	_	13	???	_	_	required
-17	it	_	_	PRP	_	18	SUBJ	_	_	resembles
-18	resembles	_	_	VBZ	_	16	???	_	_	although
-19	a	_	_	DT	_	20	???	_	_	period
-20	period	_	_	NN	_	18	OBJ-DO	_	_	resembles
-21	-RRB-	_	_	-RRB-	_	13	???	_	_	required
-22	,	_	_	,	_	1	???	_	_	time-consuming
-23	and	_	_	CC	_	1	???	_	_	time-consuming
-24	painful	_	_	JJ	_	1	???	_	_	time-consuming
-25	-LRB-	_	_	-LRB-	_	27	???	_	_	require
-26	women	_	_	NNS	_	27	SUBJ	_	_	require
-27	require	_	_	VBP	_	1	???	_	_	time-consuming
-28	shots	_	_	NNS	_	27	OBJ-DO	_	_	require
-29	-RRB-	_	_	-RRB-	_	27	???	_	_	require
+16	-RRB-	_	_	-RRB-	_	13	???	_	_	required
+17	,	_	_	,	_	1	???	_	_	time-consuming
+18	and	_	_	CC	_	1	???	_	_	time-consuming
+19	painful	_	_	JJ	_	1	???	_	_	time-consuming
+20	-LRB-	_	_	-LRB-	_	22	???	_	_	require
+21	women	_	_	NNS	_	22	SUBJ	_	_	require
+22	require	_	_	VBP	_	1	???	_	_	time-consuming
+23	shots	_	_	NNS	_	22	OBJ-DO	_	_	require
+24	-RRB-	_	_	-RRB-	_	22	???	_	_	require
 
 1	just	_	_	RB	_	4	???	_	_	grim
 2	basically	_	_	RB	_	4	???	_	_	grim
@@ -2236,9 +2226,6 @@
 2	to	_	_	TO	_	1	???	_	_	quicker
 3	lower	_	_	VB	_	2	???	_	_	to
 4	quotes	_	_	NNS	_	3	OBJ-DO	_	_	lower
-5	when	_	_	WRB	_	3	???	_	_	lower
-6	programs	_	_	NNS	_	7	SUBJ	_	_	are
-7	are	_	_	VBP	_	5	???	_	_	when
 
 1	sales	_	_	NNS	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	3	???	_	_	and

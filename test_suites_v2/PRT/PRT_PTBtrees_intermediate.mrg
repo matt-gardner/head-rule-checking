@@ -1,0 +1,33 @@
+(PRT
+  (RP up))
+
+(PRT
+  (IN down))
+
+(PRT
+  (RB away))
+
+(PRT
+  (JJ out))
+
+(PRT
+  (RP on)
+  (CONJPP
+    (CC and)
+    (RP off)))
+
+(PRT
+  (RBR better))
+
+(PRT
+  (VBP down))
+
+(PRT
+  (RBS best))
+
+(PRT
+  (VBN put))
+
+(PRT|ADVP
+  (NN back))
+

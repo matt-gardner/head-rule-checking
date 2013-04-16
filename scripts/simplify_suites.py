@@ -2,7 +2,7 @@
 
 from subprocess import Popen, PIPE
 
-from trees import Tree, Node
+from trees import Tree
 
 
 def simplify_trees(suite_file, outfile):
@@ -21,9 +21,31 @@ def simplify_trees(suite_file, outfile):
 
 def convert_tree(tree):
     new_tree = tree.copy()
-    for i in range(len(new_tree.root.children)):
-        prune_node(new_tree.root.children[i])
+    children = new_tree.root.children
+    node_to_keep = -1
+    for i in range(len(children)):
+        if children[i].label.startswith('W') and '-' in children[i].label:
+            if children[i].label.split('-')[-1].isdigit():
+                node_to_keep = children[i].label.split('-')[-1]
+    if node_to_keep != -1:
+        for i in range(len(children)):
+            mark_node(children[i], node_to_keep)
+    for i in range(len(children)):
+        prune_node(children[i])
     return new_tree
+
+
+def mark_node(node, to_mark):
+    if not node.label.startswith('WH') and node.label.endswith(to_mark):
+        mark_parents(node)
+    for child in node.children:
+        mark_node(child, to_mark)
+
+
+def mark_parents(node):
+    node.to_keep = True
+    if node.parent:
+        mark_parents(node.parent)
 
 
 word_tags = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS',
@@ -52,6 +74,19 @@ def prune_node(node):
     return
 
 
+def remove_children(to_remove, node):
+    for child in to_remove:
+        try:
+            if child.to_keep:
+                continue
+        except AttributeError:
+            if len(node.children) == 1:
+                #print 'About to remove last child!'
+                #print node.pretty(0)
+                break
+            node.children.remove(child)
+
+
 def prune_adjp(node):
     to_remove = set()
     rbs = []
@@ -63,8 +98,7 @@ def prune_adjp(node):
             rbs.append(child)
         if child.label in ['ADVP', 'S', 'SBAR']:
             to_remove.add(child)
-    for child in to_remove:
-        node.children.remove(child)
+    remove_children(to_remove, node)
     # Remove RBs, but only if there is something else in the node
     if len(node.children) > len(rbs):
         for child in rbs:
@@ -79,8 +113,7 @@ def prune_advp(node):
             to_remove.add(child)
         if child.label == 'RB':
             rbs.append(child)
-    for child in to_remove:
-        node.children.remove(child)
+    remove_children(to_remove, node)
     # If there is more than one RB, remove all but the last
     if len(rbs) > 1:
         for child in rbs[:-1]:
@@ -106,12 +139,7 @@ def prune_np(node):
             nps.append(child)
         if child.label == 'CD':
             cds.append(child)
-    for child in to_remove:
-        if len(node.children) == 1:
-            #print 'About to remove last child!'
-            #print node.pretty(0)
-            break
-        node.children.remove(child)
+    remove_children(to_remove, node)
     # If there is more than one NN, remove all but the last
     if len(nns) > 1:
         for child in nns[:-1]:
@@ -147,10 +175,7 @@ def prune_qp(node):
             to_remove.add(child)
         if child.label == 'CD':
             cds.append(child)
-    for child in to_remove:
-        if len(node.children) == 1:
-            break
-        node.children.remove(child)
+    remove_children(to_remove, node)
     # If there is more than one CD, remove all but the last
     if len(cds) > 1:
         for child in cds[:-1]:
@@ -169,8 +194,7 @@ def prune_s(node):
             ss.append(child)
         if child.label in [',', 'CC']:
             to_remove.add(child)
-    for child in to_remove:
-        node.children.remove(child)
+    remove_children(to_remove, node)
     if len(ss) > 1:
         for child in ss[1:]:
             node.children.remove(child)
@@ -187,14 +211,11 @@ def prune_vp(node):
         if child.label == 'S' or child.label.startswith('S-'):
             to_remove.add(child)
         if child.label in [':', 'NP-TMP', 'NP-1', 'SBAR-PRP', ',', '``', "''",
-                'CC', 'UCP', 'SBAR-TMP']:
+                'CC', 'UCP', 'SBAR-TMP', 'SBAR-ADV']:
             to_remove.add(child)
         if child.label == 'VP':
             vps.append(child)
-    for child in to_remove:
-        if len(node.children) == 1:
-            break
-        node.children.remove(child)
+    remove_children(to_remove, node)
     if len(vps) > 1:
         for child in vps[1:]:
             node.children.remove(child)

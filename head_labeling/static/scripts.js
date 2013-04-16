@@ -35,9 +35,13 @@ $('.expansion textarea').change(function() {
 });
 
 $('.examples').hide();
+$('.intermediate-examples').hide();
 
 $('.show-examples span').click(function() {
   $(this).parent().parent().children('.examples').toggle();
+});
+$('.show-debug span').click(function() {
+  $(this).parent().parent().children('.intermediate-examples').toggle();
 });
 
 });

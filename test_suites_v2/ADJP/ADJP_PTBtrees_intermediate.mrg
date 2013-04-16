@@ -10,9 +10,8 @@
   (PP
     (IN of)
     (NP
-      (NP
-        (DT any)
-        (NN research)))))
+      (DT any)
+      (NN research))))
 
 (ADJP
   (CD 83.4)
@@ -37,8 +36,9 @@
 
 (ADJP-PRD
   (JJ substantial)
-  (CC and)
-  (JJ persistent))
+  (CONJPP
+    (CC and)
+    (JJ persistent)))
 
 (ADJP
   (RB recently)
@@ -83,14 +83,11 @@
   (PP
     (TO to)
     (NP
-      (NP
-        (NNS investors)))))
+      (NNS investors))))
 
 (ADJP-PRD
   (JJ easy)
   (SBAR
-    (WHNP-2
-      (-NONE- 0))
     (S
       (NP-SBJ
         (-NONE- *))
@@ -99,7 +96,8 @@
         (VP
           (VB sell)
           (NP
-            (-NONE- *T*-2)))))))
+            (WHNP
+              (-NONE- 0_NULL))))))))
 
 (ADJP
   ($ $)
@@ -123,9 +121,10 @@
 (ADJP-PRD
   (ADJP
     (JJ imaginative))
-  (CC and)
-  (ADJP
-    (JJ funny)))
+  (CONJPP
+    (CC and)
+    (ADJP
+      (JJ funny))))
 
 (ADJP
   (NP
@@ -137,9 +136,8 @@
   (PP
     (TO to)
     (NP
-      (NP
-        (DT the)
-        (NN development)))))
+      (DT the)
+      (NN development))))
 
 (ADJP
   (QP
@@ -200,8 +198,6 @@
   (RB very)
   (JJ expensive)
   (SBAR
-    (WHNP-4
-      (-NONE- 0))
     (S
       (NP-SBJ
         (-NONE- *))
@@ -210,9 +206,10 @@
         (VP
           (VB maintain)
           (NP
-            (-NONE- *T*-4)))))))
+            (WHNP
+              (-NONE- 0_NULL))))))))
 
-(ADJP-PRD-3
+(ADJP-PRD
   (RB too)
   (JJ high)
   (S
@@ -223,8 +220,7 @@
   (PP
     (IN than)
     (NP
-      (NP
-        (NN period)))))
+      (NN period))))
 
 (ADJP-PRD
   (RB far)
@@ -304,20 +300,18 @@
   (PP
     (IN into)
     (NP
-      (NP
-        (NN stock))))
+      (NN stock)))
   (PP
     (IN at)
     (NP
-      (NP
-        (NP
-          ($ $)
-          (-NONE- *U*))))))
+      ($ $)
+      (-NONE- *U*))))
 
 (ADJP
   (JJR More)
-  (CC and)
-  (JJR more))
+  (CONJPP
+    (CC and)
+    (JJR more)))
 
 (ADJP
   (JJ primary)
@@ -326,17 +320,18 @@
 (ADJP-PRD
   (ADJP
     (JJ wicked))
-  (, ,)
-  (CC but)
-  (ADJP
-    (JJ foolish)))
+  (CONJPP
+    (, ,)
+    (CC but)
+    (ADJP
+      (JJ foolish))))
 
 (ADJP-PRD
   (VBN worried)
   (SBAR
     (IN that)
     (S
-      (NP-SBJ-1
+      (NP-SBJ
         (NNS ratings))
       (VP
         (MD will)
@@ -350,15 +345,16 @@
   (PP
     (TO to)
     (NP
-      (NP
-        (NN stock)))))
+      (NN stock))))
 
 (ADJP
   (JJ scientific)
-  (, ,)
-  (JJ legal)
-  (CC and)
-  (JJ ethical))
+  (CONJPP
+    (, ,)
+    (JJ legal)
+    (CONJPP
+      (CC and)
+      (JJ ethical))))
 
 (ADJP
   (RB virtually)
@@ -430,14 +426,14 @@
   (PP
     (IN in)
     (NP
-      (NP
-        (DT a)
-        (NN return)))))
+      (DT a)
+      (NN return))))
 
 (ADJP
   (NN retail)
-  (CC and)
-  (JJ wholesale))
+  (CONJPP
+    (CC and)
+    (JJ wholesale)))
 
 (ADJP-PRD
   (ADJP
@@ -465,12 +461,14 @@
 (ADJP
   (ADJP
     (JJR clearer))
-  (, ,)
-  (ADJP
-    (JJR safer))
-  (CC and)
-  (ADJP
-    (JJ useful)))
+  (CONJPP
+    (, ,)
+    (ADJP
+      (JJR safer))
+    (CONJPP
+      (CC and)
+      (ADJP
+        (JJ useful)))))
 
 (ADJP-PRD
   (JJ worth)
@@ -508,8 +506,6 @@
 (ADJP-PRD
   (RB hard)
   (SBAR
-    (WHNP-1
-      (-NONE- 0))
     (S
       (NP-SBJ
         (-NONE- *))
@@ -518,7 +514,8 @@
         (VP
           (VB take)
           (NP
-            (-NONE- *T*-1)))))))
+            (WHNP
+              (-NONE- 0_NULL))))))))
 
 (ADJP-PRD
   (RBR less)
@@ -527,8 +524,6 @@
 (ADJP
   (JJR easier)
   (SBAR
-    (WHNP-3
-      (-NONE- 0))
     (IN for)
     (S
       (NP-SBJ
@@ -538,7 +533,8 @@
         (VP
           (VB take)
           (NP
-            (-NONE- *T*-3)))))))
+            (WHNP
+              (-NONE- 0_NULL))))))))
 
 (ADJP
   (NN rate)
@@ -561,8 +557,9 @@
 
 (ADJP
   (NN electric)
-  (CC and)
-  (NN electronics-product))
+  (CONJPP
+    (CC and)
+    (NN electronics-product)))
 
 (ADJP
   (NNP New)
@@ -577,9 +574,8 @@
   (PP
     (IN by)
     (NP
-      (NP
-        (DT the)
-        (NNS effects)))))
+      (DT the)
+      (NNS effects))))
 
 (ADJP-PRD
   (RB off)
@@ -615,8 +611,9 @@
 
 (ADJP
   (VBN disputed)
-  (CC and)
-  (JJ elusive))
+  (CONJPP
+    (CC and)
+    (JJ elusive)))
 
 (ADJP-PRD
   (DT this)
@@ -625,8 +622,9 @@
 (ADJP-PRD
   (DT both)
   (JJ costly)
-  (CC and)
-  (JJ time-consuming))
+  (CONJPP
+    (CC and)
+    (JJ time-consuming)))
 
 (ADJP
   (ADJP
@@ -697,9 +695,8 @@
   (PP
     (IN from)
     (NP
-      (NP
-        (DT the)
-        (-NONE- *U*)))))
+      (DT the)
+      (-NONE- *U*))))
 
 (ADJP-PRD
   (NP-ADV
@@ -729,8 +726,9 @@
 
 (ADJP
   (JJ fresh)
-  (CC and)
-  (VBN processed))
+  (CONJPP
+    (CC and)
+    (VBN processed)))
 
 (ADJP-PRD
   (RP down))
@@ -750,8 +748,7 @@
       (VP
         (VB meet)
         (NP
-          (NP
-            (NNS costs)))))))
+          (NNS costs))))))
 
 (ADJP
   (IN Per)
@@ -808,8 +805,9 @@
 
 (ADJP
   (VBN enlightened)
-  (CC and)
-  (VBN spirited))
+  (CONJPP
+    (CC and)
+    (VBN spirited)))
 
 (ADJP-PRD
   (RBR more)
@@ -817,8 +815,7 @@
   (PP
     (IN in)
     (NP
-      (NP
-        (NNS issues)))))
+      (NNS issues))))
 
 (ADJP
   (RBR more)
@@ -839,8 +836,9 @@
 
 (ADJP
   (JJ small)
-  (CC but)
-  (VBG growing))
+  (CONJPP
+    (CC but)
+    (VBG growing)))
 
 (ADJP-PRD
   (`` ``)
@@ -894,8 +892,9 @@
 
 (ADJP
   (NNP Southwest)
-  (CC and)
-  (NNP Baltimore-Washington))
+  (CONJPP
+    (CC and)
+    (NNP Baltimore-Washington)))
 
 (ADJP
   (NP
@@ -906,17 +905,21 @@
 
 (ADJP-PRD
   (JJ dead)
-  (, ,)
-  (JJ listless)
-  (, ,)
-  (JJ depressing)
-  (CC and)
-  (JJ negative))
+  (CONJPP
+    (, ,)
+    (JJ listless)
+    (CONJPP
+      (, ,)
+      (JJ depressing)
+      (CONJPP
+        (CC and)
+        (JJ negative)))))
 
 (ADJP
   (JJ similar)
-  (CC but)
-  (JJR smaller))
+  (CONJPP
+    (CC but)
+    (JJR smaller)))
 
 (ADJP-PRD
   (IN worth)
@@ -934,8 +937,9 @@
 
 (ADJP
   (JJ preposterous)
-  (CC and)
-  (RB utterly))
+  (CONJPP
+    (CC and)
+    (RB utterly)))
 
 (ADJP
   (FW de)
@@ -954,7 +958,7 @@
       (VP
         (VBP say)
         (SBAR
-          (-NONE- 0)
+          (-NONE- 0_NULL)
           (S
             (-NONE- *T*-2)))))
     (, ,))
@@ -970,8 +974,6 @@
   (RBR more)
   (JJ difficult)
   (SBAR
-    (WHNP-1
-      (-NONE- 0))
     (S
       (NP-SBJ
         (-NONE- *))
@@ -980,7 +982,8 @@
         (VP
           (VB rescind)
           (NP
-            (-NONE- *T*-1)))))))
+            (WHNP
+              (-NONE- 0_NULL))))))))
 
 (ADJP-PRD
   (NN worth)
@@ -1015,9 +1018,8 @@
   (PP
     (IN than)
     (NP
-      (NP
-        (DT the)
-        (NN %)))))
+      (DT the)
+      (NN %))))
 
 (ADJP
   (RBS most)
@@ -1026,8 +1028,9 @@
 
 (ADJP
   (JJ administrative)
-  (CC and)
-  (NN operating))
+  (CONJPP
+    (CC and)
+    (NN operating)))
 
 (ADJP-PRD
   (RB that)
@@ -1096,9 +1099,10 @@
   (DT both)
   (ADJP
     (JJ corporate))
-  (CC and)
-  (ADJP
-    (JJ private)))
+  (CONJPP
+    (CC and)
+    (ADJP
+      (JJ private))))
 
 (ADJP-ADV
   (JJ payable)
@@ -1108,8 +1112,7 @@
   (PP
     (TO to)
     (NP
-      (NP
-        (NNS shares)))))
+      (NNS shares))))
 
 (ADJP
   (QP
@@ -1152,15 +1155,14 @@
   (PP
     (IN from)
     (SBAR-NOM
-      (WHNP-2
-        (WP what))
       (S
         (NP-SBJ
           (PRP they))
         (VP
           (VBP view)
           (NP
-            (-NONE- *T*-2)))))))
+            (WHNP
+              (WP what))))))))
 
 (ADJP
   (JJR less)
@@ -1186,8 +1188,9 @@
 
 (ADJP
   (DT these)
-  (CC and)
-  (JJ other))
+  (CONJPP
+    (CC and)
+    (JJ other)))
 
 (ADJP
   (JJ first)
@@ -1209,8 +1212,7 @@
   (PP
     (TO to)
     (NP
-      (NP
-        (NNP Katzenstein)))))
+      (NNP Katzenstein))))
 
 (ADJP
   (ADVP
@@ -1244,7 +1246,7 @@
         (NP
           (NNS shares)))))
   (SBAR
-    (WHADVP-2
+    (WHADVP
       (WRB when))
     (S
       (NP-SBJ-1
@@ -1301,15 +1303,18 @@
 (ADJP-PRD
   (ADJP
     (VBN dressed))
-  (, ,)
-  (ADJP
-    (VBN decorated))
-  (, ,)
-  (ADJP
-    (JJ unwashed))
-  (CC and)
-  (ADJP
-    (JJ flatulent)))
+  (CONJPP
+    (, ,)
+    (ADJP
+      (VBN decorated))
+    (CONJPP
+      (, ,)
+      (ADJP
+        (JJ unwashed))
+      (CONJPP
+        (CC and)
+        (ADJP
+          (JJ flatulent))))))
 
 (ADJP
   (JJ payable)
@@ -1353,7 +1358,7 @@
     (, ,)
     (`` ``))
   (SBAR
-    (-NONE- 0)
+    (-NONE- 0_NULL)
     (S
       (NP-SBJ
         (PRP it))
@@ -1362,8 +1367,9 @@
 
 (ADJP
   (JJ little)
-  (CC or)
-  (DT no))
+  (CONJPP
+    (CC or)
+    (DT no)))
 
 (ADJP-PRD
   (JJ unaccounted)
@@ -1400,7 +1406,7 @@
   (JJ confident)
   ('' '')
   (SBAR
-    (-NONE- 0)
+    (-NONE- 0_NULL)
     (S
       (NP-SBJ
         (PRP it))
@@ -1409,9 +1415,8 @@
         (VP
           (VB arrange)
           (NP
-            (NP
-              (DT the)
-              (NN balance))))))))
+            (DT the)
+            (NN balance)))))))
 
 (ADJP-PRD
   (JJ subject)
@@ -1431,9 +1436,10 @@
 
 (ADJP
   (JJ small)
-  (: -)
-  (CC and)
-  (JJ medium-sized))
+  (CONJPP
+    (: -)
+    (CC and)
+    (JJ medium-sized)))
 
 (ADJP
   (NNP June)
@@ -1485,8 +1491,9 @@
 
 (ADJP
   (VBG capital-draining)
-  (CC and)
-  (JJ labor-intensive))
+  (CONJPP
+    (CC and)
+    (JJ labor-intensive)))
 
 (ADJP-PRD
   (DT a)
@@ -1495,9 +1502,10 @@
 
 (ADJP
   (JJ inverted)
-  (, ,)
-  (CC or)
-  (JJ mouth-up))
+  (CONJPP
+    (, ,)
+    (CC or)
+    (JJ mouth-up)))
 
 (ADJP
   (QP
@@ -1517,8 +1525,7 @@
 (ADJP
   (VBN aged)
   (NP
-    (NP
-      (CD 18))))
+    (CD 18)))
 
 (ADJP-PRD
   (ADVP
@@ -1579,11 +1586,10 @@
   (PP
     (IN of)
     (SBAR-NOM
-      (WHNP-1
-        (WDT which))
       (S
         (NP-SBJ
-          (-NONE- *T*-1))
+          (WHNP
+            (WDT which)))
         (VP
           (VBP are))))))
 
@@ -1606,10 +1612,12 @@
 
 (ADJP
   (NN bar)
-  (, ,)
-  (JJ hot-rolled)
-  (CC and)
-  (JJ structural))
+  (CONJPP
+    (, ,)
+    (JJ hot-rolled)
+    (CONJPP
+      (CC and)
+      (JJ structural))))
 
 (ADJP
   (VB even)
@@ -1687,8 +1695,9 @@
 
 (ADJP
   (JJS newest)
-  (CC and)
-  (JJS largest))
+  (CONJPP
+    (CC and)
+    (JJS largest)))
 
 (ADJP
   (VBN provided)
@@ -1778,10 +1787,9 @@
     (VP
       (TO to)
       (VP
-        (VP
-          (VB meet)
-          (NP
-            (NNS deadlines))))))
+        (VB meet)
+        (NP
+          (NNS deadlines)))))
   (PP-PRP
     (RB because)
     (IN of)
@@ -1801,8 +1809,6 @@
   (CC and)
   (JJR harder)
   (SBAR
-    (WHNP-2
-      (-NONE- 0))
     (S
       (NP-SBJ
         (-NONE- *))
@@ -1811,7 +1817,8 @@
         (VP
           (VB do)
           (NP
-            (-NONE- *T*-2)))))))
+            (WHNP
+              (-NONE- 0_NULL))))))))
 
 (ADJP-PRD
   (DT either)
@@ -1841,7 +1848,7 @@
   (CC or)
   (ADJP
     (JJR more))
-  (NP-5
+  (NP
     (DT the)
     (NN rate)))
 
@@ -1901,9 +1908,8 @@
   (PP
     (IN for)
     (NP
-      (NP
-        (PRP$ his)
-        (NNS tastes))))
+      (PRP$ his)
+      (NNS tastes)))
   (SBAR
     (IN as)
     (S
@@ -1932,8 +1938,7 @@
     (JJR wiser))
   (CC and)
   (ADJP
-    (ADJP
-      (JJ boorish))))
+    (JJ boorish)))
 
 (ADJP
   (`` ``)
@@ -1942,10 +1947,12 @@
 
 (ADJP
   (JJ bright)
-  (CC and)
-  (JJ bold)
-  (CC and)
-  (JJ tongue-in-cheek))
+  (CONJPP
+    (CC and)
+    (JJ bold)
+    (CONJPP
+      (CC and)
+      (JJ tongue-in-cheek))))
 
 (ADJP
   (RB so)
@@ -1978,8 +1985,6 @@
   (RB much)
   (JJR harder)
   (SBAR
-    (WHNP-2
-      (-NONE- 0))
     (S
       (NP-SBJ
         (-NONE- *))
@@ -1988,7 +1993,8 @@
         (VP
           (VB maintain)
           (NP
-            (-NONE- *T*-2)))))))
+            (WHNP
+              (-NONE- 0_NULL))))))))
 
 (ADJP
   (ADJP
@@ -2011,20 +2017,18 @@
       (NP
         (DT a)
         (NN order))
-      (SBAR-2
-        (WHNP-1
-          (-NONE- 0))
+      (SBAR
         (S
           (NP-SBJ
-            (-NONE- *T*-1))
+            (WHNP
+              (-NONE- 0_NULL)))
           (VP
             (TO to)
             (VP
               (VB equip)
               (NP
-                (NP
-                  (PRP$ its)
-                  (NN fleet))))))))))
+                (PRP$ its)
+                (NN fleet)))))))))
 
 (ADJP
   (VBP fit)
@@ -2050,9 +2054,7 @@
   (ADJP
     (JJ impossible))
   (, ,)
-  (SBAR-2
-    (WHNP-1
-      (-NONE- 0))
+  (SBAR
     (S
       (NP-SBJ
         (-NONE- *))
@@ -2061,7 +2063,8 @@
         (VP
           (VB regulate)
           (NP
-            (-NONE- *T*-1)))))))
+            (WHNP
+              (-NONE- 0_NULL))))))))
 
 (ADJP-PRD
   (DT a)
@@ -2093,8 +2096,7 @@
   (PP
     (IN at)
     (NP
-      (NP
-        (NN premium)))))
+      (NN premium))))
 
 (ADJP-PRD
   (RB too)
@@ -2108,11 +2110,10 @@
         (PRP$ his)
         (NN set))))
   (SBAR
-    (WHNP-2
-      (-NONE- 0))
     (S
       (NP-SBJ
-        (-NONE- *T*-2))
+        (WHNP
+          (-NONE- 0_NULL)))
       (VP
         (TO to)
         (VP
@@ -2128,22 +2129,26 @@
 
 (ADJP
   (NNS investor-relations)
-  (CC and)
-  (NNS marketing-communications))
+  (CONJPP
+    (CC and)
+    (NNS marketing-communications)))
 
 (ADJP
   (ADJP
     (JJ short))
-  (, ,)
-  (ADJP
-    (JJ bald))
-  (, ,)
-  (ADJP
-    (JJ nerdy))
-  (, ,)
-  (CC and)
-  (ADJP
-    (JJ boring)))
+  (CONJPP
+    (, ,)
+    (ADJP
+      (JJ bald))
+    (CONJPP
+      (, ,)
+      (ADJP
+        (JJ nerdy))
+      (CONJPP
+        (, ,)
+        (CC and)
+        (ADJP
+          (JJ boring))))))
 
 (ADJP
   (DT the)
@@ -2166,9 +2171,8 @@
       (VP
         (VB improve)
         (NP
-          (NP
-            (DT the)
-            (NN availability))))))
+          (DT the)
+          (NN availability)))))
   (SBAR
     (IN than)
     (SINV
@@ -2202,9 +2206,8 @@
   (PP
     (IN at)
     (NP
-      (NP
-        (DT a)
-        (NN premium)))))
+      (DT a)
+      (NN premium))))
 
 (ADJP
   (RB probably)
@@ -2239,8 +2242,8 @@
       (JJ worth)
       (NP
         (DT a)))
-    (CC and)
-    (ADJP
+    (CONJPP
+      (CC and)
       (ADJP
         (RB even)
         (RBR better)))))
@@ -2257,7 +2260,7 @@
         (VBZ gets)
         (ADJP-PRD
           (-NONE- *?*)))))
-  (PP-2
+  (PP
     (TO to)
     (S-NOM
       (NP-SBJ
@@ -2273,9 +2276,8 @@
   (PP
     (IN in)
     (NP
-      (NP
-        (DT a)
-        (NN number))))
+      (DT a)
+      (NN number)))
   (SBAR
     (IN that)
     (S
@@ -2356,8 +2358,7 @@
   (PP
     (IN with)
     (NP
-      (NP
-        (NNS tinges)))))
+      (NNS tinges))))
 
 (ADJP
   (RBR more)
@@ -2420,10 +2421,9 @@
   (PP
     (IN for)
     (NP
-      (NP
-        (PDT such)
-        (DT a)
-        (NN settlement)))))
+      (PDT such)
+      (DT a)
+      (NN settlement))))
 
 (ADJP-PRD
   (JJR better)
@@ -2460,7 +2460,7 @@
   (RB slightly)
   (IN down))
 
-(ADJP-2
+(ADJP
   (DT the)
   (JJ same)
   (PP
@@ -2481,9 +2481,10 @@
 
 (ADJP
   (VBN crowded)
-  (, ,)
-  (CC but)
-  (JJ fast-growing))
+  (CONJPP
+    (, ,)
+    (CC but)
+    (JJ fast-growing)))
 
 (ADJP
   (JJ Callable)
@@ -2494,9 +2495,8 @@
   (PP
     (IN at)
     (NP
-      (NP
-        (QP
-          (CD 3\/4)))))
+      (QP
+        (CD 3\/4))))
   (. .))
 
 (ADJP
@@ -2505,8 +2505,7 @@
   (PP
     (TO to)
     (NP
-      (NP
-        (VB abuse))))
+      (VB abuse)))
   (, ,)
   (SBAR-PRP
     (IN since)
@@ -2543,9 +2542,10 @@
 (ADJP
   (NP
     (NN age))
-  (CC and)
-  (ADJP
-    (JJR older)))
+  (CONJPP
+    (CC and)
+    (ADJP
+      (JJR older))))
 
 (ADJP-PRD
   (ADJP
@@ -2556,9 +2556,9 @@
       (NN appearance)))
   (, ,)
   (SBAR
-    (-NONE- 0)
+    (-NONE- 0_NULL)
     (S
-      (NP-SBJ-1
+      (NP-SBJ
         (PRP it))
       (VP
         (VBD was)
@@ -2593,8 +2593,7 @@
       (VP
         (VBZ wants)
         (NP
-          (NP
-            (NN money)))))
+          (NN money))))
     (: --))
   (CC or)
   (ADJP
@@ -2648,7 +2647,7 @@
   (PP
     (IN from)
     (SBAR
-      (WHADVP-1
+      (WHADVP
         (WRB where))
       (S
         (NP-SBJ
@@ -2701,8 +2700,7 @@
         (VP
           (VB expand)
           (NP
-            (NP
-              (NNS markets))))))))
+            (NNS markets)))))))
 
 (ADJP
   (RB not)
@@ -2727,8 +2725,7 @@
     (NP
       (NNS ways)))
   (ADJP
-    (ADJP
-      (JJR easier))))
+    (JJR easier)))
 
 (ADJP-PRD
   (RBR more)
@@ -2784,10 +2781,12 @@
 
 (ADJP
   (JJ economic)
-  (, ,)
-  (JJ federal)
-  (CC or)
-  (JJR stronger))
+  (CONJPP
+    (, ,)
+    (JJ federal)
+    (CONJPP
+      (CC or)
+      (JJR stronger))))
 
 (ADJP-PRD
   (ADJP
@@ -2809,14 +2808,14 @@
   (IN about)
   (RB even))
 
-(ADJP-PRD-TPC-2
+(ADJP-PRD-TPC
   (WRB How)
   (JJ easy))
 
 (ADJP-PRD
   (VBN convinced)
   (SBAR
-    (-NONE- 0)
+    (-NONE- 0_NULL)
     (S
       (NP-SBJ
         (DT a)
@@ -2832,8 +2831,6 @@
   (RB even)
   (RBR harder)
   (SBAR
-    (WHNP-2
-      (-NONE- 0))
     (S
       (NP-SBJ
         (-NONE- *))
@@ -2842,7 +2839,8 @@
         (VP
           (VB shrink)
           (NP
-            (-NONE- *T*-2)))))))
+            (WHNP
+              (-NONE- 0_NULL))))))))
 
 (ADJP
   (RBR more)
@@ -2892,8 +2890,9 @@
 
 (ADJP
   (PRP$ his)
-  (CC or)
-  (PRP$ her))
+  (CONJPP
+    (CC or)
+    (PRP$ her)))
 
 (ADJP
   (JJR more)
@@ -2937,17 +2936,16 @@
 
 (ADJP
   (VB stop)
-  (CC and)
-  (VB go))
+  (CONJPP
+    (CC and)
+    (VB go)))
 
 (ADJP-PRD
   (JJ available)
   (PP
     (TO to)
     (NP
-      (NP
-        (NP
-          (JJ certain)))))
+      (JJ certain)))
   (`` ``)
   (PP
     (PP
@@ -2987,8 +2985,7 @@
       (VP
         (VBG easing)
         (NP
-          (NP
-            (NNS strains)))))))
+          (NNS strains))))))
 
 (ADJP
   (JJR more)
@@ -3004,8 +3001,7 @@
   (PP
     (IN with)
     (NP
-      (NP
-        (NNS ringers)))))
+      (NNS ringers))))
 
 (ADJP-PRD
   (NNP Fluent)
@@ -3024,14 +3020,18 @@
 
 (ADJP
   (JJ Swiss)
-  (, ,)
-  (JJ German)
-  (, ,)
-  (JJ Spanish)
-  (, ,)
-  (JJ Australian)
-  (CC and)
-  (JJ Canadian))
+  (CONJPP
+    (, ,)
+    (JJ German)
+    (CONJPP
+      (, ,)
+      (JJ Spanish)
+      (CONJPP
+        (, ,)
+        (JJ Australian)
+        (CONJPP
+          (CC and)
+          (JJ Canadian))))))
 
 (ADJP
   (JJR lower)
@@ -3039,10 +3039,12 @@
 
 (ADJP
   (JJ Italian)
-  (, ,)
-  (NNP U.S.)
-  (CC and)
-  (JJ Japanese))
+  (CONJPP
+    (, ,)
+    (NNP U.S.)
+    (CONJPP
+      (CC and)
+      (JJ Japanese))))
 
 (ADJP-PRD
   (RBR more)
@@ -3118,8 +3120,7 @@
         (VP
           (VB make)
           (NP
-            (NP
-              (NN grade))))))))
+            (NN grade)))))))
 
 (ADJP-PRD
   (JJR greater)
@@ -3135,9 +3136,8 @@
       (VP
         (VB cover)
         (NP
-          (NP
-            (PRP$ its)
-            (NNS charges))))))
+          (PRP$ its)
+          (NNS charges)))))
   ('' '')
   (PP
     (IN by)
@@ -3157,15 +3157,16 @@
   (PP
     (IN by)
     (NP
-      (NP
-        (NN praise)))))
+      (NN praise))))
 
 (ADJP
   (JJR better)
-  (, ,)
-  (JJR safer)
-  (CC or)
-  (JJR cheaper))
+  (CONJPP
+    (, ,)
+    (JJR safer)
+    (CONJPP
+      (CC or)
+      (JJR cheaper))))
 
 (ADJP-PRD
   (`` ``)
@@ -3188,9 +3189,10 @@
 
 (ADJP
   (JJS biggest)
-  (CC and)
-  (ADJP
-    (JJ powerful)))
+  (CONJPP
+    (CC and)
+    (ADJP
+      (JJ powerful))))
 
 (ADJP
   (JJ steady)
@@ -3199,18 +3201,22 @@
 
 (ADJP
   (JJ legal)
-  (, ,)
-  (JJ regulatory)
-  (, ,)
-  (JJ financial)
-  (CC and)
-  (NN fairness))
+  (CONJPP
+    (, ,)
+    (JJ regulatory)
+    (CONJPP
+      (, ,)
+      (JJ financial)
+      (CONJPP
+        (CC and)
+        (NN fairness)))))
 
 (ADJP-PRD
   (ADJP
     (JJ pretty)
-    (CC and)
-    (JJ smart))
+    (CONJPP
+      (CC and)
+      (JJ smart)))
   (, ,)
   (IN though)
   (ADJP
@@ -3223,9 +3229,8 @@
   (PP
     (IN with)
     (NP
-      (NP
-        (PRP$ our)
-        (NN way)))))
+      (PRP$ our)
+      (NN way))))
 
 (ADJP
   (NNP East)
@@ -3241,17 +3246,16 @@
   (PRN
     (-LRB- -LRB-)
     (S
-      (S
-        (NP-SBJ
-          (NP
-            (DT the)
-            (NN part))
-          (ADVP
-            (RB alone)))
-        (VP
-          (VBZ lasts)
-          (NP
-            (NNS days)))))
+      (NP-SBJ
+        (NP
+          (DT the)
+          (NN part))
+        (ADVP
+          (RB alone)))
+      (VP
+        (VBZ lasts)
+        (NP
+          (NNS days))))
     (-RRB- -RRB-))
   (, ,)
   (ADJP
@@ -3275,7 +3279,7 @@
   (PRN
     (-LRB- -LRB-)
     (S
-      (NP-SBJ-1
+      (NP-SBJ
         (NNS women))
       (VP
         (VBP require)
@@ -3322,8 +3326,9 @@
 
 (ADJP
   (VBG increasing)
-  (CC and)
-  (VBG diversifying))
+  (CONJPP
+    (CC and)
+    (VBG diversifying)))
 
 (ADJP
   ($ $)
@@ -3406,9 +3411,8 @@
       (VP
         (NNP REVIEW)
         (NP
-          (NP
-            (DT the)
-            (NN riskiness)))))))
+          (DT the)
+          (NN riskiness))))))
 
 (ADJP
   (NN Year)
@@ -3460,8 +3464,6 @@
       (VP
         (VBG interpreting)
         (SBAR-NOM
-          (WHNP-1
-            (WP what))
           (S
             (NP-SBJ
               (NP
@@ -3470,7 +3472,8 @@
             (VP
               (VBN meant)
               (NP
-                (-NONE- *T*-1)))))))))
+                (WHNP
+                  (WP what))))))))))
 
 (ADJP-PRD
   (ADJP
@@ -3501,9 +3504,10 @@
 
 (ADJP
   (JJ third)
-  (: -)
-  (CC and)
-  (NN fourth-quarter))
+  (CONJPP
+    (: -)
+    (CC and)
+    (NN fourth-quarter)))
 
 (ADJP-PRD
   (RB so)
@@ -3511,8 +3515,7 @@
   (PP
     (IN with)
     (NP
-      (NP
-        (NN behavior))))
+      (NN behavior)))
   (SBAR
     (IN that)
     (S
@@ -3521,9 +3524,8 @@
       (VP
         (VBD withheld)
         (NP
-          (NP
-            (PRP$ his)
-            (NN support)))))))
+          (PRP$ his)
+          (NN support))))))
 
 (ADJP
   (NN franchisee)
@@ -3539,7 +3541,7 @@
   (CC and)
   (ADJP
     (NN liquid))
-  (SBAR-2
+  (SBAR
     (IN that)
     (S
       (NP-SBJ
@@ -3551,18 +3553,16 @@
         (VP
           (VBG having)
           (NP
-            (NP
-              (DT the)
-              (NN impact))))))))
+            (DT the)
+            (NN impact)))))))
 
 (ADJP
   (VBD centered)
   (PP
     (IN on)
     (NP
-      (NP
-        (DT a)
-        (NN cafe)))))
+      (DT a)
+      (NN cafe))))
 
 (ADJP
   (PP
@@ -3626,7 +3626,7 @@
       (DT a)
       (NN prototype))))
 
-(ADJP-PRD-TPC-1
+(ADJP-PRD-TPC
   (IN So)
   (ADVP
     (RB too)))
@@ -3756,8 +3756,6 @@
   (JJ impossible)
   (, ,)
   (SBAR
-    (WHNP-1
-      (-NONE- 0))
     (S
       (NP-SBJ
         (-NONE- *))
@@ -3766,7 +3764,8 @@
         (VP
           (VB solve)
           (NP
-            (-NONE- *T*-1)))))))
+            (WHNP
+              (-NONE- 0_NULL))))))))
 
 (ADJP-PRD
   (IN about)
@@ -3799,12 +3798,14 @@
   (ADJP
     (ADJP
       (JJ formal))
-    (, ,)
-    (ADJP
-      (JJ threatening))
-    (CC and)
-    (ADJP
-      (JJ grim)))
+    (CONJPP
+      (, ,)
+      (ADJP
+        (JJ threatening))
+      (CONJPP
+        (CC and)
+        (ADJP
+          (JJ grim)))))
   (PP
     (IN than)
     (NP
@@ -3829,8 +3830,9 @@
 
 (ADJP-PRD
   (NN anything)
-  (CC but)
-  (VBG encouraging))
+  (CONJPP
+    (CC but)
+    (VBG encouraging)))
 
 (ADJP
   (RB even)
@@ -3843,9 +3845,8 @@
       (VP
         (VB minimize)
         (NP
-          (NP
-            (DT those)
-            (NNS tests)))))))
+          (DT those)
+          (NNS tests))))))
 
 (ADJP-PRD
   (JJ far)
@@ -3866,9 +3867,8 @@
         (VP
           (VB exceed)
           (NP
-            (NP
-              (DT the)
-              (-NONE- *U*))))))))
+            (DT the)
+            (-NONE- *U*)))))))
 
 (ADJP-PRD
   (JJ likely)
@@ -3923,8 +3923,9 @@
 
 (ADJP
   (NN steam-generating)
-  (CC and)
-  (VBN related))
+  (CONJPP
+    (CC and)
+    (VBN related)))
 
 (ADJP
   ($ $)
@@ -3963,9 +3964,8 @@
   (PP
     (IN as)
     (NP
-      (NP
-        (DT an)
-        (NN measure)))))
+      (DT an)
+      (NN measure))))
 
 (ADJP
   (ADVP
@@ -3975,10 +3975,12 @@
 
 (ADJP
   (JJ commercial)
-  (, ,)
-  (JJ industrial)
-  (CC and)
-  (NNS public-works))
+  (CONJPP
+    (, ,)
+    (JJ industrial)
+    (CONJPP
+      (CC and)
+      (NNS public-works))))
 
 (ADJP-PRD
   (ADJP
@@ -3987,11 +3989,10 @@
     (JJ old))
   (: --)
   (SBAR
-    (WHNP-1
-      (WDT which))
     (S
       (NP-SBJ
-        (-NONE- *T*-1))
+        (WHNP
+          (WDT which)))
       (VP
         (VBZ is)
         (VP
@@ -4012,8 +4013,7 @@
   (PP
     (IN at)
     (NP
-      (NP
-        (NN production)))))
+      (NN production))))
 
 (ADJP
   (`` ``)
@@ -4049,15 +4049,18 @@
 
 (ADJP
   (JJ scientific)
-  (, ,)
-  (NN engineering)
-  (CC and)
-  (JJ academic))
+  (CONJPP
+    (, ,)
+    (NN engineering)
+    (CONJPP
+      (CC and)
+      (JJ academic))))
 
 (ADJP
   (JJ Asian)
-  (CC and)
-  (NNP Pacific))
+  (CONJPP
+    (CC and)
+    (NNP Pacific)))
 
 (ADJP
   (JJ genteel)
@@ -4082,9 +4085,8 @@
       (VP
         (VB present)
         (NP
-          (NP
-            (DT the)
-            (NN case)))))))
+          (DT the)
+          (NN case))))))
 
 (ADJP
   (RB recently)
@@ -4104,7 +4106,7 @@
   (SBAR
     (IN that)
     (S
-      (NP-SBJ-2
+      (NP-SBJ
         (PRP he))
       (VP
         (VBD wanted)))))
@@ -4118,8 +4120,9 @@
 
 (ADJP-PRD
   (RB up)
-  (CC and)
-  (VBG running))
+  (CONJPP
+    (CC and)
+    (VBG running)))
 
 (ADJP
   (RBS most)
@@ -4140,8 +4143,7 @@
       (VP
         (VB sell)
         (NP
-          (NP
-            (NNS franchises)))))))
+          (NNS franchises))))))
 
 (ADJP-PRD
   (`` ``)
@@ -4181,9 +4183,8 @@
       (VP
         (VB reduce)
         (NP
-          (NP
-            (DT the)
-            (NN rate)))))))
+          (DT the)
+          (NN rate))))))
 
 (ADJP
   (JJ Ready)
@@ -4226,9 +4227,8 @@
       (VP
         (VB evaluate)
         (NP
-          (NP
-            (DT the)
-            (NN appropriateness)))))))
+          (DT the)
+          (NN appropriateness))))))
 
 (ADJP
   (ADJP
@@ -4240,7 +4240,7 @@
         (DT all)
         (DT those)
         (NNS offers))
-      (S-2
+      (S
         (NP-SBJ
           (-NONE- *))
         (VP
@@ -4248,8 +4248,7 @@
           (VP
             (VB buy)
             (NP
-              (NP
-                (NNS securities))))))))
+              (NNS securities)))))))
   (. .))
 
 (ADJP
@@ -4284,19 +4283,17 @@
 (ADJP-PRD
   (NN enough)
   (SBAR
-    (WHNP-4
-      (-NONE- 0))
     (S
       (NP-SBJ
-        (-NONE- *T*-4))
+        (WHNP
+          (-NONE- 0_NULL)))
       (VP
         (TO to)
         (VP
           (VB offset)
           (NP
-            (NP
-              (DT the)
-              (NNS problems))))))))
+            (DT the)
+            (NNS problems)))))))
 
 (ADJP-PRD
   (RBS best)
@@ -4308,14 +4305,14 @@
   (PP
     (IN for)
     (NP
-      (NP
-        (PRP$ his)
-        (NNS problems)))))
+      (PRP$ his)
+      (NNS problems))))
 
 (ADJP
   (JJS biggest)
-  (CC and)
-  (JJ fastest-growing))
+  (CONJPP
+    (CC and)
+    (JJ fastest-growing)))
 
 (ADJP
   (RB as)
@@ -4375,8 +4372,7 @@
       (VP
         (VB coordinate)
         (NP
-          (NP
-            (NN policy)))))))
+          (NN policy))))))
 
 (ADJP-PRD
   (NNP Above)
@@ -4414,16 +4410,14 @@
   (PP
     (IN about)
     (NP
-      (NP
-        (DT the)
-        (NNS effects)))))
+      (DT the)
+      (NNS effects))))
 
 (ADJP
   (RB quite)
   (IN unlike)
   (NP
-    (NP
-      (NN anything))))
+    (NN anything)))
 
 (ADJP
   (JJ guilty)
@@ -4484,7 +4478,7 @@
   (SBAR
     (IN that)
     (S
-      (NP-SBJ-1
+      (NP-SBJ
         (PRP you))
       (VP
         (VBD considered)))))
@@ -4595,8 +4589,7 @@
   (PP
     (TO to)
     (NP
-      (NP
-        (NNS children)))))
+      (NNS children))))
 
 (ADJP
   (RB far)
@@ -4630,10 +4623,12 @@
 
 (ADJP
   (VBN folded)
-  (, ,)
-  (VBN faded)
-  (CC and)
-  (VBN crumpled))
+  (CONJPP
+    (, ,)
+    (VBN faded)
+    (CONJPP
+      (CC and)
+      (VBN crumpled))))
 
 (ADJP
   (IN as)
@@ -4651,12 +4646,14 @@
 
 (ADJP
   (NN spring-brake)
-  (, ,)
-  (NN piston-brake)
-  (CC and)
-  (JJ related))
+  (CONJPP
+    (, ,)
+    (NN piston-brake)
+    (CONJPP
+      (CC and)
+      (JJ related))))
 
-(ADJP-1
+(ADJP
   (NP
     (NP-ADV
       (NN %)))
@@ -4713,8 +4710,9 @@
 
 (ADJP
   (JJ senior)
-  (CC and)
-  (VBD subordinated))
+  (CONJPP
+    (CC and)
+    (VBD subordinated)))
 
 (ADJP
   (NP-ADV
@@ -4861,13 +4859,15 @@
 (ADJP
   (ADJP
     (JJ ambitious))
-  (, ,)
-  (ADJP
-    (JJ corrupt))
-  (, ,)
-  (CC and)
-  (ADJP
-    (JJ demagogic)))
+  (CONJPP
+    (, ,)
+    (ADJP
+      (JJ corrupt))
+    (CONJPP
+      (, ,)
+      (CC and)
+      (ADJP
+        (JJ demagogic)))))
 
 (ADJP-PRD
   (ADJP
@@ -4906,8 +4906,7 @@
   (, ,)
   ('' '')
   (ADJP
-    (ADJP
-      (JJR greater))))
+    (JJR greater)))
 
 (ADJP-PRD
   (IN about)
@@ -4922,7 +4921,7 @@
   (JJ bad)
   (, ,)
   (SBAR
-    (-NONE- 0)
+    (-NONE- 0_NULL)
     (S
       (NP-SBJ
         (PRP it))
@@ -4942,8 +4941,9 @@
 
 (ADJP
   (DT each)
-  (CC and)
-  (DT every))
+  (CONJPP
+    (CC and)
+    (DT every)))
 
 (ADJP
   ($ $)
@@ -4968,13 +4968,15 @@
 
 (ADJP
   (CD two)
-  (CC or)
-  (JJR more))
+  (CONJPP
+    (CC or)
+    (JJR more)))
 
 (ADJP
   (NNS Public-works)
-  (CC and)
-  (NN utility))
+  (CONJPP
+    (CC and)
+    (NN utility)))
 
 (ADJP-PRD
   (RB not)
@@ -5020,9 +5022,7 @@
   (PP
     (IN for)
     (NP
-      (NP
-        (NP
-          (NNS options)))))
+      (NNS options)))
   (, ,))
 
 (ADJP
@@ -5061,8 +5061,7 @@
   (PP-LOC
     (IN in)
     (NP
-      (NP
-        (NN trading)))))
+      (NN trading))))
 
 (ADJP-PRD
   (JJ well-educated)
@@ -5088,10 +5087,12 @@
 
 (ADJP
   (NN real-estate)
-  (, ,)
-  (NN venture-capital)
-  (CC and)
-  (NN uranium-mining))
+  (CONJPP
+    (, ,)
+    (NN venture-capital)
+    (CONJPP
+      (CC and)
+      (NN uranium-mining))))
 
 (ADJP-PRD
   (ADJP
@@ -5108,9 +5109,10 @@
 
 (ADJP-PRD
   (JJR safer)
-  (, ,)
-  (CC and)
-  (JJR busier))
+  (CONJPP
+    (, ,)
+    (CC and)
+    (JJR busier)))
 
 (ADJP
   (CD 2)
@@ -5140,7 +5142,7 @@
   (SBAR
     (IN that)
     (S
-      (NP-SBJ-1
+      (NP-SBJ
         (NNP Exterior))
       (VP
         (MD may)
@@ -5217,9 +5219,8 @@
   (PP
     (IN at)
     (NP
-      (NP
-        (DT a)
-        (NN premium)))))
+      (DT a)
+      (NN premium))))
 
 (ADJP-PRD
   (ADVP
@@ -5229,8 +5230,7 @@
   (PP
     (IN from)
     (NP
-      (NP
-        (NN loss)))))
+      (NN loss))))
 
 (ADJP
   (JJ unconventional)
@@ -5248,12 +5248,13 @@
     (NP
       (NN point))
     (JJR higher))
-  (, ,)
-  (CC or)
-  (ADVP
-    (RB up)
-    (NP
-      (-NONE- *U*))))
+  (CONJPP
+    (, ,)
+    (CC or)
+    (ADVP
+      (RB up)
+      (NP
+        (-NONE- *U*)))))
 
 (ADJP-PRD
   (ADJP
@@ -5280,10 +5281,11 @@
 (ADJP-PRD
   (ADJP
     (JJ complicated))
-  (: --)
-  (CC and)
-  (ADJP
-    (JJ dismaying)))
+  (CONJPP
+    (: --)
+    (CC and)
+    (ADJP
+      (JJ dismaying))))
 
 (ADJP
   (JJR higher)

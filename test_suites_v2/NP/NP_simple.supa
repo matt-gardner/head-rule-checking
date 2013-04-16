@@ -1704,10 +1704,7 @@
 3	banks	_	_	NNS	_	4	SUBJ	_	_	will
 4	will	_	_	MD	_	1	???	_	_	reason
 5	insist	_	_	VB	_	4	???	_	_	will
-6	before	_	_	IN	_	5	???	_	_	insist
-7	they	_	_	PRP	_	8	SUBJ	_	_	agree
-8	agree	_	_	VBP	_	6	???	_	_	before
-9	.	_	_	.	_	1	???	_	_	reason
+6	.	_	_	.	_	1	???	_	_	reason
 
 1	its	_	_	PRP$	_	3	???	_	_	survey
 2	latest	_	_	JJS	_	3	???	_	_	survey
@@ -6371,10 +6368,6 @@
 5	to	_	_	TO	_	1	???	_	_	warrant
 6	buy	_	_	VB	_	5	???	_	_	to
 7	shares	_	_	NNS	_	6	OBJ-DO	_	_	buy
-8	when	_	_	WRB	_	6	???	_	_	buy
-9	terms	_	_	NNS	_	10	SUBJ	_	_	are
-10	are	_	_	VBP	_	8	???	_	_	when
-11	fixed	_	_	VBN	_	10	???	_	_	are
 
 1	United	_	_	NNP	_	4	???	_	_	Airlines
 2	and	_	_	CC	_	4	???	_	_	Airlines
@@ -9410,13 +9403,6 @@
 5	glut	_	_	VB	_	4	???	_	_	to
 6	the	_	_	DT	_	7	???	_	_	market
 7	market	_	_	NN	_	5	OBJ-DO	_	_	glut
-8	if	_	_	IN	_	5	???	_	_	glut
-9	OPEC	_	_	NNP	_	10	SUBJ	_	_	does
-10	does	_	_	VBZ	_	8	???	_	_	if
-11	n't	_	_	RB	_	10	???	_	_	does
-12	adopt	_	_	VB	_	10	???	_	_	does
-13	a	_	_	DT	_	14	???	_	_	system
-14	system	_	_	NN	_	12	OBJ-DO	_	_	adopt
 
 1	Mexico	_	_	NNP	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	Mexico
@@ -9958,11 +9944,6 @@
 4	wo	_	_	MD	_	2	???	_	_	that
 5	n't	_	_	RB	_	4	???	_	_	wo
 6	leave	_	_	VB	_	4	???	_	_	wo
-7	until	_	_	IN	_	6	???	_	_	leave
-8	some	_	_	DT	_	9	???	_	_	kind
-9	kind	_	_	NN	_	10	SUBJ	_	_	is
-10	is	_	_	VBZ	_	7	???	_	_	until
-11	completed	_	_	VBN	_	10	???	_	_	is
 
 1	GM	_	_	NNP	_	2	???	_	_	's
 2	's	_	_	POS	_	5	???	_	_	subsidiary
@@ -10767,10 +10748,6 @@
 4	to	_	_	TO	_	1	???	_	_	warrant
 5	buy	_	_	VB	_	4	???	_	_	to
 6	shares	_	_	NNS	_	5	OBJ-DO	_	_	buy
-7	when	_	_	WRB	_	5	???	_	_	buy
-8	terms	_	_	NNS	_	9	SUBJ	_	_	are
-9	are	_	_	VBP	_	7	???	_	_	when
-10	fixed	_	_	VBN	_	9	???	_	_	are
 
 1	-LCB-	_	_	-LRB-	_	4	???	_	_	Hugo
 2	Hurricane	_	_	NNP	_	4	???	_	_	Hugo
@@ -10869,10 +10846,6 @@
 12	U.S.	_	_	NNP	_	13	SUBJ	_	_	would
 13	would	_	_	MD	_	10	???	_	_	that
 14	undertake	_	_	VB	_	13	???	_	_	would
-15	if	_	_	IN	_	14	???	_	_	undertake
-16	it	_	_	PRP	_	17	SUBJ	_	_	got
-17	got	_	_	VBD	_	15	???	_	_	if
-18	wind	_	_	NN	_	17	OBJ-DO	_	_	got
 
 1	the	_	_	DT	_	6	???	_	_	problems
 2	same	_	_	JJ	_	6	???	_	_	problems
@@ -13452,12 +13425,6 @@
 5	''	_	_	''	_	2	???	_	_	clouds
 6	that	_	_	WDT	_	7	SUBJ	_	_	hung
 7	hung	_	_	VBD	_	2	???	_	_	clouds
-8	even	_	_	RB	_	9	???	_	_	though
-9	though	_	_	IN	_	7	???	_	_	hung
-10	fans	_	_	NNS	_	11	SUBJ	_	_	ventilated
-11	ventilated	_	_	VBD	_	9	???	_	_	though
-12	the	_	_	DT	_	13	???	_	_	area
-13	area	_	_	NN	_	11	OBJ-DO	_	_	ventilated
 
 1	the	_	_	DT	_	5	???	_	_	boards
 2	old	_	_	JJ	_	5	???	_	_	boards
@@ -15053,10 +15020,7 @@
 6	boomers	_	_	NNS	_	7	SUBJ	_	_	will
 7	will	_	_	MD	_	4	???	_	_	How
 8	behave	_	_	VB	_	7	???	_	_	will
-9	as	_	_	IN	_	8	???	_	_	behave
-10	they	_	_	PRP	_	11	SUBJ	_	_	move
-11	move	_	_	VBP	_	9	???	_	_	as
-12	.	_	_	.	_	2	???	_	_	card
+9	.	_	_	.	_	2	???	_	_	card
 
 1	the	_	_	DT	_	5	???	_	_	Union
 2	governing	_	_	VBG	_	5	???	_	_	Union
@@ -16416,9 +16380,6 @@
 4	which	_	_	WDT	_	5	SUBJ	_	_	halted
 5	halted	_	_	VBD	_	0	ROOT	_	_	ROOT
 6	decline	_	_	NN	_	5	OBJ-DO	_	_	halted
-7	as	_	_	IN	_	5	???	_	_	halted
-8	traders	_	_	NNS	_	9	SUBJ	_	_	began
-9	began	_	_	VBD	_	7	???	_	_	as
 
 1	the	_	_	DT	_	2	???	_	_	judgment
 2	judgment	_	_	NN	_	0	ROOT	_	_	ROOT
@@ -22795,11 +22756,6 @@
 7	offering	_	_	VBG	_	2	???	_	_	favorite
 8	a	_	_	DT	_	9	???	_	_	gift
 9	gift	_	_	NN	_	7	OBJ-DO	_	_	offering
-10	when	_	_	WRB	_	7	???	_	_	offering
-11	consumers	_	_	NNS	_	12	SUBJ	_	_	make
-12	make	_	_	VBP	_	10	???	_	_	when
-13	a	_	_	DT	_	14	???	_	_	purchase
-14	purchase	_	_	NN	_	12	OBJ-DO	_	_	make
 
 1	Its	_	_	PRP$	_	6	???	_	_	techniques
 2	new	_	_	JJ	_	6	???	_	_	techniques
@@ -25911,7 +25867,7 @@
 
 1	the	_	_	DT	_	2	???	_	_	axioms
 2	axioms	_	_	NNS	_	0	ROOT	_	_	ROOT
-3	'	_	_	''	_	2	???	_	_	axioms
+3	and	_	_	CC	_	2	???	_	_	axioms
 4	,	_	_	,	_	2	???	_	_	axioms
 5	'	_	_	''	_	2	???	_	_	axioms
 6	ideas	_	_	NNS	_	2	???	_	_	axioms
@@ -28014,12 +27970,8 @@
 4	know	_	_	VBP	_	1	???	_	_	groups
 5	a	_	_	DT	_	6	???	_	_	thing
 6	thing	_	_	NN	_	4	OBJ-DO	_	_	know
-7	when	_	_	WRB	_	4	???	_	_	know
-8	they	_	_	PRP	_	9	SUBJ	_	_	see
-9	see	_	_	VBP	_	7	???	_	_	when
-10	it	_	_	PRP	_	9	OBJ-DO	_	_	see
-11	,	_	_	,	_	1	???	_	_	groups
-12	''	_	_	''	_	1	???	_	_	groups
+7	,	_	_	,	_	1	???	_	_	groups
+8	''	_	_	''	_	1	???	_	_	groups
 
 1	a	_	_	DT	_	2	???	_	_	quote
 2	quote	_	_	NN	_	0	ROOT	_	_	ROOT
@@ -28032,10 +27984,6 @@
 9	hold	_	_	VB	_	7	???	_	_	Do
 10	your	_	_	PRP$	_	11	???	_	_	ticket
 11	ticket	_	_	NN	_	9	OBJ-DO	_	_	hold
-12	'til	_	_	IN	_	9	???	_	_	hold
-13	the	_	_	DT	_	14	???	_	_	show
-14	show	_	_	NN	_	15	SUBJ	_	_	's
-15	's	_	_	VBZ	_	12	???	_	_	'til
 
 1	the	_	_	DT	_	6	???	_	_	session
 2	afternoon	_	_	NN	_	6	???	_	_	session
@@ -28945,11 +28893,6 @@
 2	right	_	_	JJ	_	0	ROOT	_	_	ROOT
 3	to	_	_	TO	_	2	???	_	_	right
 4	have	_	_	VB	_	3	???	_	_	to
-5	before	_	_	IN	_	4	???	_	_	have
-6	she	_	_	PRP	_	7	SUBJ	_	_	makes
-7	makes	_	_	VBZ	_	5	???	_	_	before
-8	a	_	_	DT	_	9	???	_	_	decision
-9	decision	_	_	NN	_	7	OBJ-DO	_	_	makes
 
 1	buy	_	_	VB	_	2	???	_	_	and
 2	and	_	_	CC	_	0	ROOT	_	_	ROOT
@@ -29981,10 +29924,6 @@
 5	inflation	_	_	NN	_	6	SUBJ	_	_	is
 6	is	_	_	VBZ	_	4	???	_	_	that
 7	moderating	_	_	VBG	_	6	???	_	_	is
-8	while	_	_	IN	_	7	???	_	_	moderating
-9	the	_	_	DT	_	10	???	_	_	economy
-10	economy	_	_	NN	_	11	SUBJ	_	_	slows
-11	slows	_	_	VBZ	_	8	???	_	_	while
 
 1	closely	_	_	RB	_	7	???	_	_	Inc.
 2	held	_	_	JJ	_	7	???	_	_	Inc.
@@ -30145,11 +30084,6 @@
 4	you	_	_	PRP	_	5	SUBJ	_	_	can
 5	can	_	_	MD	_	2	???	_	_	the
 6	pay	_	_	VB	_	5	???	_	_	can
-7	before	_	_	IN	_	6	???	_	_	pay
-8	it	_	_	PRP	_	9	SUBJ	_	_	becomes
-9	becomes	_	_	VBZ	_	7	???	_	_	before
-10	a	_	_	DT	_	11	???	_	_	acquisition
-11	acquisition	_	_	NN	_	9	OBJ-DO	_	_	becomes
 
 1	the	_	_	DT	_	3	???	_	_	's
 2	Pentagon	_	_	NNP	_	3	???	_	_	's
@@ -35986,12 +35920,7 @@
 2	periods	_	_	NNS	_	2	SUBJ	_	_	periods
 2	periods	_	_	NNS	_	0	ROOT	_	_	ROOT
 3	ranging	_	_	VBG	_	2	???	_	_	periods
-4	before	_	_	IN	_	3	???	_	_	ranging
-5	the	_	_	DT	_	6	???	_	_	scope
-6	scope	_	_	NN	_	7	SUBJ	_	_	takes
-7	takes	_	_	VBZ	_	4	???	_	_	before
-8	effect	_	_	NN	_	7	OBJ-DO	_	_	takes
-9	.	_	_	.	_	2	???	_	_	periods
+4	.	_	_	.	_	2	???	_	_	periods
 
 1	it	_	_	PRP	_	4	???	_	_	policy
 2	's	_	_	VBZ	_	4	???	_	_	policy
@@ -36400,9 +36329,9 @@
 6	his	_	_	PRP$	_	7	???	_	_	father
 7	father	_	_	NN	_	5	???	_	_	about
 8	and	_	_	CC	_	1	???	_	_	testimony
-9	about	_	_	IN	_	1	???	_	_	testimony
-10	his	_	_	PRP$	_	11	???	_	_	habits
-11	habits	_	_	NNS	_	9	???	_	_	about
+9	of	_	_	IN	_	1	???	_	_	testimony
+10	an	_	_	DT	_	11	???	_	_	ex-employer
+11	ex-employer	_	_	NN	_	9	???	_	_	of
 
 1	its	_	_	PRP$	_	6	???	_	_	service
 2	own	_	_	JJ	_	6	???	_	_	service

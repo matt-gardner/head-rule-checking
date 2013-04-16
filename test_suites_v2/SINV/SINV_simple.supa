@@ -253,18 +253,13 @@
 4	the	_	_	DT	_	5	???	_	_	space
 5	space	_	_	NN	_	3	OBJ-DO	_	_	have
 
-1	``	_	_	``	_	10	???	_	_	says
+1	``	_	_	``	_	5	???	_	_	says
 2	People	_	_	NNS	_	3	SUBJ	_	_	are
-3	are	_	_	VBP	_	10	???	_	_	says
+3	are	_	_	VBP	_	5	???	_	_	says
 4	looking	_	_	VBG	_	3	???	_	_	are
-5	before	_	_	RB	_	4	???	_	_	looking
-6	the	_	_	DT	_	7	???	_	_	number
-7	number	_	_	NN	_	8	SUBJ	_	_	runs
-8	runs	_	_	VBZ	_	5	???	_	_	before
-9	out	_	_	RP	_	8	???	_	_	runs
-10	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
-11	Porter	_	_	NNP	_	10	SUBJ	_	_	says
-12	.	_	_	.	_	10	???	_	_	says
+5	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
+6	Porter	_	_	NNP	_	5	SUBJ	_	_	says
+7	.	_	_	.	_	5	???	_	_	says
 
 1	bonds	_	_	NNS	_	1	SUBJ	_	_	bonds
 1	bonds	_	_	NNS	_	0	ROOT	_	_	ROOT
@@ -1589,12 +1584,7 @@ null
 8	play	_	_	VB	_	6	???	_	_	do
 9	the	_	_	DT	_	10	???	_	_	lottery
 10	lottery	_	_	NN	_	8	OBJ-DO	_	_	play
-11	when	_	_	WRB	_	8	???	_	_	play
-12	the	_	_	DT	_	13	???	_	_	odds
-13	odds	_	_	NNS	_	14	SUBJ	_	_	are
-14	are	_	_	VBP	_	11	???	_	_	when
-15	great	_	_	JJ	_	14	???	_	_	are
-16	?	_	_	.	_	6	???	_	_	do
+11	?	_	_	.	_	6	???	_	_	do
 
 1	Writes	_	_	VBZ	_	0	ROOT	_	_	ROOT
 2	Bilanz	_	_	NNP	_	1	SUBJ	_	_	Writes
@@ -1716,10 +1706,6 @@ null
 21	making	_	_	VBG	_	15	???	_	_	come
 22	a	_	_	DT	_	23	???	_	_	exit
 23	exit	_	_	NN	_	21	OBJ-DO	_	_	making
-24	while	_	_	IN	_	21	???	_	_	making
-25	the	_	_	DT	_	26	???	_	_	congregation
-26	congregation	_	_	NN	_	27	SUBJ	_	_	is
-27	is	_	_	VBZ	_	24	???	_	_	while
 
 1	never	_	_	RB	_	2	???	_	_	has
 2	has	_	_	VBZ	_	0	ROOT	_	_	ROOT
@@ -1762,13 +1748,7 @@ null
 6	outlays	_	_	NNS	_	7	SUBJ	_	_	topped
 7	topped	_	_	VBD	_	5	???	_	_	that
 8	outlays	_	_	NNS	_	7	OBJ-DO	_	_	topped
-9	even	_	_	RB	_	10	???	_	_	though
-10	though	_	_	IN	_	7	???	_	_	topped
-11	output	_	_	NN	_	12	SUBJ	_	_	is
-12	is	_	_	VBZ	_	10	???	_	_	though
-13	America	_	_	NNP	_	14	???	_	_	's
-14	's	_	_	POS	_	12	OBJ-DO	_	_	is
-15	.	_	_	.	_	2	???	_	_	is
+9	.	_	_	.	_	2	???	_	_	is
 
 1	``	_	_	``	_	10	???	_	_	says
 2	There	_	_	EX	_	3	SUBJ	_	_	will

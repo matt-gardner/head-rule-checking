@@ -10,24 +10,21 @@
         (NNS lungs)))))
 
 (SBAR
-  (WHNP-1
-    (WDT that))
   (S
     (NP-SBJ
-      (-NONE- *T*-1))
+      (WHNP
+        (WDT that)))
     (VP
       (VBP show)
       (PRT
         (RP up)))))
 
 (SBAR
-  (-NONE- 0)
+  (-NONE- 0_NULL)
   (S
     (-NONE- *T*-1)))
 
-(SBAR-2
-  (WHADVP-1
-    (WRB where))
+(SBAR
   (S
     (NP-SBJ-8
       (DT the)
@@ -39,16 +36,13 @@
         (NP
           (-NONE- *-8))
         (ADVP-LOC
-          (-NONE- *T*-1))))))
+          (WHADVP
+            (WRB where)))))))
 
 (SBAR
   (-NONE- *ICH*-2))
 
 (SBAR
-  (WHPP-2
-    (IN under)
-    (WHNP
-      (WDT which)))
   (S
     (NP-SBJ
       (PRP it))
@@ -60,7 +54,10 @@
           (DT an)
           (NN company))
         (PP-LOC
-          (-NONE- *T*-2))))))
+          (WHPP
+            (IN under)
+            (WHNP
+              (WDT which))))))))
 
 (SBAR-ADV
   (RB even)
@@ -74,7 +71,7 @@
         (DT the)
         (NN area)))))
 
-(SBAR-1
+(SBAR
   (DT that)
   (S
     (NP-SBJ
@@ -97,49 +94,48 @@
         (NNP Cray))
       (VP
         (VBZ leaves))))
-  (CC or)
-  (SBAR
-    (IN if)
-    (S
-      (NP-SBJ-18
-        (NP
-          (DT the)
-          (NN project)))
-      (VP
-        (VBZ is)
-        (VP
-          (VBN scrapped)
+  (CONJPP
+    (CC or)
+    (SBAR
+      (IN if)
+      (S
+        (NP-SBJ-18
           (NP
-            (-NONE- *-18)))))))
+            (DT the)
+            (NN project)))
+        (VP
+          (VBZ is)
+          (VP
+            (VBN scrapped)
+            (NP
+              (-NONE- *-18))))))))
 
 (SBAR-PRP
   (ADVP
     (RB only))
   (IN because)
   (S
-    (S
-      (NP-SBJ
-        (NNS movies))
-      (VP
-        (VBP have)
-        (NP
-          (DT a)
-          (NN spot))))))
+    (NP-SBJ
+      (NNS movies))
+    (VP
+      (VBP have)
+      (NP
+        (DT a)
+        (NN spot)))))
 
 (SBAR-PRP
   (IN because)
   (`` ``)
   (S
-    (NP-SBJ-1
+    (NP-SBJ
       (NP
         (DT the)
         (NN barrel)))
     (: ...)
     (VP
-      (VP
-        (VBD contained)
-        (NP
-          (NN oil))))))
+      (VBD contained)
+      (NP
+        (NN oil)))))
 
 (SBAR-TMP
   (RB before)
@@ -155,7 +151,7 @@
 
 (SBAR
   (SBAR
-    (-NONE- 0)
+    (-NONE- 0_NULL)
     (S
       (NP-SBJ
         (PRP he))
@@ -163,16 +159,16 @@
         (VBZ is)
         (ADJP-PRD
           (VBN opposed)))))
-  (, ,)
-  (CC but)
-  (SBAR
-    (IN that)
-    (S
-      (NP-SBJ
-        (PRP he))
-      (VP
-        (VBD had)
-        (NP
+  (CONJPP
+    (, ,)
+    (CC but)
+    (SBAR
+      (IN that)
+      (S
+        (NP-SBJ
+          (PRP he))
+        (VP
+          (VBD had)
           (NP
             (DT some)
             (NNS reservations)))))))
@@ -184,9 +180,8 @@
     (PP
       (IN for)
       (NP
-        (NP
-          (DT a)
-          (NN surge))))))
+        (DT a)
+        (NN surge)))))
 
 (SBAR-PRP
   (IN so)
@@ -212,8 +207,7 @@
     (VP
       (VBD adapted)
       (NP
-        (NP
-          (CD one))))))
+        (CD one)))))
 
 (SBAR
   (IN that)
@@ -251,8 +245,6 @@
       (-NONE- *?*))))
 
 (SBAR
-  (WHNP-1
-    (WP who))
   (, ,)
   (S
     (S-ADV
@@ -263,7 +255,8 @@
         (NP
           (-NONE- *-3))))
     (NP-SBJ-2
-      (-NONE- *T*-1))
+      (WHNP
+        (WP who)))
     (VP
       (MD would)
       (VP
@@ -272,11 +265,6 @@
           (JJ disagreeable))))))
 
 (SBAR
-  (WHADJP-1
-    (WRB how)
-    (JJ wide)
-    (CC and)
-    (JJ deep))
   (S
     (NP-SBJ-2
       (NP
@@ -292,7 +280,11 @@
           (VP
             (VB be)
             (ADJP-PRD
-              (-NONE- *T*-1))))))))
+              (WHADJP
+                (WRB how)
+                (JJ wide)
+                (CC and)
+                (JJ deep)))))))))
 
 (SBAR-ADV
   (SINV
@@ -303,8 +295,6 @@
       (VBN existed))))
 
 (SBAR
-  (WHADVP-1
-    (-NONE- 0))
   (IN for)
   (S
     (NP-SBJ
@@ -315,11 +305,10 @@
       (VP
         (VB expand)
         (ADVP-LOC
-          (-NONE- *T*-1))))))
+          (WHADVP
+            (-NONE- 0_NULL)))))))
 
 (SBAR
-  (WHNP-2
-    (-NONE- 0))
   (IN as)
   (S
     (NP-SBJ-1
@@ -333,13 +322,14 @@
           (NP-SBJ
             (-NONE- *-1))
           (NP-PRD
-            (-NONE- *T*-2)))))))
+            (WHNP
+              (-NONE- 0_NULL))))))))
 
 (SBAR
-  (-NONE- 0)
+  (-NONE- 0_NULL)
   (`` ``)
   (S
-    (NP-SBJ-1
+    (NP-SBJ
       (NP
         (NN everybody)))
     (VP
@@ -384,7 +374,7 @@
         (VB move)))))
 
 (SBAR
-  (-NONE- 0)
+  (-NONE- 0_NULL)
   (SINV
     (-NONE- *T*-2)))
 
@@ -399,8 +389,6 @@
       (VBP think))))
 
 (SBAR-TMP-CLR
-  (WHADVP-1
-    (WRB when))
   (, ,)
   (S
     (NP-SBJ-2
@@ -421,22 +409,22 @@
               (-NONE- *-2)))
           (-RRB- -RRB-))
         (ADVP
-          (-NONE- *T*-1))))))
+          (WHADVP
+            (WRB when)))))))
 
 (SBAR-TMP
   (ADVP
     (RB Just))
-  (WHADVP-2
-    (WRB when))
   (S
-    (NP-SBJ-1
+    (NP-SBJ
       (NNP Gruberova))
     (VP
       (VBD sat)
       (PRT
         (RP down))
       (ADVP-TMP
-        (-NONE- *T*-2)))))
+        (WHADVP
+          (WRB when))))))
 
 (SBAR
   (CC but)
@@ -450,7 +438,7 @@
 
 (SBAR
   (SBAR
-    (WHADVP-3
+    (WHADVP
       (WRB how))
     (S
       (NP-SBJ-1
@@ -461,22 +449,23 @@
           (VBN shaped)
           (NP
             (-NONE- *-1))))))
-  (: --)
-  (CC and)
-  (SBAR
-    (WHADVP-4
-      (WRB how))
-    (S
-      (NP-SBJ-2
-        (PRP they))
-      (VP
-        (MD can)
+  (CONJPP
+    (: --)
+    (CC and)
+    (SBAR
+      (WHADVP
+        (WRB how))
+      (S
+        (NP-SBJ-2
+          (PRP they))
         (VP
-          (VB be)
+          (MD can)
           (VP
-            (VBN reshaped)
-            (NP
-              (-NONE- *-2))))))))
+            (VB be)
+            (VP
+              (VBN reshaped)
+              (NP
+                (-NONE- *-2)))))))))
 
 (SBAR-PRP
   (PP
@@ -494,7 +483,7 @@
           (DT all)
           (NNS assets))))))
 
-(SBAR-2
+(SBAR
   (WDT that)
   (S
     (NP-SBJ
@@ -543,8 +532,6 @@
 (SBAR-NOM-PRD
   (ADVP
     (RB just))
-  (WHNP-2
-    (WP what))
   (S
     (NP-SBJ
       (PRP we))
@@ -555,7 +542,8 @@
         (PP-CLR
           (IN over)
           (NP
-            (-NONE- *T*-2)))))))
+            (WHNP
+              (WP what))))))))
 
 (SBAR-TMP
   (WHADVP
@@ -581,8 +569,6 @@
   (RB not))
 
 (SBAR
-  (WHNP-2
-    (-NONE- 0))
   (FRAG
     (NP
       (DT the)
@@ -593,10 +579,11 @@
       (VP
         (-NONE- *?*)
         (NP
-          (-NONE- *T*-2))))))
+          (WHNP
+            (-NONE- 0_NULL)))))))
 
 (SBAR
-  (-NONE- 0)
+  (-NONE- 0_NULL)
   (FRAG
     (NP
       (PRP I))
@@ -618,41 +605,42 @@
         (VBD caught)
         (NP
           (NN fire)))))
-  (, ,)
-  (SBAR
-    (IN because)
-    (S
-      (NP-SBJ
-        (NNP Perk))
-      (VP
-        (VBD set)
-        (NP
-          (PRP$ his)
-          (NN hair)))))
-  (CC and)
-  (SBAR
-    (IN because)
-    (S
-      (NP-SBJ-1
-        (NP
-          (PRP$ its)
-          (NNP Hall)))
-      (VP
-        (VBD was)
+  (CONJPP
+    (, ,)
+    (SBAR
+      (IN because)
+      (S
+        (NP-SBJ
+          (NNP Perk))
         (VP
-          (VBN refused)
+          (VBD set)
           (NP
-            (-NONE- *-1))
-          (NP
-            (DT an)
-            (NN grant)))))))
+            (PRP$ his)
+            (NN hair)))))
+    (CONJPP
+      (CC and)
+      (SBAR
+        (IN because)
+        (S
+          (NP-SBJ-1
+            (NP
+              (PRP$ its)
+              (NNP Hall)))
+          (VP
+            (VBD was)
+            (VP
+              (VBN refused)
+              (NP
+                (-NONE- *-1))
+              (NP
+                (DT an)
+                (NN grant)))))))))
 
 (SBAR
-  (WHNP-162
-    (WDT which))
   (S
     (NP-SBJ
-      (-NONE- *T*-162))
+      (WHNP
+        (WDT which)))
     (VP
       (VBZ costs)
       (NP
@@ -670,7 +658,7 @@
   ('' ''))
 
 (SBAR
-  (-NONE- 0)
+  (-NONE- 0_NULL)
   (S
     (NP-SBJ
       (NNP October))
@@ -705,7 +693,7 @@
   (SBAR
     (IN if)
     (S
-      (NP-SBJ-1
+      (NP-SBJ
         (DT a)
         (NN manufacturer))
       (VP
@@ -731,13 +719,12 @@
       (VP
         (VBG doing)))
     (VP
+      (MD will)
       (VP
-        (MD will)
-        (VP
-          (VB inflict)
-          (NP
-            (DT some)
-            (NN pain)))))))
+        (VB inflict)
+        (NP
+          (DT some)
+          (NN pain))))))
 
 (SBAR-TMP
   (RB soon)
@@ -753,23 +740,21 @@
 
 (SBAR-TMP
   (RB only)
-  (WHADVP-1
-    (WRB when))
   (S
     (NP-SBJ
       (PRP they))
     (VP
       (VBP jostle)
       (ADVP-TMP
-        (-NONE- *T*-1)))))
+        (WHADVP
+          (WRB when))))))
 
 (SBAR
-  (WHNP-137
-    (WDT that))
   (`` ``)
   (S
     (NP-SBJ
-      (-NONE- *T*-137))
+      (WHNP
+        (WDT that)))
     (VP
       (VBP encourage)
       (VBP promote)
@@ -778,9 +763,6 @@
         (NN abortion)))))
 
 (SBAR
-  (WHNP-1
-    (WP$ whose)
-    (JJ worth))
   (PRN
     (, ,)
     (S
@@ -789,7 +771,7 @@
       (VP
         (VBP think)
         (SBAR
-          (-NONE- 0)
+          (-NONE- 0_NULL)
           (S
             (NP-SBJ
               (NP
@@ -801,18 +783,18 @@
     (, ,))
   (S
     (NP-SBJ
-      (-NONE- *T*-1))
+      (WHNP
+        (WP$ whose)
+        (JJ worth)))
     (VP
       (VBZ is)
       (ADJP-PRD
         (JJ incalculable)))))
 
 (SBAR-PRD
-  (WHADVP-1
-    (WRB why))
   (`` ``)
   (S
-    (NP-SBJ-3
+    (NP-SBJ
       (PRP we))
     (VP
       (VBP have)
@@ -821,7 +803,8 @@
         (VP
           (VBG working)
           (ADVP-PRP
-            (-NONE- *T*-1)))))))
+            (WHADVP
+              (WRB why))))))))
 
 (SBAR-PRP
   (PP
@@ -841,7 +824,7 @@
           (NP
             (-NONE- *-1)))))))
 
-(SBAR-3
+(SBAR
   (SBAR
     (IN that)
     (S
@@ -867,12 +850,11 @@
 
 (SBAR-NOM
   (`` ``)
-  (WHNP-2
-    (WDT whatever)
-    (NNS steps))
   (S
     (NP-SBJ-1
-      (-NONE- *T*-2))
+      (WHNP
+        (WDT whatever)
+        (NNS steps)))
     (VP
       (VBP are)
       (VP
@@ -907,13 +889,12 @@
         (NN office)))))
 
 (SBAR
-  (WHNP-1
-    (WDT which))
   (SINV
     (`` ``)
-    (S-2
+    (S
       (NP-SBJ
-        (-NONE- *T*-1))
+        (WHNP
+          (WDT which)))
       (VP
         (VBZ does)
         (RB n't)
@@ -931,12 +912,11 @@
 
 (SBAR
   (-LRB- -LCB-)
-  (WHNP-1
-    (DT that))
   (-RRB- -RCB-)
   (S
     (NP-SBJ
-      (-NONE- *T*-1))
+      (WHNP
+        (DT that)))
     (VP
       (VBZ finds)
       (NP
@@ -946,8 +926,6 @@
 (SBAR-NOM
   (QP
     (RB about))
-  (WHNP-3
-    (WP what))
   (S
     (NP-SBJ
       (DT those)
@@ -957,7 +935,8 @@
       (VP
         (-NONE- *?*)
         (NP
-          (-NONE- *T*-3))))))
+          (WHNP
+            (WP what)))))))
 
 (SBAR-PRP
   (IN because)
@@ -969,29 +948,26 @@
       (VP
         (VBD said)
         (SBAR
-          (-NONE- 0)
+          (-NONE- 0_NULL)
           (S
-            (-NONE- *T*-2)))))
-    (, ,))
-  (S-2
-    (NP-SBJ-1
-      (NP
-        (DT the)
-        (NN size)))
-    (VP
-      (VBD was)
-      (VP
-        (VBD misrepresented)
-        (NP
-          (-NONE- *-1))))))
+            (NP-SBJ-1
+              (NP
+                (DT the)
+                (NN size)))
+            (VP
+              (VBD was)
+              (VP
+                (VBD misrepresented)
+                (NP
+                  (-NONE- *-1))))))))
+    (, ,)))
 
 (SBAR-ADV
   (WDT whatever)
   (FRAG
     (NP
-      (NP
-        (PRP$ its)
-        (NNS effects)))))
+      (PRP$ its)
+      (NNS effects))))
 
 (SBAR-ADV
   (RB only)
@@ -1008,14 +984,10 @@
         (NP
           (-NONE- *-1))
         (NP
-          (NP
-            (NN parity)))))))
+          (NN parity))))))
 
-(SBAR-TPC-2
+(SBAR-TPC
   (SBAR
-    (WHADJP-1
-      (WRB How)
-      (JJ unprofessional))
     (S
       (NP-SBJ
         (PRP we))
@@ -1026,7 +998,9 @@
           (VP
             (VBN appeared)
             (ADJP-PRD
-              (-NONE- *T*-1)))))))
+              (WHADJP
+                (WRB How)
+                (JJ unprofessional))))))))
   (: --)
   (PRN
     (FRAG
@@ -1039,8 +1013,6 @@
             (NN evaluation)))))))
 
 (SBAR-TMP
-  (WHADVP-1
-    (WRB when))
   (S
     (NP-SBJ
       (NNP Keteyian))
@@ -1052,10 +1024,10 @@
         (PRT
           (RP down))
         (NP
-          (NP
-            (NN something)))
+          (NN something))
         (ADVP-TMP
-          (-NONE- *T*-1)))))
+          (WHADVP
+            (WRB when))))))
   (, ,))
 
 (SBAR-ADV
@@ -1070,7 +1042,7 @@
         (VBZ has)))))
 
 (SBAR
-  (-NONE- 0)
+  (-NONE- 0_NULL)
   (, ,)
   (`` ``)
   (S
@@ -1087,7 +1059,7 @@
 
 (SBAR-SBJ
   (SBAR
-    (WHADVP-1
+    (WHADVP
       (WRB How)
       (RB soon))
     (S
@@ -1130,17 +1102,16 @@
             (DT the)
             (NNS fabrications))
           (VP
+            (VBP do)
+            (RB not)
             (VP
-              (VBP do)
-              (RB not)
-              (VP
-                (VB alter)
-                (NP
-                  (NN content))))))))))
+              (VB alter)
+              (NP
+                (NN content)))))))))
 
 (SBAR
   (SBAR
-    (-NONE- 0)
+    (-NONE- 0_NULL)
     (S
       (NP-SBJ
         (DT the)
@@ -1190,16 +1161,14 @@
       (DT the)
       (JJR sharper))
     (NP
-      (NP
-        (DT the)
-        (NN loss)))))
+      (DT the)
+      (NN loss))))
 
 (SBAR
-  (WHNP-1
-    (WP who))
   (S
     (NP-SBJ
-      (-NONE- *T*-1))
+      (WHNP
+        (WP who)))
     (VP
       (VBD was)
       (NP-PRD
@@ -1218,10 +1187,11 @@
 
 (SBAR-ADV
   (UCP
-    (WHADVP-2
+    (WHADVP
       (WRB When))
-    (CC and)
-    (IN if))
+    (CONJPP
+      (CC and)
+      (IN if)))
   (S
     (NP-SBJ
       (DT the)
@@ -1232,17 +1202,16 @@
         (PRT
           (RP out)))
       (SBAR
-        (WHNP-1
-          (WDT which))
         (S
           (NP-SBJ
-            (-NONE- *T*-1))
+            (WHNP
+              (WDT which)))
           (VP
             (VBZ seems)
             (ADJP-PRD
               (JJ likely))))))))
 
-(SBAR-3
+(SBAR
   (SBAR
     (IN that)
     (S
@@ -1254,29 +1223,31 @@
           (RP in))
         (NP
           (NN overtime)))))
-  (, ,)
-  (SBAR
-    (IN that)
-    (S
-      (NP-SBJ
-        (DT the)
-        (NN system))
-      (VP
-        (VBZ is)
-        (ADJP-PRD
-          (ADJP
-            (JJ hierarchical))))))
-  (, ,)
-  (CC and)
-  (SBAR
-    (IN that)
-    (S
-      (NP-SBJ-4
-        (NNP Sony))
-      (VP
-        (VBD was)
-        (ADJP-PRD
-          (JJ chary))))))
+  (CONJPP
+    (, ,)
+    (SBAR
+      (IN that)
+      (S
+        (NP-SBJ
+          (DT the)
+          (NN system))
+        (VP
+          (VBZ is)
+          (ADJP-PRD
+            (ADJP
+              (JJ hierarchical))))))
+    (CONJPP
+      (, ,)
+      (CC and)
+      (SBAR
+        (IN that)
+        (S
+          (NP-SBJ
+            (NNP Sony))
+          (VP
+            (VBD was)
+            (ADJP-PRD
+              (JJ chary))))))))
 
 (SBAR
   (WP What)
@@ -1367,14 +1338,16 @@
           (NX
             (NX
               (NN chairman))
-            (, ,)
-            (NX
-              (NN president))
-            (CC and)
-            (NX
-              (JJ chief)
-              (JJ executive)
-              (NN officer)))))
+            (CONJPP
+              (, ,)
+              (NX
+                (NN president))
+              (CONJPP
+                (CC and)
+                (NX
+                  (JJ chief)
+                  (JJ executive)
+                  (NN officer)))))))
       (VP
         (VBZ is)
         (NP-PRD
@@ -1384,7 +1357,7 @@
 
 (SBAR-TMP
   (SBAR
-    (WHADVP-4
+    (WHADVP
       (WRB when))
     (S
       (NP-SBJ
@@ -1392,22 +1365,20 @@
       (VP
         (VBP start)
         (NP
-          (NP
-            (PRP$ my)
-            (NN commute))))))
+          (PRP$ my)
+          (NN commute)))))
   (: ;)
   (SBAR
-    (WHADVP-5
+    (WHADVP
       (WRB when))
     (S
-      (NP-SBJ-6
+      (NP-SBJ
         (PRP I))
       (VP
-        (VP
-          (VBP try)))))
+        (VBP try))))
   (: ;)
   (SBAR
-    (WHADVP-7
+    (WHADVP
       (WRB when))
     (S
       (NP-SBJ
@@ -1417,20 +1388,18 @@
 
 (SBAR
   (IN for)
-  (WHADVP-4
-    (-NONE- 0))
   (S
     (NP-SBJ
       (NNS administrators))
     (VP
       (TO to)
       (VP
-        (VP
-          (VB protect)
-          (NP
-            (PRP themselves))
-          (ADVP-MNR
-            (-NONE- *T*-4)))))))
+        (VB protect)
+        (NP
+          (PRP themselves))
+        (ADVP-MNR
+          (WHADVP
+            (-NONE- 0_NULL)))))))
 
 (SBAR-ADV
   (IN Whether)
@@ -1457,48 +1426,48 @@
 
 (SBAR-TMP
   (SBAR
-    (WHADVP-3
+    (WHADVP
       (WRB When))
-    (S
-      (NP-SBJ-1
-        (NP
-          (NNP Isabella)))
-      (VP
-        (VBZ confronts)
-        (NP
-          (NP
-            (PRP$ her)
-            (NNP Claudio))))))
-  (: ;)
-  (SBAR
-    (WHADVP-5
-      (WRB when))
-    (S
-      (NP-SBJ-4
-        (NP
-          (NNP Isabella)))
-      (VP
-        (VBP conspire))))
-  (: ;)
-  (CC and)
-  (SBAR
-    (WHADVP-6
-      (WRB when))
     (S
       (NP-SBJ
         (NP
-          (NNP Mariana)))
+          (NNP Isabella)))
       (VP
         (VBZ confronts)
         (NP
-          (PRP him))))))
+          (PRP$ her)
+          (NNP Claudio)))))
+  (CONJPP
+    (: ;)
+    (SBAR
+      (WHADVP
+        (WRB when))
+      (S
+        (NP-SBJ
+          (NP
+            (NNP Isabella)))
+        (VP
+          (VBP conspire))))
+    (CONJPP
+      (: ;)
+      (CC and)
+      (SBAR
+        (WHADVP
+          (WRB when))
+        (S
+          (NP-SBJ
+            (NP
+              (NNP Mariana)))
+          (VP
+            (VBZ confronts)
+            (NP
+              (PRP him))))))))
 
 (SBAR
-  (WHNP-1
-    (WDT that))
   (S
     (NP-SBJ
-      (-NONE- *T*-1)))
+      (WHNP
+        (WDT that))))
   (VP
     (MD could)
     (VP
@@ -1553,7 +1522,7 @@
       (VBD proceeded))))
 
 (SBAR
-  (-NONE- 0)
+  (-NONE- 0_NULL)
   (S
     (NP-SBJ
       (DT the)
@@ -1561,7 +1530,7 @@
     (VP
       (VBP show)
       (SBAR
-        (-NONE- 0)
+        (-NONE- 0_NULL)
         (S
           (NP-SBJ
             (DT the)
@@ -1582,14 +1551,10 @@
       (VP
         (VB reduce)
         (NP
-          (NP
-            (NNS fears)))))))
+          (NNS fears))))))
 
 (SBAR
   (SBAR
-    (WHNP-2
-      (RB exactly)
-      (WP what))
     (S
       (NP-SBJ
         (-NONE- *))
@@ -1598,7 +1563,9 @@
         (VP
           (VB do)
           (NP
-            (-NONE- *T*-2))))))
+            (WHNP
+              (RB exactly)
+              (WP what)))))))
   (: --)
   (CC and)
   (PRN
@@ -1611,8 +1578,6 @@
         (JJ important)))
     (, ,))
   (SBAR
-    (WHNP-3
-      (WP what))
     (S
       (NP-SBJ
         (-NONE- *))
@@ -1622,11 +1587,10 @@
         (VP
           (VB do)
           (NP
-            (-NONE- *T*-3)))))))
+            (WHNP
+              (WP what))))))))
 
 (SBAR
-  (WHADVP-3
-    (WRB where))
   (PRN
     (, ,)
     (S
@@ -1635,43 +1599,38 @@
       (VP
         (VBD suggested)
         (SBAR
-          (-NONE- 0)
+          (-NONE- 0_NULL)
           (S
-            (-NONE- *T*-2)))))
-    (, ,))
-  (S-2
-    (NP-SBJ-1
-      (NP
-        (DT a)
-        (NN flat)))
-    (VP
-      (MD might)
-      (VP
-        (VB be)
-        (VP
-          (VBN displayed)
-          (NP
-            (-NONE- *-1))
-          (ADVP-LOC
-            (-NONE- *T*-3)))))))
+            (NP-SBJ-1
+              (NP
+                (DT a)
+                (NN flat)))
+            (VP
+              (MD might)
+              (VP
+                (VB be)
+                (VP
+                  (VBN displayed)
+                  (NP
+                    (-NONE- *-1))
+                  (ADVP-LOC
+                    (WHADVP
+                      (WRB where))))))))))
+    (, ,)))
 
 (SBAR
   (VBD had)
   (S
-    (NP-SBJ-2
+    (NP-SBJ
       (NNS parents))
     (VP
       (VBN bought)
       (NP
-        (NP
-          (DT a)
-          (NN amount))))))
+        (DT a)
+        (NN amount)))))
 
 (SBAR
   (SBAR
-    (WHNP-1
-      (WRB how)
-      (JJ much))
     (S
       (NP-SBJ
         (PRP it))
@@ -1680,27 +1639,27 @@
         (VP
           (VB offer)
           (NP
-            (-NONE- *T*-1))))))
-  (, ,)
-  (CC or)
-  (FRAG
-    (WHADVP
-      (WRB when))))
+            (WHNP
+              (WRB how)
+              (JJ much)))))))
+  (CONJPP
+    (, ,)
+    (CC or)
+    (FRAG
+      (WHADVP
+        (WRB when)))))
 
 (SBAR
   (SBAR
-    (WHNP-2
-      (-NONE- 0))
     (S
       (NP-SBJ
         (NNS traders))
       (VP
         (VBP enjoy)
         (NP
-          (-NONE- *T*-2)))))
+          (WHNP
+            (-NONE- 0_NULL))))))
   (SBAR
-    (WHNP-3
-      (IN that))
     (S
       (NP-SBJ
         (NNS investors))
@@ -1708,9 +1667,10 @@
         (VBP do)
         (RB n't)
         (NP
-          (-NONE- *T*-3))))))
+          (WHNP
+            (IN that)))))))
 
-(SBAR-1
+(SBAR
   (-LRB- -LCB-)
   (IN for)
   (S
@@ -1722,13 +1682,10 @@
       (VP
         (VB build)
         (NP
-          (NP
-            (DT a)
-            (NN range)))))))
+          (DT a)
+          (NN range))))))
 
 (SBAR
-  (WHNP-3
-    (WDT which))
   (, ,)
   (PP
     (IN as)
@@ -1738,7 +1695,8 @@
         (NNP CFCs))))
   (S
     (NP-SBJ
-      (-NONE- *T*-3))
+      (WHNP
+        (WDT which)))
     (VP
       (VBP are)
       (NP-PRD
@@ -1747,11 +1705,10 @@
 (SBAR
   (ADVP
     (RB So))
-  (WHNP-1
-    (WP what))
   (SQ
     (NP-SBJ
-      (-NONE- *T*-1))
+      (WHNP
+        (WP what)))
     (VP
       (VBZ 's)
       (NP-PRD
@@ -1792,9 +1749,9 @@
           (VB go)))))
   (CC and)
   (SBAR
-    (-NONE- 0)
+    (-NONE- 0_NULL)
     (S
-      (NP-SBJ-2
+      (NP-SBJ
         (NP
           (DT the)
           (NNS assets)))
@@ -1809,13 +1766,12 @@
     (VP
       (VBG restoring)
       (NP
-        (NP
-          (NN faith))))))
+        (NN faith)))))
 
 (SBAR
   (IN as)
   (WHNP-4
-    (-NONE- 0))
+    (-NONE- 0_NULL))
   (S
     (NP-SBJ-3
       (-NONE- *-4))
@@ -1844,11 +1800,11 @@
 
 (SBAR-TMP
   (SBAR
-    (WHADVP-3
+    (WHADVP
       (WRB When))
     (, ,)
     (S
-      (NP-SBJ-1
+      (NP-SBJ
         (PRP he))
       (VP
         (VBZ decides))))
@@ -1859,10 +1815,10 @@
     (RB accurately))
   (, ,)
   (SBAR
-    (WHADVP-4
+    (WHADVP
       (WRB when))
     (S
-      (NP-SBJ-2
+      (NP-SBJ
         (PRP he))
       (VP
         (VBZ decides)))))
@@ -1893,7 +1849,7 @@
       (VP
         (VBD said)
         (SBAR
-          (-NONE- 0)
+          (-NONE- 0_NULL)
           (S
             (-NONE- *T*-2)))))
     (, ,))
@@ -1964,29 +1920,27 @@
   (, ,)
   (CC but)
   (SBAR
-    (WHADJP-1
-      (RB just)
-      (WRB how)
-      (JJ pregnant))
     (S
       (NP-SBJ
         (PRP she))
       (VP
         (VBZ is)
         (ADJP-PRD
-          (-NONE- *T*-1))))))
+          (WHADJP
+            (RB just)
+            (WRB how)
+            (JJ pregnant)))))))
 
 (SBAR
   (WP$ whose)
-  (WHNP-1
-    (NNP Benson)
-    (CC &)
-    (NNP Hedges)
-    (NN cigarette)
-    (NN brand))
   (S
     (NP-SBJ
-      (-NONE- *T*-1))
+      (WHNP
+        (NNP Benson)
+        (CC &)
+        (NNP Hedges)
+        (NN cigarette)
+        (NN brand)))
     (VP
       (VBZ has)
       (VP
@@ -2092,8 +2046,7 @@
       (VP
         (VB alienate)
         (NP
-          (NP
-            (NNS conservatives)))))))
+          (NNS conservatives))))))
 
 (SBAR
   (IN whether)
@@ -2108,29 +2061,25 @@
         (JJ constitutional)))))
 
 (SBAR-TMP
-  (WHADVP-1
-    (WRB when))
   (S
     (NP-SBJ
       (NNS rates))
     (VP
       (VBD moved)
       (ADVP-TMP
-        (-NONE- *T*-1))
+        (WHADVP
+          (WRB when)))
       (PRN
         (: --)
         (S-TMP
           (NP-SBJ
             (-NONE- *))
           (VP
-            (VP
-              (VBG beginning))))
+            (VBG beginning)))
         (: --))))
   (`` ``))
 
 (SBAR
-  (WHNP-2
-    (WDT Which))
   (PRN
     (, ,)
     (S
@@ -2147,13 +2096,14 @@
     (, ,))
   (S
     (NP-SBJ
-      (-NONE- *T*-2))
+      (WHNP
+        (WDT Which)))
     (VP
       (VBZ does)
       (RB n't)
       (VP
         (VB prevent)
-        (NP-3
+        (NP
           (DT the)
           (NNS charities)))))
   (. .))
@@ -2190,17 +2140,15 @@
         (VP
           (VBG awaiting)
           (NP
-            (NP
-              (DT a)
-              (NN ruling))))))))
+            (DT a)
+            (NN ruling)))))))
 
 (SBAR
-  (WHNP-3
-    (WP who))
   (`` ``)
   (S
-    (NP-SBJ-6
-      (-NONE- *T*-3))
+    (NP-SBJ
+      (WHNP
+        (WP who)))
     (VP
       (VBP do)
       (RB n't)
@@ -2210,11 +2158,10 @@
 
 (SBAR
   (SBAR
-    (WHNP-1
-      (WDT that))
     (S
       (NP-SBJ
-        (-NONE- *T*-1))
+        (WHNP
+          (WDT that)))
       (VP
         (MD wo)
         (RB n't)
@@ -2223,20 +2170,18 @@
   (, ,)
   ('' '')
   (SBAR
-    (WHNP-2
-      (WDT that))
     (S
-      (NP-SBJ-4
-        (-NONE- *T*-2))
+      (NP-SBJ
+        (WHNP
+          (WDT that)))
       (VP
         (VBZ insists))))
   (, ,)
   (SBAR
-    (WHNP-3
-      (WDT that))
     (S
       (NP-SBJ
-        (-NONE- *T*-3))
+        (WHNP
+          (WDT that)))
       (VP
         (VBZ treats)
         (NP
@@ -2244,8 +2189,6 @@
           (NN president))))))
 
 (SBAR-ADV
-  (ADJP-PRD-TPC-1
-    (JJ unacceptable))
   (IN though)
   (S
     (NP-SBJ
@@ -2258,7 +2201,8 @@
         (VP
           (VBN been)
           (ADJP-PRD
-            (-NONE- *T*-1)))))))
+            (ADJP-PRD-TPC
+              (JJ unacceptable))))))))
 
 (SBAR
   (SBAR
@@ -2313,7 +2257,7 @@
   ('' ''))
 
 (SBAR
-  (-NONE- 0)
+  (-NONE- 0_NULL)
   (SBAR
     (-NONE- *T*-2)))
 
@@ -2376,8 +2320,6 @@
         (NN gridlock)))))
 
 (SBAR-TMP
-  (WHADVP-1
-    (WRB when))
   (PRN
     (, ,)
     (PP
@@ -2396,31 +2338,29 @@
         (VP
           (VBN unraveled)
           (ADVP-TMP
-            (-NONE- *T*-1)))))))
+            (WHADVP
+              (WRB when))))))))
 
 (SBAR-NOM
-  (WHNP-1
-    (WHNP
-      (WHADVP
-        (WRB how)
-        (JJ many))
-      (NNS shares))
-    (ADJP
-      (JJ outstanding))
-    (PP
-      (-NONE- *ICH*-2)))
   (S
     (NP-SBJ
       (PRP it))
     (VP
       (VBZ has)
       (NP
-        (-NONE- *T*-1))))
-  (PP-2
-    (IN of)
-    (NP
-      (DT either)
-      (NN issue))))
+        (WHNP
+          (WHNP
+            (WHADVP
+              (WRB how)
+              (JJ many))
+            (NNS shares))
+          (ADJP
+            (JJ outstanding))
+          (PP
+            (IN of)
+            (NP
+              (DT either)
+              (NN issue))))))))
 
 (SBAR
   (ADVP
@@ -2464,17 +2404,13 @@
   (IN in)
   (NN case)
   (S
-    (NP-SBJ-2
+    (NP-SBJ
       (PRP we))
     (VP
       (VBP want))))
 
 (SBAR-NOM
   (SBAR
-    (WHADVP-1
-      (WRB how)
-      (JJ much)
-      (NN property))
     (S
       (NP-SBJ
         (NNS people))
@@ -2483,13 +2419,12 @@
         (VP
           (VB own)
           (NP
-            (-NONE- *T*-1))))))
+            (WHADVP
+              (WRB how)
+              (JJ much)
+              (NN property)))))))
   (CC or)
   (SBAR
-    (WHADVP-2
-      (WRB how)
-      (JJ much)
-      (NN income))
     (S
       (NP-SBJ
         (PRP they))
@@ -2498,8 +2433,11 @@
         (VP
           (VB keep)
           (NP
-            (-NONE- *T*-2))))))
-  (SBAR-ADV-3
+            (WHADVP
+              (WRB how)
+              (JJ much)
+              (NN income)))))))
+  (SBAR-ADV
     (IN if)
     (S
       (NP-SBJ
@@ -2507,8 +2445,7 @@
       (VP
         (VBP want)
         (NP
-          (NP
-            (NN help)))))))
+          (NN help))))))
 
 (SBAR
   (PP
@@ -2518,7 +2455,7 @@
   (, ,)
   (IN that)
   (S
-    (NP-SBJ-2
+    (NP-SBJ
       (PRP it))
     (VP
       (VBZ is)
@@ -2547,9 +2484,9 @@
         (RP down)))))
 
 (SBAR
-  (-NONE- 0)
+  (-NONE- 0_NULL)
   (S
-    (NP-SBJ-2
+    (NP-SBJ
       (DT the)
       (NN deficit))
     (VP
@@ -2574,16 +2511,15 @@
 
 (SBAR
   (RB not)
-  (WHNP-17
-    (NP
-      (DT the))
-    (WHPP
-      (IN of)
-      (WHNP
-        (WDT which))))
   (S
     (NP-SBJ
-      (-NONE- *T*-17))
+      (WHNP
+        (NP
+          (DT the))
+        (WHPP
+          (IN of)
+          (WHNP
+            (WDT which)))))
     (VP
       (VBD was)
       (SBAR-PRD
@@ -2603,36 +2539,34 @@
             (VBD proceeded)))))))
 
 (SBAR
-  (WHADVP-1
-    (WRB How)
-    (RB quickly))
   (S
     (NP-SBJ
       (NNS things))
     (VP
       (VBP change)
       (ADVP-MNR
-        (-NONE- *T*-1))))
+        (WHADVP
+          (WRB How)
+          (RB quickly)))))
   (. .))
 
 (SBAR
-  (WHNP-3
-    (WP what))
   (PP
     (IN in)
     (NP
       (NN fact)))
   (S
     (NP-SBJ
-      (-NONE- *T*-3))
+      (WHNP
+        (WP what)))
     (VP
       (VBZ is)
       (VP
         (VBG happening)))))
 
-(SBAR-1
+(SBAR
   (SBAR
-    (WHADVP-2
+    (WHADVP
       (WRB how)
       (RB much))
     (S
@@ -2642,16 +2576,14 @@
         (MD can)
         (VP
           (VB fall)))))
-  (CC and)
-  (FRAG
-    (WHADVP
-      (WRB how)
-      (RB soon))))
+  (CONJPP
+    (CC and)
+    (FRAG
+      (WHADVP
+        (WRB how)
+        (RB soon)))))
 
 (SBAR
-  (WHADJP-1
-    (WRB How)
-    (JJ difficult))
   (S
     (NP-SBJ
       (NP
@@ -2659,8 +2591,10 @@
     (VP
       (VBZ is)
       (ADJP-PRD
-        (-NONE- *T*-1))
-      (SBAR-2
+        (WHADJP
+          (WRB How)
+          (JJ difficult)))
+      (SBAR
         (IN for)
         (S
           (NP-SBJ
@@ -2673,8 +2607,6 @@
   (. .))
 
 (SBAR-TMP
-  (WHADVP-1
-    (WRB when))
   (PP
     (IN in)
     (NP
@@ -2690,19 +2622,19 @@
         (NP
           (PRP it))
         (ADVP-TMP
-          (-NONE- *T*-1))))))
+          (WHADVP
+            (WRB when)))))))
 
 (SBAR-NOM
   (SBAR
-    (WHNP-1
-      (WP what))
     (S
       (NP-SBJ
         (PRP it))
       (VP
         (VBZ does)
         (NP
-          (-NONE- *T*-1)))))
+          (WHNP
+            (WP what))))))
   (: --)
   (S-NOM
     (NP-SBJ
@@ -2714,16 +2646,15 @@
         (NN company)))))
 
 (SBAR
-  (WHNP-3
-    (WP$ whose)
-    (NN founder))
   (, ,)
   (NP
     (NNP Waters))
   (, ,)
   (S
-    (NP-SBJ-115
-      (-NONE- *T*-3))
+    (NP-SBJ
+      (WHNP
+        (WP$ whose)
+        (NN founder)))
     (VP
       (VBZ is)
       (VP
@@ -2731,11 +2662,10 @@
 
 (SBAR
   (SBAR
-    (WHNP-3
-      (WDT that))
     (S
       (NP-SBJ
-        (-NONE- *T*-3))
+        (WHNP
+          (WDT that)))
       (VP
         (MD would)
         (VP
@@ -2746,11 +2676,10 @@
     (RB alternatively))
   (, ,)
   (SBAR
-    (WHNP-1
-      (WDT that))
     (S
       (NP-SBJ
-        (-NONE- *T*-1))
+        (WHNP
+          (WDT that)))
       (VP
         (MD would)
         (VP
@@ -2763,12 +2692,11 @@
 (SBAR
   (RB as)
   (RB yet)
-  (WHNP-3
-    (-NONE- 0))
   (-LRB- -LCB-)
   (S
     (NP-SBJ-4
-      (-NONE- *T*-3))
+      (WHNP
+        (-NONE- 0_NULL)))
     (VP
       (TO to)
       (VP
@@ -2788,17 +2716,16 @@
       (NN example)))
   (, ,)
   (S
-    (NP-SBJ-1
+    (NP-SBJ
       (PRP they))
     (VP
       (VBP choose))))
 
 (SBAR-HLN
-  (WHNP-1
-    (WP WHO))
   (S
     (NP-SBJ
-      (-NONE- *T*-1))
+      (WHNP
+        (WP WHO)))
     (VP
       (VBZ 'S)
       (NP-PRD
@@ -2815,13 +2742,12 @@
         (DT the)
         (NN push)))))
 
-(SBAR-1
+(SBAR
   (SBAR
-    (WHNP-2
-      (WP what))
     (S
       (NP-SBJ
-        (-NONE- *T*-2))
+        (WHNP
+          (WP what)))
       (VP
         (POS 's)
         (ADJP-PRD
@@ -2829,11 +2755,10 @@
   (: --)
   (NN and)
   (SBAR
-    (WHNP-172
-      (WP what))
     (S
       (NP-SBJ
-        (-NONE- *T*-172))
+        (WHNP
+          (WP what)))
       (VP
         (VBZ 's)
         (RB not)
@@ -2841,8 +2766,6 @@
           (-NONE- *?*))))))
 
 (SBAR
-  (WHADVP-1
-    (WRB where))
   (PRN
     (, ,)
     (S
@@ -2851,22 +2774,21 @@
       (VP
         (VBP say)
         (SBAR
-          (-NONE- 0)
+          (-NONE- 0_NULL)
           (SINV
-            (-NONE- *T*-2)))))
-    (, ,))
-  (SINV-2
-    (VP
-      (VBP await)
-      (ADVP-LOC
-        (-NONE- *T*-1)))
-    (NP-SBJ
-      (NP
-        (NN plenty)))))
+            (VP
+              (VBP await)
+              (ADVP-LOC
+                (WHADVP
+                  (WRB where))))
+            (NP-SBJ
+              (NP
+                (NN plenty)))))))
+    (, ,)))
 
 (SBAR
   (SBAR
-    (-NONE- 0)
+    (-NONE- 0_NULL)
     (S
       (NP-SBJ
         (NNS plans))
@@ -2875,9 +2797,8 @@
         (VP
           (VB miss)
           (NP
-            (NP
-              (PRP$ its)
-              (NNS projections)))))))
+            (PRP$ its)
+            (NNS projections))))))
   (, ,)
   (CC and)
   (SBAR
@@ -2892,19 +2813,14 @@
           (NN level)))))
   (, ,)
   (PP
-    (VBG according)
+    (VBG|IN according)
     (PP
       (TO to)
       (NP
-        (NP
-          (DT a)
-          (NN source))))))
+        (DT a)
+        (NN source)))))
 
 (SBAR
-  (WHPP-2
-    (IN with)
-    (WHNP
-      (WDT which)))
   (PRN
     (, ,)
     (S
@@ -2913,27 +2829,27 @@
       (VP
         (VBD said)
         (SBAR
-          (-NONE- 0)
+          (-NONE- 0_NULL)
           (S
-            (-NONE- *T*-3)))))
-    (, ,))
-  (S-3
-    (NP-SBJ
-      (PRP$ his)
-      (NNS clients))
-    (VP
-      (VBD had)
-      (VP
-        (VBN complied)
-        (PP-CLR
-          (-NONE- *T*-2))))))
+            (NP-SBJ
+              (PRP$ his)
+              (NNS clients))
+            (VP
+              (VBD had)
+              (VP
+                (VBN complied)
+                (PP-CLR
+                  (WHPP
+                    (IN with)
+                    (WHNP
+                      (WDT which))))))))))
+    (, ,)))
 
 (SBAR
-  (WHNP-2
-    (WP what))
   (SQ
     (NP-SBJ
-      (-NONE- *T*-2))
+      (WHNP
+        (WP what)))
     (VP
       (MD will)
       (VP
@@ -2950,7 +2866,7 @@
   (IN as)
   (IN if)
   (S
-    (NP-SBJ-1
+    (NP-SBJ
       (PRP you))
     (VP
       (VBP 're)
@@ -2968,7 +2884,7 @@
       (NN course)))
   (, ,)
   (S
-    (NP-SBJ-2
+    (NP-SBJ
       (PRP it))
     (VP
       (VBZ happens)))
@@ -2979,17 +2895,14 @@
   (WP what)
   (IN about)
   (NP
-    (NP
-      (DT the)
-      (NN risk)))
+    (DT the)
+    (NN risk))
   (. ?)
   ('' ''))
 
 (SBAR-ADV
   (IN if)
   (CC and)
-  (WHADVP-1
-    (WRB when))
   (S
     (NP-SBJ-15
       (NNS problems))
@@ -3000,27 +2913,24 @@
         (NP
           (-NONE- *-15))
         (ADVP-TMP
-          (-NONE- *T*-1))))))
+          (WHADVP
+            (WRB when)))))))
 
 (SBAR
   (WP What)
   (IN about)
   (NP
-    (NP
-      (DT those)
-      (NNS people)))
+    (DT those)
+    (NNS people))
   (. ?))
 
 (SBAR
-  (-NONE- 0)
+  (-NONE- 0_NULL)
   (SBARQ
     (-NONE- *T*-1)))
 
 (SBAR-PRD
   (SBARQ
-    (WHNP-1
-      (WRB How)
-      (JJ much))
     (SQ
       (VBP are)
       (NP-SBJ
@@ -3029,7 +2939,9 @@
       (PP-PRD
         (JJ worth)
         (NP
-          (-NONE- *T*-1))))
+          (WHNP
+            (WRB How)
+            (JJ much)))))
     (. ?)))
 
 (SBAR-PRD
@@ -3037,7 +2949,7 @@
   (SBAR
     (IN that)
     (S
-      (NP-SBJ-1
+      (NP-SBJ
         (DT the)
         (NN resistance))
       (VP
@@ -3049,7 +2961,7 @@
   (SBAR
     (IN that)
     (S
-      (NP-SBJ-2
+      (NP-SBJ
         (PRP it))
       (VP
         (VBZ continues)))))
@@ -3062,15 +2974,14 @@
       (NN ancestry))))
 
 (SBAR
-  (SBAR
-    (-NONE- 0)
-    (S
-      (NP-SBJ
-        (PRP they))
+  (-NONE- 0_NULL)
+  (S
+    (NP-SBJ
+      (PRP they))
+    (VP
+      (VBP are)
       (VP
-        (VBP are)
-        (VP
-          (NN housekeeping))))))
+        (NN housekeeping)))))
 
 (SBAR-PRP
   (RB because)
@@ -3082,14 +2993,14 @@
       (VP
         (VBZ says)
         (SBAR
-          (-NONE- 0)
+          (-NONE- 0_NULL)
           (S
             (-NONE- *T*-1)))))
     (, ,))
   (`` ``)
   (S
     (SBAR-TMP
-      (WHADVP-2
+      (WHADVP
         (WRB When))
       (S
         (NP-SBJ
@@ -3170,7 +3081,7 @@
   (SBAR
     (IN whether)
     (S
-      (NP-SBJ-3
+      (NP-SBJ
         (NNP Drexel))
       (VP
         (MD should)
@@ -3200,15 +3111,14 @@
             (NN license)))))))
 
 (SBAR
-  (WHPP-1
-    (IN on)
-    (WHNP
-      (WDT which)))
   (SINV
     (VP
       (VBZ flows)
       (PP-LOC-CLR
-        (-NONE- *T*-1)))
+        (WHPP
+          (IN on)
+          (WHNP
+            (WDT which)))))
     (NP-SBJ
       (NP
         (JJ much)))))

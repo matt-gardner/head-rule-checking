@@ -17,6 +17,12 @@
 .show-examples {
     clear: both;
 }
+.show-debug {
+    clear: both;
+}
+.show-debug span:hover {
+    cursor: pointer;
+}
 .show-examples span:hover {
     cursor: pointer;
 }

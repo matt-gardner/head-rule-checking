@@ -11,7 +11,7 @@ from test_suite.models import *
 
 
 @transaction.commit_manually
-def main(category_symbol, simple_penn_file, simple_supa_file):
+def main(category_symbol, simple_penn_file, simple_supa_file, inter_penn_file):
     category = Category.objects.get(symbol=category_symbol)
     suites = category.testsuite_set.all()
     # We just update the most recent version of the test suite
@@ -42,15 +42,26 @@ def main(category_symbol, simple_penn_file, simple_supa_file):
             penn_text = ''
             continue
         penn_text += line
+    inter_penn_texts = []
+    penn_text = ''
+    for line in open(inter_penn_file):
+        if line == '\n':
+            inter_penn_texts.append(penn_text)
+            penn_text = ''
+            continue
+        penn_text += line
     if (len(expansions) != len(penn_texts)
-            or len(expansions) != len(supa_texts)):
+            or len(expansions) != len(supa_texts)
+            or len(expansions) != len(inter_penn_texts)):
         print len(expansions), len(penn_texts)
         print len(expansions), len(supa_texts)
+        print len(expansions), len(inter_penn_texts)
         print penn_texts[len(supa_texts)]
         raise RuntimeError('Error processing files')
     for i, expansion in enumerate(expansions):
         expansion.simple_supa_example = supa_texts[i]
         expansion.simple_penn_example = penn_texts[i]
+        expansion.intermediate_penn_example = inter_penn_texts[i]
         expansion.save()
     transaction.commit()
 
@@ -67,10 +78,12 @@ if __name__ == '__main__':
         cat_base = base + category + '/' + category
         simple_supa_file = cat_base + '_simple.supa'
         simple_penn_file = cat_base + '_PTBtrees_simple.mrg'
+        inter_penn_file = cat_base + '_PTBtrees_intermediate.mrg'
         print 'Updating simple examples for test suite', category
         try:
-            main(category, simple_penn_file, simple_supa_file)
+            main(category, simple_penn_file, simple_supa_file, inter_penn_file)
         except:
             print 'Failed!'
+            raise
 
 # vim: et sw=4 sts=4

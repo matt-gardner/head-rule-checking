@@ -157,10 +157,6 @@
 7	must	_	_	MD	_	0	ROOT	_	_	ROOT
 8	wear	_	_	VB	_	7	???	_	_	must
 9	ties	_	_	NNS	_	8	OBJ-DO	_	_	wear
-10	when	_	_	WRB	_	8	???	_	_	wear
-11	on	_	_	IN	_	10	???	_	_	when
-12	the	_	_	DT	_	13	???	_	_	road
-13	road	_	_	NN	_	11	???	_	_	on
 
 1	--	_	_	:	_	2	???	_	_	important
 2	important	_	_	JJ	_	0	ROOT	_	_	ROOT
@@ -927,12 +923,7 @@
 4	who	_	_	WP	_	5	SUBJ	_	_	was
 5	was	_	_	VBD	_	0	ROOT	_	_	ROOT
 6	derided	_	_	VBN	_	5	???	_	_	was
-7	when	_	_	WRB	_	6	???	_	_	derided
-8	GE	_	_	NNP	_	9	SUBJ	_	_	brought
-9	brought	_	_	VBD	_	7	???	_	_	when
-10	him	_	_	PRP	_	9	OBJ-DO	_	_	brought
-11	in	_	_	RP	_	9	???	_	_	brought
-12	--	_	_	:	_	5	???	_	_	was
+7	--	_	_	:	_	5	???	_	_	was
 
 1	-LRB-	_	_	-LRB-	_	2	???	_	_	in
 2	in	_	_	IN	_	0	ROOT	_	_	ROOT

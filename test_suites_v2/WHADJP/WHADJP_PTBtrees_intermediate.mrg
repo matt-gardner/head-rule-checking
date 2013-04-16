@@ -1,0 +1,58 @@
+(WHADJP
+  (WRB how)
+  (JJ many))
+
+(WHADJP
+  (RB just)
+  (WRB how)
+  (JJ powerful))
+
+(WHADJP
+  (WRB how)
+  (JJ wide)
+  (CC and)
+  (JJ deep))
+
+(WHADJP
+  (WRB how)
+  (JJ incompetent)
+  (PP
+    (IN at)
+    (NP
+      (NN evaluation))))
+
+(WHADJP
+  (WRB How)
+  (RB interestingly)
+  (JJ clever)
+  (PP
+    (IN of)
+    (NP
+      (NNP Goldberg))))
+
+(WHADJP
+  (WHADVP
+    (WRB how))
+  (JJ serious))
+
+(WHADJP
+  (WRB how)
+  (`` ``)
+  (ADJP
+    (FW belle))
+  ('' ''))
+
+(WHADJP
+  (RB However)
+  (JJ flawed)
+  (CC and)
+  (JJ short-lived))
+
+(WHADJP
+  (WRB how)
+  (RB deep))
+
+(WHADJP
+  (RB exactly)
+  (WP what))
+

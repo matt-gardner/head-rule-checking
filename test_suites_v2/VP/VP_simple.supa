@@ -255,10 +255,6 @@
 2	currently	_	_	RB	_	1	???	_	_	is
 3	waiving	_	_	VBG	_	1	???	_	_	is
 4	fees	_	_	NNS	_	3	OBJ-DO	_	_	waiving
-5	which	_	_	WDT	_	6	SUBJ	_	_	boosts
-6	boosts	_	_	VBZ	_	3	???	_	_	waiving
-7	its	_	_	PRP$	_	8	???	_	_	yield
-8	yield	_	_	NN	_	6	OBJ-DO	_	_	boosts
 
 1	expand	_	_	VB	_	0	ROOT	_	_	ROOT
 
@@ -503,10 +499,6 @@
 5	to	_	_	TO	_	3	???	_	_	for
 6	extend	_	_	VB	_	5	???	_	_	to
 7	credit	_	_	NN	_	6	OBJ-DO	_	_	extend
-8	unless	_	_	IN	_	6	???	_	_	extend
-9	they	_	_	PRP	_	10	SUBJ	_	_	are
-10	are	_	_	VBP	_	8	???	_	_	unless
-11	members	_	_	NNS	_	10	OBJ-DO	_	_	are
 
 1	made	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	use	_	_	NN	_	1	OBJ-DO	_	_	made
@@ -1357,10 +1349,6 @@
 2	not	_	_	RB	_	1	???	_	_	may
 3	necessarily	_	_	RB	_	1	???	_	_	may
 4	be	_	_	VB	_	1	???	_	_	may
-5	when	_	_	WRB	_	4	???	_	_	be
-6	they	_	_	PRP	_	7	SUBJ	_	_	hire
-7	hire	_	_	VBP	_	5	???	_	_	when
-8	lawyers	_	_	NNS	_	7	OBJ-DO	_	_	hire
 
 1	named	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	a	_	_	DT	_	3	???	_	_	director
@@ -1436,10 +1424,6 @@
 6	volume	_	_	NN	_	7	SUBJ	_	_	being
 7	being	_	_	VBG	_	5	???	_	_	with
 8	flat	_	_	JJ	_	7	???	_	_	being
-9	while	_	_	IN	_	7	???	_	_	being
-10	consolidation	_	_	NN	_	11	SUBJ	_	_	creates
-11	creates	_	_	VBZ	_	9	???	_	_	while
-12	players	_	_	NNS	_	11	OBJ-DO	_	_	creates
 
 1	jumped	_	_	VBD	_	0	ROOT	_	_	ROOT
 2	points	_	_	NNS	_	1	???	_	_	jumped
@@ -2182,12 +2166,6 @@
 11	complete	_	_	VB	_	10	???	_	_	could
 12	the	_	_	DT	_	13	???	_	_	purchase
 13	purchase	_	_	NN	_	11	OBJ-DO	_	_	complete
-14	if	_	_	IN	_	11	???	_	_	complete
-15	its	_	_	PRP$	_	16	???	_	_	bid
-16	bid	_	_	NN	_	17	SUBJ	_	_	is
-17	is	_	_	VBZ	_	14	???	_	_	if
-18	the	_	_	DT	_	19	???	_	_	one
-19	one	_	_	NN	_	17	OBJ-DO	_	_	is
 
 1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
 2	average	_	_	NN	_	1	???	_	_	is
@@ -2692,9 +2670,6 @@
 5	giving	_	_	VBG	_	1	???	_	_	operating
 6	it	_	_	PRP	_	5	???	_	_	giving
 7	protection	_	_	NN	_	5	OBJ-DO	_	_	giving
-8	while	_	_	IN	_	5	???	_	_	giving
-9	it	_	_	PRP	_	10	SUBJ	_	_	attempts
-10	attempts	_	_	VBZ	_	8	???	_	_	while
 
 1	increased	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	by	_	_	IN	_	1	???	_	_	increased
@@ -3357,12 +3332,6 @@
 8	yanked	_	_	VBD	_	6	???	_	_	when
 9	their	_	_	PRP$	_	10	???	_	_	funds
 10	funds	_	_	NNS	_	8	OBJ-DO	_	_	yanked
-11	after	_	_	IN	_	8	???	_	_	yanked
-12	the	_	_	DT	_	13	???	_	_	government
-13	government	_	_	NN	_	14	SUBJ	_	_	demanded
-14	demanded	_	_	VBD	_	11	???	_	_	after
-15	a	_	_	DT	_	16	???	_	_	forfeiture
-16	forfeiture	_	_	NN	_	14	OBJ-DO	_	_	demanded
 
 1	convened	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	fall	_	_	NN	_	1	OBJ-DO	_	_	convened
@@ -3646,9 +3615,6 @@
 3	to	_	_	TO	_	1	???	_	_	keep
 4	maintain	_	_	VB	_	3	???	_	_	to
 5	trading	_	_	NN	_	4	OBJ-DO	_	_	maintain
-6	when	_	_	WRB	_	4	???	_	_	maintain
-7	imbalances	_	_	NNS	_	8	SUBJ	_	_	occur
-8	occur	_	_	VBP	_	6	???	_	_	when
 
 1	publicly	_	_	RB	_	2	???	_	_	concedes
 2	concedes	_	_	VBZ	_	0	ROOT	_	_	ROOT
@@ -3903,10 +3869,6 @@
 4	,	_	_	,	_	1	???	_	_	walk
 5	noticing	_	_	VBG	_	1	???	_	_	walk
 6	one	_	_	CD	_	5	OBJ-DO	_	_	noticing
-7	only	_	_	RB	_	8	???	_	_	when
-8	when	_	_	WRB	_	5	???	_	_	noticing
-9	they	_	_	PRP	_	10	SUBJ	_	_	jostle
-10	jostle	_	_	VBP	_	8	???	_	_	when
 
 1	should	_	_	MD	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	should
@@ -4525,17 +4487,11 @@
 5	answers	_	_	NNS	_	2	OBJ-DO	_	_	give
 
 1	voted	_	_	VBD	_	0	ROOT	_	_	ROOT
-2	when	_	_	WRB	_	1	???	_	_	voted
-3	the	_	_	DT	_	4	???	_	_	committee
-4	committee	_	_	NN	_	5	SUBJ	_	_	authorized
-5	authorized	_	_	VBD	_	2	???	_	_	when
-6	a	_	_	DT	_	7	???	_	_	subpoena
-7	subpoena	_	_	NN	_	5	OBJ-DO	_	_	authorized
-8	,	_	_	,	_	1	???	_	_	voted
-9	then	_	_	RB	_	1	???	_	_	voted
-10	changed	_	_	VBD	_	1	???	_	_	voted
-11	his	_	_	PRP$	_	12	???	_	_	vote
-12	vote	_	_	NN	_	10	OBJ-DO	_	_	changed
+2	,	_	_	,	_	1	???	_	_	voted
+3	then	_	_	RB	_	1	???	_	_	voted
+4	changed	_	_	VBD	_	1	???	_	_	voted
+5	his	_	_	PRP$	_	6	???	_	_	vote
+6	vote	_	_	NN	_	4	OBJ-DO	_	_	changed
 
 1	was	_	_	VBD	_	0	ROOT	_	_	ROOT
 2	in	_	_	IN	_	1	???	_	_	was
@@ -6534,10 +6490,6 @@
 6	taking	_	_	VBG	_	1	???	_	_	was
 7	an	_	_	DT	_	8	???	_	_	interest
 8	interest	_	_	NN	_	6	OBJ-DO	_	_	taking
-9	even	_	_	RB	_	10	???	_	_	before
-10	before	_	_	IN	_	6	???	_	_	taking
-11	he	_	_	PRP	_	12	SUBJ	_	_	went
-12	went	_	_	VBD	_	10	???	_	_	before
 
 1	spin	_	_	VB	_	0	ROOT	_	_	ROOT
 2	off	_	_	RP	_	1	???	_	_	spin
@@ -6724,10 +6676,6 @@
 9	people	_	_	NNS	_	10	SUBJ	_	_	absorb
 10	absorb	_	_	VBP	_	8	???	_	_	that
 11	information	_	_	NN	_	10	OBJ-DO	_	_	absorb
-12	if	_	_	IN	_	10	???	_	_	absorb
-13	they	_	_	PRP	_	14	SUBJ	_	_	receive
-14	receive	_	_	VBP	_	12	???	_	_	if
-15	it	_	_	PRP	_	14	OBJ-DO	_	_	receive
 
 1	expands	_	_	VBZ	_	0	ROOT	_	_	ROOT
 2	or	_	_	CC	_	1	???	_	_	expands
@@ -7106,17 +7054,14 @@
 16	%	_	_	NN	_	15	OBJ-DO	_	_	yield
 
 1	charge	_	_	VBP	_	0	ROOT	_	_	ROOT
-2	%	_	_	NN	_	1	OBJ-DO	_	_	charge
-3	to	_	_	TO	_	2	???	_	_	%
-4	35	_	_	CD	_	2	???	_	_	%
-5	%	_	_	NN	_	2	???	_	_	%
-6	for	_	_	IN	_	1	???	_	_	charge
-7	ads	_	_	NNS	_	6	???	_	_	for
-8	,	_	_	,	_	1	???	_	_	charge
-9	according	_	_	VBG|IN	_	1	???	_	_	charge
-10	to	_	_	TO	_	9	???	_	_	according
-11	a	_	_	DT	_	12	???	_	_	survey
-12	survey	_	_	NN	_	10	???	_	_	to
+2	more	_	_	JJR	_	1	OBJ-DO	_	_	charge
+3	for	_	_	IN	_	1	???	_	_	charge
+4	ads	_	_	NNS	_	3	???	_	_	for
+5	,	_	_	,	_	1	???	_	_	charge
+6	according	_	_	VBG|IN	_	1	???	_	_	charge
+7	to	_	_	TO	_	6	???	_	_	according
+8	a	_	_	DT	_	9	???	_	_	survey
+9	survey	_	_	NN	_	7	???	_	_	to
 
 1	solved	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	``	_	_	``	_	1	???	_	_	solved
@@ -7165,12 +7110,6 @@
 5	to	_	_	TO	_	1	???	_	_	placed
 6	execute	_	_	VB	_	5	???	_	_	to
 7	them	_	_	PRP	_	6	OBJ-DO	_	_	execute
-8	if	_	_	IN	_	6	???	_	_	execute
-9	the	_	_	DT	_	10	???	_	_	market
-10	market	_	_	NN	_	11	SUBJ	_	_	hits
-11	hits	_	_	VBZ	_	8	???	_	_	if
-12	a	_	_	DT	_	13	???	_	_	price
-13	price	_	_	NN	_	11	OBJ-DO	_	_	hits
 
 1	determined	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	until	_	_	IN	_	1	???	_	_	determined
@@ -7200,11 +7139,6 @@
 5	them	_	_	PRP	_	4	???	_	_	giving
 6	the	_	_	DT	_	7	???	_	_	benefit
 7	benefit	_	_	NN	_	4	OBJ-DO	_	_	giving
-8	when	_	_	WRB	_	4	???	_	_	giving
-9	the	_	_	DT	_	10	???	_	_	dollar
-10	dollar	_	_	NN	_	11	SUBJ	_	_	is
-11	is	_	_	VBZ	_	8	???	_	_	when
-12	weak	_	_	JJ	_	11	???	_	_	is
 
 1	driving	_	_	VBG	_	0	ROOT	_	_	ROOT
 2	up	_	_	RP	_	1	???	_	_	driving
@@ -7724,12 +7658,6 @@
 6	until	_	_	IN	_	1	???	_	_	did
 7	he	_	_	PRP	_	8	SUBJ	_	_	resigned
 8	resigned	_	_	VBD	_	6	???	_	_	until
-9	when	_	_	WRB	_	8	???	_	_	resigned
-10	the	_	_	DT	_	11	???	_	_	stuff
-11	stuff	_	_	NN	_	12	SUBJ	_	_	hit
-12	hit	_	_	VBD	_	9	???	_	_	when
-13	the	_	_	DT	_	14	???	_	_	fan
-14	fan	_	_	NN	_	12	OBJ-DO	_	_	hit
 
 1	have	_	_	VBP	_	0	ROOT	_	_	ROOT
 2	been	_	_	VBN	_	1	???	_	_	have
@@ -10032,14 +9960,6 @@
 13	was	_	_	VBD	_	11	???	_	_	while
 14	boosted	_	_	VBN	_	13	???	_	_	was
 15	2	_	_	CD	_	14	OBJ-DO	_	_	boosted
-16	after	_	_	RB	_	14	???	_	_	boosted
-17	it	_	_	PRP	_	18	SUBJ	_	_	disclosed
-18	disclosed	_	_	VBD	_	16	???	_	_	after
-19	0_NULL	_	_	-NONE-	_	18	???	_	_	disclosed
-20	it	_	_	PRP	_	21	SUBJ	_	_	would
-21	would	_	_	MD	_	19	???	_	_	0_NULL
-22	seek	_	_	VB	_	21	???	_	_	would
-23	approval	_	_	NN	_	22	OBJ-DO	_	_	seek
 
 1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
 2	not	_	_	RB	_	1	???	_	_	is
@@ -10609,9 +10529,6 @@
 6	or	_	_	CC	_	2	???	_	_	battled
 7	left	_	_	VBD	_	2	???	_	_	battled
 8	Spain	_	_	NNP	_	7	OBJ-DO	_	_	left
-9	when	_	_	WRB	_	7	???	_	_	left
-10	Franco	_	_	NNP	_	11	SUBJ	_	_	triumphed
-11	triumphed	_	_	VBD	_	9	???	_	_	when
 
 1	acquire	_	_	VB	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	acquire
@@ -10637,12 +10554,6 @@
 6	,	_	_	,	_	4	???	_	_	in
 7	cause	_	_	VB	_	1	???	_	_	did
 8	fall	_	_	NN	_	7	OBJ-DO	_	_	cause
-9	though	_	_	IN	_	7	???	_	_	cause
-10	it	_	_	PRP	_	11	SUBJ	_	_	may
-11	may	_	_	MD	_	9	???	_	_	though
-12	have	_	_	VB	_	11	???	_	_	may
-13	exacerbated	_	_	VBN	_	12	???	_	_	have
-14	it	_	_	PRP	_	13	OBJ-DO	_	_	exacerbated
 
 1	was	_	_	VBD	_	0	ROOT	_	_	ROOT
 2	quick	_	_	JJ	_	1	???	_	_	was
@@ -11391,11 +11302,6 @@
 7	the	_	_	DT	_	8	???	_	_	increase
 8	increase	_	_	NN	_	9	SUBJ	_	_	coming
 9	coming	_	_	VBG	_	1	???	_	_	went
-10	after	_	_	IN	_	9	???	_	_	coming
-11	one	_	_	CD	_	12	SUBJ	_	_	developed
-12	developed	_	_	VBD	_	10	???	_	_	after
-13	a	_	_	DT	_	14	???	_	_	disk
-14	disk	_	_	NN	_	12	OBJ-DO	_	_	developed
 
 1	closed	_	_	VBD	_	0	ROOT	_	_	ROOT
 2	at	_	_	IN	_	1	???	_	_	closed
@@ -11881,9 +11787,7 @@
 1	to	_	_	TO	_	0	ROOT	_	_	ROOT
 2	``	_	_	``	_	1	???	_	_	to
 3	Charge	_	_	VB	_	1	???	_	_	to
-4	When	_	_	WRB	_	3	???	_	_	Charge
-5	Traveling	_	_	VBG	_	4	???	_	_	When
-6	''	_	_	''	_	1	???	_	_	to
+4	''	_	_	''	_	1	???	_	_	to
 
 1	says	_	_	VBZ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	says
@@ -12279,9 +12183,6 @@
 5	shock	_	_	NN	_	3	???	_	_	by
 6	,	_	_	,	_	1	???	_	_	sheared
 7	leaving	_	_	VBG	_	1	???	_	_	sheared
-8	while	_	_	IN	_	7	???	_	_	leaving
-9	piles	_	_	NNS	_	10	SUBJ	_	_	tumbled
-10	tumbled	_	_	VBD	_	8	???	_	_	while
 
 1	paying	_	_	VBG	_	0	ROOT	_	_	ROOT
 2	it	_	_	PRP	_	1	OBJ-DO	_	_	paying
@@ -12841,8 +12742,6 @@
 7	even	_	_	RB	_	1	???	_	_	sprawling
 8	hanging	_	_	VBG	_	1	???	_	_	sprawling
 9	them	_	_	PRP	_	8	OBJ-DO	_	_	hanging
-10	while	_	_	IN	_	8	???	_	_	hanging
-11	having	_	_	VBG	_	10	???	_	_	while
 
 1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
 2	n't	_	_	RB	_	1	???	_	_	is
@@ -13134,10 +13033,6 @@
 12	hamming	_	_	VBG	_	11	???	_	_	is
 13	it	_	_	PRP	_	12	OBJ-DO	_	_	hamming
 14	up	_	_	RP	_	12	???	_	_	hamming
-15	while	_	_	IN	_	12	???	_	_	hamming
-16	conducting	_	_	VBG	_	15	???	_	_	while
-17	the	_	_	DT	_	18	???	_	_	musicians
-18	musicians	_	_	NNS	_	16	OBJ-DO	_	_	conducting
 
 1	harshly	_	_	RB	_	2	???	_	_	criticized
 2	criticized	_	_	VBD	_	0	ROOT	_	_	ROOT
@@ -13264,12 +13159,10 @@
 2	readers	_	_	NNS	_	1	OBJ-DO	_	_	advises
 3	to	_	_	TO	_	1	???	_	_	advises
 4	Charge	_	_	VB	_	3	???	_	_	to
-5	When	_	_	WRB	_	4	???	_	_	Charge
-6	Traveling	_	_	VBG	_	5	???	_	_	When
-7	because	_	_	IN	_	1	???	_	_	advises
-8	companies	_	_	NNS	_	9	SUBJ	_	_	charge
-9	charge	_	_	VBP	_	7	???	_	_	because
-10	%	_	_	NN	_	9	OBJ-DO	_	_	charge
+5	because	_	_	IN	_	1	???	_	_	advises
+6	companies	_	_	NNS	_	7	SUBJ	_	_	charge
+7	charge	_	_	VBP	_	5	???	_	_	because
+8	%	_	_	NN	_	7	OBJ-DO	_	_	charge
 
 1	remain	_	_	VBP	_	0	ROOT	_	_	ROOT
 2	high	_	_	JJ	_	1	???	_	_	remain
@@ -13341,9 +13234,6 @@
 8	the	_	_	DT	_	9	???	_	_	company
 9	company	_	_	NN	_	10	SUBJ	_	_	is
 10	is	_	_	VBZ	_	7	???	_	_	that
-11	if	_	_	IN	_	10	???	_	_	is
-12	broken	_	_	VBN	_	11	???	_	_	if
-13	up	_	_	RP	_	12	???	_	_	broken
 
 1	for	_	_	IN	_	4	???	_	_	nothing
 2	us	_	_	PRP	_	1	???	_	_	for
@@ -14591,11 +14481,7 @@
 12	broadcasting	_	_	VBG	_	11	???	_	_	was
 13	the	_	_	DT	_	14	???	_	_	Series
 14	Series	_	_	NNP	_	12	OBJ-DO	_	_	broadcasting
-15	when	_	_	WRB	_	12	???	_	_	broadcasting
-16	the	_	_	DT	_	17	???	_	_	quake
-17	quake	_	_	NN	_	18	SUBJ	_	_	struck
-18	struck	_	_	VBD	_	15	???	_	_	when
-19	--	_	_	:	_	11	???	_	_	was
+15	--	_	_	:	_	11	???	_	_	was
 
 1	taken	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	private	_	_	JJ	_	1	???	_	_	taken
@@ -14921,13 +14807,7 @@
 6	permit	_	_	VB	_	5	???	_	_	to
 7	the	_	_	DT	_	8	???	_	_	use
 8	use	_	_	NN	_	6	OBJ-DO	_	_	permit
-9	if	_	_	IN	_	6	???	_	_	permit
-10	the	_	_	DT	_	11	???	_	_	benefits
-11	benefits	_	_	NNS	_	12	SUBJ	_	_	outweigh
-12	outweigh	_	_	VB	_	9	???	_	_	if
-13	the	_	_	DT	_	14	???	_	_	cost
-14	cost	_	_	NN	_	12	OBJ-DO	_	_	outweigh
-15	.	_	_	.	_	2	???	_	_	Allow
+9	.	_	_	.	_	2	???	_	_	Allow
 
 1	been	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	unable	_	_	JJ	_	1	???	_	_	been
@@ -15411,12 +15291,6 @@
 5	prelude	_	_	NN	_	3	???	_	_	during
 6	,	_	_	,	_	1	???	_	_	lies
 7	rising	_	_	VBG	_	1	???	_	_	lies
-8	when	_	_	WRB	_	7	???	_	_	rising
-9	then	_	_	RB	_	11	???	_	_	remembers
-10	she	_	_	PRP	_	11	SUBJ	_	_	remembers
-11	remembers	_	_	VBZ	_	8	???	_	_	when
-12	the	_	_	DT	_	13	???	_	_	parties
-13	parties	_	_	NNS	_	11	OBJ-DO	_	_	remembers
 
 1	wheezing	_	_	VBG	_	0	ROOT	_	_	ROOT
 2	from	_	_	IN	_	1	???	_	_	wheezing
@@ -15747,7 +15621,7 @@
 3	year	_	_	NN	_	1	???	_	_	yield
 4	,	_	_	,	_	1	???	_	_	yield
 5	or	_	_	CC	_	1	???	_	_	yield
-6	million	_	_	CD	_	1	OBJ-DO	_	_	yield
+6	more	_	_	JJR	_	1	OBJ-DO	_	_	yield
 
 1	merged	_	_	VBD	_	0	ROOT	_	_	ROOT
 2	with	_	_	IN	_	1	???	_	_	merged
@@ -17064,10 +16938,6 @@
 11	has	_	_	VBZ	_	8	???	_	_	that
 12	privatized	_	_	VBN	_	11	???	_	_	has
 13	Aviacion	_	_	NNP	_	12	OBJ-DO	_	_	privatized
-14	as	_	_	IN	_	12	???	_	_	privatized
-15	Ortiz	_	_	NNP	_	16	SUBJ	_	_	claims
-16	claims	_	_	VBZ	_	14	???	_	_	as
-17	0_NULL	_	_	-NONE-	_	16	???	_	_	claims
 
 1	be	_	_	VB	_	0	ROOT	_	_	ROOT
 2	hard	_	_	JJ	_	1	???	_	_	be
@@ -18946,10 +18816,7 @@
 5	carries	_	_	VBZ	_	2	???	_	_	0_NULL
 6	an	_	_	DT	_	7	???	_	_	rate
 7	rate	_	_	NN	_	5	OBJ-DO	_	_	carries
-8	with	_	_	IN	_	5	???	_	_	carries
-9	%	_	_	NN	_	10	SUBJ	_	_	dedicated
-10	dedicated	_	_	VBN	_	8	???	_	_	with
-11	.	_	_	.	_	1	???	_	_	said
+8	.	_	_	.	_	1	???	_	_	said
 
 1	will	_	_	MD	_	0	ROOT	_	_	ROOT
 2	``	_	_	``	_	1	???	_	_	will
@@ -20243,10 +20110,6 @@
 10	support	_	_	VB	_	9	???	_	_	would
 11	a	_	_	DT	_	12	???	_	_	stake
 12	stake	_	_	NN	_	10	OBJ-DO	_	_	support
-13	as	_	_	IN	_	10	???	_	_	support
-14	the	_	_	DT	_	15	???	_	_	pilots
-15	pilots	_	_	NNS	_	16	SUBJ	_	_	want
-16	want	_	_	VBP	_	13	???	_	_	as
 
 1	contest	_	_	VB	_	0	ROOT	_	_	ROOT
 2	the	_	_	DT	_	3	???	_	_	citations
@@ -20982,11 +20845,6 @@
 13	raise	_	_	VB	_	11	???	_	_	do
 14	the	_	_	DT	_	15	???	_	_	deficit
 15	deficit	_	_	NN	_	13	OBJ-DO	_	_	raise
-16	even	_	_	RB	_	17	???	_	_	though
-17	though	_	_	IN	_	13	???	_	_	raise
-18	they	_	_	PRP	_	19	SUBJ	_	_	create
-19	create	_	_	VBP	_	17	???	_	_	though
-20	liabilities	_	_	NNS	_	19	OBJ-DO	_	_	create
 
 1	tell	_	_	VB	_	0	ROOT	_	_	ROOT
 2	salespeople	_	_	NN	_	1	OBJ-DO	_	_	tell
@@ -23361,9 +23219,6 @@
 8	shifting	_	_	VBG	_	7	???	_	_	were
 9	their	_	_	PRP$	_	10	???	_	_	portfolios
 10	portfolios	_	_	NNS	_	8	OBJ-DO	_	_	shifting
-11	while	_	_	IN	_	8	???	_	_	shifting
-12	selling	_	_	VBG	_	11	???	_	_	while
-13	Treasurys	_	_	NNPS	_	12	OBJ-DO	_	_	selling
 
 1	could	_	_	MD	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	could
@@ -23998,10 +23853,6 @@
 9	to	_	_	TO	_	8	???	_	_	recommendation
 10	place	_	_	VB	_	9	???	_	_	to
 11	Lincoln	_	_	NNP	_	10	OBJ-DO	_	_	place
-12	years	_	_	NNS	_	13	???	_	_	before
-13	before	_	_	IN	_	10	???	_	_	place
-14	it	_	_	PRP	_	15	SUBJ	_	_	failed
-15	failed	_	_	VBD	_	13	???	_	_	before
 
 1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
 2	just	_	_	RB	_	1	???	_	_	is
@@ -24800,10 +24651,6 @@
 7	after	_	_	IN	_	1	???	_	_	nose-dived
 8	reporting	_	_	VBG	_	7	???	_	_	after
 9	earnings	_	_	NNS	_	8	OBJ-DO	_	_	reporting
-10	after	_	_	IN	_	8	???	_	_	reporting
-11	the	_	_	DT	_	12	???	_	_	market
-12	market	_	_	NN	_	13	SUBJ	_	_	closed
-13	closed	_	_	VBD	_	10	???	_	_	after
 
 1	looking	_	_	VBG	_	0	ROOT	_	_	ROOT
 2	strong	_	_	JJ	_	1	???	_	_	looking
@@ -25905,14 +25752,7 @@
 4	from	_	_	IN	_	2	???	_	_	Bar
 5	setting	_	_	VBG	_	4	???	_	_	from
 6	levels	_	_	NNS	_	5	OBJ-DO	_	_	setting
-7	once	_	_	IN	_	5	???	_	_	setting
-8	the	_	_	DT	_	9	???	_	_	government
-9	government	_	_	NN	_	10	SUBJ	_	_	has
-10	has	_	_	VBZ	_	7	???	_	_	once
-11	set	_	_	VBN	_	10	???	_	_	has
-12	a	_	_	DT	_	13	???	_	_	standard
-13	standard	_	_	NN	_	11	OBJ-DO	_	_	set
-14	.	_	_	.	_	2	???	_	_	Bar
+7	.	_	_	.	_	2	???	_	_	Bar
 
 1	underwriting	_	_	VBG	_	0	ROOT	_	_	ROOT
 2	securities	_	_	NNS	_	1	OBJ-DO	_	_	underwriting
@@ -26441,8 +26281,8 @@
 
 1	jump	_	_	VB	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	jump
-3	to	_	_	TO	_	1	???	_	_	jump
-4	fraud	_	_	NN	_	3	???	_	_	to
+3	from	_	_	IN	_	1	???	_	_	jump
+4	arson	_	_	NN	_	3	???	_	_	from
 5	,	_	_	,	_	1	???	_	_	jump
 6	without	_	_	IN	_	1	???	_	_	jump
 7	missing	_	_	VBG	_	6	???	_	_	without
@@ -28123,12 +27963,6 @@
 4	,	_	_	,	_	5	???	_	_	held
 5	held	_	_	VBD	_	0	ROOT	_	_	ROOT
 6	back	_	_	RP	_	5	???	_	_	held
-7	until	_	_	IN	_	5	???	_	_	held
-8	the	_	_	DT	_	9	???	_	_	futures
-9	futures	_	_	NNS	_	10	SUBJ	_	_	hit
-10	hit	_	_	VBD	_	7	???	_	_	until
-11	the	_	_	DT	_	12	???	_	_	limit
-12	limit	_	_	NN	_	10	OBJ-DO	_	_	hit
 
 1	haughty	_	_	JJ	_	0	ROOT	_	_	ROOT
 2	,	_	_	,	_	1	???	_	_	haughty
@@ -28483,10 +28317,6 @@
 14	must	_	_	MD	_	1	???	_	_	abide
 15	wear	_	_	VB	_	14	???	_	_	must
 16	ties	_	_	NNS	_	15	OBJ-DO	_	_	wear
-17	when	_	_	WRB	_	15	???	_	_	wear
-18	on	_	_	IN	_	17	???	_	_	when
-19	the	_	_	DT	_	20	???	_	_	road
-20	road	_	_	NN	_	18	???	_	_	on
 
 1	use	_	_	VB	_	0	ROOT	_	_	ROOT
 2	-LCB-	_	_	-LRB-	_	1	???	_	_	use
@@ -28804,11 +28634,6 @@
 4	wall	_	_	NN	_	2	???	_	_	along
 5	,	_	_	,	_	1	???	_	_	runs
 6	exposed	_	_	VBN	_	1	???	_	_	runs
-7	when	_	_	WRB	_	6	???	_	_	exposed
-8	the	_	_	DT	_	9	???	_	_	house
-9	house	_	_	NN	_	10	SUBJ	_	_	lurched
-10	lurched	_	_	VBD	_	7	???	_	_	when
-11	feet	_	_	NNS	_	10	OBJ-DO	_	_	lurched
 
 1	becoming	_	_	VBG	_	0	ROOT	_	_	ROOT
 2	unraveled	_	_	JJ	_	1	???	_	_	becoming
@@ -28847,24 +28672,19 @@
 3	presented	_	_	VBN	_	2	???	_	_	be
 4	;	_	_	:	_	1	???	_	_	shall
 5	and	_	_	CC	_	1	???	_	_	shall
-6	before	_	_	IN	_	11	???	_	_	shall
-7	the	_	_	DT	_	8	SUBJ	_	_	shall
-8	shall	_	_	MD	_	6	???	_	_	before
-9	take	_	_	VB	_	8	???	_	_	shall
-10	effect	_	_	NN	_	9	OBJ-DO	_	_	take
+6	shall	_	_	MD	_	1	???	_	_	shall
+7	be	_	_	VB	_	6	???	_	_	shall
+8	approved	_	_	VBN	_	7	???	_	_	be
+9	,	_	_	,	_	1	???	_	_	shall
+10	or	_	_	CC	_	1	???	_	_	shall
 11	shall	_	_	MD	_	1	???	_	_	shall
 12	be	_	_	VB	_	11	???	_	_	shall
-13	approved	_	_	VBN	_	12	???	_	_	be
+13	repassed	_	_	VBN	_	12	???	_	_	be
 14	,	_	_	,	_	1	???	_	_	shall
-15	or	_	_	CC	_	1	???	_	_	shall
-16	shall	_	_	MD	_	1	???	_	_	shall
-17	be	_	_	VB	_	16	???	_	_	shall
-18	repassed	_	_	VBN	_	17	???	_	_	be
-19	,	_	_	,	_	1	???	_	_	shall
-20	according	_	_	VBG|IN	_	1	???	_	_	shall
-21	to	_	_	TO	_	20	???	_	_	according
-22	the	_	_	DT	_	23	???	_	_	limitations
-23	limitations	_	_	NNS	_	21	???	_	_	to
+15	according	_	_	VBG|IN	_	1	???	_	_	shall
+16	to	_	_	TO	_	15	???	_	_	according
+17	the	_	_	DT	_	18	???	_	_	limitations
+18	limitations	_	_	NNS	_	16	???	_	_	to
 
 1	bringing	_	_	VBG	_	0	ROOT	_	_	ROOT
 2	the	_	_	DT	_	3	???	_	_	rate
@@ -29436,11 +29256,6 @@
 6	threatening	_	_	VBG	_	1	???	_	_	are
 7	the	_	_	DT	_	8	???	_	_	town
 8	town	_	_	NN	_	6	OBJ-DO	_	_	threatening
-9	which	_	_	WDT	_	10	SUBJ	_	_	would
-10	would	_	_	MD	_	6	???	_	_	threatening
-11	cut	_	_	VB	_	10	???	_	_	would
-12	off	_	_	RP	_	11	???	_	_	cut
-13	capital	_	_	NN	_	11	OBJ-DO	_	_	cut
 
 1	turned	_	_	VBD	_	0	ROOT	_	_	ROOT
 2	out	_	_	RP	_	1	???	_	_	turned
@@ -32175,12 +31990,6 @@
 5	degree	_	_	NN	_	3	???	_	_	to
 6	,	_	_	,	_	1	???	_	_	are
 7	housekeeping	_	_	NN	_	1	???	_	_	are
-8	although	_	_	IN	_	7	???	_	_	housekeeping
-9	some	_	_	DT	_	10	SUBJ	_	_	may
-10	may	_	_	MD	_	8	???	_	_	although
-11	generate	_	_	VB	_	10	???	_	_	may
-12	some	_	_	DT	_	13	???	_	_	disagreement
-13	disagreement	_	_	NN	_	11	OBJ-DO	_	_	generate
 
 1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
 2	n't	_	_	RB	_	1	???	_	_	is
@@ -33062,10 +32871,6 @@
 8	to	_	_	TO	_	1	???	_	_	made
 9	put	_	_	VB	_	8	???	_	_	to
 10	Noriega	_	_	NNP	_	9	OBJ-DO	_	_	put
-11	until	_	_	IN	_	9	???	_	_	put
-12	Nicaragua	_	_	NNP	_	13	SUBJ	_	_	was
-13	was	_	_	VBD	_	11	???	_	_	until
-14	settled	_	_	VBN	_	13	???	_	_	was
 
 1	is	_	_	VBZ	_	0	ROOT	_	_	ROOT
 2	not	_	_	RB	_	1	???	_	_	is
@@ -33386,11 +33191,6 @@
 17	suffered	_	_	VBN	_	16	???	_	_	had
 18	the	_	_	DT	_	19	???	_	_	fate
 19	fate	_	_	NN	_	17	OBJ-DO	_	_	suffered
-20	when	_	_	WRB	_	17	???	_	_	suffered
-21	she	_	_	PRP	_	22	SUBJ	_	_	was
-22	was	_	_	VBD	_	20	???	_	_	when
-23	a	_	_	DT	_	24	???	_	_	baby
-24	baby	_	_	NN	_	22	OBJ-DO	_	_	was
 
 1	resolved	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	``	_	_	``	_	1	???	_	_	resolved
@@ -33724,9 +33524,6 @@
 11	as	_	_	IN	_	1	???	_	_	raised
 12	they	_	_	PRP	_	13	SUBJ	_	_	were
 13	were	_	_	VBD	_	11	???	_	_	as
-15	Quayle	_	_	NNP	_	16	SUBJ	_	_	voiced
-16	voiced	_	_	VBD	_	14	???	_	_	when
-17	sentiments	_	_	NNS	_	16	OBJ-DO	_	_	voiced
 
 1	resigned	_	_	VBD	_	0	ROOT	_	_	ROOT
 2	as	_	_	IN	_	1	???	_	_	resigned
@@ -34648,10 +34445,6 @@
 5	,	_	_	,	_	6	???	_	_	resume
 6	resume	_	_	VB	_	0	ROOT	_	_	ROOT
 7	service	_	_	NN	_	6	OBJ-DO	_	_	resume
-8	until	_	_	IN	_	6	???	_	_	resume
-9	power	_	_	NN	_	10	SUBJ	_	_	is
-10	is	_	_	VBZ	_	8	???	_	_	until
-11	restored	_	_	VBN	_	10	???	_	_	is
 
 1	cuts	_	_	VBZ	_	0	ROOT	_	_	ROOT
 2	back	_	_	RB	_	1	???	_	_	cuts
@@ -34968,17 +34761,13 @@
 
 1	be	_	_	VB	_	0	ROOT	_	_	ROOT
 2	received	_	_	VBN	_	1	???	_	_	be
-3	before	_	_	IN	_	2	???	_	_	received
-4	the	_	_	DT	_	5	???	_	_	option
-5	option	_	_	NN	_	6	SUBJ	_	_	expires
-6	expires	_	_	VBZ	_	3	???	_	_	before
-7	and	_	_	CC	_	1	???	_	_	be
-8	,	_	_	,	_	1	???	_	_	be
-9	thus	_	_	RB	_	1	???	_	_	be
-10	,	_	_	,	_	1	???	_	_	be
-11	reduce	_	_	VB	_	1	???	_	_	be
-12	the	_	_	DT	_	13	???	_	_	cost
-13	cost	_	_	NN	_	11	OBJ-DO	_	_	reduce
+3	and	_	_	CC	_	1	???	_	_	be
+4	,	_	_	,	_	1	???	_	_	be
+5	thus	_	_	RB	_	1	???	_	_	be
+6	,	_	_	,	_	1	???	_	_	be
+7	reduce	_	_	VB	_	1	???	_	_	be
+8	the	_	_	DT	_	9	???	_	_	cost
+9	cost	_	_	NN	_	7	OBJ-DO	_	_	reduce
 
 1	quoted	_	_	VBN	_	0	ROOT	_	_	ROOT
 2	late	_	_	RB	_	1	???	_	_	quoted

@@ -1,0 +1,30 @@
+(WHPP
+  (IN under)
+  (WHNP
+    (WDT which)))
+
+(WHPP
+  (TO to)
+  (WHNP
+    (WDT which)))
+
+(WHPP
+  (-NONE- 0_NULL))
+
+(WHPP
+  (IN for)
+  (SBAR
+    (S
+      (NP-SBJ
+        (WHNP
+          (WP what)))
+      (VP
+        (VBZ looks)))))
+
+(WHPP
+  (IN of)
+  (NP
+    (WHNP
+      (WP$ whose)
+      (NNS programs))))
+

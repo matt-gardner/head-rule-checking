@@ -18,17 +18,15 @@
     (VP
       (VBG causing)
       (NP
-        (NP
-          (NNS symptoms))))))
+        (NNS symptoms)))))
 
 (PP
   (-NONE- *RNR*-1))
 
 (PP
-  (VBG including)
+  (VBG|IN including)
   (NP
-    (NP
-      (CD three))))
+    (CD three)))
 
 (PP-PRD
   (IN up)
@@ -43,16 +41,14 @@
     (JJR more))
   (IN like)
   (NP
-    (NP
-      (NN royalty))))
+    (NN royalty)))
 
 (PP
-  (VBG according)
+  (VBG|IN according)
   (PP
     (TO to)
     (NP
-      (NP
-        (NNP Mossman)))))
+      (NNP Mossman))))
 
 (PP
   (IN on)
@@ -71,19 +67,17 @@
     (NN crocidolite)))
 
 (PP
-  (VBN based)
+  (VBN|IN based)
   (PP
     (IN on)
     (NP
-      (NP
-        (NNS collections)))))
+      (NNS collections))))
 
 (PP-PRP
   (IN because)
   (IN of)
   (NP
-    (NP
-      (NNS rises))))
+    (NNS rises)))
 
 (PP-TMP
   (PP-DIR
@@ -106,16 +100,17 @@
         (NP
           (PRP$ their)
           (NNS authors)))))
-  (CC and)
-  (PP
-    (IN by)
-    (S-NOM
-      (NP-SBJ
-        (-NONE- *-1))
-      (VP
-        (VBG deterring)
-        (NP-2
-          (NNS firms))))))
+  (CONJPP
+    (CC and)
+    (PP
+      (IN by)
+      (S-NOM
+        (NP-SBJ
+          (-NONE- *-1))
+        (VP
+          (VBG deterring)
+          (NP
+            (NNS firms)))))))
 
 (PP-CLR
   (IN about)
@@ -132,22 +127,22 @@
         (VP
           (VBD heard))))))
 
-(PP-3
+(PP
   (RB rather)
   (IN than)
   (NP
-    (NP
-      (DT the)
-      (-NONE- *U*))))
+    (DT the)
+    (-NONE- *U*)))
 
 (PP-CLR
   (IN as)
   (ADJP
     (ADJP
       (JJ cocky))
-    (CC and)
-    (ADJP
-      (JJ yielding))))
+    (CONJPP
+      (CC and)
+      (ADJP
+        (JJ yielding)))))
 
 (PP
   (IN from)
@@ -169,7 +164,7 @@
       (NP
         (NNS prices)))))
 
-(PP-2
+(PP
   (IN on)
   (`` ``)
   (NP
@@ -226,8 +221,7 @@
   (IN because)
   (IN of)
   (NP
-    (NP
-      (NNS worries))))
+    (NNS worries)))
 
 (PP-CLR
   (IN in)
@@ -244,15 +238,16 @@
         (NNS marks))
       (ADVP
         (RB up))))
-  (, ,)
-  (CC and)
-  (PP
-    (IN at)
-    (NP
+  (CONJPP
+    (, ,)
+    (CC and)
+    (PP
+      (IN at)
       (NP
-        (NNS yen))
-      (ADVP
-        (RB up)))))
+        (NP
+          (NNS yen))
+        (ADVP
+          (RB up))))))
 
 (PP-DIR
   (TO to)
@@ -268,8 +263,7 @@
   (PP
     (IN of)
     (NP
-      (NP
-        (NN concern)))))
+      (NN concern))))
 
 (PP
   (ADVP
@@ -279,7 +273,7 @@
     (NNS institutions)))
 
 (PP
-  (VBN given)
+  (VBN|IN given)
   (NP
     (DT the)
     (NN picture)))
@@ -290,8 +284,7 @@
 (PP
   (IN from)
   (NP
-    (NP
-      (-NONE- *U*)))
+    (-NONE- *U*))
   (, ,)
   (ADVP-TMP
     (NP
@@ -307,7 +300,7 @@
 (PP
   (TO to)
   (SBAR
-    (WHADVP-2
+    (WHADVP
       (WRB where))
     (S
       (NP-SBJ
@@ -326,8 +319,7 @@
       (RB high))
     (IN above)
     (NP
-      (NP
-        (NNS reserves)))))
+      (NNS reserves))))
 
 (PP-LOC
   (IN in)
@@ -357,7 +349,7 @@
   (IN like)
   (`` `)
   (S
-    (NP-SBJ-1
+    (NP-SBJ
       (PRP You))
     (VP
       (VBP want))))
@@ -365,8 +357,7 @@
 (PP
   (JJ unlike)
   (NP
-    (NP
-      (NNS types))))
+    (NNS types)))
 
 (PP
   (IN with)
@@ -403,7 +394,7 @@
   (IN except)
   (UCP
     (SBAR-TMP
-      (WHADVP-3
+      (WHADVP
         (WRB where))
       (S
         (NP-SBJ
@@ -413,17 +404,18 @@
           (VBZ orders)
           (NP
             (PRP it)))))
-    (CC or)
-    (S-PRP
-      (NP-SBJ
-        (-NONE- *-1))
-      (VP
-        (TO to)
+    (CONJPP
+      (CC or)
+      (S-PRP
+        (NP-SBJ
+          (-NONE- *-1))
         (VP
-          (VB prevent)
-          (NP-4
-            (DT the)
-            (NN client)))))))
+          (TO to)
+          (VP
+            (VB prevent)
+            (NP
+              (DT the)
+              (NN client))))))))
 
 (PP-TTL
   (NNP In)
@@ -456,16 +448,18 @@
     (IN of)
     (NP
       (NNS railroads)))
-  (, ,)
-  (PP
-    (IN of)
-    (NP
-      (NNS relations)))
-  (CC and)
-  (PP
-    (IN of)
-    (NP
-      (NN building))))
+  (CONJPP
+    (, ,)
+    (PP
+      (IN of)
+      (NP
+        (NNS relations)))
+    (CONJPP
+      (CC and)
+      (PP
+        (IN of)
+        (NP
+          (NN building))))))
 
 (PP-CLR
   (PP
@@ -488,9 +482,9 @@
   (: :))
 
 (PP
-  (VBN provided)
+  (VBN|IN provided)
   (SBAR
-    (-NONE- 0)
+    (-NONE- 0_NULL)
     (S
       (NP-SBJ
         (PRP they))
@@ -512,17 +506,15 @@
         (NNS things)))
     (, ,))
   (NP
-    (NP
-      (NNS cars))))
+    (NNS cars)))
 
 (PP-PRP
   (JJ due)
   (PP
     (TO to)
     (NP
-      (NP
-        (PRP$ its)
-        (NN loss)))))
+      (PRP$ its)
+      (NN loss))))
 
 (PP-CLR
   (IN as)
@@ -534,15 +526,13 @@
   (IN into)
   ('' '')
   (NP
-    (NP
-      (NNS details))))
+    (NNS details)))
 
 (PP-CLR
   (TO to)
   (`` ``)
   (NP
-    (NP
-      (NNS members))))
+    (NNS members)))
 
 (PP
   (JJ such)
@@ -551,10 +541,9 @@
     (NP-SBJ
       (NNS politicians))
     (VP
-      (VP
-        (VBG accepting)
-        (NP
-          (NNS gifts))))))
+      (VBG accepting)
+      (NP
+        (NNS gifts)))))
 
 (PP
   (IN In)
@@ -565,18 +554,16 @@
       (VP
         (VBG investing)))
     (NP
-      (NP
-        (DT a)
-        (NN role))))
+      (DT a)
+      (NN role)))
   (, ,))
 
 (PP-LOC-CLR
   (PP
     (IN in)
     (NP
-      (NP
-        (DT a)
-        (NN suit))))
+      (DT a)
+      (NN suit)))
   (, ,)
   (RB not)
   (PP
@@ -590,12 +577,11 @@
   (PP
     (IN as)
     (NP
-      (NP
-        (CD one))))
-  (CC and)
-  (PP
-    (IN as)
-    (NP
+      (CD one)))
+  (CONJPP
+    (CC and)
+    (PP
+      (IN as)
       (NP
         (DT a)
         (NN symbol)))))
@@ -623,9 +609,8 @@
   (PP
     (IN at)
     (NP
-      (NP
-        (DT the)
-        (NN time))))
+      (DT the)
+      (NN time)))
   (NP-1
     (DT the)
     (NNS partners)))
@@ -658,7 +643,7 @@
       (-NONE- *-1))
     (VP
       (VBG sentencing)
-      (NP-2
+      (NP
         (DT an)
         (NN defendant)))))
 
@@ -673,23 +658,20 @@
   (PP
     (TO to)
     (NP
-      (NP
-        (NN war))))
+      (NN war)))
   (, ,)
   (CC and)
   (RB so)
   (PP
     (TO to)
     (NP
-      (NP
-        (DT the)
-        (NN erosion)))))
+      (DT the)
+      (NN erosion))))
 
 (PP-DIR
   (IN from)
   (NP
-    (NP
-      (-NONE- *U*)))
+    (-NONE- *U*))
   (, ,)
   (PP-TMP
     (IN in)
@@ -698,7 +680,7 @@
       (NN period))))
 
 (PP
-  (VBG including)
+  (VBG|IN including)
   (S-NOM
     (NP-SBJ
       (-NONE- *))
@@ -731,8 +713,7 @@
   (PP
     (IN for)
     (NP
-      (NP
-        (NNS hundreds)))))
+      (NNS hundreds))))
 
 (PP
   (PP
@@ -752,9 +733,8 @@
   (RB just)
   (TO to)
   (NP
-    (NP
-      (DT the)
-      (NN north))))
+    (DT the)
+    (NN north)))
 
 (PP-DIR
   (TO to)
@@ -773,9 +753,8 @@
   (PP
     (IN for)
     (NP
-      (NP
-        (DT a)
-        (NN reduction)))))
+      (DT a)
+      (NN reduction))))
 
 (PP
   (RB as)
@@ -784,32 +763,29 @@
   (NP
     (NNS cards)))
 
-(PP-3
+(PP
   (IN as)
   (VP
     (TO to)
     (VP
       (VB get)
       (NP
-        (NP
-          (DT a)
-          (NN time))))))
+        (DT a)
+        (NN time)))))
 
 (PP-CLR
   (RB not)
   (PP
     (IN as)
     (NP
-      (NP
-        (DT a)
-        (NN computer))))
+      (DT a)
+      (NN computer)))
   (, ,)
   (CC but)
   (PP
     (IN as)
     (NP
-      (NP
-        (NN part)))))
+      (NN part))))
 
 (PP
   (ADVP
@@ -851,18 +827,18 @@
     (IN for)
     (NP
       (NNS historians)))
-  (: --)
-  (CC and)
-  (PP
-    (IN for)
-    (NP
-      (NNS citizens))))
+  (CONJPP
+    (: --)
+    (CC and)
+    (PP
+      (IN for)
+      (NP
+        (NNS citizens)))))
 
 (PP-DIR
   (IN from)
   (NP
-    (NP
-      (-NONE- *U*)))
+    (-NONE- *U*))
   (, ,)
   (NP-TMP
     (DT a)
@@ -884,8 +860,7 @@
   (PP
     (IN with)
     (NP
-      (NP
-        (NNS bureaucrats)))))
+      (NNS bureaucrats))))
 
 (PP-LOC
   (PP
@@ -942,8 +917,7 @@
   (CC and)
   (IN from)
   (NP
-    (NP
-      (NN Highway))))
+    (NN Highway)))
 
 (PP
   (RB so)
@@ -960,16 +934,13 @@
   (PP
     (IN between)
     (NP
-      (NP
-        (-NONE- *U*))))
+      (-NONE- *U*)))
   (, ,)
   (CC or)
   (PP
     (IN between)
     (NP
-      (NP
-        (NP
-          (NNS cents)))))
+      (NNS cents)))
   (, ,))
 
 (PP
@@ -985,9 +956,8 @@
   (PP
     (IN below)
     (NP
-      (NP
-        ($ $)
-        (-NONE- *U*)))))
+      ($ $)
+      (-NONE- *U*))))
 
 (PP
   (TO to)
@@ -1000,9 +970,8 @@
   (PP
     (IN on)
     (NP
-      (NP
-        (DT the)
-        (NN quality)))))
+      (DT the)
+      (NN quality))))
 
 (PP-PRD
   (PP
@@ -1019,7 +988,7 @@
       (VP
         (VBP think)
         (SBAR
-          (-NONE- 0)
+          (-NONE- 0_NULL)
           (S
             (-NONE- *?*)))))))
 
@@ -1034,9 +1003,8 @@
   (IN because)
   (IN of)
   (NP
-    (NP
-      (DT a)
-      (NN feud))))
+    (DT a)
+    (NN feud)))
 
 (PP
   (IN At)
@@ -1050,7 +1018,7 @@
     (DT these)
     (NNS investigations)))
 
-(PP-LOC-1
+(PP-LOC
   (PP
     (IN above)
     (NP
@@ -1062,8 +1030,7 @@
   (PP
     (IN above)
     (NP
-      (NP
-        (NNS forecasts)))))
+      (NNS forecasts))))
 
 (PP-LOC
   (IN in)
@@ -1078,9 +1045,8 @@
   (IN of)
   (: ...)
   (NP
-    (NP
-      (DT a)
-      (NN garden))))
+    (DT a)
+    (NN garden)))
 
 (PP
   (RB not)
@@ -1095,15 +1061,14 @@
     (RB normally)))
 
 (PP
-  (VBG including)
+  (VBG|IN including)
   (PRN
     (, ,)
     (ADVP
       (RB perhaps))
     (, ,))
   (NP
-    (NP
-      (NN someone))))
+    (NN someone)))
 
 (PP-LOC
   (PP
@@ -1115,14 +1080,13 @@
   (PP
     (IN over)
     (NP
-      (NP
-        (DT the)
-        (NN legitimacy)))))
+      (DT the)
+      (NN legitimacy))))
 
 (PP
-  (VBG including)
+  (VBG|IN including)
   (SBAR-NOM
-    (WHADVP-1
+    (WHADVP
       (WRB how))
     (S
       (NP-SBJ
@@ -1134,11 +1098,10 @@
           (NN market))))))
 
 (PP
-  (VBN based)
+  (VBN|IN based)
   (IN on)
   (NP
-    (NP
-      (NNS levels))))
+    (NNS levels)))
 
 (PP-LOC
   (IN Under)
@@ -1225,8 +1188,7 @@
       (RB only))
     (IN for)
     (NP
-      (NP
-        (NN time)))))
+      (NN time))))
 
 (PP-TMP
   (PP
@@ -1246,7 +1208,7 @@
   (IN as)
   (SBAR-NOM
     (SBAR
-      (WHADVP-2
+      (WHADVP
         (WRB how))
       (S
         (NP-SBJ
@@ -1255,21 +1217,21 @@
           (TO to)
           (VP
             (VB react)))))
-    (CC or)
-    (SBAR
-      (WHNP-1
-        (WP what))
-      (S
-        (NP-SBJ
-          (-NONE- *T*-1))
-        (VP
-          (MD would)
+    (CONJPP
+      (CC or)
+      (SBAR
+        (S
+          (NP-SBJ
+            (WHNP
+              (WP what)))
           (VP
-            (VB be)
-            (NP-PRD
-              (NP
-                (DT the)
-                (NN number)))))))))
+            (MD would)
+            (VP
+              (VB be)
+              (NP-PRD
+                (NP
+                  (DT the)
+                  (NN number))))))))))
 
 (PP
   (TO to))
@@ -1283,8 +1245,7 @@
   (CC either)
   (IN through)
   (NP
-    (NP
-      (NNS borrowings))))
+    (NNS borrowings)))
 
 (PP-TMP
   (IN in)
@@ -1322,29 +1283,30 @@
     (IN for)
     (NP
       (NNS apartments)))
-  (, ,)
-  (PP
-    (IN for)
-    (NP
+  (CONJPP
+    (, ,)
+    (PP
+      (IN for)
       (NP
-        (NNS cottages))))
-  (, ,)
-  (PP
-    (IN for)
-    (NP
-      (NN home-sharing)))
-  (CC or)
-  (PP
-    (IN for)
-    (NP
-      (NNS transactions))))
+        (NNS cottages)))
+    (CONJPP
+      (, ,)
+      (PP
+        (IN for)
+        (NP
+          (NN home-sharing)))
+      (CONJPP
+        (CC or)
+        (PP
+          (IN for)
+          (NP
+            (NNS transactions)))))))
 
 (PP
   (TO to)
   (NP
-    (NP
-      (DT the)
-      (NNP Delicious)))
+    (DT the)
+    (NNP Delicious))
   (, ,))
 
 (PP-CLR
@@ -1388,7 +1350,7 @@
       (VP
         (VBD said)
         (SBAR
-          (-NONE- 0)
+          (-NONE- 0_NULL)
           (S
             (-NONE- *T*-3)))))
     (, ,))
@@ -1403,7 +1365,7 @@
 (PP-CLR
   (RP on)
   (S-NOM
-    (NP-SBJ-1
+    (NP-SBJ
       (-NONE- *-5))
     (VP
       (VBG jumping))))
@@ -1413,7 +1375,7 @@
   (NP
     (CD 408))
   (SBAR-TMP
-    (WHADVP-1
+    (WHADVP
       (WRB when))
     (S
       (NP-SBJ
@@ -1446,11 +1408,12 @@
       (IN on)
       (NP
         (NNP Tuesday)))
-    (CC and)
-    (PP
-      (IN on)
-      (NP
-        (NNP Oct.)))))
+    (CONJPP
+      (CC and)
+      (PP
+        (IN on)
+        (NP
+          (NNP Oct.))))))
 
 (PP
   (ADVP
@@ -1460,9 +1423,9 @@
     (JJ important)))
 
 (PP
-  (VBD provided)
+  (VBD|IN provided)
   (SBAR
-    (-NONE- 0)
+    (-NONE- 0_NULL)
     (S
       (NP-SBJ
         (NP
@@ -1479,8 +1442,7 @@
   (`` ``)
   (IN for)
   (NP
-    (NP
-      (NNS items))))
+    (NNS items)))
 
 (PP
   (IN of)
@@ -1522,8 +1484,6 @@
     (VP
       (VBG providing)
       (SBAR
-        (WHNP-1
-          (WP what))
         (S
           (NP-SBJ
             (PRP$ his)
@@ -1531,7 +1491,8 @@
           (VP
             (VBD described)
             (NP
-              (-NONE- *T*-1)))))))
+              (WHNP
+                (WP what))))))))
   (. .))
 
 (PP-DIR
@@ -1539,11 +1500,10 @@
     (RB much))
   (IN beyond)
   (SBAR-NOM
-    (WHNP-1
-      (WP what))
     (S
       (NP-SBJ-131
-        (-NONE- *T*-1))
+        (WHNP
+          (WP what)))
       (VP
         (VBD had)
         (VP
@@ -1555,10 +1515,11 @@
 
 (PP
   (IN on)
-  (CC either)
-  (NP
-    (DT the)
-    (NN situation)))
+  (CONJPP
+    (CC either)
+    (NP
+      (DT the)
+      (NN situation))))
 
 (PP
   (ADVP
@@ -1587,16 +1548,14 @@
   (PP
     (IN for)
     (NP
-      (NP
-        (NNS difficulties)))))
+      (NNS difficulties))))
 
 (PP
   (JJ such)
   (IN as)
   (`` ``)
   (NP
-    (NP
-      (NNS things))))
+    (NNS things)))
 
 (PP
   (NP=2
@@ -1644,18 +1603,16 @@
       (IN in)
       (`` ``)
       (NP
-        (NP
-          (DT a)
-          (NN destiny))))))
+        (DT a)
+        (NN destiny)))))
 
 (PP-CLR
   (RB not)
   (PP
     (IN for)
     (NP
-      (NP
-        (DT the)
-        (NNS interests))))
+      (DT the)
+      (NNS interests)))
   (CC but)
   (ADVP
     (RB instead))
@@ -1687,15 +1644,13 @@
       (RB well))
     (IN below)
     (NP
-      (NP
-        (NN rate))))
+      (NN rate)))
   (, ,)
   (CC but)
   (PP
     (IN in)
     (NP
-      (NP
-        (NN line))))
+      (NN line)))
   (PP-TMP
     (IN for)
     (NP
@@ -1720,9 +1675,8 @@
   (PP
     (IN for)
     (NP
-      (NP
-        (PRP$ my)
-        (NN collection)))))
+      (PRP$ my)
+      (NN collection))))
 
 (PP-LOC
   (CONJP
@@ -1745,41 +1699,38 @@
   (IN on)
   (`` ``)
   (SBAR-TTL
-    (WHNP-1
-      (WP What))
     (S
       (NP-SBJ
         (NN News))
       (VP
+        (VBZ Does)
+        (RB n't)
         (VP
-          (VBZ Does)
-          (RB n't)
-          (VP
-            (VB Report)
-            (NP
-              (-NONE- *T*-1)))))))
+          (VB Report)
+          (NP
+            (WHNP
+              (WP What)))))))
   ('' ''))
 
 (PP-CLR
   (PP
     (TO to)
     (NP
+      (DT the)
+      (NN dollar)))
+  (CONJPP
+    (: ;)
+    (PP
+      (TO to)
       (NP
-        (DT the)
-        (NN dollar))))
-  (: ;)
-  (PP
-    (TO to)
-    (NP
-      (NP
-        (NN buying))))
-  (, ,)
-  (CC and)
-  (PP
-    (TO to)
-    (NP
-      (NP
-        (NNS expenses)))))
+        (NN buying)))
+    (CONJPP
+      (, ,)
+      (CC and)
+      (PP
+        (TO to)
+        (NP
+          (NNS expenses))))))
 
 (PP
   (RB rather)
@@ -1800,9 +1751,8 @@
   (JJR more)
   (IN like)
   (NP
-    (NP
-      (DT an)
-      (NN illustration))))
+    (DT an)
+    (NN illustration)))
 
 (PP
   (ADVP-TMP
@@ -1852,16 +1802,14 @@
   (PP
     (IN from)
     (NP
-      (NP
-        ($ $)
-        (-NONE- *U*))))
+      ($ $)
+      (-NONE- *U*)))
   (PP
     (TO to)
     (NP
-      (NP
-        ($ $)
-        (-NONE- *U*))))
-  (NP-ADV-1
+      ($ $)
+      (-NONE- *U*)))
+  (NP-ADV
     (DT a)
     (NN bottle)))
 
@@ -1887,8 +1835,7 @@
   (PP
     (IN for)
     (NP
-      (NP
-        (NN resale)))))
+      (NN resale))))
 
 (PP-PRP
   (ADVP
@@ -1896,18 +1843,17 @@
   (IN because)
   (IN of)
   (SBAR-NOM
-    (WHNP-1
-      (WP what))
     (S
       (NP-SBJ
         (PRP he))
       (VP
         (VBZ believes)
         (SBAR
-          (-NONE- 0)
+          (-NONE- 0_NULL)
           (S
             (NP-SBJ
-              (-NONE- *T*-1))
+              (WHNP
+                (WP what)))
             (VP
               (MD will)
               (VP
@@ -1945,9 +1891,8 @@
   (PP
     (TO To)
     (NP
-      (NP
-        (DT the)
-        (NN dismay))))
+      (DT the)
+      (NN dismay)))
   (: --)
   (JJ and)
   (ADVP
@@ -1955,21 +1900,19 @@
   (PP
     (IN as)
     (NP
-      (NP
-        (DT a)
-        (NN measure))))
+      (DT a)
+      (NN measure)))
   (: --))
 
 (PP
-  (VB give)
+  (VB|IN give)
   (CC or)
   (VB take)
   (NP
-    (NP
-      (NNS pizzas-with-everything))))
+    (NNS pizzas-with-everything)))
 
 (PP
-  (VBN based)
+  (VBN|IN based)
   (PP
     (IN in)
     (NP
@@ -1977,9 +1920,7 @@
   (PP
     (IN on)
     (NP
-      (NP
-        (NP
-          (NNS sales))))))
+      (NNS sales))))
 
 (PP
   (IN of)
@@ -1999,29 +1940,25 @@
   (PP
     (IN at)
     (NP
-      (NP
-        (DT a)
-        (NN rate))))
+      (DT a)
+      (NN rate)))
   (, ,)
   (CC and)
   (PP
     (IN in)
     (NP
-      (NP
-        (DT a)
-        (NN direction))))
+      (DT a)
+      (NN direction)))
   (, ,)
-  (SBAR-3
-    (WHNP-1
-      (WDT which))
+  (SBAR
     (S
       (NP-SBJ
-        (-NONE- *T*-1))
+        (WHNP
+          (WDT which)))
       (VP
         (VBP leave)
         (NP
-          (NP
-            (NN commentary)))))))
+          (NN commentary))))))
 
 (PP
   (-LRB- -LCB-)
@@ -2049,12 +1986,13 @@
   (UCP
     (ADJP
       (JJ fair)
+      (CONJPP
+        (CC and)
+        (JJ generous)))
+    (CONJPP
       (CC and)
-      (JJ generous))
-    (CC and)
-    (PP
-      (IN in)
-      (NP
+      (PP
+        (IN in)
         (NP
           (DT the)
           (NNS interests))))))
@@ -2073,9 +2011,8 @@
     (VB say))
   (, ,)
   (NP
-    (NP
-      (PRP$ its)
-      (NNS loans))))
+    (PRP$ its)
+    (NNS loans)))
 
 (PP-CLR
   (PP
@@ -2083,8 +2020,9 @@
     (NP
       (UCP
         (JJ federal)
-        (CC and)
-        (NN state))
+        (CONJPP
+          (CC and)
+          (NN state)))
       (NNS agencies)))
   (RB as)
   (RB well)
@@ -2104,9 +2042,8 @@
   (IN because)
   (IN of)
   (NP
-    (NP
-      (DT a)
-      (NN lack))))
+    (DT a)
+    (NN lack)))
 
 (PP-PRD
   (PP
@@ -2119,7 +2056,7 @@
   ('' '')
   (CC and)
   (PP
-    (VBN based)
+    (VBN|IN based)
     (PP
       (IN on)
       (NP
@@ -2154,9 +2091,8 @@
   (IN because)
   (IN of)
   (NP
-    (NP
-      (PRP$ their)
-      (NNS positions)))
+    (PRP$ their)
+    (NNS positions))
   (, ,))
 
 (PP-DIR
@@ -2172,9 +2108,8 @@
   (PP
     (TO to)
     (NP
-      (NP
-        (DT a)
-        (NN transfer))))
+      (DT a)
+      (NN transfer)))
   (, ,)
   (PP
     (TO to)
@@ -2184,26 +2119,21 @@
 
 (PP-PRP
   (ADVP
-    (ADVP
-      (RB probably)
-      (RBR less)))
+    (RB probably)
+    (RBR less))
   (RB because)
   (IN of)
   (NP
-    (NP
-      (PRP$ his)
-      (NN program))))
+    (PRP$ his)
+    (NN program)))
 
 (PP
   (IN for)
   (NP
-    (NP
-      (NP
-        (NN aircraft))))
+    (NN aircraft))
   (CC and)
   (NP
-    (NP
-      (NNS parts))))
+    (NNS parts)))
 
 (PP
   (ADVP
@@ -2212,16 +2142,14 @@
   (PP
     (IN with)
     (NP
-      (NP
-        (DT the)
-        (NNS sums)))))
+      (DT the)
+      (NNS sums))))
 
 (PP
   (PP
     (IN of)
     (NP
-      (NP
-        (NNS laws))))
+      (NNS laws)))
   (RB not)
   (PP
     (IN of)
@@ -2236,7 +2164,7 @@
         (DT the)
         (NN office))
       (SBAR-LOC
-        (WHADVP-1
+        (WHADVP
           (WRB where))
         (S
           (NP-SBJ-59
@@ -2261,36 +2189,34 @@
     (PP
       (IN in)
       (NP
-        (NP
-          (DT the)
-          (NN dormitory))))))
+        (DT the)
+        (NN dormitory)))))
 
 (PP
   (PP
     (IN of)
     (NP
+      (DT a)
+      (NN principal)))
+  (CONJPP
+    (: ;)
+    (PP
+      (IN of)
       (NP
-        (DT a)
-        (NN principal))))
-  (: ;)
-  (PP
-    (IN of)
-    (NP
-      (NP
-        (NNS colleagues))))
-  (: ;)
-  (PP
-    (IN of)
-    (NP
-      (NP
-        (NNS parents))))
-  (: ;)
-  (CC and)
-  (PP
-    (IN of)
-    (NP
-      (NP
-        (NNS officials)))))
+        (NNS colleagues)))
+    (CONJPP
+      (: ;)
+      (PP
+        (IN of)
+        (NP
+          (NNS parents)))
+      (CONJPP
+        (: ;)
+        (CC and)
+        (PP
+          (IN of)
+          (NP
+            (NNS officials)))))))
 
 (PP
   (IN in)
@@ -2330,8 +2256,7 @@
   (PP
     (TO to)
     (NP
-      (NP
-        (VBG selling)))))
+      (VBG selling))))
 
 (PP-CLR
   (NP
@@ -2345,7 +2270,7 @@
   (, ,)
   (`` `)
   (SBARQ-NOM
-    (WHADVP-2
+    (WHADVP
       (WRB Why))
     (SQ
       (VBP do)
@@ -2391,14 +2316,13 @@
   (PP
     (TO to)
     (NP
-      (NP
-        (DT the)
-        (NN defense))))
-  (, ,)
-  (CC and)
-  (PP
-    (TO to)
-    (NP
+      (DT the)
+      (NN defense)))
+  (CONJPP
+    (, ,)
+    (CC and)
+    (PP
+      (TO to)
       (NP
         (DT the)
         (NN pursuit)))))
@@ -2441,7 +2365,7 @@
   (SQ
     (`` ``)
     (SBARQ
-      (WHADVP-3
+      (WHADVP
         (WRB How))
       (SQ
         (MD could)
@@ -2453,9 +2377,9 @@
           (VP
             (VBN known)
             (SBAR
-              (-NONE- 0)
+              (-NONE- 0_NULL)
               (S
-                (NP-SBJ-1
+                (NP-SBJ
                   (PRP you))
                 (VP
                   (VBD were)
@@ -2469,37 +2393,33 @@
       (VP
         (VBZ Is)
         (NP-PRD
-          (-NONE- *ICH*-2)))
+          (DT a)
+          (NN company)))
       (NP-SBJ
         (NNP Wang))
       (ADVP-TMP
         (RB still))
-      (NP-PRD-2
-        (DT a)
-        (NN company))
       (. ?))))
 
 (PP
   (IN of)
   (`` ``)
   (SBAR-NOM
-    (WHNP-1
-      (WP who))
     (S
       (NP-SBJ
-        (-NONE- *T*-1))
+        (WHNP
+          (WP who)))
       (VP
         (VBD did)
         (NP
           (WP what))))))
 
 (PP
-  (VBN given)
+  (VBN|IN given)
   (NP
     (NP
-      (NP
-        (DT the)
-        (NN attractiveness)))
+      (DT the)
+      (NN attractiveness))
     (CONJP
       (RB as)
       (RB well)
@@ -2522,8 +2442,7 @@
       (NP
         (NNS sales))
       (NP
-        (NP
-          (NN %))))
+        (NN %)))
     (NP
       (DT this)
       (NN year))))
@@ -2542,22 +2461,18 @@
     (VB say))
   (, ,)
   (NP
-    (NP
-      (NP
-        (NNS workers)))))
+    (NNS workers)))
 
 (PP-CLR
   (PP
     (IN from)
     (NP
-      (NP
-        (NNS agencies))))
+      (NNS agencies)))
   (: ;)
   (PP
     (IN from)
     (NP
-      (NP
-        (NNS agreements))))
+      (NNS agreements)))
   (, ,)
   (CC and)
   (ADVP
@@ -2576,14 +2491,12 @@
   (PP
     (IN of)
     (NP
-      (NP
-        (NNS charlatans))))
+      (NNS charlatans)))
   (, ,)
   (PP
     (IN of)
     (NP
-      (NP
-        (NNS streets)))))
+      (NNS streets))))
 
 (PP
   (IN of)
@@ -2670,17 +2583,15 @@
   (PP
     (IN as)
     (NP
-      (NP
-        (DT a)
-        (NN goal))))
+      (DT a)
+      (NN goal)))
   (CC and)
   (RB not)
   (PP
     (IN as)
     (NP
-      (NP
-        (DT a)
-        (NN basis)))))
+      (DT a)
+      (NN basis))))
 
 (PP
   (DT both)
@@ -2703,15 +2614,13 @@
   (CC and)
   (PP
     (IN at)
-    (NP-2
-      (NP
-        (NN rival))))
+    (NP
+      (NN rival)))
   (PRN
     (PP
       (IN for)
       (NP
-        (NP
-          (NN ineptitude))))))
+        (NN ineptitude)))))
 
 (PP
   (ADVP
@@ -2722,13 +2631,14 @@
       (NP
         (NNS feet))
       (JJ tall))
-    (CC and)
-    (ADJP
-      (NP
-        (NNS feet))
-      (JJ wide))))
+    (CONJPP
+      (CC and)
+      (ADJP
+        (NP
+          (NNS feet))
+        (JJ wide)))))
 
-(PP-2
+(PP
   (ADVP-LOC
     (RB somewhere))
   (IN between)
@@ -2786,8 +2696,7 @@
   (DT both)
   (TO to)
   (NP
-    (NP
-      (NN warming))))
+    (NN warming)))
 
 (PP-PRD
   (PP
@@ -2802,9 +2711,8 @@
   (PP
     (IN as)
     (NP
-      (NP
-        (DT an)
-        (NN agent))))
+      (DT an)
+      (NN agent)))
   (, ,)
   (RB not)
   (PP
@@ -2819,9 +2727,8 @@
   (PP-TTL
     (NNP In)
     (NP
-      (NP
-        (DT the)
-        (NNP Heat)))))
+      (DT the)
+      (NNP Heat))))
 
 (PP
   (PP
@@ -2836,18 +2743,16 @@
   (PP
     (IN for)
     (NP
-      (NP
-        (DT the)
-        (NNS revenues)))))
+      (DT the)
+      (NNS revenues))))
 
 (PP
   (X
     (WP what))
   (IN with)
   (NP
-    (NP
-      (DT the)
-      (NNP War))))
+    (DT the)
+    (NNP War)))
 
 (PP
   (IN by)
@@ -2864,9 +2769,9 @@
         (VP
           (VBN believed)
           (SBAR
-            (-NONE- 0)
+            (-NONE- 0_NULL)
             (S
-              (NP-SBJ-1
+              (NP-SBJ
                 (DT the)
                 (NN government))
               (VP
@@ -2904,7 +2809,7 @@
   ('' ''))
 
 (PP
-  (VBG including)
+  (VBG|IN including)
   (`` ``)
   (NP-TTL
     (NNP Batibot)))
@@ -2916,9 +2821,8 @@
       (NN part)))
   (TO to)
   (NP
-    (NP
-      (DT the)
-      (NN exclusion))))
+    (DT the)
+    (NN exclusion)))
 
 (PP-CLR
   (IN as)
@@ -2942,9 +2846,8 @@
     (RB primarily))
   (TO to)
   (NP
-    (NP
-      (DT a)
-      (NN recovery))))
+    (DT a)
+    (NN recovery)))
 
 (PP
   (ADVP
@@ -2957,7 +2860,7 @@
         (-NONE- *RNR*-2))))
   (CC and)
   (PP
-    (VBG including)
+    (VBG|IN including)
     (NP
       (-NONE- *RNR*-2)))
   (NP-2
@@ -2979,20 +2882,20 @@
   (PP
     (IN for)
     (NP
+      (NN assault)))
+  (CONJPP
+    (, ,)
+    (PP
+      (IN for)
       (NP
-        (NN assault))))
-  (, ,)
-  (PP
-    (IN for)
-    (NP
-      (NP
-        (NN fraud))))
-  (, ,)
-  (CC and)
-  (PP
-    (IN for)
-    (NP
-      (NN extortion))))
+        (NN fraud)))
+    (CONJPP
+      (, ,)
+      (CC and)
+      (PP
+        (IN for)
+        (NP
+          (NN extortion))))))
 
 (PP
   (ADVP-TMP
@@ -3000,18 +2903,16 @@
   (PP-LOC
     (IN in)
     (NP
-      (NP
-        (DT the)
-        (NN current))))
+      (DT the)
+      (NN current)))
   (, ,)
   (ADVP-TMP
     (RB then))
   (PP-LOC
     (IN in)
     (NP
-      (NP
-        (DT the)
-        (NN surf))))
+      (DT the)
+      (NN surf)))
   (, ,)
   (CC and)
   (ADVP-TMP
@@ -3019,9 +2920,8 @@
   (PP-LOC
     (IN in)
     (NP
-      (NP
-        (DT the)
-        (NNS sands)))))
+      (DT the)
+      (NNS sands))))
 
 (PP-CLR
   (IN at)
@@ -3053,19 +2953,15 @@
   (PP
     (IN on)
     (NP
-      (NP
-        (DT a)
-        (NN scale))))
+      (DT a)
+      (NN scale)))
   (CC and)
   (PP
     (IN with)
     (NP
-      (NP
-        (DT a)
-        (NN frequency))))
-  (SBAR-3
-    (WHNP-1
-      (-NONE- 0))
+      (DT a)
+      (NN frequency)))
+  (SBAR
     (S
       (NP-SBJ
         (PRP they))
@@ -3075,7 +2971,8 @@
         (VP
           (VBN seen)
           (NP
-            (-NONE- *T*-1)))))))
+            (WHNP
+              (-NONE- 0_NULL))))))))
 
 (PP-LOC
   (IN In)
@@ -3121,16 +3018,14 @@
   (PP-LOC
     (IN in)
     (NP
-      (NP
-        (NNP Europe))))
+      (NNP Europe)))
   (, ,)
   (CC but)
   (PP-LOC
     (IN on)
     (NP
-      (NP
-        (DT the)
-        (NN horn)))
+      (DT the)
+      (NN horn))
     (ADVP
       (RB well))))
 
@@ -3166,11 +3061,10 @@
   (IN as)
   (`` ``)
   (SBARQ
-    (WHNP-108
-      (WP What))
     (SQ
       (NP-SBJ
-        (-NONE- *T*-108))
+        (WHNP
+          (WP What)))
       (VP
         (VBZ is)
         (NP-PRD
@@ -3213,9 +3107,8 @@
     (RB however))
   (, ,)
   (NP
-    (NP
-      (DT any)
-      (NN assumption))))
+    (DT any)
+    (NN assumption)))
 
 (PP
   (IN By)
@@ -3225,9 +3118,8 @@
     (VP
       (VBG moving)
       (NP
-        (NP
-          (DT the)
-          (NN design)))))
+        (DT the)
+        (NN design))))
   (PRN
     (: --)
     (PP
@@ -3277,7 +3169,7 @@
         (NNS bonds)))))
 
 (PP
-  (VBG Beginning)
+  (VBG|IN Beginning)
   (PP
     (IN in)
     (NP
@@ -3287,14 +3179,13 @@
   (PP
     (IN with)
     (NP
-      (NP
-        (NNP U.S.)))))
+      (NNP U.S.))))
 
 (PP
-  (VB like)
+  (VB|IN like)
   (SBAR
     (SBAR
-      (WHADVP-1
+      (WHADVP
         (WRB how))
       (S
         (NP-SBJ
@@ -3305,17 +3196,18 @@
             (VB keep)
             (NP
               (NNS meringues))))))
-    (CC and)
-    (SBAR
-      (WHADVP-2
-        (WRB how))
-      (S
-        (NP-SBJ
-          (NNS habits))
-        (VP
-          (VBP affect)
-          (NP
-            (NN texture)))))))
+    (CONJPP
+      (CC and)
+      (SBAR
+        (WHADVP
+          (WRB how))
+        (S
+          (NP-SBJ
+            (NNS habits))
+          (VP
+            (VBP affect)
+            (NP
+              (NN texture))))))))
 
 (PP
   (RBR more)
@@ -3351,8 +3243,7 @@
   (IN of)
   (`` ``)
   (NP
-    (NP
-      (NNS questions))))
+    (NNS questions)))
 
 (PP
   (IN than)
@@ -3363,9 +3254,8 @@
   (PP
     (IN at)
     (NP
-      (NP
-        (DT the)
-        (NN time))))
+      (DT the)
+      (NN time)))
   (CC or)
   (PRN
     (, ,)
@@ -3377,10 +3267,8 @@
   (PP
     (IN at)
     (NP
-      (NP
-        (NP
-          (DT the)
-          (NN proceeding))))))
+      (DT the)
+      (NN proceeding))))
 
 (PP
   (IN of)
@@ -3396,9 +3284,7 @@
   (CC or)
   (NP
     (NP
-      (NP
-        (NP
-          (NNS cents))))
+      (NNS cents))
     (ADVP-TMP
       (NP
         (DT a)
@@ -3410,7 +3296,7 @@
     (NNS feet))
   (IN from)
   (SBAR-LOC
-    (WHADVP-2
+    (WHADVP
       (WRB where))
     (S
       (NP-SBJ
@@ -3432,8 +3318,7 @@
   (JJ above)
   ('' '')
   (NP
-    (NP
-      (NNS sales))))
+    (NNS sales)))
 
 (PP-LOC-PRD
   (`` ``)
@@ -3450,8 +3335,9 @@
   (NP
     (ADJP
       (JJ personal)
-      (CC and)
-      (JJ helpful)))
+      (CONJPP
+        (CC and)
+        (JJ helpful))))
   (NN service))
 
 (PP
@@ -3487,27 +3373,22 @@
   (ADJP
     (RBR more)))
 
-(PP-1
-  (VBG including)
+(PP
+  (VBG|IN including)
   (: :)
   (NP
-    (NP
-      (NP
-        (NP
-          (DT the)
-          (NN index))))))
+    (DT the)
+    (NN index)))
 
 (PP-TMP
   (PP
     (IN Between)
     (NP
-      (NP
-        (CD 1981))))
+      (CD 1981)))
   (, ,)
   (NP
-    (NP
-      (DT the)
-      (NN period)))
+    (DT the)
+    (NN period))
   (, ,))
 
 (PP-LOC
@@ -3523,10 +3404,9 @@
     (NNS periods)))
 
 (PP
-  (VBG Including)
+  (VBG|IN Including)
   (NP
-    (NP
-      (DT those)))
+    (DT those))
   (. .))
 
 (PP-CLR
@@ -3550,8 +3430,7 @@
   (IN from)
   (NP
     (NP
-      (NP
-        (NNS concerns)))
+      (NNS concerns))
     (CONJP
       (CC but)
       (RB also))))
@@ -3560,12 +3439,11 @@
   (IN for)
   (`` ``)
   (NP
-    (NP
-      (NNS data)))
+    (NNS data))
   (. .)
   ('' ''))
 
-(PP-2
+(PP
   (JJ such)
   (IN as)
   (, ,)
@@ -3587,10 +3465,8 @@
   (PP
     (IN as)
     (NP
-      (NP
-        (NP
-          (DT the)
-          (NN computer)))))
+      (DT the)
+      (NN computer)))
   (, ,)
   (PP
     (IN as)
@@ -3607,9 +3483,6 @@
 (PP-LOC-PRD
   (IN in)
   (SBARQ-NOM
-    (WHNP-1
-      (WP what)
-      (RB else))
     (SQ
       (MD can)
       (NP-SBJ
@@ -3617,7 +3490,9 @@
       (VP
         (VB do)
         (NP
-          (-NONE- *T*-1))))))
+          (WHNP
+            (WP what)
+            (RB else)))))))
 
 (PP
   (PP
@@ -3638,48 +3513,45 @@
     (IN for)
     (NP
       (NN accountability)))
-  (: ;)
-  (PP
-    (IN for)
-    (NP
+  (CONJPP
+    (: ;)
+    (PP
+      (IN for)
       (NP
-        (NN honesty))))
-  (: ;)
-  (CC and)
-  (PP
-    (IN for)
-    (NP
-      (NP
-        (NN percentage)))))
+        (NN honesty)))
+    (CONJPP
+      (: ;)
+      (CC and)
+      (PP
+        (IN for)
+        (NP
+          (NN percentage))))))
 
 (PP-PRP
   (IN because)
   (IN of)
   (SBAR-NOM
-    (WHNP-2
-      (WP what))
     (S
       (NP-SBJ
         (PRP it))
       (VP
         (VBZ views)
         (NP
-          (-NONE- *T*-2))))))
+          (WHNP
+            (WP what)))))))
 
 (PP-LOC-CLR
   (PP
     (IN in)
     (NP
-      (NP
-        (NNS reports))))
+      (NNS reports)))
   (RB rather)
   (IN than)
   (PP
     (IN in)
     (NP
-      (NP
-        (DT the)
-        (NNS bills)))))
+      (DT the)
+      (NNS bills))))
 
 (PP
   (PRP$ their)
@@ -3706,7 +3578,7 @@
     ('' ')))
 
 (PP
-  (VBG including)
+  (VBG|IN including)
   (NP
     (NNP Denny)
     (POS 's))
@@ -3720,8 +3592,7 @@
     (POS 's))
   (CC and)
   (NP
-    (NP
-      (NNP Loco))))
+    (NNP Loco)))
 
 (PP
   (TO to)
@@ -3751,9 +3622,8 @@
     (PP
       (IN below)
       (NP
-        (NP
-          ($ $)
-          (-NONE- *U*))))))
+        ($ $)
+        (-NONE- *U*)))))
 
 (PP-TMP
   (ADVP
@@ -3807,7 +3677,7 @@
         (CD 1989))))
   (, ,)
   (SBAR
-    (WHADVP-3
+    (WHADVP
       (WRB when))
     (S
       (NP-SBJ
@@ -3823,7 +3693,7 @@
               (NN company))))))))
 
 (PP-TMP
-  (VBZ is)
+  (VBZ|IN is)
   (NP
     (CD 1989)))
 
@@ -3842,8 +3712,7 @@
   (, ,)
   (TO to)
   (NP
-    (NP
-      (NNS sales))))
+    (NNS sales)))
 
 (PP-LOC
   (RB below))
@@ -3852,8 +3721,7 @@
   (CC either)
   (TO to)
   (NP
-    (NP
-      (NN gold))))
+    (NN gold)))
 
 (PP-DTV
   (PP
@@ -3886,8 +3754,7 @@
   (PP
     (IN from)
     (NP
-      (NP
-        (NN competition)))))
+      (NN competition))))
 
 (PP-LOC
   (PP
@@ -3929,8 +3796,7 @@
   (, ,)
   (CC or)
   (NP
-    (NP
-      (NNS cents)))
+    (NNS cents))
   (, ,)
   (ADVP-TMP
     (NP
@@ -3948,8 +3814,6 @@
   (RB instead)
   (IN of)
   (SBAR-NOM
-    (WHNP-2
-      (WP what))
     (S
       (NP-SBJ
         (DT the)
@@ -3957,7 +3821,8 @@
       (VP
         (VBZ wants)
         (NP
-          (-NONE- *T*-2))))))
+          (WHNP
+            (WP what)))))))
 
 (PP
   (ADVP
@@ -3966,9 +3831,8 @@
   (PP
     (TO to)
     (NP
-      (NP
-        (DT the)
-        (NN release)))))
+      (DT the)
+      (NN release))))
 
 (PP
   (PRN
@@ -3985,9 +3849,8 @@
   (IN without)
   ('' '')
   (NP
-    (NP
-      (DT the)
-      (NNS systems))))
+    (DT the)
+    (NNS systems)))
 
 (PP
   (CC but)
@@ -4003,26 +3866,23 @@
 (PP-DIR
   (IN from)
   (NP
-    (NP
-      (-NONE- *U*)))
+    (-NONE- *U*))
   (ADVP-TMP
     (NP
       (DT a)
       (NN year))
     (RB ago))
   (, ,)
-  (SBAR-1
-    (WHNP-2
-      (WDT which))
+  (SBAR
     (S
       (NP-SBJ
-        (-NONE- *T*-2))
+        (WHNP
+          (WDT which)))
       (VP
         (VBD included)
         (NP
-          (NP
-            (DT a)
-            (NN write-down)))))))
+          (DT a)
+          (NN write-down))))))
 
 (PP-MNR
   (PP
@@ -4067,8 +3927,7 @@
   (`` ``)
   (ADVP
     (NP
-      (NP
-        (NN %)))
+      (NN %))
     (RB off)))
 
 (PP
