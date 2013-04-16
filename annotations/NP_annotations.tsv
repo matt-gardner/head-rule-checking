@@ -8,6 +8,7 @@ index	pattern	head_index
 8	(NP NNP NNP)	2
 9	(NP DT JJ NN)	3
 10	(NP JJ NNS)	2
+11	(NP NP SBAR)	1
 12	(NP DT NNS)	2
 13	(NP JJ NN)	2
 14	(NP QP -NONE-)	1
@@ -15,11 +16,15 @@ index	pattern	head_index
 16	(NP NP CC NP)	1
 17	(NP DT NN NN)	3
 18	(NP CD)	1
+19	(NP NP VP)	1
 20	(NP CD NN)	2
+21	(NP NP , NP)	1
 22	(NP CD NNS)	2
 23	(NP NNP NNP NNP)	3
 25	(NP PRP$ NN)	2
 26	(NP NP NP)	1
+27	(NP NP , NP ,)	1
+28	(NP NP NN)	2
 29	(NP DT)	1
 30	(NP NN NN)	2
 31	(NP DT NNP)	2
@@ -27,6 +32,7 @@ index	pattern	head_index
 34	(NP $ CD -NONE-)	1
 35	(NP DT NNP NN)	3
 36	(NP PRP$ NNS)	2
+37	(NP NP , SBAR)	1
 38	(NP DT JJ NNS)	3
 40	(NP DT ADJP NN)	3
 41	(NP JJ NN NNS)	3
@@ -34,7 +40,9 @@ index	pattern	head_index
 43	(NP DT JJ NN NN)	4
 44	(NP QP NNS)	2
 45	(NP NNP CD)	1
+46	(NP NP NNS)	2
 47	(NP QP NN)	2
+48	(NP NP , SBAR ,)	1
 49	(NP JJ JJ NNS)	3
 50	(NP EX)	1
 51	(NP PRP$ JJ NN)	3
@@ -78,6 +86,7 @@ index	pattern	head_index
 89	(NP DT NN NN NN)	4
 90	(NP DT VBG NN)	3
 91	(NP NNS CC NNS)	1
+92	(NP NP S)	1
 93	(NP NN NN NNS)	3
 94	(NP DT JJS NN)	3
 95	(NP NP JJ NNS)	3
