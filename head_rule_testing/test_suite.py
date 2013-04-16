@@ -56,6 +56,7 @@ def main(annotation_file, category):
     num_annotated = 0
     num_correct = 0
     errors = []
+    correct = []
     for i, tree in enumerate(trees):
         num_patterns += 1
         total_count += counts[i]
@@ -71,6 +72,7 @@ def main(annotation_file, category):
         for j, child in enumerate(root.children):
             child_head = child.label.split('__', 1)[1]
             if child_head == head and j == annotations[index]:
+                correct.append(patterns[i])
                 num_correct += 1
                 count_correct += counts[i]
                 break
@@ -88,6 +90,9 @@ def main(annotation_file, category):
     error_file = open('results/errors_%s.tsv' % category, 'w')
     for error in errors:
         error_file.write('%s\n' % error);
+    correct_file = open('results/correct_%s.tsv' % category, 'w')
+    for pattern in correct:
+        correct_file.write('%s\n' % pattern);
 
 
 if __name__ == '__main__':
