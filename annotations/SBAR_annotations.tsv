@@ -1,6 +1,9 @@
 index	pattern	head_index
 1	(SBAR IN S)	1
+2	(SBAR WHNP S)	2
 3	(SBAR -NONE- S)	1
+4	(SBAR WHADVP S)	2
+6	(SBAR WHPP S)	2
 7	(SBAR RB IN S)	2
 8	(SBAR DT S)	1
 9	(SBAR SBAR CC SBAR)	1
