@@ -19,10 +19,12 @@ def main(annotation_file, category):
         print 'Could not find sierra_postop file!  Exiting...'
         exit(-1)
     annotations = {}
+    annotation_patterns = {}
     for line in open(annotation_file):
         if line.startswith('index'): continue
         index, pattern, head_index = line.strip().split('\t')
         annotations[int(index)] = int(head_index) - 1
+        annotation_patterns[pattern] = int(head_index) - 1
     trees = []
     patterns = []
     text = ''
@@ -38,12 +40,14 @@ def main(annotation_file, category):
     count_file = '../test_suites_v2/%s/%s_tagAsParent_rules_grouped.txt' % (
             category, category)
     counts = []
+    i = 0
     for line in open(count_file):
         count, pattern, _ = line.split('\t')
         counts.append(int(count))
         # TODO: this could be better - like check the annotation file to be
         # sure that the patterns match
         patterns.append(pattern)
+        i += 1
     if len(counts) != len(trees):
         print 'Error! Incorrect alignment between trees and counts:'
         print len(counts), len(trees)
@@ -58,6 +62,7 @@ def main(annotation_file, category):
     errors = []
     correct = []
     for i, tree in enumerate(trees):
+        pattern = patterns[i]
         num_patterns += 1
         total_count += counts[i]
         index = i + 1
@@ -69,6 +74,14 @@ def main(annotation_file, category):
             continue
         root = tree.root.children[1]
         head = root.label.split('__', 1)[1]
+        # The labels are on trees that haven't had WH-movement undone - we have
+        # to correct the annotations for that.  This isn't perfect, but it will
+        # do for now.
+        annotated_children = len(pattern.split()) - 1
+        actual_children = len(root.children)
+        is_conjpp = 'CONJPP' in [x.label.split('__')[0] for x in root.children]
+        if not is_conjpp and actual_children == annotated_children - 1:
+            annotations[index] = annotations[index] - 1
         for j, child in enumerate(root.children):
             child_head = child.label.split('__', 1)[1]
             if child_head == head and j == annotations[index]:

@@ -45,6 +45,10 @@ def main(ptb_file, results_dir):
     errors.sort(key=lambda x: error_counts[x], reverse=True)
     for error in errors[:30]:
         print '%s: %d' % (error, error_counts[error])
+    out = open('good_trees.mrg', 'w')
+    for tree in good_trees:
+        out.write(tree.pretty())
+        out.write('\n\n')
 
 
 word_tags = set(['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS',
@@ -80,6 +84,11 @@ def tree_is_good(node, correct_patterns):
 
 
 if __name__ == '__main__':
-    main('../PTB.MRG', 'results/')
+    import sys
+    if len(sys.argv) == 2:
+        ptb_file = sys.argv[1]
+    else:
+        ptb_file = '../PTB.MRG'
+    main(ptb_file, 'results/')
 
 # vim: et sw=4 sts=4
