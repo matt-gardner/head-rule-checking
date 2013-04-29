@@ -78,29 +78,39 @@ be used to produce SUPA output, as shown in the next section.
 
 ### Producing SUPA for good trees
 
-From the same directory (`head_rule_labeling/`), the following command will
-generate `good_trees.supa`, containing SUPA output for the good trees:
+From the `parser_testing/` directory, simply run the following command to
+create two separate dependency files:
 
-    ../supa_docs/sierra.sh -morder ../supa_docs/macros/ORDER.txt -oporder ../supa_docs/opfiles/ORDER_TS.txt -treeFile good_trees.mrg >good_trees.supa
+    ./create_supa.sh
 
-It will also produce three `sierra_*` files that can be erased with `rm -f
-sierra_*`.
+This will create `good_trees.supa` and `good_trees.collins`, using the current
+head rules (the `.supa` file is created using `supa_docs/opfiles/markHeads.op`,
+while the `.collins` file is created using
+`supa_docs/opfiles/markHeads_Hwa.op`).
 
-This SUPA file is compatible with the CoNLL format, and thus is suitable to be
-used for training MaltParser.
+### Running MaltParser Experiments
 
-There is one thing to note, here, though.  The SUPA generation script sometimes
-leaves `null` values for a sentence (i.e., `good_trees.supa` has a line that
-begins and ends with `null` instead of the typical CoNLL format).  If this
-happens, it will cause a NullPointerException when training MaltParser, and
-thus those lines need to be removed.  There is not currently a script to do
-that, so it must be done by hand.
+To run the MaltParser experiments, be sure that you first have downloaded and
+extracted MaltParser from
+[maltparser.org](http://www.maltparser.org/install.html).  The code expects
+there to be a directory called `maltparser-1.7.2/` in the base directory of the
+repository.  Once the the parser has been downloaded, you can run comparison
+experiments between SUPA head rules and Collins head rules with the following
+command, from the `parser_testing/` directory:
 
-### Training MaltParser from SUPA
+    python test_malt_parser.py
 
-To train MaltParser, be sure that you first have downloaded and extracted
-MaltParser from [maltparser.org](http://www.maltparser.org/install.html).  Then
-you can follow the instructions on the [User
+This will split the data into training and test splits, train MaltParser on the
+training data and test it on the testing data, separately for the Collins rules
+and the SUPA rules (using the same trees for each split, just with different
+rules applied).  It then runs the CoNLL evaluation script (`eval.pl`) to
+compute an accuracy for each split and reports a mean for each configuration
+and a p-value for statistical significance (using a paired permutation test).
+
+#### Training and testing MaltParser separately
+
+If you wish to run MaltParser with something other than the
+`test_malt_parser.py` script, you can follow the instructions on the [User
 Guide](http://www.maltparser.org/userguide.html), which are repeated here for
 convenience.
 
@@ -113,12 +123,7 @@ This will create a MaltConfiguration file (which contains a learned model)
 called `test.mco`.  If you change the parameter after `-c` in the command
 above, you can change the name of this output file.
 
-### Testing the MaltParser
-
-All I have so far is a command to parse CoNLL-formatted data.  I don't have a
-script to produce a separate training/testing split, nor to evaluate the
-parses made by MaltParser.  To run the parser on `good_trees.supa`, you run the
-following command:
+To run the parser on `good_trees.supa`, you run the following command:
 
     java -jar /path/to/maltparser/maltparser-1.7.2.jar -c test -i good_trees.supa -o parsed.conll -m parse
 

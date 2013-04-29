@@ -28,8 +28,8 @@ then
 fi
 rm -f sierra_*
 echo -n "category	num_patterns	num_annotated	" >>$results_file
-echo -n "%_annotated	num_correct	%_correct" >>$results_file
-echo -n "tok_count	tok_annotated	%_tok_annotated" >>$results_file
+echo -n "%_annotated	num_correct	%_correct	" >>$results_file
+echo -n "tok_count	tok_annotated	%_tok_annotated	" >>$results_file
 echo "tok_correct	%_tok_correct" >>$results_file
 for cat in "${cats[@]}"
 do
