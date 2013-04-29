@@ -7,6 +7,11 @@ constituency parse to a dependency parse.
 
 ## User Guide
 
+### Dependencies
+
+Before beginning, be sure that you have Django and Django-South install on your
+system.
+
 ### Using the app to annotate
 
 TODO: write this section
@@ -23,13 +28,31 @@ This should update the annotations file in the `annotations` directory.
 
 From the `head_rule_testing` directory, run the following command:
 
-    run_tests.sh [NP] [WHNP] [PP] [etc.]
+    ./run_tests.sh [NP] [WHNP] [PP] [etc.]
 
 As shown, you can list any phrase symbol or set of symbols to test only a
 subset of the test suites.  If no symbols are given, all of them are tested.
 The results appear in the `head_rule_testing/results` directory, with
 `results.tsv` containing overall statistics, and `correct_*.tsv` and
 `errors_*.tsv` giving specific annotations that pass or fail for each symbol.
+
+`results.tsv` has 11 columns.  Those columns are:
+
+1. The non-terminal symbol that was tested (e.g., `ADJP` or `QP`)
+2. The number of expansion patterns seen for the non-terminal symbol (e.g.,
+   (NP JJ NN))
+3. The number of expansion patterns that have an annotation (as found in the
+   `annotations/` directory)
+4. The percent of patterns that have been annotated (i.e., (3) / (2))
+5. The number of patterns that the head rules got correct, according to the
+   annotations.
+6. The percent of annotated patterns that were correct (i.e., (5) / (3))
+7. The number of times the non-terminal in seen in the treebank (hereafter
+   "tokens")
+8. Number of tokens whose expansion pattern has an annotation
+9. Percent of tokens that have been annotated (i.e., (8) / (7))
+10. Number of tokens whose expansion was marked as correct
+11. Percent of tokens marked correct (i.e., (10) / (8))
 
 ### Finding good trees in the Penn Treebank
 
