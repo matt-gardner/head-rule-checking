@@ -15,9 +15,10 @@ else
         'WHADJP' 'WHADVP' 'WHNP' 'WHPP' 'X')
 fi
 
-base=/home/mg1/classes/treebanking
+base=..
 suites_dir=test_suites_v2
 results_file=results/results.tsv
+export TMPDIR=./
 if [ -e $results_file ]
 then
     prompt="Results file $results_file already exists. Press enter to"

@@ -69,11 +69,14 @@ def main(annotation_file, category):
         if index not in annotations: continue
         num_annotated += 1
         count_annotated += counts[i]
+
         # Clear off some of the extra processing that the SUPA pipeline adds
         if tree is None:
             continue
         root = tree.root.children[1]
         head = root.label.split('__', 1)[1]
+        head_index = -1
+
         # The labels are on trees that haven't had WH-movement undone - we have
         # to correct the annotations for that.  This isn't perfect, but it will
         # do for now.
@@ -82,15 +85,19 @@ def main(annotation_file, category):
         is_conjpp = 'CONJPP' in [x.label.split('__')[0] for x in root.children]
         if not is_conjpp and actual_children == annotated_children - 1:
             annotations[index] = annotations[index] - 1
+
+        # Now to actually check to see what was labeled as the head
         for j, child in enumerate(root.children):
             child_head = child.label.split('__', 1)[1]
-            if child_head == head and j == annotations[index]:
-                correct.append(patterns[i])
-                num_correct += 1
-                count_correct += counts[i]
-                break
+            if child_head == head:
+                head_index = j + 1
+                if j == annotations[index]:
+                    correct.append(patterns[i])
+                    num_correct += 1
+                    count_correct += counts[i]
+                    break
         else:
-            errors.append(patterns[i])
+            errors.append((patterns[i], head_index, annotations[index]+1))
     percent_tested = num_annotated / num_patterns
     percent_correct = num_correct / num_annotated
     count_percent_annotated = count_annotated / total_count
@@ -101,8 +108,9 @@ def main(annotation_file, category):
             percent_correct, total_count, count_annotated,
             count_percent_annotated, count_correct, count_percent_correct))
     error_file = open('results/errors_%s.tsv' % category, 'w')
+    error_file.write('pattern\tmarked\tactual\n')
     for error in errors:
-        error_file.write('%s\n' % error);
+        error_file.write('%s\t%d\t%d\n' % error);
     correct_file = open('results/correct_%s.tsv' % category, 'w')
     for pattern in correct:
         correct_file.write('%s\n' % pattern);
