@@ -11,4 +11,3 @@ $base/supa_docs/sierra.sh \
     -treeFile $base/head_rule_testing/good_trees.mrg \
     >good_trees.collins
 rm -f sierra_*
-

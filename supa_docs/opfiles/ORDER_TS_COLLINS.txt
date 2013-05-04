@@ -1,6 +1,4 @@
 addRoot.op
-buildConjTrees.op
-undoMovement.op
 exciseDups.op
 markHeads_Hwa.op
 findDependencies.op

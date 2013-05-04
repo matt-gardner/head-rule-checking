@@ -6,12 +6,24 @@ from subprocess import Popen
 def main(supa_file, collins_file, malt_jar, percent_training, num_folds):
     supa_trees = []
     read_tree_file(supa_file, supa_trees)
+    print len(supa_trees), 'SUPA trees'
     collins_trees = []
     read_tree_file(collins_file, collins_trees)
+    print len(collins_trees), 'Collins trees'
     if len(supa_trees) != len(collins_trees):
         print 'Error! Unequal number of trees:', len(supa_trees),
         print len(collins_trees)
+    print 'Removing incomplete trees'
+    to_remove = []
+    for i in range(len(supa_trees)):
+        if is_bad(supa_trees[i]) or is_bad(collins_trees[i]):
+            to_remove.append(i)
+    to_remove.sort(reverse=True)
+    for i in to_remove:
+        supa_trees.pop(i)
+        collins_trees.pop(i)
     trees = zip(supa_trees, collins_trees)
+    print 'Remaining trees:', len(trees)
     supa_scores = []
     collins_scores = []
     for i in range(num_folds):
@@ -19,8 +31,12 @@ def main(supa_file, collins_file, malt_jar, percent_training, num_folds):
         random.shuffle(trees)
         print 'SUPA'
         s_score = run_test([x[0] for x in trees], malt_jar, percent_training)
+        proc = Popen('mv out.txt supa.out', shell=True)
+        proc.wait()
         print 'COLLINS'
         c_score = run_test([x[1] for x in trees], malt_jar, percent_training)
+        proc = Popen('mv out.txt collins.out', shell=True)
+        proc.wait()
         print 'Results:'
         supa_scores.append(s_score)
         collins_scores.append(c_score)
@@ -45,6 +61,13 @@ def read_tree_file(tree_file, trees):
             tree += line
     if tree:
         trees.append(tree)
+
+
+def is_bad(tree):
+    for i, line in enumerate(tree.split('\n')):
+        if line and int(line.split('\t')[0]) != i+1:
+            return True
+    return False
 
 
 def run_test(trees, malt_jar, percent_training):
@@ -83,7 +106,8 @@ def run_test(trees, malt_jar, percent_training):
         if 'Unlabeled attachment score' in line:
             score = float(line.split('=')[1].split('%')[0].strip())
     command = ['rm', '-f', train_filename, test_filename, parsed_file,
-            eval_file, model_name+'.mco']
+            #eval_file, model_name+'.mco']
+            model_name+'.mco']
     proc = Popen(command)
     proc.wait()
     return score
@@ -124,8 +148,39 @@ def paired_permutation_test(data1, data2):
 
 
 if __name__ == '__main__':
-    malt_jar = '../maltparser-1.7.2/maltparser-1.7.2.jar'
-    main('good_trees.supa', 'good_trees.collins', malt_jar, .9, 10)
+    from optparse import OptionParser
+    parser = OptionParser()
+    parser.add_option('', '--ptb',
+            help='Test on all trees in PTB, instead of just good trees '
+            '(requires the files ptb.supa and ptb.collins)',
+            dest='ptb',
+            action='store_true',
+            )
+    parser.add_option('', '--percent-training',
+            help='Percent of data to use for training',
+            dest='percent',
+            default=.9,
+            type='float',
+            )
+    parser.add_option('', '--num-splits',
+            help='Number of times to (randomly) split the data into training '
+            'and test sets',
+            dest='splits',
+            default=10,
+            type='int',
+            )
+    parser.add_option('', '--malt-jar',
+            help='Location of the maltparser jar file',
+            dest='malt_jar',
+            default='../maltparser-1.7.2/maltparser-1.7.2.jar',
+            )
+    opts, args = parser.parse_args()
+    supa_file = 'good_trees.supa'
+    collins_file = 'good_trees.collins'
+    if opts.ptb:
+        supa_file = 'ptb.supa'
+        collins_file = 'ptb.collins'
+    main(supa_file, collins_file, opts.malt_jar, opts.percent, opts.splits)
 
 
 # vim: et sw=4 sts=4
