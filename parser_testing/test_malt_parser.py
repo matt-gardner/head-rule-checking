@@ -89,13 +89,13 @@ def run_test(trees, malt_jar, percent_training):
             test_file.write(tree+'\n')
     train_file.close()
     test_file.close()
-    command = ['java', '-jar', malt_jar, '-c', model_name, '-i',
+    command = ['java', '-Xmx4g', '-jar', malt_jar, '-c', model_name, '-i',
             train_filename, '-m', 'learn']
     dev_null = open('/dev/null')
     print 'Training MaltParser'
     proc = Popen(command)#, stdout=dev_null, stderr=dev_null)
     proc.wait()
-    command = ['java', '-jar', malt_jar, '-c', model_name, '-i',
+    command = ['java', '-Xmx4g', '-jar', malt_jar, '-c', model_name, '-i',
             test_filename, '-o', parsed_file, '-m', 'parse']
     print 'Testing MaltParser'
     proc = Popen(command)#, stdout=dev_null, stderr=dev_null)
