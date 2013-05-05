@@ -10,9 +10,6 @@ def main(supa_file, collins_file, malt_jar, percent_training, num_folds):
     collins_trees = []
     read_tree_file(collins_file, collins_trees)
     print len(collins_trees), 'Collins trees'
-    if len(supa_trees) != len(collins_trees):
-        print 'Error! Unequal number of trees:', len(supa_trees),
-        print len(collins_trees)
     print 'Removing incomplete trees'
     to_remove = []
     for i in range(len(supa_trees)):
@@ -22,6 +19,9 @@ def main(supa_file, collins_file, malt_jar, percent_training, num_folds):
     for i in to_remove:
         supa_trees.pop(i)
         collins_trees.pop(i)
+    if len(supa_trees) != len(collins_trees):
+        print 'Error! Unequal number of trees:', len(supa_trees),
+        print len(collins_trees)
     trees = zip(supa_trees, collins_trees)
     print 'Remaining trees:', len(trees)
     supa_scores = []
@@ -52,6 +52,7 @@ def read_tree_file(tree_file, trees):
     tree = ''
     for line in open(tree_file):
         if line == 'null\n':
+            trees.append('')
             continue
         if line == '\n':
             if tree and not tree.isspace():
@@ -64,6 +65,8 @@ def read_tree_file(tree_file, trees):
 
 
 def is_bad(tree):
+    if not tree:
+        return True
     for i, line in enumerate(tree.split('\n')):
         if line and int(line.split('\t')[0]) != i+1:
             return True
@@ -90,17 +93,17 @@ def run_test(trees, malt_jar, percent_training):
             train_filename, '-m', 'learn']
     dev_null = open('/dev/null')
     print 'Training MaltParser'
-    proc = Popen(command, stdout=dev_null, stderr=dev_null)
+    proc = Popen(command)#, stdout=dev_null, stderr=dev_null)
     proc.wait()
     command = ['java', '-jar', malt_jar, '-c', model_name, '-i',
             test_filename, '-o', parsed_file, '-m', 'parse']
     print 'Testing MaltParser'
-    proc = Popen(command, stdout=dev_null, stderr=dev_null)
+    proc = Popen(command)#, stdout=dev_null, stderr=dev_null)
     proc.wait()
     command = ['perl', 'eval.pl', '-g', test_filename, '-s', parsed_file, '-b',
             '-q', '-o', eval_file]
     print 'Evaluating results'
-    proc = Popen(command, stdout=dev_null, stderr=dev_null)
+    proc = Popen(command)#, stdout=dev_null, stderr=dev_null)
     proc.wait()
     for line in open(eval_file):
         if 'Unlabeled attachment score' in line:
