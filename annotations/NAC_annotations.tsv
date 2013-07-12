@@ -11,10 +11,11 @@ index	pattern	head_index
 10	(NAC NNP DT JJ)	1
 11	(NAC NAC PP)	1
 12	(NAC NNP NNPS , NNP ,)	2
+13	(NAC NP NP)	1
 14	(NAC NP PP)	1
 15	(NAC JJ NNP PP)	2
 16	(NAC NNP NNP , NNP)	2
-17	(NAC NNP CD , CD ,)	1
+17	(NAC NNP CD , CD ,)	2
 18	(NAC NNPS PP)	1
 19	(NAC NNP NNPS PP)	2
 20	(NAC JJ NN PP)	2
@@ -45,7 +46,7 @@ index	pattern	head_index
 45	(NAC VBN NN NNP PP)	3
 46	(NAC NNP , NNP NNP ,)	1
 47	(NAC DT NNP , NNP ,)	2
-48	(NAC S NN)	1
+48	(NAC S NN)	2
 49	(NAC NNS SBAR)	1
 50	(NAC JJ JJ NN PP)	3
 51	(NAC NNP JJ)	2

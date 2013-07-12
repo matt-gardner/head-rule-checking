@@ -6,12 +6,12 @@ index	pattern	head_index
 5	(S NP ADVP VP)	3
 6	(S S , NP VP .)	4
 7	(S NP ADVP VP .)	3
-8	(S CC NP VP .)	3
+8	(S CC NP VP .)	1
 9	(S ADVP , NP VP .)	4
 10	(S S , CC S .)	1
 11	(S SBAR , NP VP .)	4
 12	(S NP VP . '')	2
-13	(S NP ADJP)	1
+13	(S NP ADJP)	2
 14	(S `` S , '' NP VP .)	6
 15	(S NP NP)	2
 16	(S S : S .)	1
@@ -22,36 +22,41 @@ index	pattern	head_index
 21	(S NP , NP VP .)	4
 22	(S S CC S)	1
 23	(S NP `` VP)	3
+24	(S PP NP VP)	3
 25	(S `` NP VP .)	3
 26	(S ADVP NP VP .)	3
 27	(S ADVP NP VP)	3
 28	(S PP NP VP .)	3
+29	(S S CC S .)	1
 30	(S NP , PP , VP .)	5
-31	(S CC PP , NP VP .)	5
+31	(S CC PP , NP VP .)	1
 32	(S S , '' NP VP .)	5
 33	(S ADVP , NP VP)	4
 34	(S NP PP)	2
 35	(S S VP)	2
 36	(S NP NP VP .)	3
 37	(S NP , ADVP , VP .)	5
+38	(S PP NP , NP VP .)	5
 39	(S NP PRN VP .)	3
 40	(S PP , NP VP . '')	4
 41	(S PP , NP ADVP VP .)	5
 42	(S NP NP VP)	3
-44	(S CC SBAR , NP VP .)	5
+43	(S CC NP VP)	1
+44	(S CC SBAR , NP VP .)	1
 45	(S NP RB VP)	3
 46	(S NP , S , VP .)	5
-47	(S CC NP ADVP VP .)	4
+47	(S CC NP ADVP VP .)	1
 48	(S NP , PP , VP)	5
 49	(S S NP VP .)	3
 50	(S S , NP VP)	4
 51	(S S VP .)	2
 52	(S ADVP , PP , NP VP .)	6
-53	(S CC NP VP . '')	3
+53	(S CC NP VP . '')	1
 54	(S `` NP VP , '')	3
 55	(S NP PP VP)	3
 56	(S PP , ADVP , NP VP .)	6
 57	(S PP PRN NP VP .)	4
+58	(S NP `` NP)	3
 59	(S PP , PP , NP VP .)	6
 60	(S S : S)	1
 61	(S SBAR VP .)	2
@@ -60,6 +65,7 @@ index	pattern	head_index
 64	(S NP PP VP .)	3
 65	(S NP VP :)	2
 66	(S NP ADVP VP . '')	3
+67	(S NP ADJP SBAR)	2
 68	(S `` S , NP VP .)	5
 69	(S -LRB- NP VP . -RRB-)	3
 70	(S `` NP VP)	3
@@ -82,9 +88,10 @@ index	pattern	head_index
 87	(S NP PRN VP)	3
 88	(S ADVP , NP ADVP VP .)	5
 89	(S RB NP VP .)	3
+90	(S IN NP VP .)	3
 91	(S NP VP : .)	2
 92	(S PP , SBAR , NP VP .)	6
-93	(S `` CC NP VP . '')	4
+93	(S `` CC NP VP . '')	2
 94	(S NP VP ,)	2
 95	(S S , S)	1
 96	(S S , NP ADVP VP .)	5
@@ -92,7 +99,7 @@ index	pattern	head_index
 98	(S `` NP '' VP)	4
 99	(S PP , S CC S .)	3
 100	(S `` S , CC S .)	2
-101	(S CC PP NP VP .)	4
+101	(S CC PP NP VP .)	1
 102	(S S PRN CC S .)	1
 103	(S NP , ADVP , VP)	5
 104	(S NP , PP , NP VP .)	6

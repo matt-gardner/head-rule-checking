@@ -5,15 +5,17 @@ index	pattern	head_index
 4	(INTJ UH .)	1
 5	(INTJ WRB)	1
 6	(INTJ DT VBZ)	2
-7	(INTJ UH UH)	2
+7	(INTJ UH UH)	1
 8	(INTJ JJ NN .)	2
 9	(INTJ NN , NN)	1
 10	(INTJ RB JJ)	2
 11	(INTJ UH , UH)	1
 12	(INTJ UH . UH .)	1
 13	(INTJ S)	1
+14	(INTJ UH PRP$ NNP)	1
 15	(INTJ VB , VB , VB)	1
 16	(INTJ JJ NN)	2
+17	(INTJ `` UH , RB .)	2
 18	(INTJ VB , RB)	1
 19	(INTJ UH PP .)	1
 20	(INTJ NN .)	1

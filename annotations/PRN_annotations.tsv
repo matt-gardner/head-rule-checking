@@ -14,7 +14,7 @@ index	pattern	head_index
 13	(PRN : SBAR :)	2
 14	(PRN S)	1
 15	(PRN , ADVP ,)	2
-16	(PRN , NP VP ,)	2
+16	(PRN , NP VP ,)	3
 17	(PRN -LRB- VP -RRB-)	2
 18	(PRN S ,)	1
 19	(PRN -LRB- SBAR -RRB-)	2
@@ -32,15 +32,55 @@ index	pattern	head_index
 31	(PRN -LRB- `` NP '' -RRB-)	3
 32	(PRN -LRB- NN -RRB-)	2
 33	(PRN -LRB- JJ -RRB-)	2
+34	(PRN : CC NP :)	2
+35	(PRN : ADVP NP :)	3
 36	(PRN , '' SINV , ``)	3
+37	(PRN : CC S :)	2
 38	(PRN -LRB- NNP . -RRB-)	2
 39	(PRN , NP ,)	2
+40	(PRN , ADVP NP ,)	3
 41	(PRN , INTJ ,)	2
+42	(PRN : CC VP :)	2
 43	(PRN , S , ``)	2
 44	(PRN -LRB- ADVP -RRB-)	2
 45	(PRN : PP)	2
+46	(PRN -LRB- CC VP -RRB-)	2
 47	(PRN : ADVP :)	2
 48	(PRN -LRB- `` S '' -RRB-)	3
+49	(PRN -LRB- CC NP -RRB-)	2
 50	(PRN PP)	1
 51	(PRN -LRB- NP : NP -RRB-)	2
 52	(PRN SINV ,)	1
+53	(PRN -LRB- ADVP NP -RRB-)	3
+54	(PRN : ADVP NP)	3
+55	(PRN -LRB- FRAG -RRB-)	2
+56	(PRN -LRB- NP , PP -RRB-)	2
+57	(PRN , '' S)	3
+58	(PRN , SINV)	2
+59	(PRN -LRB- INTJ -RRB-)	2
+60	(PRN : CC JJ :)	2
+61	(PRN : PP , NP :)	2
+62	(PRN SBAR)	1
+63	(PRN PP ,)	1
+64	(PRN -LRB- NNP NNP -RRB-)	3
+65	(PRN , ADVP PP ,)	3
+66	(PRN , CC NP ,)	2
+67	(PRN -LRB- CC S -RRB-)	2
+68	(PRN : PP , SBAR :)	2
+69	(PRN -LRB- NN NN -RRB-)	3
+70	(PRN -LRB- NNS -RRB-)	2
+71	(PRN -LRB- CC , PP , NP -RRB-)	2
+72	(PRN -LRB- JJ . -RRB-)	2
+73	(PRN CC NP)	1
+74	(PRN -LRB- `` ADJP '' -RRB-)	3
+75	(PRN : ADJP)	2
+76	(PRN , NP VP)	3
+77	(PRN -LRB- `` SQ '' -RRB-)	3
+78	(PRN -LRB- CC VBZ -RRB-)	2
+79	(PRN , ADVP NP)	3
+80	(PRN : CC NN :)	2
+81	(PRN : CC ADJP :)	2
+82	(PRN : PP , ADVP :)	2
+83	(PRN -LRB- JJ NN -RRB-)	3
+84	(PRN : UCP :)	2
+85	(PRN , CC PP)	2
