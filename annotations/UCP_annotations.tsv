@@ -59,7 +59,7 @@ index	pattern	head_index
 59	(UCP RB ADJP CC PP)	2
 60	(UCP NN , NNS CC NN)	1
 61	(UCP JJ CC NN NN)	4
-62	(UCP `` ADJP '' CC `` NP)	6
+62	(UCP `` ADJP '' CC `` NP)	2
 63	(UCP ADJP , CONJP NP)	1
 64	(UCP PP , VP CC PP)	1
 65	(UCP VP CC RB NP)	1
@@ -87,6 +87,7 @@ index	pattern	head_index
 87	(UCP NP CC ADVP ADVP)	1
 88	(UCP ADJP , ADJP CC VP)	1
 89	(UCP PP CC ADVP ADJP)	1
+90	(UCP `` INTJ '' CC `` S '' CC NP)	2
 91	(UCP ADVP , CC NP)	1
 92	(UCP PP : S)	1
 93	(UCP VP , CC ADJP ,)	1

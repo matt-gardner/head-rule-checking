@@ -1,5 +1,12 @@
 index	pattern	head_index
 1	(SQ NP VP)	2
+2	(SQ MD NP VP)	1
+3	(SQ VBZ NP VP)	1
+4	(SQ VBP NP VP)	1
+5	(SQ MD NP VP .)	1
+6	(SQ VBD NP VP)	1
+7	(SQ VBP NP VP .)	1
+8	(SQ VBZ NP VP .)	1
 9	(SQ -NONE-)	1
 10	(SQ VBZ NP ADJP)	1
 11	(SQ VBZ NP NP .)	1
@@ -20,6 +27,7 @@ index	pattern	head_index
 26	(SQ CC VBZ NP ADJP .)	1
 27	(SQ NNP NP VP .)	1
 28	(SQ VBP NP ADVP VP)	1
+29	(SQ NNS NP NP)	1
 30	(SQ VBD RB NP VP)	1
 31	(SQ VBZ RB NP VP .)	1
 32	(SQ SQ , CC SQ .)	1
@@ -38,6 +46,7 @@ index	pattern	head_index
 45	(SQ VBZ NP RB VP)	1
 46	(SQ S , MD RB NP VP .)	3
 47	(SQ VBP NP VP ADJP)	1
+48	(SQ S , SQ .)	1
 49	(SQ CC VBZ NP ADVP VP .)	1
 50	(SQ VBP NP NP S)	1
 51	(SQ SQ SQ FRAG)	1
@@ -47,7 +56,7 @@ index	pattern	head_index
 55	(SQ VBZ NP ADVP VP .)	1
 56	(SQ VBZ RB NP ADJP SBAR)	1
 57	(SQ VBP RB NP , PP , NP .)	1
-58	(SQ ADVP , VBD NP VP .)	5
+58	(SQ ADVP , VBD NP VP .)	3
 59	(SQ FRAG)	1
 60	(SQ CC MD NP VP . '')	1
 61	(SQ VBZ NP ADJP .)	1
