@@ -1,0 +1,3487 @@
+(
+  (S
+    (NP-SBJ
+      (DT The)
+      (NNS-HEAD researchers))
+    (VP-HEAD
+      (VBD-HEAD said)
+      (SBAR
+        (-NONE- 0-HEAD)
+        (S-HEAD
+          (NP-SBJ
+            (PRP-HEAD they))
+          (VP-HEAD
+            (VBP-HEAD have)
+            (VP
+              (VBN-HEAD isolated)
+              (NP
+                (NP-HEAD
+                  (DT a)
+                  (NN plant)
+                  (NN-HEAD gene))
+                (SBAR
+                  (WHNP-35
+                    (WDT-HEAD that))
+                  (S-HEAD
+                    (NP-SBJ
+                      (-NONE--HEAD *T*-35-HEAD))
+                    (VP-HEAD
+                      (VBZ-HEAD prevents)
+                      (NP
+                        (NP-HEAD
+                          (DT the)
+                          (NN-HEAD production))
+                        (PP
+                          (IN-HEAD of)
+                          (NP
+                            (NN-HEAD pollen)))))))))))))
+    (. .)))
+
+(
+  (S
+    (PP-TMP
+      (IN-HEAD At)
+      (NP
+        (NP-HEAD
+          (DT the)
+          (NN-HEAD end))
+        (PP
+          (IN-HEAD of)
+          (NP
+            (NP-HEAD
+              (DT the)
+              (NN-HEAD term))
+            (PP
+              (IN-HEAD of)
+              (NP
+                (DT the)
+                (JJ convertible)
+                (NN-HEAD loan)))))))
+    (, ,)
+    (S-HEAD
+      (NP-SBJ
+        (NNP-HEAD Sears))
+      (VP-HEAD
+        (MD-HEAD could)
+        (ADVP-TMP
+          (RB-HEAD still))
+        (VP
+          (VB-HEAD own)
+          (NP
+            (PDT half)
+            (DT the)
+            (NN-HEAD building)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP-SBJ
+        (NNP-HEAD AEW))
+      (VP-HEAD
+        (MD-HEAD could)
+        (VP
+          (VB-HEAD own)
+          (NP
+            (DT the)
+            (JJ other)
+            (NN-HEAD half)))))
+    (. .)))
+
+(
+  (SINV
+    (`` ``)
+    (S-TPC-1
+      (NP-SBJ
+        (NN-HEAD Nobody))
+      (VP-HEAD
+        (VBD-HEAD was)
+        (VP
+          (VBG-HEAD expecting)
+          (NP
+            (NP-HEAD
+              (DT this)
+              (NN-HEAD size))
+            (PP
+              (IN-HEAD of)
+              (NP
+                (DT a)
+                (NN-HEAD loss)))))))
+    (, ,)
+    ('' '')
+    (VP-HEAD
+      (VBD-HEAD said)
+      (S
+        (-NONE--HEAD *T*-1-HEAD)))
+    (NP-SBJ
+      (NP-HEAD
+        (NNP Paul)
+        (NNP-HEAD Karos))
+      (, ,)
+      (NP
+        (NP-HEAD
+          (DT an)
+          (NN-HEAD analyst))
+        (PP
+          (IN-HEAD with)
+          (NP
+            (NNP First)
+            (NNP Boston)
+            (NNP-HEAD Corp)))))
+    (. .)))
+
+(
+  (S
+    (S-TPC-2
+      (NP-SBJ-1
+        (NP-HEAD
+          (DT A)
+          (NN-HEAD committee))
+        (VP
+          (VBG-HEAD representing)
+          (NP
+            (DT the)
+            (JJ unsecured)
+            (NNS-HEAD creditors))))
+      (VP-HEAD
+        (VBD-HEAD agreed)
+        (S
+          (NP-SBJ
+            (-NONE--HEAD *-1-HEAD))
+          (VP-HEAD
+            (TO-HEAD to)
+            (VP
+              (VB-HEAD accept)
+              (NP
+                (NP-HEAD
+                  (CD 24)
+                  (NNS-HEAD cents))
+                (PP
+                  (IN-HEAD on)
+                  (NP
+                    (DT the)
+                    (NN-HEAD dollar)))))))))
+    (, ,)
+    (NP-SBJ
+      (NNP-HEAD Eagle))
+    (VP-HEAD
+      (VBD-HEAD said)
+      (SBAR
+        (-NONE- 0-HEAD)
+        (S-HEAD
+          (-NONE--HEAD *T*-2-HEAD))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNP Mr.)
+      (NNP-HEAD Hahn))
+    (ADVP
+      (RB-HEAD also))
+    (VP-HEAD
+      (VBZ-HEAD has)
+      (VP
+        (VBN-HEAD engineered)
+        (NP
+          (NP-HEAD
+            (DT a)
+            (JJ surprising)
+            (NN-HEAD turnaround))
+          (PP
+            (IN-HEAD of)
+            (NP
+              (NNP-HEAD Georgia-Pacific))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (DT The)
+        (JJ Japanese)
+        (NN-HEAD assault))
+      (PP
+        (IN-HEAD on)
+        (NP
+          (DT the)
+          (NN luxury)
+          (NN-HEAD market))))
+    (VP-HEAD
+      (VBZ-HEAD is)
+      (VP
+        (ADVP-MNR
+          (RB-HEAD rapidly))
+        (VBG-HEAD overshadowing)
+        (NP
+          (NP-HEAD
+            (JJ such)
+            (JJ European)
+            (NNS-HEAD makes))
+          (PP
+            (IN-HEAD as)
+            (NP
+              (NP-HEAD
+                (NNP-HEAD Audi)
+                (CC and)
+                (NNP Saab))
+              (, ,)
+              (SBAR
+                (WHNP-1
+                  (WDT-HEAD which))
+                (S-HEAD
+                  (NP-SBJ
+                    (-NONE--HEAD *T*-1-HEAD))
+                  (ADVP
+                    (IN-HEAD at)
+                    (JJS least))
+                  (VP-HEAD
+                    (VBP-HEAD have)
+                    (NP
+                      (JJ clear)
+                      (NN brand)
+                      (NNS-HEAD images))))))))))
+    (. .)))
+
+(
+  (S
+    (S-HEAD
+      (S-ADV
+        (NP-SBJ
+          (-NONE--HEAD *-1-HEAD))
+        (VP-HEAD
+          (VBG-HEAD Hearing)
+          (PP-CLR
+            (IN-HEAD of)
+            (NP
+              (DT this)
+              (NN-HEAD information)))))
+      (, ,)
+      (NP-SBJ-1
+        (DT the)
+        (NN-HEAD husband))
+      (VP-HEAD
+        (VBD-HEAD discussed)
+        (NP
+          (PRP-HEAD it))
+        (PP
+          (IN-HEAD with)
+          (NP
+            (NP-HEAD
+              (PRP$ his)
+              (NN-HEAD broker))
+            (, ,)
+            (NP
+              (NNP Mr.)
+              (NNP-HEAD Chestman))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP-SBJ
+        (NNP Mr.)
+        (NNP-HEAD Chestman))
+      (ADVP-TMP
+        (RB-HEAD then))
+      (VP-HEAD
+        (VBD-HEAD bought)
+        (PP
+          (IN-HEAD for)
+          (NP
+            (NP-HEAD
+              (PRP$ his)
+              (JJ own)
+              (NN-HEAD account))
+            (CC and)
+            (NP
+              (JJ other)
+              (NNS-HEAD clients))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (DT The)
+      (NNP-HEAD IRS))
+    (VP-HEAD
+      (VBZ-HEAD has)
+      (VP
+        (VBN-HEAD been)
+        (VP
+          (VBG-HEAD seeking)
+          (NP
+            (NP-HEAD
+              (QP-HEAD
+                (JJR-HEAD more)
+                (IN than)
+                ($ $)
+                (CD 300)
+                (CD million))
+              (-NONE- *U*-HEAD))
+            (PP
+              (IN-HEAD in)
+              (NP
+                (JJ back)
+                (NNS-HEAD taxes))))
+          (PP-CLR
+            (IN-HEAD from)
+            (NP
+              (NNP Mr.)
+              (NNP-HEAD Hunt))))))
+    (. .)))
+
+(
+  (S
+    (S-HEAD
+      (NP-SBJ-3
+        (NP-HEAD
+          (DT The)
+          (JJ second)
+          (NN-HEAD ship))
+        (, ,)
+        (SBAR
+          (WHNP-2
+            (WDT-HEAD which))
+          (S-HEAD
+            (NP-SBJ
+              (-NONE--HEAD *T*-2-HEAD))
+            (VP-HEAD
+              (VBZ-HEAD is)
+              (ADJP-PRD
+                (JJ-HEAD half-completed)))))
+        (, ,))
+      (VP-HEAD
+        (VBZ-HEAD is)
+        (VP
+          (VBN-HEAD scheduled)
+          (S
+            (NP-SBJ-1
+              (-NONE--HEAD *-3-HEAD))
+            (VP-HEAD
+              (TO-HEAD to)
+              (VP
+                (VB-HEAD be)
+                (VP
+                  (VBN-HEAD delivered)
+                  (NP
+                    (-NONE--HEAD *-1-HEAD))
+                  (PP-TMP-4
+                    (IN-HEAD in)
+                    (NP
+                      (NN-HEAD fall)
+                      (CD 1990))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP-SBJ=3
+        (DT the)
+        (JJ-HEAD third))
+      (PP-TMP=4-HEAD
+        (IN-HEAD in)
+        (NP
+          (NN-HEAD fall)
+          (CD 1991))))
+    (. .)))
+
+(
+  (S
+    (PP-TMP
+      (IN-HEAD In)
+      (NP
+        (CD-HEAD 1986)))
+    (, ,)
+    (NP-SBJ
+      (NNP Mr.)
+      (NNP-HEAD Simmons))
+    (ADVP
+      (RB-HEAD also))
+    (VP-HEAD
+      (VBD-HEAD served)
+      (PP-CLR
+        (IN-HEAD on)
+        (NP
+          (NP-HEAD
+            (DT a)
+            (NN-HEAD committee))
+          (PP
+            (IN-HEAD of)
+            (NP
+              (NNS-HEAD businessmen)))
+          (VP
+            (VBN-HEAD headed)
+            (NP
+              (-NONE--HEAD *-HEAD))
+            (PP
+              (IN-HEAD by)
+              (NP-LGS
+                (NP-HEAD
+                  (NNP William)
+                  (NNP-HEAD Seidman))
+                (, ,)
+                (NP
+                  (NP-HEAD
+                    (NN-HEAD chairman))
+                  (PP
+                    (IN-HEAD of)
+                    (NP
+                      (NP-HEAD
+                        (DT the)
+                        (NNP Federal)
+                        (NNP Deposit)
+                        (NNP Insurance)
+                        (NNP-HEAD Corp.))
+                      (CC and)
+                      (NP
+                        (DT the)
+                        (NNP Resolution)
+                        (NNP Trust)
+                        (NNP-HEAD Corp)))))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNP Steve)
+      (NNP-HEAD Jobs))
+    (VP-HEAD
+      (VBD-HEAD took)
+      (NP
+        (NP-HEAD
+          (DT a)
+          (NN-HEAD step))
+        (ADVP
+          (RB-HEAD back)
+          (PP
+            (IN-HEAD from)
+            (NP
+              (NP-HEAD
+                (DT the)
+                (NN-HEAD frontier))
+              (PP
+                (IN-HEAD of)
+                (NP
+                  (NN personal-computer)
+                  (NN-HEAD technology)))))))
+      (PP
+        (IN-HEAD in)
+        (NP
+          (DT an)
+          (NN-HEAD effort)
+          (S
+            (NP-SBJ
+              (-NONE--HEAD *-HEAD))
+            (VP-HEAD
+              (TO-HEAD to)
+              (VP
+                (VB-HEAD spur)
+                (NP
+                  (NP-HEAD
+                    (NNS-HEAD sales))
+                  (PP
+                    (IN-HEAD of)
+                    (NP
+                      (NP
+                        (NNP Next)
+                        (NNP-HEAD Inc.)
+                        (POS 's))
+                      (JJ new)
+                      (NN-HEAD machine))))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (DT The)
+        (NN-HEAD number))
+      (PP
+        (IN-HEAD of)
+        (NP
+          (NP-HEAD
+            (NNS-HEAD people))
+          (VP
+            (VBN-HEAD registered)
+            (NP
+              (-NONE--HEAD *-HEAD))
+            (PP-CLR
+              (IN-HEAD as)
+              (ADJP
+                (JJ-HEAD jobless)))
+            (PP-TMP
+              (IN-HEAD at)
+              (NP
+                (NP-HEAD
+                  (DT the)
+                  (NN-HEAD end))
+                (PP
+                  (IN-HEAD of)
+                  (NP
+                    (NNP-HEAD October)))))))))
+    (VP-HEAD
+      (VBD-HEAD declined)
+      (PP-EXT
+        (IN-HEAD by)
+        (NP
+          (CD-HEAD 900)))
+      (PP-DIR
+        (IN-HEAD from)
+        (NP-TMP
+          (NNP-HEAD September)))
+      (PP-DIR
+        (TO-HEAD to)
+        (NP
+          (CD-HEAD 78,600))))
+    (. .)))
+
+(
+  (S
+    (`` ``)
+    (S-TPC-1
+      (NP-SBJ
+        (DT The)
+        (NN-HEAD public))
+      (VP-HEAD
+        (VBZ-HEAD is)
+        (ADVP-LOC-PRD
+          (RB very)
+          (RB-HEAD close)
+          (PP
+            (TO-HEAD to)
+            (S-NOM
+              (NP-SBJ
+                (-NONE--HEAD *-HEAD))
+              (VP-HEAD
+                (VBG-HEAD having)
+                (VP
+                  (VBD-HEAD had)
+                  (NP
+                    (PRP-HEAD it)))))))))
+    (, ,)
+    ('' '')
+    (NP-SBJ
+      (NNP Mr.)
+      (NNP-HEAD Jenks))
+    (VP-HEAD
+      (VBZ-HEAD says)
+      (S
+        (-NONE--HEAD *T*-1-HEAD)))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (JJ Big)
+      (JJ financial)
+      (NNS-HEAD stocks))
+    (VP-HEAD
+      (VBD-HEAD carried)
+      (NP
+        (DT the)
+        (NN-HEAD day)))
+    (. .)))
+
+(
+  (S
+    (PP-LOC
+      (IN-HEAD At)
+      (NP
+        (NNP Cray)
+        (NNP-HEAD Computer)))
+    (, ,)
+    (NP-SBJ-26
+      (PRP-HEAD he))
+    (VP-HEAD
+      (MD-HEAD will)
+      (VP
+        (VB-HEAD be)
+        (VP
+          (VBN-HEAD paid)
+          (NP
+            (-NONE--HEAD *-26-HEAD))
+          (NP
+            ($-HEAD $)
+            (CD 240,000)
+            (-NONE- *U*-HEAD)))))
+    (. .)))
+
+(
+  (S
+    (PP-TMP
+      (IN-HEAD After)
+      (S-NOM
+        (NP-SBJ-1
+          (-NONE--HEAD *-HEAD))
+        (VP-HEAD
+          (VBG-HEAD being)
+          (VP
+            (VBN-HEAD inspected)
+            (NP
+              (-NONE--HEAD *-1-HEAD))))))
+    (, ,)
+    (NP-SBJ-2
+      (NP-HEAD
+        (NNS-HEAD buildings))
+      (PP
+        (IN-HEAD with)
+        (NP
+          (JJ substantial)
+          (NN-HEAD damage))))
+    (VP-HEAD
+      (VBD-HEAD were)
+      (VP
+        (VBN-HEAD color-coded)
+        (NP
+          (-NONE--HEAD *-2-HEAD))))
+    (. .)))
+
+(
+  (S
+    (S-TPC-2
+      (ADVP-TMP
+        (RB-HEAD Now))
+      (NP-SBJ-1
+        (PRP-HEAD they))
+      (VP-HEAD
+        (VBP-HEAD do)
+        (RB n't)
+        (VP
+          (VB-HEAD have)
+          (S
+            (NP-SBJ
+              (-NONE--HEAD *-1-HEAD))
+            (VP-HEAD
+              (TO-HEAD to)
+              (VP
+                (-NONE--HEAD *?*-HEAD)))))))
+    (, ,)
+    ('' '')
+    (NP-SBJ
+      (PRP-HEAD he))
+    (VP-HEAD
+      (VBZ-HEAD says)
+      (S
+        (-NONE--HEAD *T*-2-HEAD)))
+    (. .)))
+
+(
+  (S
+    (CC-HEAD But)
+    (NP-SBJ
+      (NP-HEAD
+        (PRP-HEAD it))
+      (SBAR
+        (-NONE--HEAD *EXP*-1-HEAD)))
+    (VP
+      (VBZ-HEAD is)
+      (ADJP-PRD
+        (ADVP
+          (IN-HEAD at)
+          (JJS least))
+        (JJ-HEAD worthy)
+        (PP
+          (IN-HEAD of)
+          (NP
+            (DT some)
+            (NN-HEAD note))))
+      (SBAR-1
+        (IN that)
+        (S-HEAD
+          (NP-SBJ
+            (EX-HEAD there))
+          (VP-HEAD
+            (VBP-HEAD are)
+            (NP-PRD
+              (ADJP
+                (RB very)
+                (JJ-HEAD few))
+              (NNS-HEAD refrigerators))
+            (PP-TMP
+              (IN-HEAD in)
+              (NP
+                (NNP-HEAD Antarctica)))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NN Fuel)
+      (NNS-HEAD costs))
+    (VP-HEAD
+      (VBD-HEAD were)
+      (ADVP-PRD
+        (RB-HEAD up)
+        (NP
+          (CD 10)
+          (NN-HEAD %)))
+      (PP-TMP
+        (IN-HEAD in)
+        (NP
+          (DT the)
+          (JJ third)
+          (NN-HEAD quarter))))
+    (. .)))
+
+(
+  (S
+    (S-HEAD
+      (NP-SBJ
+        (NNP Jaguar)
+        (NNS-HEAD officials))
+      (VP-HEAD
+        (VBP-HEAD have)
+        (VP
+          (VBN-HEAD indicated)
+          (SBAR
+            (-NONE- 0-HEAD)
+            (S-HEAD
+              (NP-SBJ-3
+                (PRP-HEAD they))
+              (VP-HEAD
+                (VBP-HEAD are)
+                (ADVP-PRD
+                  (RB-HEAD close)
+                  (PP
+                    (TO-HEAD to)
+                    (S-NOM
+                      (NP-SBJ
+                        (-NONE--HEAD *-3-HEAD))
+                      (VP-HEAD
+                        (VBG-HEAD wrapping)
+                        (PRT
+                          (RP-HEAD up))
+                        (NP
+                          (NP-HEAD
+                            (NP-HEAD
+                              (DT a)
+                              (JJ friendly)
+                              (NN-HEAD alliance))
+                            (PP
+                              (IN-HEAD with)
+                              (NP
+                                (NNP-HEAD GM))))
+                          (SBAR
+                            (WHNP-2
+                              (WDT-HEAD that))
+                            (S-HEAD
+                              (NP-SBJ
+                                (-NONE--HEAD *T*-2-HEAD))
+                              (VP-HEAD
+                                (MD-HEAD would)
+                                (VP
+                                  (VB-HEAD preserve)
+                                  (NP
+                                    (NP
+                                      (NNP-HEAD Jaguar)
+                                      (POS 's))
+                                    (NN-HEAD independence)))))))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP-SBJ-1
+        (DT no)
+        (NN-HEAD deal))
+      (VP-HEAD
+        (VBZ-HEAD has)
+        (VP
+          (VBN-HEAD been)
+          (VP
+            (VBN-HEAD announced)
+            (NP
+              (-NONE--HEAD *-1-HEAD))))))
+    (. .)))
+
+(
+  (S
+    (S-TPC-2
+      (NP-SBJ-1
+        (NP
+          (DT The)
+          (NN-HEAD market)
+          (POS 's))
+        (NN-HEAD tempo))
+      (VP-HEAD
+        (VBD-HEAD was)
+        (VP
+          (VBN-HEAD helped)
+          (NP
+            (-NONE--HEAD *-1-HEAD))
+          (PP
+            (IN-HEAD by)
+            (NP-LGS
+              (NP
+                (DT the)
+                (NN-HEAD dollar)
+                (POS 's))
+              (NN-HEAD resiliency))))))
+    (, ,)
+    (NP-SBJ
+      (PRP-HEAD he))
+    (VP-HEAD
+      (VBD-HEAD said)
+      (SBAR
+        (-NONE- 0-HEAD)
+        (S-HEAD
+          (-NONE--HEAD *T*-2-HEAD))))
+    (. .)))
+
+(
+  (S
+    (CC-HEAD But)
+    (NP-SBJ
+      (PRP-HEAD it))
+    (VP
+      (MD-HEAD wo)
+      (RB n't)
+      (VP
+        (VB-HEAD be)
+        (NP-PRD
+          (DT a)
+          (NN-HEAD boom))
+        (ADVP-TMP
+          (RB-HEAD again))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (NNS-HEAD Sales))
+      (PP
+        (IN-HEAD for)
+        (NP
+          (DT the)
+          (NN-HEAD quarter))))
+    (VP-HEAD
+      (VBD-HEAD slipped)
+      (NP-EXT
+        (CD 2.7)
+        (NN-HEAD %))
+      (PP-DIR
+        (TO-HEAD to)
+        (NP
+          (QP-HEAD
+            ($-HEAD $)
+            (CD 601.3)
+            (CD million))
+          (-NONE- *U*-HEAD)))
+      (PP-DIR
+        (IN-HEAD from)
+        (NP
+          (QP-HEAD
+            ($-HEAD $)
+            (CD 618.1)
+            (CD million))
+          (-NONE- *U*-HEAD))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (DT The)
+      (JJ minimum)
+      (NN-HEAD unit))
+    (VP-HEAD
+      (VBZ-HEAD is)
+      (NP-PRD
+        ($-HEAD $)
+        (CD 100,000)
+        (-NONE- *U*-HEAD)))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NN-HEAD Volume))
+    (VP-HEAD
+      (VBD-HEAD totaled)
+      (NP
+        (CD 14,560,000)
+        (NNS-HEAD shares)))
+    (. .)))
+
+(
+  (FRAG
+    (WHADVP-HEAD
+      (WRB-HEAD Why))
+    (NP
+      (DT the)
+      (NN-HEAD timidity))
+    (. ?)))
+
+(
+  (S
+    (ADVP-TMP
+      (RB-HEAD Meanwhile))
+    (, ,)
+    (NP-SBJ
+      (NN-HEAD sterling))
+    (VP-HEAD
+      (VBD-HEAD slumped)
+      (PP
+        (IN-HEAD on)
+        (NP
+          (NN-HEAD news)
+          (SBAR
+            (IN that)
+            (S-HEAD
+              (NP-SBJ
+                (DT the)
+                (NNP United)
+                (NNP-HEAD Kingdom))
+              (VP-HEAD
+                (VBD-HEAD posted)
+                (NP
+                  (DT a)
+                  (JJ wider-than-expected)
+                  (NN trade)
+                  (NN-HEAD deficit))
+                (PP-TMP
+                  (IN-HEAD in)
+                  (NP
+                    (NNP-HEAD September)))))))))
+    (. .)))
+
+(
+  (S
+    (ADVP
+      (RB-HEAD However))
+    (, ,)
+    (NP-SBJ-1
+      (NP-HEAD
+        (NN-HEAD inflation))
+      (PP
+        (IN-HEAD for)
+        (NP
+          (CD-HEAD 1990))))
+    (VP-HEAD
+      (VBD-HEAD was)
+      (VP
+        (VBN-HEAD seen)
+        (S
+          (NP-SBJ
+            (-NONE--HEAD *-1-HEAD))
+          (VP-HEAD
+            (VBG-HEAD slowing)
+            (PP-DIR
+              (TO-HEAD to)
+              (NP
+                (CD 4.5)
+                (NN-HEAD %)))))))
+    (. .)))
+
+(
+  (S
+    (PP-TMP
+      (IN-HEAD On)
+      (NP
+        (PRP$ his)
+        (NNS-HEAD off-hours)))
+    (NP-SBJ
+      (PRP-HEAD he))
+    (VP-HEAD
+      (VBZ-HEAD wears)
+      (NP
+        (NN cardigan)
+        (NNS-HEAD sweaters)))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNS-HEAD Traders))
+    (VP-HEAD
+      (MD-HEAD will)
+      (ADVP
+        (RB-HEAD also))
+      (VP
+        (VB-HEAD watch)
+        (PP-CLR
+          (IN-HEAD for)
+          (SBAR
+            (IN whether)
+            (S-HEAD
+              (NP-SBJ
+                (DT the)
+                (NNP Soviet)
+                (NNP-HEAD Union))
+              (VP-HEAD
+                (VBZ-HEAD continues)
+                (NP
+                  (NP-HEAD
+                    (PRP$ its)
+                    (JJ traditional)
+                    (NN fall)
+                    (NN-HEAD buying))
+                  (PP
+                    (IN-HEAD of)
+                    (NP
+                      (NNP U.S.)
+                      (NN-HEAD grain))))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNP Mr.)
+      (NNP-HEAD Bernstein))
+    (VP-HEAD
+      (VBD-HEAD said)
+      (SBAR
+        (-NONE- 0-HEAD)
+        (S-HEAD
+          (NP-SBJ
+            (PRP-HEAD he))
+          (VP-HEAD
+            (MD-HEAD will)
+            (VP
+              (VP-HEAD
+                (VB-HEAD stay)
+                (PP-TMP-CLR
+                  (IN-HEAD until)
+                  (NP
+                    (NNP Dec.)
+                    (CD-HEAD 31))))
+              (CC and)
+              (VP
+                (VB-HEAD work)
+                (PP-CLR
+                  (IN-HEAD with)
+                  (NP
+                    (NP-HEAD
+                      (PRP$ his)
+                      (NN-HEAD successor))
+                    (, ,)
+                    (SBAR
+                      (WHNP-36
+                        (WP-HEAD who))
+                      (S-HEAD
+                        (NP-SBJ-1
+                          (-NONE--HEAD *T*-36-HEAD))
+                        (VP-HEAD
+                          (VBZ-HEAD is)
+                          (S-PRD
+                            (NP-SBJ-43
+                              (-NONE--HEAD *-1-HEAD))
+                            (VP-HEAD
+                              (TO-HEAD to)
+                              (VP
+                                (VB-HEAD be)
+                                (VP
+                                  (VBN-HEAD named)
+                                  (NP
+                                    (-NONE--HEAD *-43-HEAD))
+                                  (ADVP-TMP
+                                    (RB-HEAD soon)))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ-1
+      (NP-HEAD
+        (NP
+          (NNP-HEAD Tokyo)
+          (POS 's))
+        (NNP Nikkei)
+        (NNP-HEAD Index))
+      (PP
+        (IN-HEAD of)
+        (NP
+          (CD 225)
+          (NNS-HEAD stocks))))
+    (VP-HEAD
+      (VBD-HEAD jumped)
+      (NP-EXT
+        (CD 527.39)
+        (NNS-HEAD points))
+      (S-CLR
+        (NP-SBJ
+          (-NONE--HEAD *-1-HEAD))
+        (VP-HEAD
+          (TO-HEAD to)
+          (VP
+            (VB-HEAD close)
+            (PP-CLR
+              (IN-HEAD at)
+              (NP
+                (CD-HEAD 34996.08)))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (CD One)
+        (NN-HEAD reason))
+      (PP
+        (IN-HEAD for)
+        (NP
+          (PRP$ his)
+          (NN-HEAD gloom))))
+    (VP-HEAD
+      (VBZ-HEAD is)
+      (NP-PRD
+        (NP-HEAD
+          (DT a)
+          (JJ weekly)
+          (NN-HEAD tally))
+        (SBAR
+          (WHNP-1
+            (-NONE--HEAD 0-HEAD))
+          (S-HEAD
+            (NP-SBJ
+              (PRP-HEAD he))
+            (VP-HEAD
+              (VBZ-HEAD keeps)
+              (NP
+                (NP-HEAD
+                  (-NONE--HEAD *T*-1-HEAD))
+                (PP
+                  (IN-HEAD of)
+                  (NP
+                    (NP-HEAD
+                      (NNS-HEAD stocks))
+                    (PP
+                      (IN-HEAD within)
+                      (NP
+                        (NP-HEAD
+                          (DT a)
+                          (NN-HEAD point))
+                        (PP
+                          (IN-HEAD of)
+                          (S-NOM
+                            (NP-SBJ
+                              (-NONE--HEAD *-HEAD))
+                            (VP-HEAD
+                              (VBG-HEAD hitting)
+                              (NP
+                                (JJ new)
+                                (NNS-HEAD highs)
+                                (CC or)
+                                (NNS lows)))))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (NNP Mr.)
+        (NNP-HEAD Achenbaum))
+      (, ,)
+      (SBAR
+        (WHNP-292
+          (WP-HEAD who))
+        (S-HEAD
+          (NP-SBJ-1
+            (-NONE--HEAD *T*-292-HEAD))
+          (VP-HEAD
+            (VBD-HEAD had)
+            (VP
+              (VBN-HEAD been)
+              (VP
+                (VBG-HEAD considering)
+                (S
+                  (NP-SBJ
+                    (-NONE--HEAD *-1-HEAD))
+                  (VP-HEAD
+                    (VP-HEAD
+                      (VBG-HEAD paring)
+                      (PRT
+                        (RP-HEAD down))
+                      (NP
+                        (PRP$ his)
+                        (NN-HEAD firm)))
+                    (CC or)
+                    (VP
+                      (VBG-HEAD merging)
+                      (NP
+                        (PRP-HEAD it))
+                      (PP-CLR
+                        (IN-HEAD with)
+                        (NP
+                          (DT another)
+                          (JJ small)
+                          (NN consulting)
+                          (NN-HEAD outfit)))))))))))
+      (, ,))
+    (ADVP-TMP
+      (RB-HEAD soon))
+    (VP-HEAD
+      (VBD-HEAD agreed))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (DT The)
+      (JJ top)
+      (NN money)
+      (NNS-HEAD funds))
+    (VP-HEAD
+      (VBP-HEAD are)
+      (ADVP-TMP
+        (RB-HEAD currently))
+      (VP
+        (VBG-HEAD yielding)
+        (NP
+          (QP
+            (RB well)
+            (IN-HEAD over)
+            (CD 9))
+          (NN-HEAD %))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (DT A)
+        (NN-HEAD proviso))
+      (PP
+        (TO-HEAD to)
+        (NP
+          (DT that)
+          (NN-HEAD promise))))
+    (VP-HEAD
+      (VBZ-HEAD is)
+      (SBAR-PRD
+        (IN that)
+        (S-HEAD
+          (NP-SBJ
+            (NP-HEAD
+              (DT a)
+              (NN-HEAD minimum))
+            (PP
+              (IN-HEAD of)
+              (NP
+                (CD 35)
+                (NNS-HEAD states))))
+          (VP-HEAD
+            (VBP-HEAD reach)
+            (NP
+              (NN settlement)
+              (NNS-HEAD agreements))
+            (PP-TMP
+              (IN-HEAD before)
+              (NP
+                (JJ next)
+                (NNP-HEAD Tuesday)))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ-1
+      (NNP-HEAD Texaco))
+    (VP-HEAD
+      (VBZ-HEAD has)
+      (ADVP
+        (RB-HEAD also))
+      (VP
+        (VBN-HEAD been)
+        (VP
+          (VBG-HEAD attempting)
+          (S
+            (NP-SBJ
+              (-NONE--HEAD *-1-HEAD))
+            (VP-HEAD
+              (TO-HEAD to)
+              (VP
+                (VB-HEAD sell)
+                (NP
+                  (NN oil)
+                  (NNS-HEAD properties))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNP-HEAD Amtrak))
+    (VP-HEAD
+      (VBD-HEAD said)
+      (SBAR
+        (-NONE- 0-HEAD)
+        (S-HEAD
+          (NP-SBJ-1
+            (PRP-HEAD it))
+          (VP-HEAD
+            (VBD-HEAD planned)
+            (S
+              (NP-SBJ
+                (-NONE--HEAD *-1-HEAD))
+              (VP-HEAD
+                (TO-HEAD to)
+                (VP
+                  (VB-HEAD resume)
+                  (NP
+                    (NP-HEAD
+                      (DT some)
+                      (NN train)
+                      (NNS-HEAD operations))
+                    (PP-LOC
+                      (TO-HEAD to)
+                      (NP
+                        (NNP-HEAD Oakland))))
+                  (NP-TMP
+                    (JJ late)
+                    (NN-HEAD yesterday)))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (DT The)
+      (NN-HEAD result))
+    (VP-HEAD
+      (VBZ-HEAD has)
+      (VP
+        (VBN-HEAD been)
+        (NP-PRD
+          (NP-HEAD
+            (DT a)
+            (JJ dangerous)
+            (NN-HEAD vacuum))
+          (PP
+            (IN-HEAD of)
+            (NP
+              (NNP U.S.)
+              (NN-HEAD leadership)))
+          (, ,)
+          (SBAR
+            (WHNP-1
+              (WDT-HEAD which))
+            (S-HEAD
+              (NP-SBJ
+                (-NONE--HEAD *T*-1-HEAD))
+              (VP-HEAD
+                (VBZ-HEAD leaves)
+                (S
+                  (NP-SBJ
+                    (NNP Central)
+                    (NNP-HEAD America))
+                  (ADJP-PRD-HEAD
+                    (JJ-HEAD open)
+                    (PP
+                      (TO-HEAD to)
+                      (NP
+                        (JJ Soviet)
+                        (NN-HEAD adventurism)))))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ-1991
+      (NP-HEAD
+        (JJ Buy)
+        (NN order)
+        (NNS-HEAD imbalances))
+      (PP
+        (IN-HEAD on)
+        (NP
+          (JJ several)
+          (JJ big)
+          (NNS-HEAD stocks))))
+    (VP-HEAD
+      (VBD-HEAD were)
+      (VP
+        (VBN-HEAD posted)
+        (NP
+          (-NONE--HEAD *-1991-HEAD))
+        (PP
+          (IN-HEAD by)
+          (NP-LGS
+            (DT the)
+            (NNP New)
+            (NNP York)
+            (NNP Stock)
+            (NNP-HEAD Exchange)))))
+    (. .)))
+
+(
+  (S
+    (ADVP
+      (RB-HEAD Moreover))
+    (, ,)
+    (NP-SBJ
+      (PRP-HEAD they))
+    (VP-HEAD
+      (VBD-HEAD said)
+      (SBAR
+        (-NONE- 0-HEAD)
+        (S-HEAD
+          (S-HEAD
+            (NP-SBJ
+              (NP-HEAD
+                (DT the)
+                (JJ first)
+                (NNS appropriations)
+                (NN-HEAD bill))
+              (VP
+                (VBN-HEAD passed)
+                (NP
+                  (-NONE--HEAD *-HEAD))
+                (ADVP-TMP
+                  (NP
+                    (CD 200)
+                    (NNS-HEAD years))
+                  (IN-HEAD ago))))
+            (VP-HEAD
+              (VBD-HEAD covered)
+              (NP
+                (JJ many)
+                (JJ different)
+                (NNS-HEAD items))))
+          (, ,)
+          (CC and)
+          (S
+            (NP-SBJ
+              (EX-HEAD there))
+            (VP-HEAD
+              (VBD-HEAD was)
+              (NP-PRD
+                (NP-HEAD
+                  (DT no)
+                  (NN-HEAD discussion))
+                (PP
+                  (IN-HEAD of)
+                  (NP
+                    (DT a)
+                    (JJ line-item)
+                    (NN-HEAD veto)))))))))
+    (. .)))
+
+(
+  (FRAG
+    (X-HEAD
+      (SYM-HEAD b))
+    (: -)
+    (VP
+      (VBZ-HEAD Includes)
+      (NP
+        (NP-HEAD
+          (DT a)
+          (ADJP
+            (QP-HEAD
+              ($-HEAD $)
+              (CD 41.3)
+              (CD million))
+            (-NONE- *U*-HEAD))
+          (NN-HEAD gain))
+        (PP
+          (IN-HEAD on)
+          (NP
+            (NP-HEAD
+              (DT the)
+              (NN-HEAD sale))
+            (PP
+              (IN-HEAD of)
+              (NP
+                (NNP-HEAD FiberCom)))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (JJS-HEAD Most))
+    (VP-HEAD
+      (VBP-HEAD sleep)
+      (PP-LOC
+        (IN-HEAD on)
+        (NP
+          (DT the)
+          (NN-HEAD floor))))
+    (. .)))
+
+(
+  (SINV
+    (`` ``)
+    (S-TPC-1
+      (NP-SBJ
+        (DT The)
+        (NN-HEAD crime))
+      (VP-HEAD
+        (VBZ-HEAD goes)
+        (PP-PRD
+          (TO-HEAD to)
+          (NP
+            (NN-HEAD character)))))
+    (, ,)
+    ('' '')
+    (VP-HEAD
+      (VBZ-HEAD says)
+      (S
+        (-NONE--HEAD *T*-1-HEAD)))
+    (NP-SBJ
+      (NP-HEAD
+        (NNP Ron)
+        (NNP-HEAD Maiorana))
+      (, ,)
+      (NP
+        (NP-HEAD
+          (DT a)
+          (NN-HEAD consultant))
+        (PP
+          (TO-HEAD to)
+          (NP
+            (DT the)
+            (NNP Giuliani)
+            (NN-HEAD campaign)))))
+    (. .)))
+
+(
+  (S
+    (PP-TMP
+      (IN-HEAD After)
+      (NP
+        (CD two)
+        (NNS-HEAD mistrials)))
+    (, ,)
+    (NP-SBJ
+      (NP-HEAD
+        (DT the)
+        (NNS-HEAD stakes))
+      (PP-LOC
+        (IN-HEAD in)
+        (NP
+          (NP-HEAD
+            (DT the)
+            (NN stock)
+            (NN manipulation)
+            (NN-HEAD trial))
+          (PP
+            (IN-HEAD of)
+            (NP
+              (NP-HEAD
+                (NNP GAF)
+                (NNP-HEAD Corp.))
+              (CC and)
+              (NP
+                (NP-HEAD
+                  (PRP$ its)
+                  (NN vice)
+                  (NN-HEAD chairman))
+                (, ,)
+                (NP
+                  (NNP James)
+                  (NNP T.)
+                  (NNP-HEAD Sherwin))
+                (, ,)))))))
+    (VP-HEAD
+      (VBP-HEAD have)
+      (VP
+        (VBN-HEAD changed)
+        (ADVP
+          (RB-HEAD considerably))))
+    (. .)))
+
+(
+  (S
+    (S-HEAD
+      (NP-SBJ
+        (-NONE--HEAD *-HEAD))
+      (VP-HEAD
+        (VB-HEAD Put)
+        (NP
+          (DT-HEAD these))
+        (ADVP
+          (RB-HEAD together))))
+    (, ,)
+    (CC and)
+    (S
+      (NP-SBJ
+        (PRP-HEAD you))
+      (VP-HEAD
+        (VBP-HEAD get)
+        (NP
+          (NP-HEAD
+            (NNS-HEAD programs))
+          (PP
+            (IN-HEAD about)
+            (NP
+              (NN-HEAD rape))))))
+    (. .)))
+
+(
+  (SBARQ
+    (WHNP-1
+      (WP-HEAD What))
+    (SQ-HEAD
+      (NP-SBJ
+        (-NONE--HEAD *T*-1-HEAD))
+      (VP-HEAD
+        (VBD-HEAD happened)))
+    (. ?)))
+
+(
+  (S
+    (NP-SBJ
+      (PRP-HEAD He))
+    (VP-HEAD
+      (VBD-HEAD was)
+      (ADJP-PRD
+        (JJ-HEAD superb)))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNP Salomon)
+      (NNP-HEAD Brothers))
+    (VP-HEAD
+      (VBD-HEAD confirmed)
+      (SBAR
+        (IN that)
+        (S-HEAD
+          (NP-SBJ
+            (PRP-HEAD it))
+          (VP-HEAD
+            (VBZ-HEAD has)
+            (VP
+              (VBN-HEAD had)
+              (NP
+                (DT a)
+                (JJ buy)
+                (NN-HEAD recommendation))
+              (PP-LOC-CLR
+                (IN-HEAD on)
+                (NP
+                  (DT the)
+                  (NN-HEAD stock)))
+              (PP-TMP
+                (IN-HEAD for)
+                (NP
+                  (QP
+                    (RB about)
+                    (CD-HEAD two))
+                  (NNS-HEAD years))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNS-HEAD Marketers))
+    (VP-HEAD
+      (VBP-HEAD speculate)
+      (SBAR
+        (IN that)
+        (S-HEAD
+          (NP-SBJ-3
+            (ADJP
+              (JJR more)
+              (JJ-HEAD affluent))
+            (NNS-HEAD people))
+          (VP-HEAD
+            (VP-HEAD
+              (VBP-HEAD tend)
+              (S
+                (NP-SBJ
+                  (-NONE--HEAD *-3-HEAD))
+                (VP-HEAD
+                  (TO-HEAD to)
+                  (VP
+                    (VB-HEAD lead)
+                    (NP
+                      (ADJP
+                        (RBR more)
+                        (JJ-HEAD pressured))
+                      (NNS-HEAD lives))))))
+            (CC and)
+            (VP
+              (VBP-HEAD do)
+              (RB n't)
+              (VP
+                (VB-HEAD have)
+                (NP
+                  (NP-HEAD
+                    (NN-HEAD time))
+                  (SBAR
+                    (WHADVP-2
+                      (-NONE--HEAD 0-HEAD))
+                    (S-HEAD
+                      (NP-SBJ
+                        (-NONE--HEAD *-HEAD))
+                      (VP-HEAD
+                        (TO-HEAD to)
+                        (VP
+                          (VB-HEAD research)
+                          (NP
+                            (NP-HEAD
+                              (DT the)
+                              (NNS-HEAD products))
+                            (SBAR
+                              (WHNP-1
+                                (-NONE--HEAD 0-HEAD))
+                              (S-HEAD
+                                (NP-SBJ
+                                  (PRP-HEAD they))
+                                (VP-HEAD
+                                  (VBP-HEAD buy)
+                                  (NP
+                                    (-NONE--HEAD *T*-1-HEAD))))))
+                          (PP
+                            (IN-HEAD for)
+                            (NP
+                              (DT the)
+                              (NX-HEAD
+                                (NX-HEAD
+                                  (JJS highest)
+                                  (NN-HEAD quality))
+                                (CC and)
+                                (NX
+                                  (ADJP
+                                    (RBS most)
+                                    (JJ-HEAD reasonable))
+                                  (NN-HEAD price)))))
+                          (ADVP-TMP
+                            (-NONE--HEAD *T*-2-HEAD)))))))))))))
+    (. .)))
+
+(
+  (S
+    (PP
+      (IN-HEAD Despite)
+      (NP
+        (NP-HEAD
+          (DT the)
+          (JJ big)
+          (NNS-HEAD increases))
+        (PP-LOC
+          (IN-HEAD in)
+          (NP
+            (NN health-care)
+            (NNS-HEAD costs)))))
+    (, ,)
+    (NP-SBJ
+      (NNS-HEAD wages))
+    (ADVP-TMP
+      (RB-HEAD still))
+    (VP-HEAD
+      (VBP-HEAD account)
+      (PP-CLR
+        (IN-HEAD for)
+        (NP
+          (NP-HEAD
+            (DT a)
+            (ADJP
+              (RB far)
+              (JJR-HEAD greater))
+            (NN-HEAD share))
+          (PP
+            (IN-HEAD of)
+            (NP
+              (JJ overall)
+              (NN labor)
+              (NNS-HEAD costs))))))
+    (. .)))
+
+(
+  (S
+    (PP
+      (IN-HEAD In)
+      (NP
+        (NN-HEAD fact)))
+    (, ,)
+    (NP-SBJ
+      (NNP Ms.)
+      (NNP-HEAD Baker))
+    (VP-HEAD
+      (VBD-HEAD played)
+      (NP
+        (NP-HEAD
+          (NNS-HEAD scenes))
+        (SBAR
+          (-NONE--HEAD *ICH*-2-HEAD)))
+      (PP-LOC
+        (IN-HEAD in)
+        (NP
+          (NNP-HEAD Casablanca)))
+      (SBAR-2
+        (WHNP-1
+          (WDT-HEAD that))
+        (S-HEAD
+          (NP-SBJ
+            (-NONE--HEAD *T*-1-HEAD))
+          (VP-HEAD
+            (MD-HEAD could)
+            (VP
+              (VB-HEAD have)
+              (VP
+                (VBN-HEAD made)
+                (NP-CLR
+                  (PRP-HEAD it))
+                (PP-DIR
+                  (IN-HEAD into)
+                  (`` ``)
+                  (NP-TTL
+                    (NNP-HEAD Casablanca)))))))))
+    (. .)
+    ('' '')))
+
+(
+  (S
+    (NP-SBJ
+      (JJ Possible)
+      (NNS-HEAD bidders))
+    (VP-HEAD
+      (VBP-HEAD include)
+      (NP
+        (NP-HEAD
+          (NNP Christopher)
+          (NNP-HEAD Ondaatje))
+        (, ,)
+        (NP
+          (NP-HEAD
+            (DT a)
+            (NNP Toronto)
+            (NN-HEAD financier))
+          (CC and)
+          (NP
+            (NP-HEAD
+              (NN vice)
+              (NN-HEAD chairman))
+            (PP
+              (IN-HEAD of)
+              (NP
+                (NP-HEAD
+                  (NNP Hees)
+                  (NNP International)
+                  (NNP Bancorp)
+                  (NNP-HEAD Inc.))
+                (, ,)
+                (NP
+                  (NP-HEAD
+                    (DT a)
+                    (VBG holding)
+                    (NN-HEAD company))
+                  (VP
+                    (VBN-HEAD controlled)
+                    (NP
+                      (-NONE--HEAD *-HEAD))
+                    (PP
+                      (IN-HEAD by)
+                      (NP-LGS
+                        (NP
+                          (NNP-HEAD Toronto)
+                          (POS 's))
+                        (NNP Bronfman)
+                        (NN-HEAD family)))))))))))
+    (. .)))
+
+(
+  (S-HLN
+    (NP-TTL-SBJ
+      (JJ INTENSIVE)
+      (NNS-HEAD AUDITS))
+    (VP-HEAD
+      (VBP-HEAD are)
+      (VP
+        (VBG-HEAD coming)
+        (PP-CLR
+          (TO-HEAD to)
+          (NP
+            (CD 55,500)
+            (NNS-HEAD taxpayers)))
+        (PP-CLR
+          (IN-HEAD as)
+          (NP
+            (NN research)
+            (NN guinea)
+            (NNS-HEAD pigs)))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNP Mr.)
+      (NNP-HEAD Droz))
+    (VP-HEAD
+      (VBZ-HEAD says)
+      (SBAR
+        (-NONE- 0-HEAD)
+        (S-HEAD
+          (NP-SBJ
+            (DT the)
+            (NNPS-HEAD Soviets))
+          (VP-HEAD
+            (MD-HEAD could)
+            (ADVP
+              (RB-HEAD even))
+            (VP
+              (VB-HEAD help)
+              (S
+                (NP-SBJ
+                  (NNP U.S.)
+                  (NNS-HEAD designers))
+                (VP-HEAD
+                  (VB-HEAD renew)
+                  (NP
+                    (NP-HEAD
+                      (PRP$ their)
+                      (NN-HEAD sense))
+                    (PP
+                      (IN-HEAD of)
+                      (NP
+                        (NN-HEAD purpose)))))))))))
+    (. .)))
+
+(
+  (S
+    (CC-HEAD But)
+    (NP-SBJ
+      (NP
+        (NN-HEAD yesterday)
+        (POS 's))
+      (NN-HEAD announcement))
+    (VP
+      (VBZ-HEAD indicates)
+      (SBAR
+        (IN that)
+        (S-HEAD
+          (NP-SBJ
+            (NNP-HEAD Ford))
+          (VP-HEAD
+            (VBZ-HEAD has)
+            (RB n't)
+            (VP
+              (VBN-HEAD lost)
+              (NP
+                (NN-HEAD interest)))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (DT The)
+      (NN-HEAD company))
+    (, ,)
+    (PP
+      (IN-HEAD for)
+      (NP
+        (PRP$ its)
+        (NN-HEAD part)))
+    (, ,)
+    (VP-HEAD
+      (VBZ-HEAD maintains)
+      (SBAR
+        (IN that)
+        (S-HEAD
+          (NP-SBJ
+            (NP-HEAD
+              (JJ-HEAD many))
+            (PP
+              (IN-HEAD of)
+              (NP
+                (DT the)
+                (JJ disputed)
+                (NNS-HEAD documents))))
+          (VP-HEAD
+            (VBP-HEAD are)
+            (NP-PRD
+              (NP-HEAD
+                (JJ privileged)
+                (JJ attorney-client)
+                (NNS-HEAD communications))
+              (SBAR
+                (WHNP-1
+                  (WDT-HEAD that))
+                (S-HEAD
+                  (NP-SBJ-2
+                    (-NONE--HEAD *T*-1-HEAD))
+                  (VP-HEAD
+                    (MD-HEAD should)
+                    (RB n't)
+                    (VP
+                      (VB-HEAD be)
+                      (VP
+                        (VBN-HEAD turned)
+                        (NP
+                          (-NONE--HEAD *-2-HEAD))
+                        (PRT
+                          (RP-HEAD over))
+                        (PP-DIR
+                          (TO-HEAD to)
+                          (NP
+                            (NNS-HEAD prosecutors)))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP-TMP
+      (DT The)
+      (JJ first)
+      (NN-HEAD time))
+    (NP-SBJ-1
+      (PRP-HEAD he))
+    (VP-HEAD
+      (VBD-HEAD was)
+      (VP
+        (VBN-HEAD shot)
+        (NP
+          (-NONE--HEAD *-1-HEAD))
+        (PP-LOC-CLR
+          (IN-HEAD in)
+          (NP
+            (DT the)
+            (NN-HEAD hand)))
+        (SBAR-ADV
+          (IN as)
+          (S-HEAD
+            (NP-SBJ
+              (PRP-HEAD he))
+            (VP-HEAD
+              (VBD-HEAD chased)
+              (NP
+                (DT the)
+                (NNS-HEAD robbers))
+              (ADVP-DIR
+                (RB-HEAD outside)))))))
+    (. .)))
+
+(
+  (SQ
+    (NNP-HEAD Does)
+    (NP-SBJ
+      (NNP Mr.)
+      (NNP-HEAD Steinhardt))
+    (VP
+      (VB-HEAD regret)
+      (NP
+        (NP-HEAD
+          (PRP$ his)
+          (NN-HEAD incursion))
+        (PP
+          (IN-HEAD into)
+          (NP
+            (DT the)
+            (NN takeover-threat)
+            (NN-HEAD game)))))
+    (. ?)))
+
+(
+  (SINV
+    (`` ``)
+    (S-TPC-1
+      (NP-SBJ
+        (DT The)
+        (NN morbidity)
+        (NN-HEAD rate))
+      (VP-HEAD
+        (VBZ-HEAD is)
+        (NP-PRD
+          (DT a)
+          (JJ striking)
+          (NN-HEAD finding))
+        (PP-LOC
+          (IN-HEAD among)
+          (NP
+            (NP-HEAD
+              (DT-HEAD those))
+            (PP
+              (IN-HEAD of)
+              (NP
+                (PRP-HEAD us)))
+            (SBAR
+              (WHNP-5
+                (WP-HEAD who))
+              (S-HEAD
+                (NP-SBJ
+                  (-NONE--HEAD *T*-5-HEAD))
+                (VP-HEAD
+                  (VBP-HEAD study)
+                  (NP
+                    (JJ asbestos-related)
+                    (NNS-HEAD diseases)))))))))
+    (, ,)
+    ('' '')
+    (VP-HEAD
+      (VBD-HEAD said)
+      (S
+        (-NONE--HEAD *T*-1-HEAD)))
+    (NP-SBJ
+      (NNP Dr.)
+      (NNP-HEAD Talcott))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNP Manila)
+      (NNS-HEAD markets))
+    (VP-HEAD
+      (VBD-HEAD were)
+      (ADJP-PRD
+        (VBN-HEAD closed)
+        (PP
+          (IN-HEAD for)
+          (NP
+            (DT a)
+            (NN-HEAD holiday)))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNP Commonwealth)
+      (NNS-HEAD leaders))
+    (VP-HEAD
+      (VBD-HEAD issued)
+      (NP
+        (NP-HEAD
+          (DT a)
+          (NN-HEAD declaration))
+        (VP
+          (VBG-HEAD giving)
+          (NP
+            (NNP South)
+            (NNP-HEAD Africa))
+          (NP
+            (NP-HEAD
+              (CD six)
+              (NNS-HEAD months))
+            (SBAR
+              (WHADVP-1
+                (-NONE--HEAD 0-HEAD))
+              (S-HEAD
+                (NP-SBJ
+                  (-NONE--HEAD *-HEAD))
+                (VP-HEAD
+                  (TO-HEAD to)
+                  (VP
+                    (VP-HEAD
+                      (VB-HEAD deliver)
+                      (PP-CLR
+                        (IN-HEAD on)
+                        (NP
+                          (NNS-HEAD pledges)
+                          (S
+                            (NP-SBJ
+                              (-NONE--HEAD *-HEAD))
+                            (VP-HEAD
+                              (TO-HEAD to)
+                              (VP
+                                (VB-HEAD ease)
+                                (NP
+                                  (NN-HEAD apartheid)))))))
+                      (ADVP-TMP
+                        (-NONE--HEAD *T*-1-HEAD)))
+                    (CC or)
+                    (VP
+                      (VB-HEAD face)
+                      (NP
+                        (JJ new)
+                        (NNS-HEAD reprisals)))))))))))
+    (. .)))
+
+(
+  (S
+    (SBAR-TMP
+      (IN Once)
+      (S-HEAD
+        (NP-SBJ-1
+          (NN production)
+          (NNS-HEAD hurdles))
+        (VP-HEAD
+          (VBP-HEAD are)
+          (VP
+            (VBN-HEAD overcome)
+            (NP
+              (-NONE--HEAD *-1-HEAD))))))
+    (, ,)
+    (NP-SBJ
+      (DT the)
+      (NNS-HEAD chips))
+    (VP-HEAD
+      (MD-HEAD could)
+      (VP
+        (VB-HEAD take)
+        (PRT
+          (RP-HEAD over))
+        (NP
+          (NP-HEAD
+            (DT a)
+            (JJ significant)
+            (NN-HEAD part))
+          (PP
+            (IN-HEAD of)
+            (NP
+              (DT the)
+              (NN-HEAD market))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (PRP-HEAD It))
+    (VP-HEAD
+      (VBD-HEAD was)
+      (NP-PRD
+        (NP-HEAD
+          (DT the)
+          (JJ first)
+          (NN-HEAD time))
+        (PP-TMP
+          (IN-HEAD in)
+          (NP
+            (CD 20)
+            (NNS-HEAD years)))
+        (SBAR
+          (IN that)
+          (S-HEAD
+            (NP-SBJ-1
+              (JJ such)
+              (NN government)
+              (NNS-HEAD bills))
+            (VP-HEAD
+              (VBD-HEAD were)
+              (VP
+                (VBN-HEAD defeated)
+                (NP
+                  (-NONE--HEAD *-1-HEAD))))))))
+    (. .)))
+
+(
+  (S
+    (`` ``)
+    (NP-SBJ-2
+      (PRP-HEAD We))
+    (VP-HEAD
+      (VBP-HEAD do)
+      (RB n't)
+      (VP
+        (VB-HEAD want)
+        (S
+          (NP-SBJ
+            (-NONE--HEAD *-2-HEAD))
+          (VP-HEAD
+            (TO-HEAD to)
+            (VP
+              (VB-HEAD bring)
+              (ADVP-CLR
+                (RB-HEAD back))
+              (NP
+                (NP-HEAD
+                  (NN-HEAD something))
+                (SBAR
+                  (WHNP-1
+                    (-NONE--HEAD 0-HEAD))
+                  (S-HEAD
+                    (NP-SBJ
+                      (DT the)
+                      (NNS-HEAD members))
+                    (VP-HEAD
+                      (MD-HEAD will)
+                      (VP
+                        (VB-HEAD reject)
+                        (NP
+                          (-NONE--HEAD *T*-1-HEAD))))))))))))
+    (. .)
+    ('' '')))
+
+(
+  (S
+    (NP-SBJ
+      (EX-HEAD There))
+    (VP-HEAD
+      (VBZ-HEAD is)
+      (NP-PRD
+        (DT a)
+        (JJ small)
+        (NNP-HEAD Renoir))
+      (PP-LOC
+        (IN-HEAD on)
+        (NP
+          (DT the)
+          (NN-HEAD wall))))
+    (. .)))
+
+(
+  (FRAG
+    (`` ``)
+    (ADJP-HEAD
+      (VBN-HEAD Shocked))
+    (. .)
+    ('' '')))
+
+(
+  (S
+    (PP
+      (IN-HEAD Despite)
+      (NP
+        (NP-HEAD
+          (DT the)
+          (NN-HEAD departure))
+        (PP
+          (IN-HEAD of)
+          (NP
+            (NP-HEAD
+              (NNP Mr.)
+              (NNP-HEAD Lawson))
+            (CC and)
+            (NP
+              (NNP Sir)
+              (NNP-HEAD Alan))))))
+    (, ,)
+    (NP-SBJ
+      (NP-HEAD
+        (DT the)
+        (NN-HEAD tug-of-war))
+      (PP
+        (IN-HEAD over)
+        (NP
+          (DT the)
+          (NNP-HEAD EMS))))
+    (VP-HEAD
+      (MD-HEAD could)
+      (VP
+        (VB-HEAD continue)))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (DT The)
+      (JJ minimum)
+      (NN-HEAD coupon))
+    (VP-HEAD
+      (VBZ-HEAD is)
+      (NP-PRD
+        (QP
+          (CD 13)
+          (CD-HEAD 3\/4))
+        (NN-HEAD %)))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (NNP Benny)
+        (NNP-HEAD Chin))
+      (, ,)
+      (NP
+        (NP-HEAD
+          (NN-HEAD manager))
+        (PP
+          (IN-HEAD of)
+          (NP
+            (DT the)
+            (NNP Galileo)
+            (NN-HEAD probe))))
+      (, ,))
+    (VP-HEAD
+      (VBD-HEAD compared)
+      (NP
+        (PRP-HEAD it))
+      (PP-CLR
+        (TO-HEAD to)
+        (S-NOM
+          (NP-SBJ
+            (-NONE--HEAD *-HEAD))
+          (VP-HEAD
+            (VBG-HEAD watching)
+            (S
+              (NP-SBJ
+                (DT a)
+                (NN-HEAD child))
+              (VP-HEAD
+                (VB-HEAD leave)
+                (NP
+                  (RB-HEAD home))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (NNP Crested)
+        (NNP-HEAD Butte))
+      (, ,)
+      (NP
+        (NN-HEAD population)
+        (CD 1,200))
+      (, ,))
+    (VP-HEAD
+      (VBZ-HEAD is)
+      (NP-PRD
+        (NP-HEAD
+          (DT a)
+          (NN-HEAD bastion))
+        (PP
+          (IN-HEAD of)
+          (NP
+            (DT the)
+            (NN-HEAD sport)))))
+    (. .)))
+
+(
+  (S
+    (CC-HEAD But)
+    (NP-SBJ
+      (NNP Mr.)
+      (NNP-HEAD Savaiko))
+    (VP
+      (VBZ-HEAD expects)
+      (S
+        (NP-SBJ
+          (JJ stepped-up)
+          (NN producer)
+          (NN-HEAD selling))
+        (PP-LOC-PRD-HEAD
+          (IN-HEAD at)
+          (PP
+            (IN-HEAD around)
+            (NP
+              (DT the)
+              (ADJP
+                (QP-HEAD
+                  ($-HEAD $)
+                  (CD 1,040)
+                  (TO to)
+                  ($ $)
+                  (CD 1,050))
+                (-NONE- *U*-HEAD))
+              (NN-HEAD level))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ-1
+      (PRP-HEAD I))
+    (VP-HEAD
+      (VBP-HEAD 'm)
+      (VP
+        (VBG-HEAD thinking)
+        (PP-CLR
+          (IN-HEAD about)
+          (S-NOM
+            (NP-SBJ-2
+              (-NONE--HEAD *-1-HEAD))
+            (VP-HEAD
+              (VBG-HEAD using)
+              (NP
+                (DT the)
+                (ADJP
+                  ($-HEAD $)
+                  (CD 871)
+                  (-NONE- *U*-HEAD))
+                (JJ annual)
+                (NN-HEAD premium))
+              (S-CLR
+                (NP-SBJ
+                  (-NONE--HEAD *-2-HEAD))
+                (VP-HEAD
+                  (TO-HEAD to)
+                  (VP
+                    (VB-HEAD finance)
+                    (NP
+                      (NP-HEAD
+                        (DT a)
+                        (NN-HEAD trip))
+                      (PP
+                        (TO-HEAD to)
+                        (NP
+                          (NNP-HEAD Paris))))
+                    (ADVP-TMP
+                      (RB-HEAD first))))))))))
+    (. .)))
+
+(
+  (SINV
+    (`` ``)
+    (S-TPC-1
+      (NP-SBJ
+        (NNP-HEAD Peanuts))
+      (VP-HEAD
+        (VBZ-HEAD has)
+        (VP
+          (VBN-HEAD become)
+          (NP-PRD
+            (NP-HEAD
+              (DT a)
+              (JJ major)
+              (NN-HEAD part))
+            (PP
+              (IN-HEAD of)
+              (NP
+                (JJ American)
+                (NN-HEAD culture)))))))
+    (, ,)
+    ('' '')
+    (VP-HEAD
+      (VBZ-HEAD says)
+      (S
+        (-NONE--HEAD *T*-1-HEAD)))
+    (NP-SBJ
+      (NP-HEAD
+        (NNP Peter)
+        (NNP-HEAD Shore))
+      (, ,)
+      (NP
+        (NP-HEAD
+          (NP
+            (NNP United)
+            (NNP-HEAD Media)
+            (POS 's))
+          (NN vice)
+          (NN-HEAD president))
+        (PP
+          (IN-HEAD of)
+          (NP
+            (NN-HEAD marketing)
+            (CC and)
+            (NN licensing)))))
+    (. .)))
+
+(
+  (S
+    (CC-HEAD But)
+    (NP-SBJ-1
+      (DT an)
+      (JJ uninvited)
+      (NN-HEAD guest))
+    (VP
+      (VBZ-HEAD is)
+      (VP
+        (VBN-HEAD expected)
+        (S
+          (NP-SBJ-2
+            (-NONE--HEAD *-1-HEAD))
+          (VP-HEAD
+            (TO-HEAD to)
+            (VP
+              (VB-HEAD try)
+              (S
+                (NP-SBJ
+                  (-NONE--HEAD *-2-HEAD))
+                (VP-HEAD
+                  (TO-HEAD to)
+                  (VP
+                    (VB-HEAD crash)
+                    (NP
+                      (DT the)
+                      (NN-HEAD party))))))))))
+    (. .)))
+
+(
+  (S
+    (PP-LOC
+      (IN-HEAD At)
+      (NP
+        (DT the)
+        (NNP Archer-Daniels-Midland)
+        (NNP Co.)
+        (NN-HEAD stand)))
+    (, ,)
+    (NP-SBJ
+      (NP-HEAD
+        (NNP Mrs.)
+        (NNP Nelson)
+        (NNP-HEAD Rockefeller))
+      (, ,)
+      (NP
+        (DT a)
+        (NN board)
+        (NN-HEAD member))
+      (, ,))
+    (VP-HEAD
+      (VBD-HEAD offered)
+      (NP
+        (PRP-HEAD him))
+      (NP
+        (DT a)
+        (NN soy)
+        (NN-HEAD burger)))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (NNP Frederick)
+        (NNP-HEAD Rumack))
+      (PP
+        (IN-HEAD of)
+        (NP
+          (NNP Buck)
+          (NNP-HEAD Consultants))))
+    (VP-HEAD
+      (VBZ-HEAD has)
+      (VP
+        (VBN-HEAD asked)
+        (NP-1
+          (NNP-HEAD Labor))
+        (S
+          (NP-SBJ-2
+            (-NONE--HEAD *-1-HEAD))
+          (VP-HEAD
+            (TO-HEAD to)
+            (VP
+              (VB-HEAD recraft)
+              (NP
+                (PRP$ its)
+                (NN-HEAD rule))
+              (S-PRP
+                (NP-SBJ
+                  (-NONE--HEAD *-2-HEAD))
+                (VP-HEAD
+                  (TO-HEAD to)
+                  (VP
+                    (VB-HEAD remove)
+                    (NP
+                      (DT the)
+                      (NNP IRS)
+                      (NN-HEAD threat))))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (DT Each)
+      (NN-HEAD side))
+    (VP-HEAD
+      (VBZ-HEAD has)
+      (NP
+        (NP-HEAD
+          (DT a)
+          (NN-HEAD litany))
+        (PP
+          (IN-HEAD of)
+          (NP
+            (NP-HEAD
+              (NNS-HEAD recommendations))
+            (PP
+              (IN-HEAD for)
+              (NP
+                (DT the)
+                (JJ-HEAD other)))))))
+    (. .)))
+
+(
+  (S
+    (`` ``)
+    (NP-SBJ
+      (-NONE--HEAD *-HEAD))
+    (VP-HEAD
+      (VB-HEAD Go)
+      (VP
+        (VB-HEAD run)
+        (NP
+          (DT the)
+          (NN-HEAD university))))
+    (. .)
+    ('' '')))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (DT No)
+        (NN-HEAD one))
+      (NP
+        (RB-HEAD else)))
+    (VP-HEAD
+      (MD-HEAD will)
+      (VP
+        (VB-HEAD watch)
+        (PRT
+          (RP-HEAD out))
+        (PP
+          (IN-HEAD for)
+          (NP
+            (PRP-HEAD you)))))
+    (. .)))
+
+(
+  (S
+    (PP-TMP
+      (IN-HEAD In)
+      (NP
+        (NNP-HEAD August)))
+    (, ,)
+    (NP-SBJ
+      (NNP-HEAD Temple))
+    (VP-HEAD
+      (VBD-HEAD sweetened)
+      (NP
+        (DT the)
+        (NN-HEAD offer))
+      (PP-CLR
+        (TO-HEAD to)
+        (NP
+          (NP-HEAD
+            (NP-HEAD
+              ($-HEAD $)
+              (CD 63)
+              (-NONE- *U*-HEAD))
+            (NP-ADV
+              (DT a)
+              (NN-HEAD share)))
+          (, ,)
+          (CC or)
+          (NP
+            (QP-HEAD
+              ($-HEAD $)
+              (CD 963)
+              (CD million))
+            (-NONE- *U*-HEAD)))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ-1
+      (NNP Brooks)
+      (NNP Armored)
+      (NNP Car)
+      (NNP Service)
+      (NNP-HEAD Inc.))
+    (ADVP-TMP
+      (RB-HEAD never))
+    (VP-HEAD
+      (VBD-HEAD wanted)
+      (S
+        (NP-SBJ
+          (-NONE--HEAD *-1-HEAD))
+        (VP-HEAD
+          (TO-HEAD to)
+          (VP
+            (VB-HEAD get)
+            (PP-CLR
+              (IN-HEAD into)
+              (NP
+                (NN money)
+                (NN-HEAD laundering)))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (DT A)
+        (NN-HEAD rash))
+      (PP
+        (IN-HEAD of)
+        (NP
+          (JJ one-time)
+          (NNS-HEAD charges))))
+    (VP-HEAD
+      (VBD-HEAD left)
+      (NP
+        (NNP Ashland)
+        (NNP-HEAD Oil))
+      (PP-CLR
+        (IN-HEAD with)
+        (NP
+          (NP-HEAD
+            (DT a)
+            (NN-HEAD loss))
+          (PP
+            (IN-HEAD of)
+            (NP
+              (QP-HEAD
+                ($-HEAD $)
+                (CD 39)
+                (CD million))
+              (-NONE- *U*-HEAD)))
+          (PP
+            (IN-HEAD for)
+            (NP
+              (PRP$ its)
+              (JJ fiscal)
+              (JJ fourth)
+              (NN-HEAD quarter))))))
+    (. .)))
+
+(
+  (S
+    (PP-LOC
+      (IN-HEAD Under)
+      (NP
+        (DT the)
+        (JJ new)
+        (NNS-HEAD rules)))
+    (, ,)
+    (NP-SBJ-1
+      (DT the)
+      (NNS-HEAD officials))
+    (VP-HEAD
+      (MD-HEAD will)
+      (VP
+        (VB-HEAD have)
+        (S
+          (NP-SBJ
+            (-NONE--HEAD *-1-HEAD))
+          (VP-HEAD
+            (TO-HEAD to)
+            (VP
+              (VB-HEAD secure)
+              (NP
+                (NP-HEAD
+                  (NP-HEAD
+                    (JJ additional)
+                    (NN-HEAD information))
+                  (CC and)
+                  (NP
+                    (NP-HEAD
+                      (NNS-HEAD reports))
+                    (PP
+                      (IN-HEAD from)
+                      (NP
+                        (NNS-HEAD actuaries)))))
+                (, ,)
+                (PP
+                  (VBG-HEAD including)
+                  (NP
+                    (NP-HEAD
+                      (DT an)
+                      (NN-HEAD assessment))
+                    (PP
+                      (IN-HEAD of)
+                      (SBAR
+                        (IN whether)
+                        (S-HEAD
+                          (NP-SBJ
+                            (NNS-HEAD officials))
+                          (VP-HEAD
+                            (VBP-HEAD have)
+                            (VP
+                              (VBN-HEAD acted)
+                              (ADVP-MNR
+                                (RB-HEAD reasonably)))))))))))))))
+    (. .)))
+
+(
+  (S
+    (ADVP
+      (RB-HEAD By)
+      (CC and)
+      (RB large))
+    (, ,)
+    (NP-SBJ
+      (NNP Mr.)
+      (NNP-HEAD Dinkins))
+    (VP-HEAD
+      (VBZ-HEAD has)
+      (VP
+        (VBN-HEAD finessed)
+        (NP
+          (NP-HEAD
+            (DT the)
+            (JJ touchy)
+            (NN-HEAD question))
+          (PP
+            (IN-HEAD of)
+            (SBAR-NOM
+              (WHNP-1
+                (WP$ whose)
+                (NN-HEAD ox))
+              (S-HEAD
+                (NP-SBJ
+                  (PRP-HEAD he))
+                (VP-HEAD
+                  (MD-HEAD would)
+                  (VP
+                    (VB-HEAD gore)
+                    (NP
+                      (-NONE--HEAD *T*-1-HEAD))))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ-1
+      (DT The)
+      (NNS-HEAD consultants))
+    (VP-HEAD
+      (VBD-HEAD had)
+      (VP
+        (VBN-HEAD been)
+        (VP
+          (VBG-HEAD working)
+          (S
+            (NP-SBJ
+              (-NONE--HEAD *-1-HEAD))
+            (VP-HEAD
+              (TO-HEAD to)
+              (VP
+                (VB-HEAD finish)
+                (NP
+                  (DT a)
+                  (NN-HEAD report))
+                (NP-TMP
+                  (DT this)
+                  (NN-HEAD week))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNP Mr.)
+      (NNP-HEAD Garcia))
+    (VP-HEAD
+      (VBZ-HEAD says)
+      (SBAR
+        (-NONE- 0-HEAD)
+        (S-HEAD
+          (NP-SBJ-1
+            (PRP-HEAD he))
+          (VP-HEAD
+            (VBZ-HEAD has)
+            (VP
+              (VBN-HEAD been)
+              (VP
+                (VBN-HEAD notified)
+                (NP
+                  (-NONE--HEAD *-1-HEAD))
+                (PP-CLR
+                  (IN-HEAD of)
+                  (NP
+                    (NP-HEAD
+                      (NP-HEAD
+                        (NP-HEAD
+                          (JJ congressional)
+                          (NNS-HEAD hearings))
+                        (PP
+                          (IN-HEAD on)
+                          (NP
+                            (DT the)
+                            (NNP Picop)
+                            (NN-HEAD bidding))))
+                      (CC and)
+                      (NP
+                        (NP-HEAD
+                          (JJ possible)
+                          (NN-HEAD legislation))
+                        (VP
+                          (VBG-HEAD covering)
+                          (NP
+                            (NP
+                              (DT the)
+                              (NN paper)
+                              (NN-HEAD mill)
+                              (POS 's))
+                            (NN-HEAD sale)))))
+                    (, ,)
+                    (NP
+                      (NP-HEAD
+                        (DT-HEAD both))
+                      (VP
+                        (VBD-HEAD prompted)
+                        (NP
+                          (-NONE--HEAD *-HEAD))
+                        (PP-LGS
+                          (IN-HEAD by)
+                          (NP
+                            (NP-HEAD
+                              (DT the)
+                              (NN-HEAD criticism))
+                            (PP
+                              (IN-HEAD of)
+                              (NP
+                                (DT the)
+                                (NN-HEAD agency)))))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (JJ Cautious)
+      (NNS-HEAD investors))
+    (VP-HEAD
+      (MD-HEAD should)
+      (ADVP
+        (RB-HEAD generally))
+      (VP
+        (VB-HEAD go)
+        (PP-CLR
+          (IN-HEAD with)
+          (NP
+            (NP-HEAD
+              (NNS-HEAD stocks))
+            (SBAR
+              (WHNP-1
+                (WDT-HEAD that))
+              (S-HEAD
+                (NP-SBJ
+                  (-NONE--HEAD *T*-1-HEAD))
+                (VP-HEAD
+                  (VB-HEAD have)
+                  (NP
+                    (JJ low)
+                    (NNS-HEAD betas)))))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (DT A)
+        (NNP Seagram)
+        (NN-HEAD spokesman))
+      (PP-LOC
+        (IN-HEAD in)
+        (NP
+          (NNP New)
+          (NNP-HEAD York))))
+    (VP-HEAD
+      (MD-HEAD would)
+      (RB n't)
+      (VP
+        (VB-HEAD comment)))
+    (. .)))
+
+(
+  (S
+    (ADVP-TMP
+      (RB-HEAD Previously))
+    (, ,)
+    (NP-SBJ-1
+      (DT no)
+      (NNP OPEC)
+      (NN-HEAD member))
+    (VP-HEAD
+      (VBD-HEAD had)
+      (VP
+        (VBN-HEAD been)
+        (ADJP-PRD
+          (JJ-HEAD willing)
+          (S
+            (NP-SBJ
+              (-NONE--HEAD *-1-HEAD))
+            (VP-HEAD
+              (TO-HEAD to)
+              (VP
+                (VB-HEAD accept)
+                (NP
+                  (NP-HEAD
+                    (DT a)
+                    (NN-HEAD reduction))
+                  (PP
+                    (IN-HEAD in)
+                    (NP
+                      (NP-HEAD
+                        (PRP$ its)
+                        (NN percentage)
+                        (NN-HEAD share))
+                      (PP
+                        (IN-HEAD of)
+                        (NP
+                          (NP-HEAD
+                            (NP
+                              (DT the)
+                              (NN-HEAD group)
+                              (POS 's))
+                            (JJ total)
+                            (NN output)
+                            (NN-HEAD target))
+                          (, ,)
+                          (CC or)
+                          (NP
+                            (NN-HEAD ceiling)))))))))))))
+    (. .)))
+
+(
+  (SINV
+    (`` ``)
+    (S-TPC-2
+      (NP-SBJ
+        (PRP-HEAD I))
+      (VP-HEAD
+        (MD-HEAD would)
+        (VP
+          (VB-HEAD be)
+          (NP-PRD
+            (NP-HEAD
+              (DT the)
+              (JJ-HEAD first))
+            (SBAR
+              (WHNP-1
+                (-NONE--HEAD 0-HEAD))
+              (S-HEAD
+                (NP-SBJ
+                  (-NONE--HEAD *T*-1-HEAD))
+                (VP-HEAD
+                  (TO-HEAD to)
+                  (VP
+                    (VB-HEAD admit)
+                    (SBAR
+                      (IN that)
+                      (S-HEAD
+                        (NP-SBJ
+                          (EX-HEAD there))
+                        (VP-HEAD
+                          (VBZ-HEAD is)
+                          (RB not)
+                          (NP-PRD
+                            (NP-HEAD
+                              (DT a)
+                              (JJ complete)
+                              (NN-HEAD consensus))
+                            (PP-LOC
+                              (IN-HEAD in)
+                              (NP
+                                (DT the)
+                                (JJ scientific)
+                                (NN-HEAD community)))
+                            (PP
+                              (IN-HEAD on)
+                              (NP
+                                (NP-HEAD
+                                  (DT either)
+                                  (CD-HEAD one))
+                                (PP
+                                  (IN-HEAD of)
+                                  (NP
+                                    (DT these)
+                                    (NNS-HEAD problems)))))))))))))))))
+    (, ,)
+    ('' '')
+    (VP-HEAD
+      (VBZ-HEAD says)
+      (S
+        (-NONE--HEAD *T*-2-HEAD)))
+    (NP-SBJ
+      (NNP Mr.)
+      (NNP-HEAD Teagan))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (DT The)
+      (NN-HEAD department))
+    (VP-HEAD
+      (VBD-HEAD placed)
+      (NP
+        (DT a)
+        (NN-HEAD moratorium))
+      (PP-CLR
+        (IN-HEAD on)
+        (NP
+          (DT the)
+          (NN-HEAD research)))
+      (, ,)
+      (S-ADV
+        (NP-SBJ
+          (-NONE--HEAD *-HEAD))
+        (VP-HEAD
+          (VBG-HEAD pending)
+          (NP
+            (NP-HEAD
+              (DT a)
+              (NN-HEAD review))
+            (PP
+              (IN-HEAD of)
+              (NP
+                (ADJP
+                  (JJ-HEAD scientific)
+                  (, ,)
+                  (JJ legal)
+                  (CC and)
+                  (JJ ethical))
+                (NNS-HEAD issues)))))))
+    (. .)))
+
+(
+  (S
+    (S-HEAD
+      (NP-SBJ
+        (PRP$ Its)
+        (NN capital)
+        (NN-HEAD spending))
+      (VP-HEAD
+        (VBZ-HEAD is)
+        (VP
+          (VBG-HEAD growing)
+          (PP-MNR
+            (IN-HEAD at)
+            (NP
+              (JJ double-digit)
+              (NNS-HEAD rates)))
+          (PP-TMP
+            (IN-HEAD for)
+            (NP
+              (NP-HEAD
+                (DT the)
+                (JJ second)
+                (NN-HEAD year))
+              (PP
+                (IN-HEAD in)
+                (NP
+                  (DT a)
+                  (NN-HEAD row))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP-SBJ-1
+        (NP-HEAD
+          (PRP$ its)
+          (JJ superefficient)
+          (NNS-HEAD producers))
+        (PP
+          (IN-HEAD of)
+          (NP
+            (NP-HEAD
+              (NN-HEAD everything))
+            (PP
+              (PP-HEAD
+                (IN-HEAD from)
+                (NP
+                  (NNS-HEAD cars)))
+              (PP
+                (TO-HEAD to)
+                (NP
+                  (NN computer)
+                  (NNS-HEAD chips)))))))
+      (VP-HEAD
+        (VBP-HEAD are)
+        (VP
+          (VBG-HEAD rushing)
+          (S
+            (NP-SBJ
+              (-NONE--HEAD *-1-HEAD))
+            (VP-HEAD
+              (TO-HEAD to)
+              (VP
+                (VP-HEAD
+                  (VB-HEAD expand)
+                  (NP
+                    (NN-HEAD capacity)))
+                (, ,)
+                (VP
+                  (VB-HEAD modernize)
+                  (NP
+                    (NNS-HEAD factories)))
+                (CC and)
+                (VP
+                  (VB-HEAD develop)
+                  (NP
+                    (JJ new)
+                    (NNS-HEAD products)))))))))
+    (. .)))
+
+(
+  (S
+    (SBAR-ADV
+      (IN If)
+      (S-HEAD
+        (NP-SBJ
+          (PRP-HEAD they))
+        (VP-HEAD
+          (VBD-HEAD were)
+          (VP
+            (ADVP
+              (RB-HEAD really))
+            (VBG-HEAD getting)
+            (NP
+              (NP-HEAD
+                (NN-HEAD insurance))
+              (PP
+                (IN-HEAD against)
+                (NP
+                  (JJ environmental)
+                  (NN-HEAD disaster))))))))
+    (, ,)
+    (NP-SBJ
+      (DT the)
+      (NN-HEAD price))
+    (VP-HEAD
+      (MD-HEAD would)
+      (VP
+        (VB-HEAD be)
+        (ADJP-PRD
+          (JJ-HEAD cheap))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP-HEAD
+        (DT The)
+        (NNS-HEAD jurors))
+      (, ,)
+      (SBAR
+        (WHNP-1
+          (WP-HEAD who))
+        (S-HEAD
+          (NP-SBJ
+            (-NONE--HEAD *T*-1-HEAD))
+          (VP-HEAD
+            (VBD-HEAD did)
+            (RB n't)
+            (VP
+              (VB-HEAD know)
+              (SBAR
+                (WHNP-2
+                  (WDT which)
+                  (NN-HEAD side))
+                (S-HEAD
+                  (NP-SBJ
+                    (-NONE--HEAD *T*-2-HEAD))
+                  (VP-HEAD
+                    (VBD-HEAD had)
+                    (VP
+                      (VBN-HEAD retained)
+                      (NP
+                        (PRP-HEAD them))))))))))
+      (, ,))
+    (VP-HEAD
+      (VP-HEAD
+        (VBD-HEAD decided)
+        (PP-CLR
+          (IN-HEAD for)
+          (NP
+            (NNP Energy)
+            (NNP-HEAD Transportation))))
+      (, ,)
+      (CC and)
+      (VP
+        (VBN-HEAD awarded)
+        (NP
+          (NP-HEAD
+            (QP-HEAD
+              ($-HEAD $)
+              (CD 500)
+              (CD million))
+            (-NONE- *U*-HEAD))
+          (PP
+            (IN-HEAD in)
+            (NP
+              (NNS-HEAD damages))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNS-HEAD Universities))
+    (VP-HEAD
+      (MD-HEAD can)
+      (ADVP-TMP
+        (RB-HEAD now))
+      (VP
+        (VB-HEAD buy)
+        (NP
+          (NP-HEAD
+            (DT a)
+            (NNP Next)
+            (NN-HEAD computer))
+          (PP
+            (IN-HEAD without)
+            (NP
+              (DT an)
+              (JJ optical)
+              (NN storage)
+              (NN-HEAD device))))
+        (PP-CLR
+          (IN-HEAD for)
+          (NP
+            ($-HEAD $)
+            (CD 4,995)
+            (-NONE- *U*-HEAD)))))
+    (. .)))
+
+(
+  (S
+    (PP-TMP
+      (IN-HEAD Within)
+      (NP
+        (CD 25)
+        (NNS-HEAD years)))
+    (NP-SBJ
+      (NNPS-HEAD Jews))
+    (VP-HEAD
+      (MD-HEAD will)
+      (ADVP
+        (RB-HEAD probably))
+      (VP
+        (VB-HEAD be)
+        (NP-PRD
+          (DT the)
+          (NN-HEAD minority))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NP
+        (NNP-HEAD Stewart)
+        (POS 's))
+      (NN-HEAD honor))
+    (VP-HEAD
+      (VBD-HEAD was)
+      (NP-PRD
+        (DT a)
+        (JJ nice)
+        (NN-HEAD note))
+      (PP-PRP
+        (IN-HEAD on)
+        (NP
+          (NP-HEAD
+            (DT a)
+            (NN-HEAD couple))
+          (PP
+            (IN-HEAD of)
+            (NP
+              (NNS-HEAD grounds))))))
+    (. .)))
+
+(
+  (S
+    (NP-SBJ
+      (NNP-HEAD Revenue))
+    (VP-HEAD
+      (VBD-HEAD was)
+      (ADJP-PRD
+        (JJ-HEAD flat))
+      (PP-LOC
+        (IN-HEAD at)
+        (NP
+          (QP-HEAD
+            ($-HEAD $)
+            (CD 2.59)
+            (CD billion))
+          (-NONE- *U*-HEAD))))
+    (. .)))
+
+(
+  (S
+    (PP
+      (IN-HEAD In)
+      (ADJP
+        (JJ-HEAD particular)))
+    (, ,)
+    (NP-SBJ
+      (JJ-HEAD many))
+    (VP-HEAD
+      (VBP-HEAD are)
+      (VP
+        (VP-HEAD
+          (VBG-HEAD snubbing)
+          (NP
+            (NP-HEAD
+              (DT the)
+              (NN-HEAD scotch))
+            (VP
+              (VBN-HEAD preferred)
+              (NP
+                (-NONE--HEAD *-HEAD))
+              (PP
+                (IN-HEAD by)
+                (NP-LGS
+                  (PRP$ their)
+                  (NNS-HEAD parents))))))
+        (CC and)
+        (VP
+          (VBG-HEAD opting)
+          (PP-CLR
+            (IN-HEAD for)
+            (NP
+              (NP-HEAD
+                (NN-HEAD bourbon))
+              (, ,)
+              (NP
+                (NP-HEAD
+                  (DT the)
+                  (JJ sweet)
+                  (NN-HEAD firewater))
+                (PP-LOC
+                  (IN-HEAD from)
+                  (NP
+                    (DT the)
+                    (NNP Kentucky)
+                    (NN-HEAD countryside)))))))))
+    (. .)))
+

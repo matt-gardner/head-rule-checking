@@ -133,6 +133,7 @@ if __name__ == '__main__':
         ptb_file = sys.argv[1]
     else:
         ptb_file = '../PTB.MRG'
+    # results/ is currently ignored, by the way.
     main(ptb_file, 'results/', '../annotations')
 
 # vim: et sw=4 sts=4
