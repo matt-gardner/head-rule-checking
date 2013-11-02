@@ -1,6 +1,7 @@
 from django.conf.urls import patterns, include, url
 from django.conf import settings
 
+annotation_id = '(?P<annotation_id>\d+)'
 name = '(?P<name>[^/]+)'
 subset = '(?P<subset>[^/]+)'
 suite_id = '(?P<suite_id>\d+)'
@@ -27,6 +28,8 @@ urlpatterns = patterns('',
     url(r'^unknown/suite-'+suite_id+'/user-'+username+'$',
         'test_suite.views.unknown'),
     url(r'^ajax/update/'+name+'/'+val+'$', 'test_suite.views.update'),
+    url(r'^ajax/delete/'+annotation_id+'$',
+        'test_suite.views.delete_annotation'),
 
     # Site media
     (r'^static/(?P<path>.*)$',

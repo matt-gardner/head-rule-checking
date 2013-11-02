@@ -61,6 +61,7 @@ def test_suite(request, suite_id, subset=None):
 def all_annotations(request, suite_id, subset=None):
     context = RequestContext(request)
     suite = get_object_or_404(TestSuite, pk=suite_id)
+    context['current_user'] = request.user
     context['expansions'] = suite.expansion_set.exclude(annotation=None)
     if subset == 'errors':
         context['expansions'] = context['expansions'].filter(
@@ -131,6 +132,13 @@ def testsuite_subset(request, suite_id, user, annotations):
         expansion.annotation = annotation
         context['expansions'].append(expansion)
     return render_to_response('test_suite.html', context)
+
+
+@login_required
+def delete_annotation(request, annotation_id):
+    annotation = get_object_or_404(Annotation, pk=annotation_id)
+    annotation.delete()
+    return HttpResponse('Success')
 
 
 @login_required

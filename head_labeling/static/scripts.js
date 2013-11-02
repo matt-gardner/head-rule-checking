@@ -13,6 +13,17 @@ $('select').change(function() {
   $.get(link, {}, function(html) {});
 });
 
+$('.delete-annotation').click(function() {
+  var $this = $(this);
+  var id = $this.attr('id');
+  var link = '/ajax/delete/'+id;
+  if (confirm("Delete this annotation?")) {
+    $.get(link, {}, function(html) {
+      $this.parent().parent().remove();
+    });
+  }
+});
+
 $('.expansion select').change(function() {
   var name = $(this).attr('name');
   var val = $(this).find(':selected').val();

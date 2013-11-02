@@ -44,3 +44,6 @@ hr {
 tr.lastrow td {
     border-top: thin solid black;
 }
+.delete-annotation:hover {
+    cursor: pointer;
+}

@@ -231,7 +231,7 @@ class Annotation(models.Model):
         for i, daughter in enumerate(self.expansion.rule[1:-1].split()[1:]):
             choices.append((i+1, str(i+1) + ': ' + daughter))
         s = Select(choices=choices)
-        return s.render('expansion-'+str(self.id) + '-headindex',
+        return s.render('expansion-'+str(self.expansion.id) + '-headindex',
                 self.head_index)
 
     def head_correct_box(self):
@@ -243,7 +243,7 @@ class Annotation(models.Model):
             value = '2'
         else:
             value = '3'
-        return s.render('expansion-'+str(self.id) + '-head', value)
+        return s.render('expansion-'+str(self.expansion.id) + '-head', value)
 
     def comp_head_correct_box(self):
         from django.forms.widgets import NullBooleanSelect
@@ -254,7 +254,7 @@ class Annotation(models.Model):
             value = '2'
         else:
             value = '3'
-        return s.render('expansion-'+str(self.id) + '-comp', value)
+        return s.render('expansion-'+str(self.expansion.id) + '-comp', value)
 
 
 class Comment(models.Model):

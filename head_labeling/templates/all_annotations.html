@@ -9,6 +9,25 @@
     Pattern #{{ expansion.index }}: <b>{{ expansion.rule }}</b>
     <br>
     Count: {{ expansion.count }}
+    <div class="simple-examples">
+      <div class="supa">
+        {{ expansion.simple_supa_example_as_table|safe }}
+      </div>
+      <div class="penn">
+        <code>
+          {{ expansion.simple_penn_example_rendered|safe|linebreaks }}
+        </code>
+      </div>
+    </div>
+    <div class="show-debug"><span>Show SUPA debug tree</span></div>
+    <div class="intermediate-examples">
+      <div class="penn">
+        <code>
+          {{ expansion.intermediate_penn_example_rendered|safe|linebreaks }}
+        </code>
+      </div>
+    </div>
+    <div class="show-examples"><span>Show full examples</span></div>
     <div class="examples">
       <div class="supa">
         {{ expansion.supa_example_as_table|safe }}
@@ -20,8 +39,10 @@
       </div>
     </div>
     {% for annotation in expansion.annotations %}
+    <div class="annotation {% if annotation.user != current_user %}disable{% endif %}">
       <div class="user">
         Annotation by {{ annotation.user.username }}
+        (<span class="delete-annotation" id="{{ annotation.id }}">Delete</span>)
       </div>
       <div class="head-index">
         Head daughter: {{ annotation.head_index_box }}
@@ -33,7 +54,7 @@
         Correct dependency between root and sisters: {{ annotation.comp_head_correct_box }}
       </div>
       <div class="notes">
-        <textarea rows="4" cols="60" disabled="disabled">{{ annotation.notes }}</textarea>
+        <textarea rows="4" cols="60">{{ annotation.notes }}</textarea>
       </div>
       {% for comment in annotation.comments %}
       <div class="comment">
@@ -45,16 +66,15 @@
         New comment:
         <textarea rows="4" cols="60" name="expansion-{{ expansion.id }}-user-{{ annotation.user.username }}-comment"></textarea>
       </div>
+    </div>
     {% endfor %}
   </div>
   <br><br><hr>
   {% endfor %}
 </div>
 
-{% if disable %}
 <script type="text/javascript">
-$('.expansion select').attr('disabled', 'disabled');
-$('.notes textarea').attr('disabled', 'disabled');
+$('.disable select').attr('disabled', 'disabled');
+$('.disable .notes textarea').attr('disabled', 'disabled');
 </script>
-{% endif %}
 {% endblock %}
