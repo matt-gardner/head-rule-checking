@@ -29,12 +29,13 @@ relabel preTerminal /^(.*)$/$1__={term}/
 anything
   [immediately dominating
      (headlessNP=parent not immediately dominating headlessTag and
-        [immediately dominating rightmostHeadedPOS|NN|NNP|NNPS|NNS|NX|JJR|VBG%head or
-         immediately dominating leftmostHeadedNP%head or
-         immediately dominating leftmostHeadedWHNP%head or
-         immediately dominating rightmostHeaded\$|ADJP|PRN%head or
+        [immediately dominating rightmostHeadedNN|NNP|NNPS|NNS|NX|JJR|\$%head or
          immediately dominating rightmostHeadedCD%head or
-         immediately dominating rightmostHeadedJJ|JJS|RB|QP%head or
+         immediately dominating leftmostHeadedNP%head or
+         immediately dominating rightmostHeadedADJP|JJ|JJS%head or
+         immediately dominating rightmostHeadedPOS%head or
+         immediately dominating rightmostHeadedPRN%head or
+         immediately dominating rightmostHeadedRB|QP%head or
          immediately dominating rightmostHeadedTag%head
         ]
      )
@@ -48,40 +49,29 @@ anything
      )
    or immediately dominating
      (headlessADJP=parent not immediately dominating headlessTag and
-        [immediately dominating leftmostHeadedNNS%head or
-         immediately dominating leftmostHeadedQP%head or
-         immediately dominating leftmostHeadedNN%head or
+        [immediately dominating rightmostHeadedNNP|NNS|NN|JJ|VBN|VBG|JJR|JJS%head or
          immediately dominating leftmostHeaded\$%head or
-         immediately dominating leftmostHeadedADVP%head or
-         immediately dominating rightmostHeadedJJ%head or
-         immediately dominating leftmostHeadedVBN%head or
-         immediately dominating leftmostHeadedVBG%head or
-         immediately dominating leftmostHeadedADJP%head or
-         immediately dominating leftmostHeadedJJR%head or
-         immediately dominating leftmostHeadedNP%head or
-         immediately dominating leftmostHeadedJJS%head or
+         immediately dominating leftmostHeadedQP%head or
+         immediately dominating rightmostHeadedADJP%head or
          immediately dominating leftmostHeadedDT%head or
-         immediately dominating leftmostHeadedFW%head or
+         immediately dominating leftmostHeadedADVP%head or
          immediately dominating leftmostHeadedRBR%head or
+         immediately dominating leftmostHeadedNP%head or
+         immediately dominating leftmostHeadedFW%head or
+         immediately dominating rightmostHeadedRB%head or
          immediately dominating leftmostHeadedRBS%head or
          immediately dominating leftmostHeadedSBAR%head or
-         immediately dominating leftmostHeadedRB%head or
          immediately dominating leftmostHeadedTag%head
         ]
      )
    or immediately dominating
      (headlessADVP=parent not immediately dominating headlessTag and
-        [immediately dominating rightmostHeadedRB%head or
-         immediately dominating rightmostHeadedRBR%head or
+        [immediately dominating rightmostHeadedRB|RBR|JJR|JJ%head or
          immediately dominating rightmostHeadedRBS%head or
-         immediately dominating rightmostHeadedFW%head or
-         immediately dominating rightmostHeadedADVP%head or
+         immediately dominating leftmostHeadedFW%head or
+         immediately dominating rightmostHeadedADVP|IN|NP%head or
          immediately dominating rightmostHeadedTO%head or
          immediately dominating rightmostHeadedCD%head or
-         immediately dominating rightmostHeadedJJR%head or
-         immediately dominating rightmostHeadedJJ%head or
-         immediately dominating rightmostHeadedIN%head or
-         immediately dominating rightmostHeadedNP%head or
          immediately dominating rightmostHeadedJJS%head or
          immediately dominating rightmostHeadedNN%head or
          immediately dominating rightmostHeadedTag%head
@@ -120,20 +110,8 @@ anything
      )
    or immediately dominating
      (headlessNAC=parent not immediately dominating headlessTag and
-        [immediately dominating leftmostHeadedNNS|NN|NNP|NNPS%head or
-         immediately dominating leftmostHeadedNP%head or
-         immediately dominating leftmostHeadedNAC%head or
-         immediately dominating leftmostHeadedEX%head or
-         immediately dominating leftmostHeaded\$%head or
-         immediately dominating leftmostHeadedCD%head or
-         immediately dominating leftmostHeadedQP%head or
-         immediately dominating leftmostHeadedPRP%head or
-         immediately dominating leftmostHeadedVBG%head or
-         immediately dominating leftmostHeadedJJ%head or
-         immediately dominating leftmostHeadedJJS%head or
-         immediately dominating leftmostHeadedJJR%head or
-         immediately dominating leftmostHeadedADJP%head or
-         immediately dominating leftmostHeadedFW%head or
+        [immediately dominating rightmostHeadedNNS|NN|NNP|NNPS%head or
+         immediately dominating leftmostHeadedNP|NAC|\$|CD|JJ%head or
          immediately dominating leftmostHeadedTag%head
         ]
      )
