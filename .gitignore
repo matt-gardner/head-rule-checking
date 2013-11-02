@@ -6,3 +6,7 @@ backup_db*
 *~
 head_rule_testing/results
 PTB.MRG
+maltparser-1.7.2
+parser_testing/*.collins
+parser_testing/*.supa
+parser_testing/*.out
