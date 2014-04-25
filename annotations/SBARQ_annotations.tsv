@@ -39,3 +39,4 @@ index	pattern	head_index
 38	(SBARQ S , WHNP SQ .)	4
 39	(SBARQ SBAR , WHNP S .)	4
 40	(SBARQ `` WHNP VBZ SQ . '')	4
+52	(SBARQ WHADVP FRAG)	2

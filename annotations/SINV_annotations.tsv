@@ -42,7 +42,7 @@ index	pattern	head_index
 41	(SINV `` SBARQ '' VP NP .)	4
 42	(SINV S , VP NP)	3
 43	(SINV CC VBD NP VP .)	1
-44	(SINV CC VBZ NP NP .)	2
+44	(SINV CC VBZ NP NP .)	1
 45	(SINV ADJP VP SBAR .)	2
 46	(SINV PP VP SBAR .)	2
 47	(SINV VBD NP ADJP)	1

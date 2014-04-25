@@ -5,7 +5,7 @@ index	pattern	head_index
 4	(CONJP CC RB)	1
 5	(CONJP IN RB)	1
 6	(CONJP RB JJ)	2
-7	(CONJP RB TO VB)	1
+7	(CONJP RB TO VB)	3
 8	(CONJP IN IN)	2
 9	(CONJP IN NN TO)	1
 10	(CONJP IN)	1
