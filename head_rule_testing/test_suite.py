@@ -108,7 +108,7 @@ def main(annotation_file, category):
             percent_correct, total_count, count_annotated,
             count_percent_annotated, count_correct, count_percent_correct))
     error_file = open('results/errors_%s.tsv' % category, 'w')
-    error_file.write('pattern\tmarked\tactual\n')
+    error_file.write('pattern\tpredicted\tactual\n')
     for error in errors:
         error_file.write('%s\t%d\t%d\n' % error);
     correct_file = open('results/correct_%s.tsv' % category, 'w')
