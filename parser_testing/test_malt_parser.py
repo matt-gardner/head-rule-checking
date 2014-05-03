@@ -15,6 +15,8 @@ def main(supa_file, collins_file, malt_jar, percent_training, num_folds):
     for i in range(len(supa_trees)):
         if is_bad(supa_trees[i]) or is_bad(collins_trees[i]):
             to_remove.append(i)
+        elif len(supa_trees[i]) != len(collins_trees[i]):
+            to_remove.append(i)
     to_remove.sort(reverse=True)
     for i in to_remove:
         supa_trees.pop(i)
