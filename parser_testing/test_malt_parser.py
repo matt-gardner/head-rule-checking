@@ -54,9 +54,8 @@ def read_tree_file(tree_file, trees):
         if line == 'null\n':
             trees.append('')
             continue
-        if line == '\n':
-            if tree and not tree.isspace():
-                trees.append(tree)
+        if line == '\n' and tree:
+            trees.append(tree)
             tree = ''
         else:
             tree += line
