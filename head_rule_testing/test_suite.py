@@ -83,7 +83,9 @@ def main(annotation_file, category):
         annotated_children = len(pattern.split()) - 1
         actual_children = len(root.children)
         is_conjpp = 'CONJPP' in [x.label.split('__')[0] for x in root.children]
-        if not is_conjpp and actual_children == annotated_children - 1:
+        if (not is_conjpp
+                and actual_children == annotated_children - 1
+                and annotations[index] != 0):
             annotations[index] = annotations[index] - 1
 
         # Now to actually check to see what was labeled as the head
