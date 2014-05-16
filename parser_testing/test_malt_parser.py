@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+from __future__ import division
 import random
 from subprocess import Popen
 
@@ -32,22 +33,31 @@ def main(supa_file, collins_file, malt_jar, percent_training, num_folds):
         print 'Running fold', (i+1)
         random.shuffle(trees)
         print 'SUPA'
-        s_score = run_test([x[0] for x in trees], malt_jar, percent_training)
-        proc = Popen('mv out.txt supa.out', shell=True)
-        proc.wait()
+        s_score = run_test([x[0] for x in trees],
+                           malt_jar,
+                           percent_training,
+                           'supa',
+                           i)
         print 'COLLINS'
-        c_score = run_test([x[1] for x in trees], malt_jar, percent_training)
-        proc = Popen('mv out.txt collins.out', shell=True)
-        proc.wait()
+        c_score = run_test([x[1] for x in trees],
+                           malt_jar,
+                           percent_training,
+                           'collins',
+                           i)
         print 'Results:'
         supa_scores.append(s_score)
         collins_scores.append(c_score)
         print s_score, c_score
         print
-    p_value = paired_permutation_test(supa_scores, collins_scores)
-    print 'Supa mean:', sum(supa_scores) / num_folds
-    print 'Collins mean:', sum(collins_scores) / num_folds
-    print 'P-value:', p_value
+    metrics = ['Unlabeled attachment score', 'Complete trees']
+    for i, metric in enumerate(metrics):
+        print '\n%s:' % metric
+        supa_metric = [x[i] for x in supa_scores]
+        collins_metric = [x[i] for x in collins_scores]
+        p_value = paired_permutation_test(supa_metric, collins_metric)
+        print 'Supa mean:', sum(supa_metric) / num_folds
+        print 'Collins mean:', sum(collins_metric) / num_folds
+        print 'P-value:', p_value
 
 
 def read_tree_file(tree_file, trees):
@@ -74,12 +84,12 @@ def is_bad(tree):
     return False
 
 
-def run_test(trees, malt_jar, percent_training):
-    train_filename = 'train.supa'
-    test_filename = 'test.supa'
-    parsed_file = 'test.conll'
-    model_name = 'test'
-    eval_file = 'out.txt'
+def run_test(trees, malt_jar, percent_training, method, split_num):
+    train_filename = method + '_train'
+    test_filename = method + '_test'
+    parsed_file = method + '_predicted'
+    model_name = method + '_model'
+    eval_file = method + '_eval'
     train_file = open(train_filename, 'w')
     test_file = open(test_filename, 'w')
     num_training = percent_training * len(trees)
@@ -92,7 +102,6 @@ def run_test(trees, malt_jar, percent_training):
     test_file.close()
     command = ['java', '-Xmx4g', '-jar', malt_jar, '-c', model_name, '-i',
             train_filename, '-m', 'learn']
-    dev_null = open('/dev/null')
     print 'Training MaltParser'
     proc = Popen(command)#, stdout=dev_null, stderr=dev_null)
     proc.wait()
@@ -106,15 +115,23 @@ def run_test(trees, malt_jar, percent_training):
     print 'Evaluating results'
     proc = Popen(command)#, stdout=dev_null, stderr=dev_null)
     proc.wait()
+    total_sentences = 0
+    correct_sentences = 0
     for line in open(eval_file):
         if 'Unlabeled attachment score' in line:
-            score = float(line.split('=')[1].split('%')[0].strip())
-    command = ['rm', '-f', train_filename, test_filename, parsed_file,
-            #eval_file, model_name+'.mco']
-            model_name+'.mco']
-    proc = Popen(command)
-    proc.wait()
-    return score
+            ula_score = float(line.split('=')[1].split('%')[0].strip())
+        else:
+            fields = line.strip().split()
+            if fields and fields[0].isdigit():
+                total_sentences += 1
+                if fields[4] == '100.00':
+                    correct_sentences += 1
+    percent_correct = correct_sentences / total_sentences
+    Popen(('mkdir', '-p', 'results')).wait()
+    for f in [train_filename, test_filename, parsed_file, eval_file,
+              model_name+'.mco']:
+        Popen(('mv', f, 'results/%d_' % (split_num) + f)).wait()
+    return (ula_score, percent_correct)
 
 
 def paired_permutation_test(data1, data2):
